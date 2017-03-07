@@ -1,0 +1,1158 @@
+[
+{
+	 "i"		: 1
+	,"ids"		: "Idstring(@ID7bc0750f13e6b30c@)"
+	,"StringID"	: "dialog_fail_load_dlc_corrupt"
+	,"orig_text": "Corrupted downloadable content detected. Please go to the Memory section of the Dashboard, delete the corrupted content and download it again."
+},{
+	 "i"		: 2
+	,"ids"		: "Idstring(@ID648d25f7453bfb0e@)"
+	,"StringID"	: "dialog_load_wrong_user"
+	,"orig_text": "Save data belongs to a different user. No progress will be saved and trophies cannot be unlocked."
+},{
+	 "i"		: 3
+	,"ids"		: "Idstring(@IDb0465048af014c7b@)"
+	,"StringID"	: "dialog_mp_groupinvite_message"
+	,"orig_text": "Do you wish to join $GROUP;?"
+},{
+	 "i"		: 4
+	,"ids"		: "Idstring(@IDc6fd8d15c08a7558@)"
+	,"StringID"	: "dialog_mp_vote_kick_unknown_message"
+	,"orig_text": "A vote has been initiated to kick someone currently connecting. The vote will end in $time; seconds."
+},{
+	 "i"		: 5
+	,"ids"		: "Idstring(@IDa05dfd0b2bdbad7f@)"
+	,"StringID"	: "dialog_mp_vote_restart_response_title"
+	,"orig_text": "Vote Restart"
+},{
+	 "i"		: 6
+	,"ids"		: "Idstring(@ID48ef6439baea211e@)"
+	,"StringID"	: "dialog_mp_invite_join_message"
+	,"orig_text": "Please join this game using the 'View Invites' option in the Crime.net menu."
+},{
+	 "i"		: 7
+	,"ids"		: "Idstring(@ID54a1db0400d085c4@)"
+	,"StringID"	: "dialog_default_options_title"
+	,"orig_text": "Reset options"
+},{
+	 "i"		: 8
+	,"ids"		: "Idstring(@IDe9ec18309cbbfd49@)"
+	,"StringID"	: "dialog_can_become_infamous_desc"
+	,"orig_text": "You have fulfilled the conditions for the next level of infamy. To become infamous, press '$become_infamous_menu_item;' in the main menu."
+},{
+	 "i"		: 9
+	,"ids"		: "Idstring(@ID869c0cd8c8eab78b@)"
+	,"StringID"	: "err_disk"
+	,"orig_text": "Not enough available space to load trophies. Please exit the game, ensure there is at least $MB;MB space available and try again."
+},{
+	 "i"		: 10
+	,"ids"		: "Idstring(@ID0d74d92dfc93dd2a@)"
+	,"StringID"	: "dialog_are_you_sure_you_want_leave"
+	,"orig_text": "Are you sure you want to leave this lobby?"
+},{
+	 "i"		: 11
+	,"ids"		: "Idstring(@ID290a32e622b3cc42@)"
+	,"StringID"	: "dialog_inactive_user_accepted_invite_error"
+	,"orig_text": "An invitation has been accepted by an inactive user. The invitation will be ignored."
+},{
+	 "i"		: 12
+	,"ids"		: "Idstring(@IDe3fab6edb7907bec@)"
+	,"StringID"	: "dialog_connection_to_host_lost"
+	,"orig_text": "Connection to the host has been lost"
+},{
+	 "i"		: 13
+	,"ids"		: "Idstring(@ID79257e8210a471cc@)"
+	,"StringID"	: "dialog_fail_load_progress_wrong_version"
+	,"orig_text": "Progress file wrong version. Version $VERSION; or higher is required. Data will now be deleted."
+},{
+	 "i"		: 14
+	,"ids"		: "Idstring(@ID729821f19f0f2893@)"
+	,"StringID"	: "dialog_buy_weapon_message"
+	,"orig_text": "Do you want to buy weapon \"$WEAPON;\" for $COST;?"
+},{
+	 "i"		: 15
+	,"ids"		: "Idstring(@ID63e858a6f9583558@)"
+	,"StringID"	: "dialog_load_wrong_user_WIN32"
+	,"orig_text": "Save data belongs to a different user. No progress will be loaded."
+},{
+	 "i"		: 16
+	,"ids"		: "Idstring(@ID38a7aa743c3b9be4@)"
+	,"StringID"	: "dialog_blackmarket_num_in_inventory"
+	,"orig_text": "You own $amount; $item; already."
+},{
+	 "i"		: 17
+	,"ids"		: "Idstring(@ID2c1c8b2543d2af39@)"
+	,"StringID"	: "dialog_new_unlock_materials"
+	,"orig_text": "You just got your first material for mask customization.$NL;To customize a mask you will need a material, pattern and a pair of colors."
+},{
+	 "i"		: 18
+	,"ids"		: "Idstring(@ID77097a432d86771c@)"
+	,"StringID"	: "dialog_vote_cancel"
+	,"orig_text": "Abstain"
+},{
+	 "i"		: 19
+	,"ids"		: "Idstring(@ID6421e9e3904d01be@)"
+	,"StringID"	: "dialog_mp_vote_restart_message"
+	,"orig_text": "A vote has been initiated to restart. The vote will end in $time; seconds."
+},{
+	 "i"		: 20
+	,"ids"		: "Idstring(@IDac18b869dd0f8f85@)"
+	,"StringID"	: "ps4_presence_MPPlaying"
+	,"orig_text": "Playing multiplayer heist"
+},{
+	 "i"		: 21
+	,"ids"		: "Idstring(@ID02d46b15aed95364@)"
+	,"StringID"	: "dialog_new_unlock_secondaries"
+	,"orig_text": "$value; has been unlocked and can be purchased into one of your empty secondary weapon slots."
+},{
+	 "i"		: 22
+	,"ids"		: "Idstring(@IDbb552b2ca5775aba@)"
+	,"StringID"	: "dialog_ask_save_progress_backup"
+	,"orig_text": "Save progress backup?"
+},{
+	 "i"		: 23
+	,"ids"		: "Idstring(@ID0426ead66deb1eb7@)"
+	,"StringID"	: "dialog_ask_load_progress_backup_wrong_version"
+	,"orig_text": "Progress profile wrong version. Load from Backup? Chosing NO will delete your progress."
+},{
+	 "i"		: 24
+	,"ids"		: "Idstring(@ID3f48e0948744105e@)"
+	,"StringID"	: "dialog_blackmarket_buy_item"
+	,"orig_text": "Do you really want to buy $item;?$NL;$NL;It will cost you $money;.$NL;$NL;$num_in_inventory;"
+},{
+	 "i"		: 25
+	,"ids"		: "Idstring(@ID7bc890a52aff1877@)"
+	,"StringID"	: "dialog_signin_title_X360"
+	,"orig_text": "Not signed in"
+},{
+	 "i"		: 26
+	,"ids"		: "Idstring(@ID8db80ab966e82a32@)"
+	,"StringID"	: "dialog_bm_weapon_buy_title"
+	,"orig_text": "Are you sure?"
+},{
+	 "i"		: 27
+	,"ids"		: "Idstring(@ID4e225f3b20ac3169@)"
+	,"StringID"	: "dialog_err_room_is_full_X360"
+	,"orig_text": "This game has been filled, please try another one."
+},{
+	 "i"		: 28
+	,"ids"		: "Idstring(@ID4a9f3d3a0d05a60e@)"
+	,"StringID"	: "dialog_authentication_fail"
+	,"orig_text": "Steam could not authenticate your Steam ID."
+},{
+	 "i"		: 29
+	,"ids"		: "Idstring(@ID764193484bde57da@)"
+	,"StringID"	: "dialog_blackmarket_mod_cost"
+	,"orig_text": "This will cost you $money;."
+},{
+	 "i"		: 30
+	,"ids"		: "Idstring(@ID2f70362a6d2b3dea@)"
+	,"StringID"	: "dialog_key_binding_forbidden"
+	,"orig_text": "Key \"$KEY;\" is reserved by the game, please try something else."
+},{
+	 "i"		: 31
+	,"ids"		: "Idstring(@IDf5b9d48132a54fc1@)"
+	,"StringID"	: "dialog_fail_load_setting_corrupt_retry"
+	,"orig_text": "Settings file corrupt. Try loading again?"
+},{
+	 "i"		: 32
+	,"ids"		: "Idstring(@IDb39b3a21eeb99c63@)"
+	,"StringID"	: "dialog_authentication_host_fail"
+	,"orig_text": "Steam could not authenticate Steam ID for the host."
+},{
+	 "i"		: 33
+	,"ids"		: "Idstring(@ID9178575fd5be4d60@)"
+	,"StringID"	: "dialog_blackmarket_slot_item_sell"
+	,"orig_text": "If you sell this, you will be paid $money;."
+},{
+	 "i"		: 34
+	,"ids"		: "Idstring(@ID995e693c0c9e13e9@)"
+	,"StringID"	: "dialog_repair_weapon_message"
+	,"orig_text": "Do you want to repair weapon \"$WEAPON;\" for $COST;?"
+},{
+	 "i"		: 35
+	,"ids"		: "Idstring(@ID7b94456b1da051cc@)"
+	,"StringID"	: "dialog_parental_control"
+	,"orig_text": "Online service is disabled on your Sony Entertainment Network account due to parental control restrictions."
+},{
+	 "i"		: 36
+	,"ids"		: "Idstring(@IDab8f39737b0bf7f7@)"
+	,"StringID"	: "dialog_require_dlc_gage_pack_jobs"
+	,"orig_text": "Requires Gage Mod Courier DLC!"
+},{
+	 "i"		: 37
+	,"ids"		: "Idstring(@IDeec8f9caf6571d9e@)"
+	,"StringID"	: "dialog_unlock_skill_switch_spending_offshore"
+	,"orig_text": "It will cost you $spending; spending cash and $offshore; offshore cash."
+},{
+	 "i"		: 38
+	,"ids"		: "Idstring(@ID4aface3a6f9b0af4@)"
+	,"StringID"	: "dialog_skills_place_title"
+	,"orig_text": "Are you sure?"
+},{
+	 "i"		: 39
+	,"ids"		: "Idstring(@IDc7b25e6e5fe83069@)"
+	,"StringID"	: "dialog_fail_load_progress_wrong_version_retry"
+	,"orig_text": "Progress file wrong version. Version $VERSION; or higher is required. Try loading again?"
+},{
+	 "i"		: 40
+	,"ids"		: "Idstring(@ID116e79d6a55057d4@)"
+	,"StringID"	: "dialog_mp_kicked_out_title"
+	,"orig_text": "Kicked out"
+},{
+	 "i"		: 41
+	,"ids"		: "Idstring(@IDef85ae00fa705012@)"
+	,"StringID"	: "dialog_allocate_skillpoint"
+	,"orig_text": "This will unlock the $skill; skill.$NL;$NL;It will cost $cost; and $points; out of $remaining_points; points."
+},{
+	 "i"		: 42
+	,"ids"		: "Idstring(@ID333fab910445e738@)"
+	,"StringID"	: "dialog_bm_mask_assemble_title"
+	,"orig_text": "Are you sure?"
+},{
+	 "i"		: 43
+	,"ids"		: "Idstring(@ID00a77df9b56eda51@)"
+	,"StringID"	: "dialog_mp_no_invites_message"
+	,"orig_text": "You have no game invites."
+},{
+	 "i"		: 44
+	,"ids"		: "Idstring(@IDd6d0a83293f8733b@)"
+	,"StringID"	: "dialog_join_pd2_clan"
+	,"orig_text": "Go to PAYDAY 2 community page"
+},{
+	 "i"		: 45
+	,"ids"		: "Idstring(@ID4cb33094522609e4@)"
+	,"StringID"	: "dialog_connect_controller_text_WIN32"
+	,"orig_text": "Please insert controller."
+},{
+	 "i"		: 46
+	,"ids"		: "Idstring(@ID81c5af99868e7667@)"
+	,"StringID"	: "dialog_skills_reseted_title"
+	,"orig_text": "Please note"
+},{
+	 "i"		: 47
+	,"ids"		: "Idstring(@ID7f4cc0715a33d5e4@)"
+	,"StringID"	: "dialog_connect_controller_title"
+	,"orig_text": "No Wireless Controller"
+},{
+	 "i"		: 48
+	,"ids"		: "Idstring(@IDb97af1bfe5ebae14@)"
+	,"StringID"	: "dialog_fail_load_setting_corrupt"
+	,"orig_text": "Settings file corrupt. Data will now be deleted."
+},{
+	 "i"		: 49
+	,"ids"		: "Idstring(@ID94c23bcc25ae123f@)"
+	,"StringID"	: "dialog_accept_changes"
+	,"orig_text": "Do you wish to keep these display settings? They will be reverted in $TIME;."
+},{
+	 "i"		: 50
+	,"ids"		: "Idstring(@IDe711e3ff6c958997@)"
+	,"StringID"	: "dialog_blackmarket_item"
+	,"orig_text": "$item;"
+},{
+	 "i"		: 51
+	,"ids"		: "Idstring(@IDf873394a296563dc@)"
+	,"StringID"	: "dialog_dropin_title"
+	,"orig_text": "$USER; is joining the game"
+},{
+	 "i"		: 52
+	,"ids"		: "Idstring(@IDe365d37e944ed40b@)"
+	,"StringID"	: "dialog_mp_disconnected_internet"
+	,"orig_text": "YOU HAVE BEEN DISCONNECTED"
+},{
+	 "i"		: 53
+	,"ids"		: "Idstring(@IDace02be1dcf0d587@)"
+	,"StringID"	: "dialog_blackmarket_finalize_item"
+	,"orig_text": "$ITEM;$NL; You are about to finalize your customizations, this process is irreversible and will cost you $money;."
+},{
+	 "i"		: 54
+	,"ids"		: "Idstring(@ID22672a3c6d7df5dc@)"
+	,"StringID"	: "dialog_fail_load_setting_wrong_version_retry"
+	,"orig_text": "Settings file wrong version. Version $VERSION; or higher is required. Try loading again?"
+},{
+	 "i"		: 55
+	,"ids"		: "Idstring(@ID2e07a6e72079e9bd@)"
+	,"StringID"	: "dialog_err_room_allready_joined"
+	,"orig_text": "You have already joined this room."
+},{
+	 "i"		: 56
+	,"ids"		: "Idstring(@ID7a1de103c7360ccf@)"
+	,"StringID"	: "dialog_mp_invite_title"
+	,"orig_text": "PAYDAY 2"
+},{
+	 "i"		: 57
+	,"ids"		: "Idstring(@ID2160735b10543b8c@)"
+	,"StringID"	: "dialog_err_cant_join_from_game"
+	,"orig_text": "You must leave your current game before joining a new one."
+},{
+	 "i"		: 58
+	,"ids"		: "Idstring(@ID768a5fc39f319b9d@)"
+	,"StringID"	: "dialog_blackmarket_abort_mask_warning"
+	,"orig_text": "Your mask has not been finalized. Aborting will leave the mask unchanged."
+},{
+	 "i"		: 59
+	,"ids"		: "Idstring(@IDd4c0d8ce0509791d@)"
+	,"StringID"	: "dialog_err_failed_creating_lobby"
+	,"orig_text": "Failed to create game."
+},{
+	 "i"		: 60
+	,"ids"		: "Idstring(@ID67207a8c1d64bba8@)"
+	,"StringID"	: "dialog_key_binding_collision"
+	,"orig_text": "Key \"$KEY;\" is already mapped to \"$MAPPED;\", please remap it first."
+},{
+	 "i"		: 61
+	,"ids"		: "Idstring(@ID709a8f34e201d8c9@)"
+	,"StringID"	: "dialog_new_patch"
+	,"orig_text": "An update is needed to access online features."
+},{
+	 "i"		: 62
+	,"ids"		: "Idstring(@ID9ea55957cb3c9506@)"
+	,"StringID"	: "dialog_wait"
+	,"orig_text": "Please wait"
+},{
+	 "i"		: 63
+	,"ids"		: "Idstring(@ID3aeb96ee28cd0347@)"
+	,"StringID"	: "dialog_blackmarket_slot_mask_remove"
+	,"orig_text": "Return this mask back to your stash? $suffix;"
+},{
+	 "i"		: 64
+	,"ids"		: "Idstring(@IDb4cc8e5807494fa4@)"
+	,"StringID"	: "screen_autosaving_warning_WIN32"
+	,"orig_text": "This game saves data automatically at certain points.$NL;Please don't turn off the game when it is saving."
+},{
+	 "i"		: 65
+	,"ids"		: "Idstring(@IDb3be59310ff333e1@)"
+	,"StringID"	: "ps4_presence_MPLobby"
+	,"orig_text": "Multiplayer lobby"
+},{
+	 "i"		: 66
+	,"ids"		: "Idstring(@ID7094e0c87b461a07@)"
+	,"StringID"	: "dialog_mp_vote_kick_response_title"
+	,"orig_text": "Vote Kick"
+},{
+	 "i"		: 67
+	,"ids"		: "Idstring(@ID680742c9360f18da@)"
+	,"StringID"	: "dialog_err_failed_joining_lobby"
+	,"orig_text": "Failed joining game."
+},{
+	 "i"		: 68
+	,"ids"		: "Idstring(@IDf6e2666ff5b05ab9@)"
+	,"StringID"	: "dialog_err_failed_searching_lobbys"
+	,"orig_text": "Failed retrieving games."
+},{
+	 "i"		: 69
+	,"ids"		: "Idstring(@IDc5b186b9aaff508e@)"
+	,"StringID"	: "screen_autosaving_warning_PS3"
+	,"orig_text": "This game saves data automatically at certain points.$NL;Please don't turn off your PlayStation®4 system when the following icon is displayed:"
+},{
+	 "i"		: 70
+	,"ids"		: "Idstring(@IDd3c70331323700e7@)"
+	,"StringID"	: "dialog_mp_restart_level_host_message"
+	,"orig_text": "Are you sure you want to restart?"
+},{
+	 "i"		: 71
+	,"ids"		: "Idstring(@ID8880ef93bd5dcc45@)"
+	,"StringID"	: "dialog_bm_mask_custom_abort"
+	,"orig_text": "Are you sure?"
+},{
+	 "i"		: 72
+	,"ids"		: "Idstring(@ID866996b265424cc4@)"
+	,"StringID"	: "dialog_blackmarket_buy_mask_slot"
+	,"orig_text": "Buying this will unlock one more mask slot.$NL;$NL;This will cost you $money;."
+},{
+	 "i"		: 73
+	,"ids"		: "Idstring(@IDb03531383d9ab27b@)"
+	,"StringID"	: "dialog_default_options_message"
+	,"orig_text": "Do you wish to reset all options to their default state?"
+},{
+	 "i"		: 74
+	,"ids"		: "Idstring(@ID9bab53b80fed5ca9@)"
+	,"StringID"	: "dialog_too_low_level"
+	,"orig_text": "Your reputation is too low to join this server."
+},{
+	 "i"		: 75
+	,"ids"		: "Idstring(@IDd8fc2b792adeba2a@)"
+	,"StringID"	: "err_load"
+	,"orig_text": "Loading trophies..."
+},{
+	 "i"		: 76
+	,"ids"		: "Idstring(@ID5c93ee8d26ebce67@)"
+	,"StringID"	: "dialog_continue"
+	,"orig_text": "Continue"
+},{
+	 "i"		: 77
+	,"ids"		: "Idstring(@IDa797a9fc24703a9c@)"
+	,"StringID"	: "dialog_npcommerce_fail_open"
+	,"orig_text": "FAILED INITIALIZING PlayStation®Store"
+},{
+	 "i"		: 78
+	,"ids"		: "Idstring(@ID1f3917de8c18907e@)"
+	,"StringID"	: "dialog_buy_weapon_title"
+	,"orig_text": "Buy"
+},{
+	 "i"		: 79
+	,"ids"		: "Idstring(@ID88c600d2a1ba26a5@)"
+	,"StringID"	: "dialog_mp_restart_level_message"
+	,"orig_text": "Are you sure you want to create a vote for restarting?"
+},{
+	 "i"		: 80
+	,"ids"		: "Idstring(@ID4f2f458020ae11e2@)"
+	,"StringID"	: "dialog_no_connection_to_game_servers"
+	,"orig_text": "Connection to game servers could not be established."
+},{
+	 "i"		: 81
+	,"ids"		: "Idstring(@ID07e19c1769f55df2@)"
+	,"StringID"	: "dialog_accept"
+	,"orig_text": "Accept"
+},{
+	 "i"		: 82
+	,"ids"		: "Idstring(@ID7b605d62a9af394c@)"
+	,"StringID"	: "dialog_apply"
+	,"orig_text": "Apply"
+},{
+	 "i"		: 83
+	,"ids"		: "Idstring(@ID4ed68dbb4f27f604@)"
+	,"StringID"	: "dialog_mp_invite_wrong_version_message"
+	,"orig_text": "The game you have been invited to is running another version of PAYDAY 2. You are unable to join."
+},{
+	 "i"		: 84
+	,"ids"		: "Idstring(@ID0e4213aa1f68d210@)"
+	,"StringID"	: "dialog_mp_invite_message"
+	,"orig_text": "Please Join my PAYDAY 2 Game"
+},{
+	 "i"		: 85
+	,"ids"		: "Idstring(@IDabccd50995060719@)"
+	,"StringID"	: "dialog_err_room_no_longer_exists_X360"
+	,"orig_text": "This game no longer exists, please try another one."
+},{
+	 "i"		: 86
+	,"ids"		: "Idstring(@IDe520ef16710d7e7e@)"
+	,"StringID"	: "dialog_waiting_for_server_response_title"
+	,"orig_text": "Waiting for game to respond"
+},{
+	 "i"		: 87
+	,"ids"		: "Idstring(@ID2c74dc1d7390920f@)"
+	,"StringID"	: "dialog_connect_controller_text"
+	,"orig_text": "No Wireless Controller, Please Reconnect Controller"
+},{
+	 "i"		: 88
+	,"ids"		: "Idstring(@IDdb712023985e817a@)"
+	,"StringID"	: "dialog_internet_connection_required"
+	,"orig_text": "A network connection is needed to access the online portions of this title."
+},{
+	 "i"		: 89
+	,"ids"		: "Idstring(@IDa098fbeda9e24957@)"
+	,"StringID"	: "dialog_new_unlock_masks"
+	,"orig_text": "You just got your first mask. All masks dropped will be placed in your stash. They can then be moved to an empty mask slot from where you can wear them and also customize if you got all the components for it."
+},{
+	 "i"		: 90
+	,"ids"		: "Idstring(@ID37bbdc4b4784cb36@)"
+	,"StringID"	: "dialog_demo_info_title"
+	,"orig_text": "Welcome to the demo of PAYDAY 2!"
+},{
+	 "i"		: 91
+	,"ids"		: "Idstring(@ID8240c97ecc620f51@)"
+	,"StringID"	: "dialog_mp_groupinvite_title"
+	,"orig_text": "Game Request"
+},{
+	 "i"		: 92
+	,"ids"		: "Idstring(@IDd926a8f5cc0d1a39@)"
+	,"StringID"	: "dialog_new_unlock_armors"
+	,"orig_text": "Your first armor upgrade has been unlocked. You can change your armor from both Inventory and Job Overview."
+},{
+	 "i"		: 93
+	,"ids"		: "Idstring(@ID0efe6bca213238fc@)"
+	,"StringID"	: "dialog_blackmarket_lost_mods_warning"
+	,"orig_text": "(Your removed modifications will be placed in the inventory)"
+},{
+	 "i"		: 94
+	,"ids"		: "Idstring(@ID91fbf22ad1234dd4@)"
+	,"StringID"	: "dialog_inactive_user_accepted_invite"
+	,"orig_text": "An invitation has been accepted by an inactive user. The invitation is successfully completed after pressing START."
+},{
+	 "i"		: 95
+	,"ids"		: "Idstring(@ID0f50a84e254ecb32@)"
+	,"StringID"	: "dialog_new_unlock_weapon_mods"
+	,"orig_text": "You just got your first weapon modification. You can access the weapon modification screen by selecting a bought weapon and choosing MODIFY WEAPON from the menu.$NL;Follow the exclamation marks on your bought weapons to find your latest drops."
+},{
+	 "i"		: 96
+	,"ids"		: "Idstring(@ID1ddbe427a77fb505@)"
+	,"StringID"	: "dialog_blackmarket_mod_replace"
+	,"orig_text": "This will replace your current modification $mod;."
+},{
+	 "i"		: 97
+	,"ids"		: "Idstring(@IDd4fa1e45a02a2657@)"
+	,"StringID"	: "dialog_account_picker"
+	,"orig_text": "Switching profiles might cause unsaved progress to be lost. Do you wish to continue?"
+},{
+	 "i"		: 98
+	,"ids"		: "Idstring(@IDe32e4135e04bcf68@)"
+	,"StringID"	: "dialog_item_list_macro"
+	,"orig_text": "$num;x $item;"
+},{
+	 "i"		: 99
+	,"ids"		: "Idstring(@IDc249394c3ab57137@)"
+	,"StringID"	: "dialog_blackmarket_mask_sell_mod_readded"
+	,"orig_text": "$mod; will return to your inventory."
+},{
+	 "i"		: 100
+	,"ids"		: "Idstring(@IDc0f8deea75a5a392@)"
+	,"StringID"	: "dialog_bm_mask_custom_final_title"
+	,"orig_text": "Are you sure?"
+},{
+	 "i"		: 101
+	,"ids"		: "Idstring(@ID030207f37115bbc2@)"
+	,"StringID"	: "dialog_does_not_own_heist_info"
+	,"orig_text": "Heist \"$HEIST;\" cannot be played with player $PLAYER;."
+},{
+	 "i"		: 102
+	,"ids"		: "Idstring(@IDb0aaae5a06e27146@)"
+	,"StringID"	: "dialog_mp_send_invite_title"
+	,"orig_text": "Send game invite"
+},{
+	 "i"		: 103
+	,"ids"		: "Idstring(@IDbc5710c8c8904036@)"
+	,"StringID"	: "dialog_blackmarket_assemble_item"
+	,"orig_text": "Do you really want to put together $item; mask and place it into your inventory?$NL;$NL;$num_in_inventory;"
+},{
+	 "i"		: 104
+	,"ids"		: "Idstring(@ID82f74a6fc464b723@)"
+	,"StringID"	: "dialog_new_unlock_textures"
+	,"orig_text": "You just got your first pattern for mask customization.$NL;To customize a mask you will need a material, pattern and a pair of colors."
+},{
+	 "i"		: 105
+	,"ids"		: "Idstring(@ID4f42dfbc45a438b5@)"
+	,"StringID"	: "dialog_new_unlock_title"
+	,"orig_text": "Congratulations!"
+},{
+	 "i"		: 106
+	,"ids"		: "Idstring(@ID3df46d295237a34e@)"
+	,"StringID"	: "dialog_npcommerce_empty_store"
+	,"orig_text": "There is no content available for download at this time. Please try again later."
+},{
+	 "i"		: 107
+	,"ids"		: "Idstring(@ID68e0d418c0699888@)"
+	,"StringID"	: "dialog_challenge_warn_choose_reward_title"
+	,"orig_text": "Are you sure?"
+},{
+	 "i"		: 108
+	,"ids"		: "Idstring(@IDc58fca55ca0c08dc@)"
+	,"StringID"	: "dialog_vote_kick_yes"
+	,"orig_text": "Kick"
+},{
+	 "i"		: 109
+	,"ids"		: "Idstring(@ID16c2cc840c574c4e@)"
+	,"StringID"	: "dialog_yes"
+	,"orig_text": "Yes"
+},{
+	 "i"		: 110
+	,"ids"		: "Idstring(@IDf3daf9db4056fa2b@)"
+	,"StringID"	: "dialog_abort_mission_text"
+	,"orig_text": "Are you sure you would like to terminate the current contract?$NL;$NL;You and your crew will be returned to the planning phase where a new contract can be selected."
+},{
+	 "i"		: 111
+	,"ids"		: "Idstring(@ID1207dcecfde34739@)"
+	,"StringID"	: "dialog_infamytree_reseted"
+	,"orig_text": "Changes have been made to the infamy tree.$NL;$NL;All your infamy items have been reset and your infamy points have been refunded."
+},{
+	 "i"		: 112
+	,"ids"		: "Idstring(@ID35099560ae5a1075@)"
+	,"StringID"	: "dialog_fail_load_setting_wrong_version_WIN32"
+	,"orig_text": "Settings file wrong version. Data will now be deleted."
+},{
+	 "i"		: 113
+	,"ids"		: "Idstring(@ID9f3c1a4b4b2d3b3e@)"
+	,"StringID"	: "dialog_gage_assignment_completed"
+	,"orig_text": "From: Gage [gage@///REDACTED///]$NL;To: $player;$NL;Date: $date; $time;$NL;Subject: GAGE COURIER ASSIGNMENTS$NL;$NL;GOOD JOB!$NL;$NL;Well done, $player;. Thanks for collecting the packages. It's time to get your reward. Go to your inventory and you will find the content of the following packages:$NL;$completed;$NL;$NL;- Gage"
+},{
+	 "i"		: 114
+	,"ids"		: "Idstring(@IDfd5e5f82d408bc66@)"
+	,"StringID"	: "dialog_mp_pending_invite_short_message"
+	,"orig_text": "YOU HAVE A PENDING GAME INVITE."
+},{
+	 "i"		: 115
+	,"ids"		: "Idstring(@ID0f8f83c8341b25e2@)"
+	,"StringID"	: "dialog_the_host_has_left_the_game"
+	,"orig_text": "The host has left the game"
+},{
+	 "i"		: 116
+	,"ids"		: "Idstring(@IDa0ebf5bb830ca2cc@)"
+	,"StringID"	: "dialog_err_room_is_closed"
+	,"orig_text": "This room is closed, please try another one."
+},{
+	 "i"		: 117
+	,"ids"		: "Idstring(@ID9f35e0d9950885e2@)"
+	,"StringID"	: "dialog_getting_world_list"
+	,"orig_text": "Getting world list"
+},{
+	 "i"		: 118
+	,"ids"		: "Idstring(@IDc42e67386ad06a9d@)"
+	,"StringID"	: "dialog_blackmarket_mod_conflict"
+	,"orig_text": "These modifications are not compatible and will be removed:$mods;"
+},{
+	 "i"		: 119
+	,"ids"		: "Idstring(@ID6406ae1ef7e5a757@)"
+	,"StringID"	: "dialog_safehouse_title"
+	,"orig_text": "Safe house"
+},{
+	 "i"		: 120
+	,"ids"		: "Idstring(@ID8b19a68c3834b557@)"
+	,"StringID"	: "dialog_cheated_host"
+	,"orig_text": "Couldn't play on an cheated server."
+},{
+	 "i"		: 121
+	,"ids"		: "Idstring(@IDebfec02d7825a9b2@)"
+	,"StringID"	: "dialog_dlc_require_restart"
+	,"orig_text": "Attention"
+},{
+	 "i"		: 122
+	,"ids"		: "Idstring(@ID7fdc6dd4def4175f@)"
+	,"StringID"	: "dialog_accept_changes_title"
+	,"orig_text": "CONFIRM CHANGE?"
+},{
+	 "i"		: 123
+	,"ids"		: "Idstring(@IDbea985edfb6ebfa6@)"
+	,"StringID"	: "dialog_fail_load_progress_wrong_version_WIN32"
+	,"orig_text": "Progress file wrong version. Data will now be deleted."
+},{
+	 "i"		: 124
+	,"ids"		: "Idstring(@IDc12837789c810ed6@)"
+	,"StringID"	: "dialog_assets_buy_title"
+	,"orig_text": "Are you sure?"
+},{
+	 "i"		: 125
+	,"ids"		: "Idstring(@IDdf81b667505df33f@)"
+	,"StringID"	: "dialog_use_default_keys_message"
+	,"orig_text": "Do you wish to reset all keys to their default state?"
+},{
+	 "i"		: 126
+	,"ids"		: "Idstring(@IDe9e72ede9ddafca8@)"
+	,"StringID"	: "dialog_game_is_installing"
+	,"orig_text": "Cannot join invite at this time. Try again when the game has completed installing."
+},{
+	 "i"		: 127
+	,"ids"		: "Idstring(@IDd722851949536a41@)"
+	,"StringID"	: "dialog_blackmarket_slot_item"
+	,"orig_text": "[SLOT $slot;] $item;"
+},{
+	 "i"		: 128
+	,"ids"		: "Idstring(@ID801e6463e8685648@)"
+	,"StringID"	: "dialog_connect_controller_text_X360"
+	,"orig_text": "Please reconnect the Xbox One Wireless Controller and press $BTN_A;."
+},{
+	 "i"		: 129
+	,"ids"		: "Idstring(@ID56d3f9dd044b1fe1@)"
+	,"StringID"	: "dialog_unlock_skilltree"
+	,"orig_text": "You are about to start $skill; skill tree.$NL;$NL;It will cost $cost; and $points; out of $remaining_points; points."
+},{
+	 "i"		: 130
+	,"ids"		: "Idstring(@ID45eb17091441ceec@)"
+	,"StringID"	: "dialog_challenge_warn_choose_reward"
+	,"orig_text": "Is this the reward you want?$NL;$reward;"
+},{
+	 "i"		: 131
+	,"ids"		: "Idstring(@IDd7c97917112c1b1a@)"
+	,"StringID"	: "dialog_fail_load_setting_wrong_version"
+	,"orig_text": "Settings file wrong version. Version $VERSION; or higher is required. Data will now be deleted."
+},{
+	 "i"		: 132
+	,"ids"		: "Idstring(@IDa0a359d5f84df251@)"
+	,"StringID"	: "dialog_ask_load_progress_backup_low_lvl"
+	,"orig_text": "Your local backup save is more recent than the last Steam save.$NL;$NL;Press YES if you want to load your local backup save."
+},{
+	 "i"		: 133
+	,"ids"		: "Idstring(@ID55251f38048922a5@)"
+	,"StringID"	: "dialog_fail_load_progress_corrupt"
+	,"orig_text": "Progress corrupt. Data will now be deleted."
+},{
+	 "i"		: 134
+	,"ids"		: "Idstring(@ID26f6f3d3a3fd501c@)"
+	,"StringID"	: "dialog_new_unlock_primaries"
+	,"orig_text": "$value; has been unlocked and can be purchased into one of your empty primary weapon slots."
+},{
+	 "i"		: 135
+	,"ids"		: "Idstring(@ID6880220ebcce7007@)"
+	,"StringID"	: "dialog_creating_lobby_title"
+	,"orig_text": "Creating game"
+},{
+	 "i"		: 136
+	,"ids"		: "Idstring(@IDd99dccb4fc90a26a@)"
+	,"StringID"	: "dialog_blackmarket_mod_add"
+	,"orig_text": "You are about to add modification $mod; to your weapon."
+},{
+	 "i"		: 137
+	,"ids"		: "Idstring(@ID9b170072962d3a6f@)"
+	,"StringID"	: "dialog_mp_kicked_out_message"
+	,"orig_text": "You've been kicked from the game."
+},{
+	 "i"		: 138
+	,"ids"		: "Idstring(@IDad98d6faf232b263@)"
+	,"StringID"	: "dialog_bm_crafted_sell_title"
+	,"orig_text": "Are you sure?"
+},{
+	 "i"		: 139
+	,"ids"		: "Idstring(@ID1e9e3603caaa01c8@)"
+	,"StringID"	: "dialog_bm_weapon_modify_title"
+	,"orig_text": "Are you sure?"
+},{
+	 "i"		: 140
+	,"ids"		: "Idstring(@IDb705ea9f44b8dc3e@)"
+	,"StringID"	: "dialog_game_permission_changed"
+	,"orig_text": "The game settings has changed, you no longer have permission to join"
+},{
+	 "i"		: 141
+	,"ids"		: "Idstring(@IDd66ffb9f745693bd@)"
+	,"StringID"	: "dialog_age_restriction"
+	,"orig_text": "Online service is disabled on your Sony Entertainment Network account due to parental control restrictions."
+},{
+	 "i"		: 142
+	,"ids"		: "Idstring(@ID778fd651b7fb5546@)"
+	,"StringID"	: "dialog_npcommerce_opening"
+	,"orig_text": "INITIALIZING PlayStation®Store"
+},{
+	 "i"		: 143
+	,"ids"		: "Idstring(@IDf38580d43fb828a1@)"
+	,"StringID"	: "dialog_information_title"
+	,"orig_text": "Information"
+},{
+	 "i"		: 144
+	,"ids"		: "Idstring(@ID11187149e0cd462c@)"
+	,"StringID"	: "dialog_infamy_reseted_title"
+	,"orig_text": "Please note"
+},{
+	 "i"		: 145
+	,"ids"		: "Idstring(@ID8568e2c4a9087ad0@)"
+	,"StringID"	: "dialog_are_you_sure_you_want_to_leave_game"
+	,"orig_text": "Are you sure you want to leave current game?"
+},{
+	 "i"		: 146
+	,"ids"		: "Idstring(@ID12a75cf10dede0e6@)"
+	,"StringID"	: "dialog_game_started"
+	,"orig_text": "The game is currently not joinable"
+},{
+	 "i"		: 147
+	,"ids"		: "Idstring(@IDd134732dbac6242e@)"
+	,"StringID"	: "dialog_mp_vote_kick_message"
+	,"orig_text": "A vote has been initiated to kick $name; from the game. The vote will end in $time; seconds."
+},{
+	 "i"		: 148
+	,"ids"		: "Idstring(@IDed665b7784357d53@)"
+	,"StringID"	: "dialog_mp_pending_invite_message"
+	,"orig_text": "YOU HAVE A PENDING GAME INVITE. SIGN IN TO \"PlayStation Network\" USING THE 'PLAY ONLINE' OPTION IN THE MAIN MENU TO JOIN THE GAME."
+},{
+	 "i"		: 149
+	,"ids"		: "Idstring(@ID622c3f8d9cb14f87@)"
+	,"StringID"	: "dialog_gage_assignment_completed_title"
+	,"orig_text": "YOU HAVE A NEW MESSAGE"
+},{
+	 "i"		: 150
+	,"ids"		: "Idstring(@ID3d13dd1a54d918fd@)"
+	,"StringID"	: "dialog_too_low_level_ovk145"
+	,"orig_text": "OVERKILL 145+ cannot be played with people below reputation level 145."
+},{
+	 "i"		: 151
+	,"ids"		: "Idstring(@ID0a9f8dd9f2bf0b86@)"
+	,"StringID"	: "dialog_are_you_sure_you_want_to_reset_statistics"
+	,"orig_text": "Are you sure you want to reset your statistics?"
+},{
+	 "i"		: 152
+	,"ids"		: "Idstring(@ID598e3b23ed55afc6@)"
+	,"StringID"	: "dialog_no"
+	,"orig_text": "No"
+},{
+	 "i"		: 153
+	,"ids"		: "Idstring(@ID7b73bb7ed622ff22@)"
+	,"StringID"	: "dialog_unlock_infamyitem"
+	,"orig_text": "You are about to unlock $item; item.$NL;$NL;It will cost $points; out of $remaining_points; points."
+},{
+	 "i"		: 154
+	,"ids"		: "Idstring(@ID408f4352cca10d15@)"
+	,"StringID"	: "dialog_does_not_own_heist"
+	,"orig_text": "You do not own this heist and are unable to join this server."
+},{
+	 "i"		: 155
+	,"ids"		: "Idstring(@ID3d828cac0e88b8c7@)"
+	,"StringID"	: "dialog_connect_controller_title_X360"
+	,"orig_text": "Controller Disconnected"
+},{
+	 "i"		: 156
+	,"ids"		: "Idstring(@ID458780e7fb35fcb0@)"
+	,"StringID"	: "dialog_mp_kick_player_message"
+	,"orig_text": "Player $PLAYER; will be kicked from this game. Do you wish to continue?"
+},{
+	 "i"		: 157
+	,"ids"		: "Idstring(@ID99e82748cd77fdc2@)"
+	,"StringID"	: "dialog_game_is_installing_menu"
+	,"orig_text": "This portion of the title has not been installed yet. Please try again when installation is complete."
+},{
+	 "i"		: 158
+	,"ids"		: "Idstring(@ID911e239e450481ec@)"
+	,"StringID"	: "dialog_npcommerce_need_install"
+	,"orig_text": "To play the full version, you will need to restart the game after the installation is completed."
+},{
+	 "i"		: 159
+	,"ids"		: "Idstring(@ID0a2cbbde56a799fc@)"
+	,"StringID"	: "dialog_fetching_status_title"
+	,"orig_text": "Updating online state."
+},{
+	 "i"		: 160
+	,"ids"		: "Idstring(@ID4625d31e369353c6@)"
+	,"StringID"	: "dialog_err_not_signed_in_X360"
+	,"orig_text": "You are not signed into Xbox Live, or you do not have the correct permissions to access Xbox Live functionality."
+},{
+	 "i"		: 161
+	,"ids"		: "Idstring(@ID6651de972f808567@)"
+	,"StringID"	: "dialog_signin_change_X360"
+	,"orig_text": "A sign-in change occurred.$NL;You have been returned to the Title screen."
+},{
+	 "i"		: 162
+	,"ids"		: "Idstring(@ID40a56bdd21fd8c6f@)"
+	,"StringID"	: "dialog_blackmarket_slot_mask_remove_suffix"
+	,"orig_text": "Customizations will be sold for $money;."
+},{
+	 "i"		: 163
+	,"ids"		: "Idstring(@ID4ba10cf73f044b64@)"
+	,"StringID"	: "dialog_connect_controller_title_WIN32"
+	,"orig_text": "No controller"
+},{
+	 "i"		: 164
+	,"ids"		: "Idstring(@ID76e15a203eb12454@)"
+	,"StringID"	: "dialog_err_not_signed_in"
+	,"orig_text": "YOU MUST BE ONLINE TO MAKE USE OF NETWORK MODES."
+},{
+	 "i"		: 165
+	,"ids"		: "Idstring(@ID42124e2d44f483dd@)"
+	,"StringID"	: "dialog_infamous_info_desc"
+	,"orig_text": "You don't have what it takes yet. To become infamous, you will need to get to reputation level $level; and pay a fee of $cash; from your offshore account along with your skill points and the rest of your spending cash."
+},{
+	 "i"		: 166
+	,"ids"		: "Idstring(@ID0741f92d5cd9d7ca@)"
+	,"StringID"	: "dialog_infamous_info_title"
+	,"orig_text": "Infamy"
+},{
+	 "i"		: 167
+	,"ids"		: "Idstring(@IDe0d50b776c39edd1@)"
+	,"StringID"	: "dialog_ask_load_progress_backup_corrupt"
+	,"orig_text": "Progress profile corrupt. Load from Backup? Chosing NO will delete your progress."
+},{
+	 "i"		: 168
+	,"ids"		: "Idstring(@IDd2534368595b2721@)"
+	,"StringID"	: "dialog_leaving_lobby_title"
+	,"orig_text": "Leaving game"
+},{
+	 "i"		: 169
+	,"ids"		: "Idstring(@IDcaa663d92f1f4663@)"
+	,"StringID"	: "dialog_mp_disconnected_internet_PS3"
+	,"orig_text": "You have been disconnected from \"PlayStation Network\". You must be connected to access the online portions of this title."
+},{
+	 "i"		: 170
+	,"ids"		: "Idstring(@ID601b3448c41c56b9@)"
+	,"StringID"	: "dialog_dlc_require_restart_desc"
+	,"orig_text": "You need to restart PAYDAY 2 to access your new items."
+},{
+	 "i"		: 171
+	,"ids"		: "Idstring(@IDe6e8e3ae9d1c2589@)"
+	,"StringID"	: "dialog_are_you_sure_you_want_to_quit"
+	,"orig_text": "Are you sure you want to quit?"
+},{
+	 "i"		: 172
+	,"ids"		: "Idstring(@ID6fc833abb8b78895@)"
+	,"StringID"	: "dialog_bm_mask_sell_title"
+	,"orig_text": "Are you sure?"
+},{
+	 "i"		: 173
+	,"ids"		: "Idstring(@ID9656461121971cb3@)"
+	,"StringID"	: "dialog_demo_info_text"
+	,"orig_text": "Thanks for installing our demo!$NL;$NL;In this demo of PAYDAY 2, you can level up with your character to level 10. Please note that your save file for the demo can not be brought over to the full game.$NL;$NL;We in the OVERKILL crew hope you enjoy this demo. If you like what you see, you can buy PAYDAY 2 where you may gain may more levels through our Infamy system. The full game also includes more content like more heists, weapons, weapon modifications, masks and more.$NL;$NL;- The OVERKILL crew"
+},{
+	 "i"		: 174
+	,"ids"		: "Idstring(@ID23e40ca7e6e50cc1@)"
+	,"StringID"	: "dialog_are_you_sure_you_want_to_clear_progress"
+	,"orig_text": "Are you sure you want to clear your progress? This will reset your cash, reputation level and your inventory."
+},{
+	 "i"		: 175
+	,"ids"		: "Idstring(@ID3903e03d879c45b4@)"
+	,"StringID"	: "dialog_error_title"
+	,"orig_text": "Error"
+},{
+	 "i"		: 176
+	,"ids"		: "Idstring(@IDbc3248849d0b7b1f@)"
+	,"StringID"	: "dialog_err_not_signed_in_PS3"
+	,"orig_text": "You must sign in to \"PlayStation Network\" to make use of network modes."
+},{
+	 "i"		: 177
+	,"ids"		: "Idstring(@ID9ad65d86d97c95f5@)"
+	,"StringID"	: "dialog_blackmarket_buy_weapon_slot"
+	,"orig_text": "Buying this will unlock one more weapon slot.$NL;$NL;This will cost you $money;."
+},{
+	 "i"		: 178
+	,"ids"		: "Idstring(@ID54106f4da23feb5a@)"
+	,"StringID"	: "dialog_blackmarket_mod_remove"
+	,"orig_text": "You are about to remove modification $mod; from your weapon."
+},{
+	 "i"		: 179
+	,"ids"		: "Idstring(@ID01e634a0b2a35c33@)"
+	,"StringID"	: "dialog_err_room_is_full"
+	,"orig_text": "This room has been filled, please try another one."
+},{
+	 "i"		: 180
+	,"ids"		: "Idstring(@ID31550cca23c639e7@)"
+	,"StringID"	: "dialog_err_room_no_longer_exists"
+	,"orig_text": "This room no longer exists, please try another one."
+},{
+	 "i"		: 181
+	,"ids"		: "Idstring(@ID9a6652616b74eba5@)"
+	,"StringID"	: "dialog_err_wrong_version_message"
+	,"orig_text": "The game you are trying to join is running another version of PAYDAY 2. You are unable to join."
+},{
+	 "i"		: 182
+	,"ids"		: "Idstring(@IDfe082df2384260c1@)"
+	,"StringID"	: "dialog_fail_load_game_corrupt"
+	,"orig_text": "Save file corrupt. Unable to load game."
+},{
+	 "i"		: 183
+	,"ids"		: "Idstring(@ID25fe517a19df2c4b@)"
+	,"StringID"	: "dialog_fail_load_progress_corrupt_retry"
+	,"orig_text": "Progress could not be loaded. Try loading again?"
+},{
+	 "i"		: 184
+	,"ids"		: "Idstring(@IDa790a8d5fb33e26e@)"
+	,"StringID"	: "dialog_joining_lobby_title"
+	,"orig_text": "Joining game"
+},{
+	 "i"		: 185
+	,"ids"		: "Idstring(@ID8637a1c6714ac8aa@)"
+	,"StringID"	: "dialog_logging_in"
+	,"orig_text": "Logging in"
+},{
+	 "i"		: 186
+	,"ids"		: "Idstring(@ID33a1151b167ad3b3@)"
+	,"StringID"	: "dialog_mission_asset_buy"
+	,"orig_text": "$asset_desc;$NL;$NL;Cost: $cost;."
+},{
+	 "i"		: 187
+	,"ids"		: "Idstring(@ID6d5ec0a1a5f77d5f@)"
+	,"StringID"	: "dialog_mp_disconnected_internet_X360"
+	,"orig_text": "You have been disconnected from Xbox Live. You must be connected to access the online portions of this title."
+},{
+	 "i"		: 188
+	,"ids"		: "Idstring(@IDab7053ae94cddf21@)"
+	,"StringID"	: "dialog_mp_invite_wrong_room_message"
+	,"orig_text": "The game you have been invited to no longer exists. You are unable to join."
+},{
+	 "i"		: 189
+	,"ids"		: "Idstring(@IDb29eb67ba3f8a35e@)"
+	,"StringID"	: "dialog_mp_kick_player_title"
+	,"orig_text": "Kick player"
+},{
+	 "i"		: 190
+	,"ids"		: "Idstring(@ID68650bf2f501f8b0@)"
+	,"StringID"	: "dialog_mp_restart_level_title"
+	,"orig_text": "Restart"
+},{
+	 "i"		: 191
+	,"ids"		: "Idstring(@ID8a6e64df08a3825b@)"
+	,"StringID"	: "dialog_mp_send_invite_message"
+	,"orig_text": "Do you wish to send a game invite to $FRIEND;?"
+},{
+	 "i"		: 192
+	,"ids"		: "Idstring(@ID48c0d7e69ed28708@)"
+	,"StringID"	: "dialog_new_unlock_colors"
+	,"orig_text": "You just got your first pair of colors for mask customization.$NL;To customize a mask you will need a material, pattern and a pair of colors."
+},{
+	 "i"		: 193
+	,"ids"		: "Idstring(@ID52961383d8fddf2b@)"
+	,"StringID"	: "dialog_no_chat_parental_control"
+	,"orig_text": "CHAT IS DISABLED ON YOUR Sony Entertainment Network Account DUE TO PARENTAL CONTROL RESTRICTIONS."
+},{
+	 "i"		: 194
+	,"ids"		: "Idstring(@ID3556ed1a4992ff91@)"
+	,"StringID"	: "dialog_npcommerce_browse_fail"
+	,"orig_text": "COULD NOT OPEN PlayStation®Store"
+},{
+	 "i"		: 195
+	,"ids"		: "Idstring(@IDf3211f3680e66d79@)"
+	,"StringID"	: "dialog_npcommerce_checkout_fail"
+	,"orig_text": "Checkout failed"
+},{
+	 "i"		: 196
+	,"ids"		: "Idstring(@IDd0ca882f1edbb251@)"
+	,"StringID"	: "dialog_ok"
+	,"orig_text": "Ok"
+},{
+	 "i"		: 197
+	,"ids"		: "Idstring(@IDabdca155de0fd4f6@)"
+	,"StringID"	: "dialog_remove_dead_peer"
+	,"orig_text": "Connection to one or more players could not be established."
+},{
+	 "i"		: 198
+	,"ids"		: "Idstring(@ID3f091d09a1f40520@)"
+	,"StringID"	: "dialog_repair_weapon_title"
+	,"orig_text": "Repair"
+},{
+	 "i"		: 199
+	,"ids"		: "Idstring(@ID8183bdbe66cdf03c@)"
+	,"StringID"	: "dialog_request_timed_out_message"
+	,"orig_text": "Request to join game timed out"
+},{
+	 "i"		: 200
+	,"ids"		: "Idstring(@ID6a60a52f25505ed2@)"
+	,"StringID"	: "dialog_request_timed_out_title"
+	,"orig_text": "Timed out"
+},{
+	 "i"		: 201
+	,"ids"		: "Idstring(@IDe2bef4cae8b1fce5@)"
+	,"StringID"	: "dialog_respec_skilltree"
+	,"orig_text": "You are about to respec this skill tree.$NL;$NL;Doing a respec resets all skill points in the $tree; skill tree."
+},{
+	 "i"		: 202
+	,"ids"		: "Idstring(@IDdb4b06e1bdb94365@)"
+	,"StringID"	: "dialog_retrieving_servers_title"
+	,"orig_text": "Retrieving games"
+},{
+	 "i"		: 203
+	,"ids"		: "Idstring(@ID7614799b24ec3268@)"
+	,"StringID"	: "dialog_safehouse_goto_text"
+	,"orig_text": "Do you want to go to your safe house?"
+},{
+	 "i"		: 204
+	,"ids"		: "Idstring(@ID43604e2e86c8c821@)"
+	,"StringID"	: "dialog_safehouse_text"
+	,"orig_text": "You haven't visited the safe house yet. Would you like to go there now?"
+},{
+	 "i"		: 205
+	,"ids"		: "Idstring(@IDc28d813d365b5f9c@)"
+	,"StringID"	: "dialog_save_settings_failed"
+	,"orig_text": "Saving operation failed"
+},{
+	 "i"		: 206
+	,"ids"		: "Idstring(@ID3b3371fcd6a8e596@)"
+	,"StringID"	: "dialog_show_restart_game_message"
+	,"orig_text": "Are you sure you want to restart current game?"
+},{
+	 "i"		: 207
+	,"ids"		: "Idstring(@ID566d2a4acbebb551@)"
+	,"StringID"	: "dialog_signin_change_title_X360"
+	,"orig_text": "Sign-in change"
+},{
+	 "i"		: 208
+	,"ids"		: "Idstring(@IDa8581fb9c2cafba4@)"
+	,"StringID"	: "dialog_signin_question_X360"
+	,"orig_text": "In order to save, you must be signed into a profile. Do you want to sign in now?"
+},{
+	 "i"		: 209
+	,"ids"		: "Idstring(@IDcd9e4e7bf0e1c16b@)"
+	,"StringID"	: "dialog_skills_respec_title"
+	,"orig_text": "Are you sure?"
+},{
+	 "i"		: 210
+	,"ids"		: "Idstring(@ID6b1aa5125a63b4b8@)"
+	,"StringID"	: "dialog_skilltree_reseted"
+	,"orig_text": "Changes have been made to the skill tree.$NL;$NL;All your skills have been reset and your skill points as well as your cash has been refunded."
+},{
+	 "i"		: 211
+	,"ids"		: "Idstring(@ID545629eab8214ca5@)"
+	,"StringID"	: "dialog_skip_signin_warning_X360"
+	,"orig_text": "Without signing in your progress will not be saved.$NL;$NL;Continue without saving?"
+},{
+	 "i"		: 212
+	,"ids"		: "Idstring(@ID363c86ac6f9282c8@)"
+	,"StringID"	: "dialog_skip_storage_warning_X360"
+	,"orig_text": "No storage device selected.$NL;If you proceed without selecting a storage device, you will not be able to save the game.$NL;$NL;Continue without saving?"
+},{
+	 "i"		: 213
+	,"ids"		: "Idstring(@IDe98e4ebfdd65019c@)"
+	,"StringID"	: "dialog_storage_removed_warning_X360"
+	,"orig_text": "Selected storage device has been removed. Your progress will no longer be saved"
+},{
+	 "i"		: 214
+	,"ids"		: "Idstring(@ID404ca5dfb61a5180@)"
+	,"StringID"	: "dialog_transaction_successful"
+	,"orig_text": "TRANSACTION SUCCESSFUL"
+},{
+	 "i"		: 215
+	,"ids"		: "Idstring(@ID92ff7206f7e0126e@)"
+	,"StringID"	: "dialog_unlock_skill_switch"
+	,"orig_text": "You are about to unlock a new skill set.$NL;$NL;$cost_text;"
+},{
+	 "i"		: 216
+	,"ids"		: "Idstring(@ID2b57682b548baed6@)"
+	,"StringID"	: "dialog_unlock_skill_switch_free"
+	,"orig_text": "This one is free of charge."
+},{
+	 "i"		: 217
+	,"ids"		: "Idstring(@ID9667341b045f2e3d@)"
+	,"StringID"	: "dialog_unlock_skill_switch_offshore"
+	,"orig_text": "It will cost you $offshore; offshore cash."
+},{
+	 "i"		: 218
+	,"ids"		: "Idstring(@ID9f301fa3d5d9a9ab@)"
+	,"StringID"	: "dialog_unlock_skill_switch_spending"
+	,"orig_text": "It will cost you $spending; spending cash."
+},{
+	 "i"		: 219
+	,"ids"		: "Idstring(@ID43dd8bee71c14496@)"
+	,"StringID"	: "dialog_unlock_skill_switch_title"
+	,"orig_text": "Are you sure?"
+},{
+	 "i"		: 220
+	,"ids"		: "Idstring(@ID6f8d1e0efaee22b2@)"
+	,"StringID"	: "dialog_vote_kick_no"
+	,"orig_text": "Don't Kick"
+},{
+	 "i"		: 221
+	,"ids"		: "Idstring(@ID6284187c5af3cd84@)"
+	,"StringID"	: "dialog_wait_title"
+	,"orig_text": "Please wait"
+},{
+	 "i"		: 222
+	,"ids"		: "Idstring(@ID66aae3c797c430d0@)"
+	,"StringID"	: "dialog_warning_title"
+	,"orig_text": "Warning"
+},{
+	 "i"		: 223
+	,"ids"		: "Idstring(@ID2d2cc4fb87070fb7@)"
+	,"StringID"	: "dialog_xp_to_specialization"
+	,"orig_text": "XP to Perk Conversion"
+},{
+	 "i"		: 224
+	,"ids"		: "Idstring(@ID6953ea4309f82432@)"
+	,"StringID"	: "err_ins"
+	,"orig_text": "An error occurred while loading trophies. Please exit the game and try again."
+},{
+	 "i"		: 225
+	,"ids"		: "Idstring(@ID95a7bdadfccf879b@)"
+	,"StringID"	: "legal_text"
+	,"orig_text": "PAYDAY 2 © 2016 Starbreeze AB. All rights reserved.  PAYDAY 2, PAYDAY, Starbreeze, Starbreeze Studios, and the Starbreeze logo are trademarks or registered trademarks of Starbreeze AB in Sweden and/or other countries. Published by 505 Games. 505 Games and the 505 Games logo are registered trademarks of 505 Games S.r.l. All other trademarks are the property of their respective owners."
+},{
+	 "i"		: 226
+	,"ids"		: "Idstring(@ID41a6731d678c91a4@)"
+	,"StringID"	: "ps4_presence_Idle"
+	,"orig_text": "In the menus"
+},{
+	 "i"		: 227
+	,"ids"		: "Idstring(@ID25c9292ffff9bd7e@)"
+	,"StringID"	: "ps4_presence_MPEnd"
+	,"orig_text": "Multiplayer heist ended"
+},{
+	 "i"		: 228
+	,"ids"		: "Idstring(@ID11ee08039efe03da@)"
+	,"StringID"	: "ps4_presence_SafeHousePlaying"
+	,"orig_text": "In the safe house"
+},{
+	 "i"		: 229
+	,"ids"		: "Idstring(@ID52f6b003c37edb41@)"
+	,"StringID"	: "ps4_presence_SPEnd"
+	,"orig_text": "Singleplayer heist ended"
+},{
+	 "i"		: 230
+	,"ids"		: "Idstring(@IDf43c6b077f919e41@)"
+	,"StringID"	: "ps4_presence_SPPlaying"
+	,"orig_text": "Playing single player heist"
+},{
+	 "i"		: 231
+	,"ids"		: "Idstring(@ID1f851c99db5751a8@)"
+	,"StringID"	: "screen_autosaving_warning_X360"
+	,"orig_text": "This game saves data automatically at certain points.$NL;Please don't turn off your Xbox One when the following icon is displayed:"
+}
+]
