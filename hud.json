@@ -12798,7 +12798,7 @@
 	,"ids"		: "Idstring(@ID79d49382820031c9@)"
 	,"StringID"	: "hud_heist_kenaz_s_07_hl"
 	,"orig_text": "Wait for the poison to work"
-	,"tran_text": "等待“料”起效果"
+	,"tran_text": "等待「料」起效果"
 },{
 	 "i"		: 2136
 	,"ids"		: "Idstring(@IDd3c08aaedf358b1b@)"
