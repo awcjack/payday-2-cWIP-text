@@ -2,12 +2,12 @@
 
 {
 "tag" : "0riginal",
-"language" : "English"
+"language" : "English",
 "git" : "https://raw.githubusercontent.com/awcjack/payday-2-tc-text/master/0riginal/"
 },
 {
 "tag" : "cht",
-"language" : "¥¿Åé¤¤¤å"
+"language" : "Chinese (Traditional) æ­£é«”ä¸­æ–‡",
 "git" : "https://raw.githubusercontent.com/awcjack/payday-2-tc-text/master/cht/"
 }
 
