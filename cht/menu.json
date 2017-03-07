@@ -396,6 +396,7 @@
 	,"ids"		: "Idstring(@ID05826cb55382d78e@)"
 	,"StringID"	: "steam_inventory_collection_wac_01"
 	,"orig_text": "John Wick Collection"
+	,"tran_text": "John Wick 收藏"
 },{
 	 "i"		: 68
 	,"ids"		: "Idstring(@ID391d87e06ff6e220@)"
@@ -1515,6 +1516,7 @@
 	,"ids"		: "Idstring(@ID21059ea8bf3f35ab@)"
 	,"StringID"	: "trophy_fish_trophy_desc"
 	,"orig_text": "Quiet as a catfish, you stole all the cash from that yacht. But it wasn't easy."
+	,"tran_text": "靜得像網絡騙子一樣，你在遊艇上偷走了所有金錢，但這不容易。"
 },{
 	 "i"		: 256
 	,"ids"		: "Idstring(@ID5798a4f13f521b1b@)"
@@ -6760,6 +6762,7 @@
 	,"ids"		: "Idstring(@IDee15e6ed37ef0c5f@)"
 	,"StringID"	: "trophy_fish_trophy"
 	,"orig_text": "Gone Fishing"
+	,"tran_text": "去釣魚了"
 },{
 	 "i"		: 1136
 	,"ids"		: "Idstring(@ID0edae69def92fa4d@)"
@@ -9831,6 +9834,7 @@
 	,"ids"		: "Idstring(@ID1fc381316777c46e@)"
 	,"StringID"	: "trophy_fish_trophy_objective"
 	,"orig_text": "Complete The Yacht Heist in stealth with all team members at maximum detection."
+	,"tran_text": "在全隊偵測值最高的情況下潛行完成遊艇劫案 (The Yacht Heist) 。"
 },{
 	 "i"		: 1652
 	,"ids"		: "Idstring(@IDdbd6906e43a21c30@)"
@@ -11984,6 +11988,7 @@
 	,"ids"		: "Idstring(@ID4f0db7185e7806d9@)"
 	,"StringID"	: "menu_steam_market_content_wac_01"
 	,"orig_text": "John Wick"
+	,"tran_text": "John Wick"
 },{
 	 "i"		: 2015
 	,"ids"		: "Idstring(@ID36cd78c5a42ad1c3@)"
@@ -22601,6 +22606,7 @@
 	,"ids"		: "Idstring(@IDc5e7f842715a764d@)"
 	,"StringID"	: "menu_jukebox_track_51"
 	,"orig_text": "Bullet Rain"
+	,"tran_text": "Bullet Rain"
 },{
 	 "i"		: 3796
 	,"ids"		: "Idstring(@ID68e2d1d2af492bc3@)"

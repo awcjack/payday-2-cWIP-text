@@ -14447,740 +14447,744 @@
 	,"orig_text": "Press $BTN_INTERACT; to talk to John Wick"
 },{
 	 "i"		: 2892
+	,"ids"		: "Idstring(@IDf2b5bf991be64d10@)"
+	,"orig_text": "Press $BTN_INTERACT; to talk to Vlad"
+},{
+	 "i"		: 2893
 	,"ids"		: "Idstring(@IDf3917145686d5385@)"
 	,"StringID"	: "hud_int_talk_wolf"
 	,"orig_text": "Press $BTN_INTERACT; to talk to Wolf"
 },{
-	 "i"		: 2893
+	 "i"		: 2894
 	,"ids"		: "Idstring(@IDf3b219bea401912c@)"
 	,"StringID"	: "hud_int_tape_loop"
 	,"orig_text": "Hold $BTN_INTERACT; to apply camera loop"
 },{
-	 "i"		: 2894
+	 "i"		: 2895
 	,"ids"		: "Idstring(@IDbef8237640918fe5@)"
 	,"StringID"	: "hud_int_timelock_numpad"
 	,"orig_text": "Press $BTN_INTERACT; to start timelock"
 },{
-	 "i"		: 2895
+	 "i"		: 2896
 	,"ids"		: "Idstring(@IDc7e30734b689d787@)"
 	,"StringID"	: "hud_int_turn_off"
 	,"orig_text": "Hold $BTN_INTERACT; to turn off"
 },{
-	 "i"		: 2896
+	 "i"		: 2897
 	,"ids"		: "Idstring(@ID1cf25661648f799a@)"
 	,"StringID"	: "hud_int_use_chute"
 	,"orig_text": "Press $BTN_INTERACT; to Use Chute"
 },{
-	 "i"		: 2897
+	 "i"		: 2898
 	,"ids"		: "Idstring(@ID757bad7f6a7cb74a@)"
 	,"StringID"	: "hud_int_use_computer"
 	,"orig_text": "Hold $BTN_INTERACT; to take the computer"
 },{
-	 "i"		: 2898
+	 "i"		: 2899
 	,"ids"		: "Idstring(@IDad960e7e9db552f2@)"
 	,"StringID"	: "hud_int_use_ecm_jammer"
 	,"orig_text": "Hold $BTN_INTERACT; to use the ECM jammer"
 },{
-	 "i"		: 2899
+	 "i"		: 2900
 	,"ids"		: "Idstring(@IDcc0313ea4e3c39fe@)"
 	,"StringID"	: "hud_int_use_scanner"
 	,"orig_text": "Press $BTN_INTERACT; to use scanner"
 },{
-	 "i"		: 2900
+	 "i"		: 2901
 	,"ids"		: "Idstring(@ID559d8b199c0e02d6@)"
 	,"StringID"	: "hud_int_use_ticket"
 	,"orig_text": "Hold $BTN_INTERACT; to use ticket"
 },{
-	 "i"		: 2901
+	 "i"		: 2902
 	,"ids"		: "Idstring(@ID1c874b617f78882f@)"
 	,"StringID"	: "hud_int_vehicle_drive"
 	,"orig_text": "Hold $BTN_INTERACT; to drive the vehicle"
 },{
-	 "i"		: 2902
+	 "i"		: 2903
 	,"ids"		: "Idstring(@ID00f805f7158b8a62@)"
 	,"StringID"	: "hud_int_vehicle_enter"
 	,"orig_text": "Hold $BTN_INTERACT; to enter the vehicle"
 },{
-	 "i"		: 2903
+	 "i"		: 2904
 	,"ids"		: "Idstring(@IDccd0a6f5b4407ca7@)"
 	,"StringID"	: "hud_int_vehicle_loot"
 	,"orig_text": "Hold $BTN_INTERACT; to take loot from the vehicle"
 },{
-	 "i"		: 2904
+	 "i"		: 2905
 	,"ids"		: "Idstring(@IDa6d6abf973c5d232@)"
 	,"StringID"	: "hud_int_vehicle_open_trunk"
 	,"orig_text": "Hold $BTN_INTERACT; to open the trunk"
 },{
-	 "i"		: 2905
+	 "i"		: 2906
 	,"ids"		: "Idstring(@ID13a984b32186c29d@)"
 	,"StringID"	: "hud_loot_secured"
 	,"orig_text": "$CARRY_TYPE;: $AMOUNT;"
 },{
-	 "i"		: 2906
+	 "i"		: 2907
 	,"ids"		: "Idstring(@ID43baa0962636ef05@)"
 	,"StringID"	: "hud_loot_secured_title"
 	,"orig_text": "Loot secured"
 },{
-	 "i"		: 2907
+	 "i"		: 2908
 	,"ids"		: "Idstring(@IDdf05bdb2a6138657@)"
 	,"StringID"	: "hud_man_apply_tape"
 	,"orig_text": "Hold $BTN_INTERACT; to apply tape"
 },{
-	 "i"		: 2908
+	 "i"		: 2909
 	,"ids"		: "Idstring(@IDe2003d9dc597535c@)"
 	,"StringID"	: "hud_mission_bags"
 	,"orig_text": "Mission bags"
 },{
-	 "i"		: 2909
+	 "i"		: 2910
 	,"ids"		: "Idstring(@IDabede78129eb3940@)"
 	,"StringID"	: "hud_next_camera"
 	,"orig_text": "$BTN_SECONDARY; >"
 },{
-	 "i"		: 2910
+	 "i"		: 2911
 	,"ids"		: "Idstring(@IDe5f179ae2e9acac6@)"
 	,"StringID"	: "hud_next_camera_X360"
 	,"orig_text": "$BTN_PRIMARY; >"
 },{
-	 "i"		: 2911
+	 "i"		: 2912
 	,"ids"		: "Idstring(@ID154b5038df11a394@)"
 	,"StringID"	: "hud_objectives"
 	,"orig_text": "OBJECTIVES"
 },{
-	 "i"		: 2912
+	 "i"		: 2913
 	,"ids"		: "Idstring(@ID742e6576eab412d7@)"
 	,"StringID"	: "hud_opening_cas_securityroom_door"
 	,"orig_text": "Opening the Security Center door"
 },{
-	 "i"		: 2913
+	 "i"		: 2914
 	,"ids"		: "Idstring(@IDe928a373a13e82d2@)"
 	,"StringID"	: "hud_open_cas_elevator"
 	,"orig_text": "Press $BTN_INTERACT; to open the elevator door"
 },{
-	 "i"		: 2914
+	 "i"		: 2915
 	,"ids"		: "Idstring(@IDec536ba8d90f3d71@)"
 	,"StringID"	: "hud_open_cas_securityroom_door"
 	,"orig_text": "Hold $BTN_INTERACT; to open the Security Center door"
 },{
-	 "i"		: 2915
+	 "i"		: 2916
 	,"ids"		: "Idstring(@IDe83eabc96f074049@)"
 	,"StringID"	: "hud_pd2_garage_escape"
 	,"orig_text": "Get the loot into the escape van up on the street"
 },{
-	 "i"		: 2916
+	 "i"		: 2917
 	,"ids"		: "Idstring(@IDa919e85f1ff330d7@)"
 	,"StringID"	: "hud_pd2_garage_escape_hl"
 	,"orig_text": "Get the loot to the van"
 },{
-	 "i"		: 2917
+	 "i"		: 2918
 	,"ids"		: "Idstring(@ID79f6146027e8bcd6@)"
 	,"StringID"	: "hud_pd2_park_defend"
 	,"orig_text": "Bain is sending you a new escape vehicle that will arrive shortly"
 },{
-	 "i"		: 2918
+	 "i"		: 2919
 	,"ids"		: "Idstring(@ID368c044ce6d63da2@)"
 	,"StringID"	: "hud_pd2_park_escape_hl"
 	,"orig_text": "Escape available"
 },{
-	 "i"		: 2919
+	 "i"		: 2920
 	,"ids"		: "Idstring(@IDe3549b0db56f05a4@)"
 	,"StringID"	: "hud_pd2_park_secure_hl"
 	,"orig_text": "Secure the loot"
 },{
-	 "i"		: 2920
+	 "i"		: 2921
 	,"ids"		: "Idstring(@IDb27128de648bedc6@)"
 	,"StringID"	: "hud_pku_manifest"
 	,"orig_text": "Press $BTN_INTERACT; to take the manifest"
 },{
-	 "i"		: 2921
+	 "i"		: 2922
 	,"ids"		: "Idstring(@ID4d5e14f140312819@)"
 	,"StringID"	: "hud_place_sleeping_gass"
 	,"orig_text": "Hold $BTN_INTERACT; to pump gas into the vent"
 },{
-	 "i"		: 2922
+	 "i"		: 2923
 	,"ids"		: "Idstring(@IDc654cb6e0a30a693@)"
 	,"StringID"	: "hud_place_watertank"
 	,"orig_text": "Hold $BTN_INTERACT; to place the water tank"
 },{
-	 "i"		: 2923
+	 "i"		: 2924
 	,"ids"		: "Idstring(@IDfc2ec06151a12768@)"
 	,"StringID"	: "hud_potential_level_up"
 	,"orig_text": "Potential level up!"
 },{
-	 "i"		: 2924
+	 "i"		: 2925
 	,"ids"		: "Idstring(@ID3e86fef6f255abcc@)"
 	,"StringID"	: "hud_press_answering_play"
 	,"orig_text": "Press $BTN_INTERACT; to listen to messages"
 },{
-	 "i"		: 2925
+	 "i"		: 2926
 	,"ids"		: "Idstring(@ID5e1494ad4b600329@)"
 	,"StringID"	: "hud_press_bet_red"
 	,"orig_text": "Press $BTN_INTERACT; to bet $10,000 on Red"
 },{
-	 "i"		: 2926
+	 "i"		: 2927
 	,"ids"		: "Idstring(@IDe33abad8f4c79df6@)"
 	,"StringID"	: "hud_press_play_jacket_sound"
 	,"orig_text": "Press $BTN_INTERACT; to play a tape"
 },{
-	 "i"		: 2927
+	 "i"		: 2928
 	,"ids"		: "Idstring(@ID4017a235d0817d63@)"
 	,"StringID"	: "hud_press_play_music"
 	,"orig_text": "Press $BTN_INTERACT; to play music"
 },{
-	 "i"		: 2928
+	 "i"		: 2929
 	,"ids"		: "Idstring(@ID22952a0c503c60fc@)"
 	,"StringID"	: "hud_press_stop_music"
 	,"orig_text": "Press $BTN_INTERACT; to stop music"
 },{
-	 "i"		: 2929
+	 "i"		: 2930
 	,"ids"		: "Idstring(@ID4c5200ee3e5a46b4@)"
 	,"StringID"	: "hud_press_to_interact"
 	,"orig_text": "Press $BTN_INTERACT; to interact"
 },{
-	 "i"		: 2930
+	 "i"		: 2931
 	,"ids"		: "Idstring(@ID8d52a182c46e5c31@)"
 	,"StringID"	: "hud_roberts_mission1"
 	,"orig_text": "Look for the keycards, you need two of them to get that vault open, remember to check the tellers."
 },{
-	 "i"		: 2931
+	 "i"		: 2932
 	,"ids"		: "Idstring(@ID809eb2356fd3f056@)"
 	,"StringID"	: "hud_roberts_mission10"
 	,"orig_text": "Get to the marked man hole, and make your way down into the sewers."
 },{
-	 "i"		: 2932
+	 "i"		: 2933
 	,"ids"		: "Idstring(@IDd5e0622efc134bb5@)"
 	,"StringID"	: "hud_roberts_mission11"
 	,"orig_text": "Find the exit out of the sewers, look for the light!"
 },{
-	 "i"		: 2933
+	 "i"		: 2934
 	,"ids"		: "Idstring(@IDb9d4f8dd7c14e11f@)"
 	,"StringID"	: "hud_roberts_mission13"
 	,"orig_text": "Make sure you pick up all of the cage parts in order to assemble the cage."
 },{
-	 "i"		: 2934
+	 "i"		: 2935
 	,"ids"		: "Idstring(@ID75679279908641cb@)"
 	,"StringID"	: "hud_roberts_mission15"
 	,"orig_text": "Throw a bag over the yellow wall by the auto repair shop."
 },{
-	 "i"		: 2935
+	 "i"		: 2936
 	,"ids"		: "Idstring(@IDf9c0546843f257c3@)"
 	,"StringID"	: "hud_roberts_mission1_hl"
 	,"orig_text": "Find the vault keycards"
 },{
-	 "i"		: 2936
+	 "i"		: 2937
 	,"ids"		: "Idstring(@IDb191d0b6c04c0c92@)"
 	,"StringID"	: "hud_roberts_mission3"
 	,"orig_text": "Wait for the timelock to open the vault. Keep an eye out on the timer."
 },{
-	 "i"		: 2937
+	 "i"		: 2938
 	,"ids"		: "Idstring(@ID8da116a63816c1cf@)"
 	,"StringID"	: "hud_roberts_mission5_hl"
 	,"orig_text": "Secure the loot"
 },{
-	 "i"		: 2938
+	 "i"		: 2939
 	,"ids"		: "Idstring(@ID6115f9854ae0d7a2@)"
 	,"StringID"	: "hud_roberts_mission6_hl"
 	,"orig_text": "Escape available!"
 },{
-	 "i"		: 2939
+	 "i"		: 2940
 	,"ids"		: "Idstring(@IDf615fa32b508a3bd@)"
 	,"StringID"	: "hud_roberts_mission8"
 	,"orig_text": "Use the thermal drill to get into the vault."
 },{
-	 "i"		: 2940
+	 "i"		: 2941
 	,"ids"		: "Idstring(@IDd41a8e7351591e9c@)"
 	,"StringID"	: "hud_roberts_mission8_hl"
 	,"orig_text": "Drill into the vault"
 },{
-	 "i"		: 2941
+	 "i"		: 2942
 	,"ids"		: "Idstring(@ID64a7a90b58d57bcf@)"
 	,"StringID"	: "hud_roberts_mission9"
 	,"orig_text": "Interact with the cage to send up the balloon and wait for the plane to pick it up."
 },{
-	 "i"		: 2942
+	 "i"		: 2943
 	,"ids"		: "Idstring(@IDd0db6a7a6ae3912b@)"
 	,"StringID"	: "hud_safehouse_tut10"
 	,"orig_text": "Bain has prepared a starter kit for you"
 },{
-	 "i"		: 2943
+	 "i"		: 2944
 	,"ids"		: "Idstring(@ID64cf42964aa6471e@)"
 	,"StringID"	: "hud_safehouse_tut10_hl"
 	,"orig_text": "Get your starter kit"
 },{
-	 "i"		: 2944
+	 "i"		: 2945
 	,"ids"		: "Idstring(@IDc7d76eca400b4956@)"
 	,"StringID"	: "hud_safehouse_tut1_hl"
 	,"orig_text": "Enter the safe house"
 },{
-	 "i"		: 2945
+	 "i"		: 2946
 	,"ids"		: "Idstring(@ID067de8fee8c73b26@)"
 	,"StringID"	: "hud_safehouse_tut2"
 	,"orig_text": "Make yourself feel at home and wait for Bain to call you"
 },{
-	 "i"		: 2946
+	 "i"		: 2947
 	,"ids"		: "Idstring(@ID8519af197e93c3ad@)"
 	,"StringID"	: "hud_safehouse_tut3_hl"
 	,"orig_text": "Answer the phone"
 },{
-	 "i"		: 2947
+	 "i"		: 2948
 	,"ids"		: "Idstring(@ID9bbd50c89da23486@)"
 	,"StringID"	: "hud_safehouse_tut5_hl"
 	,"orig_text": "Go to the alley"
 },{
-	 "i"		: 2948
+	 "i"		: 2949
 	,"ids"		: "Idstring(@IDbc62ed24137eeb07@)"
 	,"StringID"	: "hud_safehouse_tut6"
 	,"orig_text": "Bain wants you to throw the bag you picked up on the table"
 },{
-	 "i"		: 2949
+	 "i"		: 2950
 	,"ids"		: "Idstring(@ID8c6c775295530202@)"
 	,"StringID"	: "hud_safehouse_tut7_hl"
 	,"orig_text": "Pick up the money"
 },{
-	 "i"		: 2950
+	 "i"		: 2951
 	,"ids"		: "Idstring(@ID96b82e80a4cb227c@)"
 	,"StringID"	: "hud_screw_down"
 	,"orig_text": "Hold $BTN_INTERACT; to screw the winch down"
 },{
-	 "i"		: 2951
+	 "i"		: 2952
 	,"ids"		: "Idstring(@ID39b56e8c64357abe@)"
 	,"StringID"	: "hud_skip_blackscreen"
 	,"orig_text": "Hold $BTN_ACCEPT; to skip"
 },{
-	 "i"		: 2952
+	 "i"		: 2953
 	,"ids"		: "Idstring(@IDa3e19c353a5407de@)"
 	,"StringID"	: "hud_starting_heist"
 	,"orig_text": "Preparing mask"
 },{
-	 "i"		: 2953
+	 "i"		: 2954
 	,"ids"		: "Idstring(@ID609303c158570123@)"
 	,"StringID"	: "hud_start_winch"
 	,"orig_text": "Hold $BTN_INTERACT; to start the winch"
 },{
-	 "i"		: 2954
+	 "i"		: 2955
 	,"ids"		: "Idstring(@ID487b4a722dadf1e9@)"
 	,"StringID"	: "hud_stop_drill"
 	,"orig_text": "Hold $BTN_INTERACT; to stop the BFD"
 },{
-	 "i"		: 2955
+	 "i"		: 2956
 	,"ids"		: "Idstring(@IDad0349a108489627@)"
 	,"StringID"	: "hud_take_casino_chips"
 	,"orig_text": "Press $BTN_INTERACT; to pick up casino chips"
 },{
-	 "i"		: 2956
+	 "i"		: 2957
 	,"ids"		: "Idstring(@ID9418ee069c02288c@)"
 	,"StringID"	: "hud_take_watertank"
 	,"orig_text": "Hold $BTN_INTERACT; to take the water tank"
 },{
-	 "i"		: 2957
+	 "i"		: 2958
 	,"ids"		: "Idstring(@IDd670bd5e8fe08ef0@)"
 	,"StringID"	: "hud_trade_delay"
 	,"orig_text": "Trade delay: $TIME;"
 },{
-	 "i"		: 2958
+	 "i"		: 2959
 	,"ids"		: "Idstring(@ID55bbb78655d7eee3@)"
 	,"StringID"	: "hud_uncuffed_in"
 	,"orig_text": "Uncuffed in"
 },{
-	 "i"		: 2959
+	 "i"		: 2960
 	,"ids"		: "Idstring(@IDc0d9df417f151d5a@)"
 	,"StringID"	: "hud_unlocking_car"
 	,"orig_text": "Unlocking car"
 },{
-	 "i"		: 2960
+	 "i"		: 2961
 	,"ids"		: "Idstring(@ID58c7cc9092db55d0@)"
 	,"StringID"	: "hud_vehicle_auto_respawn"
 	,"orig_text": "Vehicle respawned automatically"
 },{
-	 "i"		: 2961
+	 "i"		: 2962
 	,"ids"		: "Idstring(@IDe80360bc8ff39b2b@)"
 	,"StringID"	: "hud_vehicle_broken"
 	,"orig_text": "The vehicle is broken"
 },{
-	 "i"		: 2962
+	 "i"		: 2963
 	,"ids"		: "Idstring(@IDf24c021b366020ad@)"
 	,"StringID"	: "hud_v_airport_mission2"
 	,"orig_text": "Make a decision to either steal or destroy the weapons"
 },{
-	 "i"		: 2963
+	 "i"		: 2964
 	,"ids"		: "Idstring(@ID63aca58feaa8c270@)"
 	,"StringID"	: "hud_v_airport_mission3_hl"
 	,"orig_text": "Escape available"
 },{
-	 "i"		: 2964
+	 "i"		: 2965
 	,"ids"		: "Idstring(@IDcba62ffa4c57ddbc@)"
 	,"StringID"	: "hud_v_branchbank_mission1"
 	,"orig_text": "Use the thermal drill to get access to the vault"
 },{
-	 "i"		: 2965
+	 "i"		: 2966
 	,"ids"		: "Idstring(@IDb6e60764752932a3@)"
 	,"StringID"	: "hud_v_branchbank_mission2_hl"
 	,"orig_text": "Take the money"
 },{
-	 "i"		: 2966
+	 "i"		: 2967
 	,"ids"		: "Idstring(@ID7493d8e6668b3112@)"
 	,"StringID"	: "hud_v_branchbank_mission3"
 	,"orig_text": "Secure the money by throwing it into the van"
 },{
-	 "i"		: 2967
+	 "i"		: 2968
 	,"ids"		: "Idstring(@IDf0b99e1de0200590@)"
 	,"StringID"	: "hud_v_branchbank_mission5"
 	,"orig_text": "Secure the gold by throwing it into the van"
 },{
-	 "i"		: 2968
+	 "i"		: 2969
 	,"ids"		: "Idstring(@ID4dc10eb08d35ee7d@)"
 	,"StringID"	: "hud_v_branchbank_mission7"
 	,"orig_text": "Steal all of the gold in the vault"
 },{
-	 "i"		: 2969
+	 "i"		: 2970
 	,"ids"		: "Idstring(@ID8b93ce94f8354a14@)"
 	,"StringID"	: "hud_v_branchbank_mission7_hl"
 	,"orig_text": "Steal the gold"
 },{
-	 "i"		: 2970
+	 "i"		: 2971
 	,"ids"		: "Idstring(@IDdb0deab015fba193@)"
 	,"StringID"	: "hud_v_branchbank_mission8"
 	,"orig_text": "Pick up the thermal drill in the parking lot"
 },{
-	 "i"		: 2971
+	 "i"		: 2972
 	,"ids"		: "Idstring(@IDcf4005da5d079968@)"
 	,"StringID"	: "hud_v_branchbank_mission9_hl"
 	,"orig_text": "Drop off the thermal drill"
 },{
-	 "i"		: 2972
+	 "i"		: 2973
 	,"ids"		: "Idstring(@IDb11a57f29eaa4966@)"
 	,"StringID"	: "hud_v_four_stores_mission2"
 	,"orig_text": "Steal $15.000 worth of valuables"
 },{
-	 "i"		: 2973
+	 "i"		: 2974
 	,"ids"		: "Idstring(@ID891036d228a6c3a0@)"
 	,"StringID"	: "hud_v_four_stores_mission3_hl"
 	,"orig_text": "Wait for the van"
 },{
-	 "i"		: 2974
+	 "i"		: 2975
 	,"ids"		: "Idstring(@ID0689c3a0e5a37144@)"
 	,"StringID"	: "hud_v_mallcrasher_mission3_hl"
 	,"orig_text": "Get back to the van"
 },{
-	 "i"		: 2975
+	 "i"		: 2976
 	,"ids"		: "Idstring(@ID7035f4bfc44ee945@)"
 	,"StringID"	: "hud_v_mallcrasher_mission4_hl"
 	,"orig_text": "Wait for the van to return"
 },{
-	 "i"		: 2976
+	 "i"		: 2977
 	,"ids"		: "Idstring(@IDc329cd1b8b8c3e4a@)"
 	,"StringID"	: "hud_v_mallcrasher_mission5"
 	,"orig_text": "Get down in the garage and escape"
 },{
-	 "i"		: 2977
+	 "i"		: 2978
 	,"ids"		: "Idstring(@IDf6e7584f5b71fa7f@)"
 	,"StringID"	: "hud_v_mallcrasher_mission6"
 	,"orig_text": "The van got trashed, so wait for the helicopter to arrive"
 },{
-	 "i"		: 2978
+	 "i"		: 2979
 	,"ids"		: "Idstring(@ID1692e48b6beeadcc@)"
 	,"StringID"	: "hud_v_mallcrasher_mission6_hl"
 	,"orig_text": "Wait for the helicopter"
 },{
-	 "i"		: 2979
+	 "i"		: 2980
 	,"ids"		: "Idstring(@ID99521cb2cd463d69@)"
 	,"StringID"	: "hud_v_mallcrasher_mission7"
 	,"orig_text": "Get to the escape vehicle"
 },{
-	 "i"		: 2980
+	 "i"		: 2981
 	,"ids"		: "Idstring(@IDf4b6c04b2fc5a56e@)"
 	,"StringID"	: "hud_v_nightclub_mission1"
 	,"orig_text": "Find your way into the nightclub"
 },{
-	 "i"		: 2981
+	 "i"		: 2982
 	,"ids"		: "Idstring(@IDb2fcb77748c567ff@)"
 	,"StringID"	: "hud_v_nightclub_mission4"
 	,"orig_text": "Pick up the cash"
 },{
-	 "i"		: 2982
+	 "i"		: 2983
 	,"ids"		: "Idstring(@IDadd9ae8f02b5a6f7@)"
 	,"StringID"	: "hud_v_nightclub_mission7"
 	,"orig_text": "There's got to be a keycard somewhere"
 },{
-	 "i"		: 2983
+	 "i"		: 2984
 	,"ids"		: "Idstring(@IDcd02037d74003b1b@)"
 	,"StringID"	: "hud_v_nightclub_mission7_hl"
 	,"orig_text": "Get the boss' door open"
 },{
-	 "i"		: 2984
+	 "i"		: 2985
 	,"ids"		: "Idstring(@IDdd0ed6db5855101e@)"
 	,"StringID"	: "hud_v_ukrainian_job_mission1"
 	,"orig_text": "Find your way to the tiara and steal it for Vlad"
 },{
-	 "i"		: 2985
+	 "i"		: 2986
 	,"ids"		: "Idstring(@ID13c8505165be299b@)"
 	,"StringID"	: "hud_v_ukrainian_job_mission1_hl"
 	,"orig_text": "Obtain the tiara for Vlad"
 },{
-	 "i"		: 2986
+	 "i"		: 2987
 	,"ids"		: "Idstring(@IDf2e425a0866265c1@)"
 	,"StringID"	: "hud_v_ukrainian_job_mission2"
 	,"orig_text": "Get to the escape vehicle"
 },{
-	 "i"		: 2987
+	 "i"		: 2988
 	,"ids"		: "Idstring(@ID4773cfdaf190332f@)"
 	,"StringID"	: "hud_v_ukrainian_job_mission2_hl"
 	,"orig_text": "Escape available"
 },{
-	 "i"		: 2988
+	 "i"		: 2989
 	,"ids"		: "Idstring(@ID60d12153ffad048e@)"
 	,"StringID"	: "hud_v_vodka_mission1"
 	,"orig_text": "Find the safe with money in it. Vlad said that the boss keeps it in his office."
 },{
-	 "i"		: 2989
+	 "i"		: 2990
 	,"ids"		: "Idstring(@ID7b9ae93598b5cebc@)"
 	,"StringID"	: "hud_v_vodka_mission2"
 	,"orig_text": "While extra loot is nice, we need to take his money. Find the safe with the money in it. Its gotta be somewhere!"
 },{
-	 "i"		: 2990
+	 "i"		: 2991
 	,"ids"		: "Idstring(@IDc775ddd17b78d712@)"
 	,"StringID"	: "hud_v_vodka_mission2_hl"
 	,"orig_text": "Find the safe with money in it"
 },{
-	 "i"		: 2991
+	 "i"		: 2992
 	,"ids"		: "Idstring(@ID8e3f37d229b07ed4@)"
 	,"StringID"	: "mad_txt_001"
 	,"orig_text": "лаборатория"
 },{
-	 "i"		: 2992
+	 "i"		: 2993
 	,"ids"		: "Idstring(@ID9dd2f1c2c26a5528@)"
 	,"StringID"	: "mad_txt_005"
 	,"orig_text": "медицинский осмотр комнаты"
 },{
-	 "i"		: 2993
+	 "i"		: 2994
 	,"ids"		: "Idstring(@ID6d512f769b29c73c@)"
 	,"StringID"	: "mad_txt_007"
 	,"orig_text": "хранение биотехника"
 },{
-	 "i"		: 2994
+	 "i"		: 2995
 	,"ids"		: "Idstring(@IDe592206cc19c2c06@)"
 	,"StringID"	: "message_c4_obtained"
 	,"orig_text": "Got the C4!"
 },{
-	 "i"		: 2995
+	 "i"		: 2996
 	,"ids"		: "Idstring(@ID1659963716194140@)"
 	,"orig_text": "Got Chavez keys!"
 },{
-	 "i"		: 2996
+	 "i"		: 2997
 	,"ids"		: "Idstring(@IDf46e840d7c409144@)"
 	,"StringID"	: "message_chavez_key_obtained"
 	,"orig_text": "Got the Key to the Panic Room! "
 },{
-	 "i"		: 2997
+	 "i"		: 2998
 	,"ids"		: "Idstring(@ID36989f98efcc225c@)"
 	,"StringID"	: "message_gas_applied"
 	,"orig_text": "Gas applied!"
 },{
-	 "i"		: 2998
+	 "i"		: 2999
 	,"ids"		: "Idstring(@ID28cedce53ac3f29f@)"
 	,"StringID"	: "message_obtained_equipment"
 	,"orig_text": "OBTAINED MISSION EQUIPMENT: "
 },{
-	 "i"		: 2999
+	 "i"		: 3000
 	,"ids"		: "Idstring(@ID2d67ef7171acb1b9@)"
 	,"StringID"	: "message_thermite_applied"
 	,"orig_text": "Thermite ignited!"
 },{
-	 "i"		: 3000
+	 "i"		: 3001
 	,"ids"		: "Idstring(@ID17498657fbaa851c@)"
 	,"StringID"	: "mission_completed_objectives"
 	,"orig_text": "COMPLETED OBJECTIVES: "
 },{
-	 "i"		: 3001
+	 "i"		: 3002
 	,"ids"		: "Idstring(@ID06fe5e7b9e9577e1@)"
 	,"StringID"	: "mission_objective_completed"
 	,"orig_text": "OBJECTIVE COMPLETED: "
 },{
-	 "i"		: 3002
+	 "i"		: 3003
 	,"ids"		: "Idstring(@ID640a7694a3dfb4b4@)"
 	,"StringID"	: "mission_objective_updated"
 	,"orig_text": "OBJECTIVE UPDATED: "
 },{
-	 "i"		: 3003
+	 "i"		: 3004
 	,"ids"		: "Idstring(@IDbbef9543dfca393a@)"
 	,"StringID"	: "mission_view_current_objective_PS3"
 	,"orig_text": "CURRENT OBJECTIVES: $BTN_BACK; "
 },{
-	 "i"		: 3004
+	 "i"		: 3005
 	,"ids"		: "Idstring(@IDda5f34293b24906c@)"
 	,"StringID"	: "prop_computer_gui_analyzing"
 	,"orig_text": "Analyzing"
 },{
-	 "i"		: 3005
+	 "i"		: 3006
 	,"ids"		: "Idstring(@IDe493edb2247bb8e2@)"
 	,"StringID"	: "prop_computer_gui_downloading"
 	,"orig_text": "Downloading"
 },{
-	 "i"		: 3006
+	 "i"		: 3007
 	,"ids"		: "Idstring(@ID5adb1c7f8e0db0a2@)"
 	,"StringID"	: "prop_security_lock_gui_done"
 	,"orig_text": "HACKING COMPLETED"
 },{
-	 "i"		: 3007
+	 "i"		: 3008
 	,"ids"		: "Idstring(@ID2ffa71fa781d0dfc@)"
 	,"StringID"	: "prop_security_lock_gui_start"
 	,"orig_text": "INITIATE"
 },{
-	 "i"		: 3008
+	 "i"		: 3009
 	,"ids"		: "Idstring(@ID6524e7cd5c35807c@)"
 	,"StringID"	: "prop_timer_glass_cutter_gui_malfunction"
 	,"orig_text": "// CUTTER JAMMED //"
 },{
-	 "i"		: 3009
+	 "i"		: 3010
 	,"ids"		: "Idstring(@ID3d5be6cdcd2967fb@)"
 	,"StringID"	: "prop_timer_glass_cutter_gui_start"
 	,"orig_text": "START THE CUTTER"
 },{
-	 "i"		: 3010
+	 "i"		: 3011
 	,"ids"		: "Idstring(@IDd03139a37c2b386a@)"
 	,"StringID"	: "prop_timer_glass_cutter_gui_working"
 	,"orig_text": "CUTTING IN PROGRESS"
 },{
-	 "i"		: 3011
+	 "i"		: 3012
 	,"ids"		: "Idstring(@ID418ed8b33858d7b8@)"
 	,"StringID"	: "prop_timer_gui_done"
 	,"orig_text": "DRILLING COMPLETED"
 },{
-	 "i"		: 3012
+	 "i"		: 3013
 	,"ids"		: "Idstring(@ID16d81bfe53d3ca16@)"
 	,"StringID"	: "prop_timer_gui_estimated_time"
 	,"orig_text": "ESTIMATED TIME REMAINING"
 },{
-	 "i"		: 3013
+	 "i"		: 3014
 	,"ids"		: "Idstring(@ID449b4580f5bd43aa@)"
 	,"StringID"	: "prop_timer_gui_malfunction"
 	,"orig_text": "// DRILL JAMMED //"
 },{
-	 "i"		: 3014
+	 "i"		: 3015
 	,"ids"		: "Idstring(@ID960384981a696c17@)"
 	,"StringID"	: "prop_timer_gui_seconds"
 	,"orig_text": "SECONDS"
 },{
-	 "i"		: 3015
+	 "i"		: 3016
 	,"ids"		: "Idstring(@ID05e36757b4756e68@)"
 	,"StringID"	: "prop_timer_gui_start"
 	,"orig_text": "START DRILLING"
 },{
-	 "i"		: 3016
+	 "i"		: 3017
 	,"ids"		: "Idstring(@IDc33c4193692cad5f@)"
 	,"StringID"	: "prop_timer_gui_working"
 	,"orig_text": "DRILLING IN PROGRESS"
 },{
-	 "i"		: 3017
+	 "i"		: 3018
 	,"ids"		: "Idstring(@IDe76da41df9fce216@)"
 	,"StringID"	: "prop_timer_hack_ipad_gui_done"
 	,"orig_text": "COMPLETED"
 },{
-	 "i"		: 3018
+	 "i"		: 3019
 	,"ids"		: "Idstring(@ID69d224c5851a07c2@)"
 	,"StringID"	: "prop_timer_hack_ipad_gui_malfunction"
 	,"orig_text": "// ERROR //"
 },{
-	 "i"		: 3019
+	 "i"		: 3020
 	,"ids"		: "Idstring(@ID91f892d307238abc@)"
 	,"StringID"	: "prop_timer_hack_ipad_gui_start"
 	,"orig_text": "START"
 },{
-	 "i"		: 3020
+	 "i"		: 3021
 	,"ids"		: "Idstring(@ID871191bb9c918f8c@)"
 	,"StringID"	: "prop_timer_hack_ipad_gui_working"
 	,"orig_text": "ACCESSING..."
 },{
-	 "i"		: 3021
+	 "i"		: 3022
 	,"ids"		: "Idstring(@ID6c8e5a44a3d8668d@)"
 	,"StringID"	: "prop_timer_saw_gui_malfunction"
 	,"orig_text": "// SAW JAMMED //"
 },{
-	 "i"		: 3022
+	 "i"		: 3023
 	,"ids"		: "Idstring(@IDdb75a243c8032fd7@)"
 	,"StringID"	: "prop_timer_saw_gui_start"
 	,"orig_text": "START THE SAW"
 },{
-	 "i"		: 3023
+	 "i"		: 3024
 	,"ids"		: "Idstring(@IDed58c613ca96e769@)"
 	,"StringID"	: "time_escape"
 	,"orig_text": "TIME TO ESCAPE"
 },{
-	 "i"		: 3024
+	 "i"		: 3025
 	,"ids"		: "Idstring(@ID58d908a6cb135ef5@)"
 	,"StringID"	: "time_trial"
 	,"orig_text": "TRIAL TIMER"
 },{
-	 "i"		: 3025
+	 "i"		: 3026
 	,"ids"		: "Idstring(@IDe6a5075e7548a18e@)"
 	,"StringID"	: "victory_best_accuracy"
 	,"orig_text": "BEST ACCURACY:"
 },{
-	 "i"		: 3026
+	 "i"		: 3027
 	,"ids"		: "Idstring(@ID401233f2bc03d1fc@)"
 	,"StringID"	: "victory_best_accuracy_name"
 	,"orig_text": "$PLAYER_NAME; ($SCORE;%)"
 },{
-	 "i"		: 3027
+	 "i"		: 3028
 	,"ids"		: "Idstring(@ID11be50f32f4f3336@)"
 	,"StringID"	: "victory_best_special_name"
 	,"orig_text": "$PLAYER_NAME; ($SCORE;)"
 },{
-	 "i"		: 3028
+	 "i"		: 3029
 	,"ids"		: "Idstring(@IDefde4d49acaa9222@)"
 	,"StringID"	: "victory_completed_objectives"
 	,"orig_text": "COMPLETED OBJECTIVES:"
 },{
-	 "i"		: 3029
+	 "i"		: 3030
 	,"ids"		: "Idstring(@ID03eca1edfc54e521@)"
 	,"StringID"	: "victory_completed_objectives_bonus"
 	,"orig_text": "COMPLETED OBJECTIVES:"
 },{
-	 "i"		: 3030
+	 "i"		: 3031
 	,"ids"		: "Idstring(@ID8273adda65c2409f@)"
 	,"StringID"	: "victory_completion_bonus_title"
 	,"orig_text": "COMPLETION CASH BONUS:"
 },{
-	 "i"		: 3031
+	 "i"		: 3032
 	,"ids"		: "Idstring(@ID1c660fa42055e48b@)"
 	,"StringID"	: "victory_criminals_finished"
 	,"orig_text": "SURVIVING CREW:"
 },{
-	 "i"		: 3032
+	 "i"		: 3033
 	,"ids"		: "Idstring(@ID611f33782eade0b8@)"
 	,"StringID"	: "victory_favourite_weapon"
 	,"orig_text": "FAVORITE WEAPON:"
 },{
-	 "i"		: 3033
+	 "i"		: 3034
 	,"ids"		: "Idstring(@ID9504c57866743053@)"
 	,"StringID"	: "victory_group_hit_accuracy"
 	,"orig_text": "CREW HIT ACCURACY:"
 },{
-	 "i"		: 3034
+	 "i"		: 3035
 	,"ids"		: "Idstring(@ID0289eb698a7344d0@)"
 	,"StringID"	: "victory_group_total_specials_kills"
 	,"orig_text": "CREW SPECIALS BODY COUNT:"
 },{
-	 "i"		: 3035
+	 "i"		: 3036
 	,"ids"		: "Idstring(@IDd5e01b78e70fd958@)"
 	,"StringID"	: "victory_money"
 	,"orig_text": "MONEY:"
 },{
-	 "i"		: 3036
+	 "i"		: 3037
 	,"ids"		: "Idstring(@IDc194fe0e9133a6ae@)"
 	,"StringID"	: "victory_most_downs"
 	,"orig_text": "MOST DOWNED:"
 },{
-	 "i"		: 3037
+	 "i"		: 3038
 	,"ids"		: "Idstring(@ID914b60cfc814407a@)"
 	,"StringID"	: "victory_most_downs_name"
 	,"orig_text": "$PLAYER_NAME; ($SCORE;)"
 },{
-	 "i"		: 3038
+	 "i"		: 3039
 	,"ids"		: "Idstring(@IDfa4c49bbcfb5b93f@)"
 	,"StringID"	: "victory_personal_stats"
 	,"orig_text": "PERSONAL STATISTICS:"
 },{
-	 "i"		: 3039
+	 "i"		: 3040
 	,"ids"		: "Idstring(@ID02f966de37a8a76b@)"
 	,"StringID"	: "victory_total_downed"
 	,"orig_text": "DOWNED:"

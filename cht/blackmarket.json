@@ -94,6 +94,7 @@
 	,"ids"		: "Idstring(@ID085c151ec4524250@)"
 	,"StringID"	: "bm_wp_mp5_b_mp5a5"
 	,"orig_text": "A practical but not very concealable handguard."
+	,"tran_text": "一個實用但難以隱藏的護木"
 },{
 	 "i"		: 18
 	,"ids"		: "Idstring(@ID290b94d832f72014@)"
@@ -339,6 +340,7 @@
 	,"ids"		: "Idstring(@ID75fabe1f62a4b514@)"
 	,"StringID"	: "bm_wp_m16_o_handle_sight_desc"
 	,"orig_text": "Standard Issue Part"
+	,"tran_text": "基礎部件。"
 },{
 	 "i"		: 60
 	,"ids"		: "Idstring(@ID83d277d44563c900@)"
@@ -722,6 +724,7 @@
 	,"ids"		: "Idstring(@ID1f7a6fa5c6b67d34@)"
 	,"StringID"	: "bm_wp_mp5_fg_mp5a4_desc"
 	,"orig_text": "Standard Issue Part"
+	,"tran_text": "基礎部件。"
 },{
 	 "i"		: 125
 	,"ids"		: "Idstring(@ID0892c1979ee984ce@)"
@@ -892,11 +895,13 @@
 	,"ids"		: "Idstring(@IDf3c9fdb6f13eb713@)"
 	,"StringID"	: "bm_wp_m4_s_pts_desc"
 	,"orig_text": "The design of this stock makes for slightly better accuracy."
+	,"tran_text": "這槍托設計令它的精確度有少量提升。"
 },{
 	 "i"		: 154
 	,"ids"		: "Idstring(@ID8bfc633ea2dfbadd@)"
 	,"StringID"	: "bm_wp_mp5_body_mp5"
 	,"orig_text": "Standard Issue Part"
+	,"tran_text": "基礎部件。"
 },{
 	 "i"		: 155
 	,"ids"		: "Idstring(@IDd832f64d605ffa4b@)"
@@ -914,6 +919,7 @@
 	,"ids"		: "Idstring(@ID4278e03ac2bf3537@)"
 	,"StringID"	: "bm_wp_mp5_fg_mp5a5_desc"
 	,"orig_text": "A practical but not very concealable handguard."
+	,"tran_text": "一個實用但難以隱藏的護木。"
 },{
 	 "i"		: 158
 	,"ids"		: "Idstring(@ID7b0dc24cb47f5f80@)"
@@ -1058,6 +1064,7 @@
 	,"ids"		: "Idstring(@IDf012f5c4e995b216@)"
 	,"StringID"	: "bm_wp_m4_uupg_b_medium_desc"
 	,"orig_text": "Has decent damage and good accuracy."
+	,"tran_text": "像樣的傷害及高的精確度。"
 },{
 	 "i"		: 183
 	,"ids"		: "Idstring(@ID31bc6e05ff08f56c@)"
@@ -1091,6 +1098,7 @@
 	,"ids"		: "Idstring(@ID46638b849ac9fb50@)"
 	,"StringID"	: "bm_wp_mp9_body_mp9"
 	,"orig_text": "Standard Issue Part"
+	,"tran_text": "基礎部件。"
 },{
 	 "i"		: 189
 	,"ids"		: "Idstring(@ID218e0cbaa6eaaf4c@)"
@@ -1233,6 +1241,7 @@
 	,"ids"		: "Idstring(@ID622a057edde7f00f@)"
 	,"StringID"	: "bm_wp_mp5_b_mp5sd"
 	,"orig_text": "Standard Issue Part"
+	,"tran_text": "基礎部件。"
 },{
 	 "i"		: 213
 	,"ids"		: "Idstring(@ID700301fd9aee72b1@)"
@@ -1467,6 +1476,7 @@
 	,"ids"		: "Idstring(@ID84be84eec69adf0c@)"
 	,"StringID"	: "bm_wp_m95_b_barrel_suppressed_achievment"
 	,"orig_text": "Perform $progress; more headshot kills on Cloakers using this weapon"
+	,"tran_text": "使用這武器再爆頭殺死 $progress; 個 Cloaker"
 },{
 	 "i"		: 253
 	,"ids"		: "Idstring(@ID5966b1e521984c77@)"
@@ -1878,11 +1888,13 @@
 	,"ids"		: "Idstring(@ID17ed348f40273dae@)"
 	,"StringID"	: "bm_wp_mp9_body_mp9_desc"
 	,"orig_text": "Standard Issue Part"
+	,"tran_text": "基礎部件。"
 },{
 	 "i"		: 323
 	,"ids"		: "Idstring(@ID60f133cf8d82ab8b@)"
 	,"StringID"	: "bm_wp_mac10_ris_dummy_desc"
 	,"orig_text": "Standard Issue Part"
+	,"tran_text": "基礎部件。"
 },{
 	 "i"		: 324
 	,"ids"		: "Idstring(@ID0e08032fe38f7e78@)"
@@ -1894,6 +1906,7 @@
 	,"ids"		: "Idstring(@ID366080c558177b3f@)"
 	,"StringID"	: "bm_wp_m4_s_adapter_desc"
 	,"orig_text": "Standard Issue Part"
+	,"tran_text": "基礎部件。"
 },{
 	 "i"		: 326
 	,"ids"		: "Idstring(@ID766b7285b2080cd2@)"
@@ -1994,6 +2007,7 @@
 	,"ids"		: "Idstring(@ID617ba16077020b69@)"
 	,"StringID"	: "bm_wp_mp9_m_extended_desc"
 	,"orig_text": "Enlarged magazine capacity."
+	,"tran_text": "增加彈匣容量。"
 },{
 	 "i"		: 344
 	,"ids"		: "Idstring(@ID62c872c9af571c56@)"
@@ -2017,11 +2031,13 @@
 	,"ids"		: "Idstring(@ID5cb913a0e4e7c66c@)"
 	,"StringID"	: "bm_wp_mp5_s_ring_desc"
 	,"orig_text": "The stock is removed altogether improving concealment."
+	,"tran_text": "去除了槍托的同時增加了隱匿度。"
 },{
 	 "i"		: 348
 	,"ids"		: "Idstring(@ID5f755e4f9aa915fd@)"
 	,"StringID"	: "bm_wp_mp5_m_drum_desc"
 	,"orig_text": "High Capacity Drum Magazine."
+	,"tran_text": "高容量鼓型彈匣。"
 },{
 	 "i"		: 349
 	,"ids"		: "Idstring(@ID6e697aff872c61cd@)"
@@ -2057,6 +2073,7 @@
 	,"ids"		: "Idstring(@ID517d1ef06c587e36@)"
 	,"StringID"	: "bm_wp_m14_body_ebr_desc"
 	,"orig_text": "This rail monster adds decent stability and decreased concealment."
+	,"tran_text": "這滑軌怪物增加了像樣的穩定性及減少了隱匿度。"
 },{
 	 "i"		: 355
 	,"ids"		: "Idstring(@IDf494cee98138ad30@)"
@@ -2086,6 +2103,7 @@
 	,"ids"		: "Idstring(@IDbcc29b6673086cf4@)"
 	,"StringID"	: "bm_wp_m4_s_adapter"
 	,"orig_text": "Standard Issue Part"
+	,"tran_text": "基礎部件。"
 },{
 	 "i"		: 360
 	,"ids"		: "Idstring(@ID9fc4711c147d5df8@)"
@@ -2578,6 +2596,7 @@
 	,"ids"		: "Idstring(@IDe0b877822ec48741@)"
 	,"StringID"	: "bm_wp_m14_body_jae_desc"
 	,"orig_text": "It's ergonomically designed to lend good stability and improved accuracy."
+	,"tran_text": "這舒適設計提升了穩定性及精確度。"
 },{
 	 "i"		: 443
 	,"ids"		: "Idstring(@ID8af7ac382d8297d5@)"
@@ -3176,6 +3195,7 @@
 	,"ids"		: "Idstring(@ID7f110111c73b9556@)"
 	,"StringID"	: "bm_wp_m16_fg_railed_desc"
 	,"orig_text": "A less concealable but stable piece."
+	,"tran_text": "一個較穩定但難以隱藏的部件。"
 },{
 	 "i"		: 545
 	,"ids"		: "Idstring(@IDea0536f5de0e9bc5@)"
@@ -3299,6 +3319,7 @@
 	,"ids"		: "Idstring(@ID436c612ed4d53839@)"
 	,"StringID"	: "bm_wp_mac10_body_ris_desc"
 	,"orig_text": "Complete rail system for the Mark 10."
+	,"tran_text": "為 Mark 10 完成滑軌系統。"
 },{
 	 "i"		: 566
 	,"ids"		: "Idstring(@ID7dcb6e03f95e202f@)"
@@ -3443,6 +3464,7 @@
 	,"ids"		: "Idstring(@IDa3bbf1180ebefef9@)"
 	,"StringID"	: "bm_wp_m4_s_standard_desc"
 	,"orig_text": "Standard Issue Part"
+	,"tran_text": "基礎部件。"
 },{
 	 "i"		: 591
 	,"ids"		: "Idstring(@ID94b6c916b1ea1ec6@)"
@@ -3556,6 +3578,7 @@
 	,"ids"		: "Idstring(@IDc5e64e3e0f363bd2@)"
 	,"StringID"	: "bm_wp_m4_lower_reciever_desc"
 	,"orig_text": "Standard Issue Part"
+	,"tran_text": "基礎部件。"
 },{
 	 "i"		: 610
 	,"ids"		: "Idstring(@ID980164ae93f0ea77@)"
@@ -4410,6 +4433,7 @@
 	,"ids"		: "Idstring(@IDab8290446fe79a08@)"
 	,"StringID"	: "bm_wp_m4_uupg_fg_rail_desc"
 	,"orig_text": "Concealment is decreased slightly with this piece."
+	,"tran_text": "這部件少量降低隱匿度。"
 },{
 	 "i"		: 756
 	,"ids"		: "Idstring(@ID4fd3dd8119cfe8c6@)"
@@ -5035,6 +5059,7 @@
 	,"ids"		: "Idstring(@ID4e7c3f0a83b16f25@)"
 	,"StringID"	: "bm_wp_m95_b_barrel_short_achievment"
 	,"orig_text": "Kill $progress; more Bulldozers using this weapon"
+	,"tran_text": "使用這武器再殺死 $progress; 個 Bulldozer"
 },{
 	 "i"		: 863
 	,"ids"		: "Idstring(@IDe461c448fd7658a3@)"
@@ -5103,6 +5128,7 @@
 	,"ids"		: "Idstring(@IDe95429f59874b33d@)"
 	,"StringID"	: "bm_wp_mp5_fg_mp5sd_desc"
 	,"orig_text": "Accuracy and stealth are improved with this piece."
+	,"tran_text": "這部件增加了精確度及潛行能力。"
 },{
 	 "i"		: 875
 	,"ids"		: "Idstring(@ID908925b9417eabd3@)"
@@ -5411,6 +5437,7 @@
 	,"ids"		: "Idstring(@ID2c1734b7df0089dd@)"
 	,"StringID"	: "bm_wp_m4_g_standard_desc"
 	,"orig_text": "Standard Issue Part"
+	,"tran_text": "基礎部件。"
 },{
 	 "i"		: 928
 	,"ids"		: "Idstring(@ID4cd945fa18b49f34@)"
@@ -5780,6 +5807,7 @@
 	,"ids"		: "Idstring(@ID314fcd9655b7d21d@)"
 	,"StringID"	: "bm_wp_mp9_m_short_desc"
 	,"orig_text": "Shortened Magazine."
+	,"tran_text": "縮短了的彈匣。"
 },{
 	 "i"		: 991
 	,"ids"		: "Idstring(@ID520b2fc04e7f469d@)"
@@ -6128,6 +6156,7 @@
 	,"ids"		: "Idstring(@ID668e65915a88905a@)"
 	,"StringID"	: "bm_wp_m16_os_frontsight"
 	,"orig_text": "Standard Issue Part"
+	,"tran_text": "基礎部件。"
 },{
 	 "i"		: 1051
 	,"ids"		: "Idstring(@ID2cb7e1d0a4ad4b46@)"
@@ -6215,11 +6244,13 @@
 	,"ids"		: "Idstring(@ID0830d88450efd33a@)"
 	,"StringID"	: "bm_wp_mac10_m_extended_desc"
 	,"orig_text": "Enlarged magazine capacity."
+	,"tran_text": "增加彈匣容量。"
 },{
 	 "i"		: 1066
 	,"ids"		: "Idstring(@ID355e3934b84549d3@)"
 	,"StringID"	: "bm_wp_mac10_ris_dummy"
 	,"orig_text": "Standard Issue Part"
+	,"tran_text": "基礎部件。"
 },{
 	 "i"		: 1067
 	,"ids"		: "Idstring(@IDcb94a6f8012b29b1@)"
@@ -6294,6 +6325,7 @@
 	,"ids"		: "Idstring(@ID1265f69df4e188e5@)"
 	,"StringID"	: "bm_wp_m4_m_drum_desc"
 	,"orig_text": "High capacity drum magazine."
+	,"tran_text": "高容量鼓型彈匣。"
 },{
 	 "i"		: 1080
 	,"ids"		: "Idstring(@IDc63005eb72bcbcec@)"
@@ -6412,6 +6444,7 @@
 	,"ids"		: "Idstring(@ID9e015de6b834d79d@)"
 	,"StringID"	: "bm_wp_mp5_b_mp5a5_desc"
 	,"orig_text": "A practical but not very concealable handguard."
+	,"tran_text": "一個實用但難以隱藏的護木。"
 },{
 	 "i"		: 1100
 	,"ids"		: "Idstring(@ID909df250f00a0f1d@)"
@@ -6524,6 +6557,7 @@
 	,"ids"		: "Idstring(@ID94ee7fbbb71141e6@)"
 	,"StringID"	: "bm_wp_m4_uupg_o_flipup_desc"
 	,"orig_text": "Standard Issue Part"
+	,"tran_text": "基礎部件。"
 },{
 	 "i"		: 1119
 	,"ids"		: "Idstring(@IDf2dc1521fd34872e@)"
@@ -6559,6 +6593,7 @@
 	,"ids"		: "Idstring(@ID426b2d78b0fed701@)"
 	,"StringID"	: "bm_wp_mp5_body_rail_desc"
 	,"orig_text": "Standard Issue Part"
+	,"tran_text": "基礎部件。"
 },{
 	 "i"		: 1125
 	,"ids"		: "Idstring(@ID56bbedabedc8136e@)"
@@ -6576,6 +6611,7 @@
 	,"ids"		: "Idstring(@ID1d4aa76aaf2ab48b@)"
 	,"StringID"	: "bm_wp_m134_barrel_short_desc"
 	,"orig_text": "REDUCES THE MOVEMENT SPEED PENALTY OF THE VULCAN MINIGUN."
+	,"tran_text": "降低手持火神機槍時的移動速度懲罰。"
 },{
 	 "i"		: 1128
 	,"ids"		: "Idstring(@ID6c8eb52ca3f436d5@)"
@@ -6938,6 +6974,7 @@
 	,"ids"		: "Idstring(@ID81ef49cfa5832201@)"
 	,"StringID"	: "bm_wp_mp5_fg_m5k_desc"
 	,"orig_text": "Very concealable but the tradeoff is decreased stability."
+	,"tran_text": "非常便於隱藏但降低穩定性。"
 },{
 	 "i"		: 1191
 	,"ids"		: "Idstring(@IDeaaf34f45f766f68@)"
@@ -8427,6 +8464,7 @@
 	,"ids"		: "Idstring(@ID674af10cd66cf35c@)"
 	,"StringID"	: "bm_wp_m14_body_dmr_desc"
 	,"orig_text": "Standard Issue Part"
+	,"tran_text": "基礎部件。"
 },{
 	 "i"		: 1445
 	,"ids"		: "Idstring(@ID9e783e2ec5b43806@)"
@@ -8503,6 +8541,7 @@
 	,"ids"		: "Idstring(@ID5d4f514fcaa73367@)"
 	,"StringID"	: "bm_wp_mp5_m_std"
 	,"orig_text": "Standard Issue Part"
+	,"tran_text": "基礎部件。"
 },{
 	 "i"		: 1458
 	,"ids"		: "Idstring(@IDb9c93ae4c85a8b01@)"
@@ -8631,6 +8670,7 @@
 	,"ids"		: "Idstring(@IDdef33dfd986c1149@)"
 	,"StringID"	: "bm_wp_mp5_body_rail"
 	,"orig_text": "Standard Issue Part"
+	,"tran_text": "基礎部件。"
 },{
 	 "i"		: 1480
 	,"ids"		: "Idstring(@ID1c58da63c2b02d4f@)"
@@ -8987,6 +9027,7 @@
 	,"ids"		: "Idstring(@ID8a5865366a59fcb0@)"
 	,"StringID"	: "bm_wp_m4_m_straight_desc"
 	,"orig_text": "A classic magazine with a small capacity and good concealment."
+	,"tran_text": "一個彈匣較少但較易隱藏的經典彈匣。"
 },{
 	 "i"		: 1541
 	,"ids"		: "Idstring(@IDb31165dcb75be711@)"
@@ -9073,6 +9114,7 @@
 	,"ids"		: "Idstring(@IDe643bfcff8d56d2b@)"
 	,"StringID"	: "bm_wp_m95_b_barrel_long_achievment"
 	,"orig_text": "Kill $progress; more enemies from 40 meters using this weapon"
+	,"tran_text": "使用這武器在四十米外再殺死 $progress; 個敵人"
 },{
 	 "i"		: 1556
 	,"ids"		: "Idstring(@IDb1b255067ae50800@)"
@@ -9853,6 +9895,7 @@
 	,"ids"		: "Idstring(@IDf403c097a61351de@)"
 	,"StringID"	: "bm_wp_mp5_m_std_desc"
 	,"orig_text": "Standard Issue Part"
+	,"tran_text": "基礎部件。"
 },{
 	 "i"		: 1690
 	,"ids"		: "Idstring(@ID0cc20788a78506c6@)"
@@ -9969,6 +10012,7 @@
 	,"ids"		: "Idstring(@ID79c727a05437e76f@)"
 	,"StringID"	: "bm_wp_m4_uupg_m_std_desc"
 	,"orig_text": "Standard issue magazine."
+	,"tran_text": "基礎發行彈匣。"
 },{
 	 "i"		: 1710
 	,"ids"		: "Idstring(@ID8d4ed032de4a7997@)"
@@ -10345,6 +10389,7 @@
 	,"ids"		: "Idstring(@ID4fabb6579c313d71@)"
 	,"StringID"	: "bm_wp_mac10_body_mac10_desc"
 	,"orig_text": "Standard Issue Part"
+	,"tran_text": "基礎部件。"
 },{
 	 "i"		: 1774
 	,"ids"		: "Idstring(@IDb76450df2fb8394c@)"
@@ -10356,6 +10401,7 @@
 	,"ids"		: "Idstring(@ID816ae149717b7475@)"
 	,"StringID"	: "bm_wp_m14_body_upper"
 	,"orig_text": "Standard Issue Part"
+	,"tran_text": "基礎部件。"
 },{
 	 "i"		: 1776
 	,"ids"		: "Idstring(@IDadf257eda8450208@)"
@@ -10676,6 +10722,7 @@
 	,"ids"		: "Idstring(@ID0bd59793355f0cc3@)"
 	,"StringID"	: "bm_wp_m134_body_upper_light_desc"
 	,"orig_text": "REDUCES THE MOVEMENT SPEED PENALTY OF THE VULCAN MINIGUN."
+	,"tran_text": "降低手持火神機槍時的移動速度懲罰。"
 },{
 	 "i"		: 1830
 	,"ids"		: "Idstring(@ID6690247987570720@)"
@@ -11088,6 +11135,7 @@
 	,"ids"		: "Idstring(@IDcdaf037c2ccf94f0@)"
 	,"StringID"	: "bm_wp_mac10_b_dummy"
 	,"orig_text": "Standard Issue Part"
+	,"tran_text": "基礎部件。"
 },{
 	 "i"		: 1900
 	,"ids"		: "Idstring(@IDb999578b54ffd370@)"
@@ -11139,6 +11187,7 @@
 	,"ids"		: "Idstring(@IDf5586ee2cd7e3b0b@)"
 	,"StringID"	: "bm_wp_mosin_ns_bayonet_desc"
 	,"orig_text": "Increases melee damage and knockdown while using weapon butt."
+	,"tran_text": "使用這刺刀增加近戰傷害及擊倒能力。"
 },{
 	 "i"		: 1909
 	,"ids"		: "Idstring(@ID1df7350ed8f8e12c@)"
@@ -11546,6 +11595,7 @@
 	,"ids"		: "Idstring(@ID5c390eb9c780d4cf@)"
 	,"StringID"	: "bm_wp_m14_m_standard_desc"
 	,"orig_text": "Standard Issue Part"
+	,"tran_text": "基礎部件。"
 },{
 	 "i"		: 1979
 	,"ids"		: "Idstring(@ID4bba448f73ecbab5@)"
@@ -11967,6 +12017,7 @@
 	,"ids"		: "Idstring(@IDbe52af05bf56cdb5@)"
 	,"StringID"	: "bm_wp_m4_uupg_fg_lr300_desc"
 	,"orig_text": "A concealable and accurate part."
+	,"tran_text": "一個可隱藏又精確的部件。"
 },{
 	 "i"		: 2052
 	,"ids"		: "Idstring(@ID41011075fa4976ea@)"
@@ -12227,6 +12278,7 @@
 	,"ids"		: "Idstring(@ID7fbccbbe593f0405@)"
 	,"StringID"	: "bm_wp_m4_uupg_draghandle_desc"
 	,"orig_text": "Standard Issue Part"
+	,"tran_text": "基礎部件。"
 },{
 	 "i"		: 2096
 	,"ids"		: "Idstring(@ID9d597026a041a624@)"
@@ -12250,6 +12302,7 @@
 	,"ids"		: "Idstring(@ID8e40c0b71306e1df@)"
 	,"StringID"	: "bm_wp_mac10_s_fold_desc"
 	,"orig_text": "Standard Issue Part"
+	,"tran_text": "基礎部件。"
 },{
 	 "i"		: 2100
 	,"ids"		: "Idstring(@ID2e34f9de0c2a0263@)"
@@ -12350,6 +12403,7 @@
 	,"ids"		: "Idstring(@IDf880f7efb71f11ee@)"
 	,"StringID"	: "bm_wp_m4_uupg_s_fold_desc"
 	,"orig_text": "Improved concealment over stability."
+	,"tran_text": "使用穩定性增加隱匿度。"
 },{
 	 "i"		: 2117
 	,"ids"		: "Idstring(@IDffcfef0b16148ce3@)"
@@ -12753,6 +12807,7 @@
 	,"ids"		: "Idstring(@IDda0441f734c86fb5@)"
 	,"StringID"	: "bm_wp_mp9_s_fold_desc"
 	,"orig_text": "Standard Issue Part"
+	,"tran_text": "基礎部件。"
 },{
 	 "i"		: 2186
 	,"ids"		: "Idstring(@ID0a273a956bb87f5c@)"
@@ -12929,6 +12984,7 @@
 	,"ids"		: "Idstring(@IDd33fe70af33704a7@)"
 	,"StringID"	: "bm_wp_mac10_body_ris_special"
 	,"orig_text": "Standard Issue Part"
+	,"tran_text": "基礎部件。"
 },{
 	 "i"		: 2216
 	,"ids"		: "Idstring(@ID6b0d74f886325d38@)"
@@ -13085,6 +13141,7 @@
 	,"ids"		: "Idstring(@IDff9bec71ffc5bf89@)"
 	,"StringID"	: "bm_wp_mac10_body_ris_special_desc"
 	,"orig_text": "Standard Issue Part"
+	,"tran_text": "基礎部件。"
 },{
 	 "i"		: 2243
 	,"ids"		: "Idstring(@ID92773f727c6cb308@)"
@@ -13581,11 +13638,13 @@
 	,"ids"		: "Idstring(@ID8b89ad41cba2f6d5@)"
 	,"StringID"	: "bm_wp_m14_body_lower"
 	,"orig_text": "Standard Issue Part"
+	,"tran_text": "基礎部件。"
 },{
 	 "i"		: 2328
 	,"ids"		: "Idstring(@IDc593494a5c2e8636@)"
 	,"StringID"	: "bm_wp_m16_fg_vietnam_desc"
 	,"orig_text": "This classic piece boosts accuracy, stability but affects suppression."
+	,"tran_text": "這經典部件大幅增加精確度、穩定性但影響威脅度。"
 },{
 	 "i"		: 2329
 	,"ids"		: "Idstring(@IDe1d338939691809f@)"
@@ -13713,6 +13772,7 @@
 	,"ids"		: "Idstring(@IDabe6e0f65d367477@)"
 	,"StringID"	: "bm_wp_m16_s_solid_desc"
 	,"orig_text": "Standard Issue Part"
+	,"tran_text": "基礎部件。"
 },{
 	 "i"		: 2351
 	,"ids"		: "Idstring(@IDeddc8ddcef1e9bd9@)"
@@ -14113,6 +14173,7 @@
 	,"ids"		: "Idstring(@ID1c25aafd999716cf@)"
 	,"StringID"	: "bm_wp_mac10_s_skel_desc"
 	,"orig_text": "Stability is improved slightly. Concealment is poor."
+	,"tran_text": "少量增加穩定性，很弱的隱匿度。"
 },{
 	 "i"		: 2419
 	,"ids"		: "Idstring(@IDe67c6efb73429d8e@)"
@@ -14129,6 +14190,7 @@
 	,"ids"		: "Idstring(@IDf6a68522e098ca3e@)"
 	,"StringID"	: "bm_wp_m4_uupg_b_long_desc"
 	,"orig_text": "Its length enables for greater accuracy but reduced concealment."
+	,"tran_text": "它的長度增加了精確度但降低了隱匿度。"
 },{
 	 "i"		: 2422
 	,"ids"		: "Idstring(@IDefbf485a7472876d@)"
@@ -14307,6 +14369,7 @@
 	,"ids"		: "Idstring(@ID128d0bbae15617e0@)"
 	,"StringID"	: "bm_wp_mp5_b_mp5a4"
 	,"orig_text": "Standard Issue Part"
+	,"tran_text": "基礎部件。"
 },{
 	 "i"		: 2453
 	,"ids"		: "Idstring(@ID4307cf31936123dc@)"
@@ -15779,6 +15842,7 @@
 	,"ids"		: "Idstring(@ID57d02fad0056cd44@)"
 	,"StringID"	: "bm_wp_m4_upper_reciever_round_desc"
 	,"orig_text": "Standard Issue Part"
+	,"tran_text": "基礎部件。"
 },{
 	 "i"		: 2705
 	,"ids"		: "Idstring(@ID0055978980c4c0b4@)"
@@ -16262,6 +16326,7 @@
 	,"ids"		: "Idstring(@IDba6a152c63a6efd3@)"
 	,"StringID"	: "bm_wp_mac10_m_short_desc"
 	,"orig_text": "Shortened Magazine."
+	,"tran_text": "縮短彈匣"
 },{
 	 "i"		: 2788
 	,"ids"		: "Idstring(@ID3b6196f4a7524706@)"
@@ -16326,6 +16391,7 @@
 	,"ids"		: "Idstring(@IDbd361e62e8679adc@)"
 	,"StringID"	: "bm_wp_m4_upper_reciever_edge_desc"
 	,"orig_text": "A more exotic receiver. Purely aesthetic. "
+	,"tran_text": "一個更有異國情調的機匣，純粹美觀。"
 },{
 	 "i"		: 2799
 	,"ids"		: "Idstring(@ID6092267792529d3f@)"
@@ -16484,6 +16550,7 @@
 	,"ids"		: "Idstring(@ID4ee27fdb02d4a489@)"
 	,"StringID"	: "bm_wp_m16_os_frontsight_desc"
 	,"orig_text": "Standard Issue Part"
+	,"tran_text": "基礎部件。"
 },{
 	 "i"		: 2826
 	,"ids"		: "Idstring(@IDe4100afb44125217@)"
@@ -16804,6 +16871,7 @@
 	,"ids"		: "Idstring(@IDf298c79da45a450d@)"
 	,"StringID"	: "bm_wp_m4_uupg_b_sd_desc"
 	,"orig_text": "Adds greater noise reduction. Sacrifices damage and accuracy."
+	,"tran_text": "大幅度消音，犧牲了傷害及精確度。"
 },{
 	 "i"		: 2881
 	,"ids"		: "Idstring(@ID0e6f75014b953842@)"
@@ -16826,6 +16894,7 @@
 	,"ids"		: "Idstring(@ID7918c3de8c55aa4b@)"
 	,"StringID"	: "bm_wp_m14_body_upper_desc"
 	,"orig_text": "Standard Issue Part"
+	,"tran_text": "基礎部件。"
 },{
 	 "i"		: 2885
 	,"ids"		: "Idstring(@IDf52c8e3160b49d0e@)"
@@ -16837,6 +16906,7 @@
 	,"ids"		: "Idstring(@ID490d09b36fa5ef98@)"
 	,"StringID"	: "bm_wp_m16_o_handle_sight"
 	,"orig_text": "Standard Front Sight"
+	,"tran_text": "基礎準星"
 },{
 	 "i"		: 2887
 	,"ids"		: "Idstring(@IDed1ca229c241da5c@)"
@@ -17007,6 +17077,7 @@
 	,"ids"		: "Idstring(@IDace4e3b3332fd51a@)"
 	,"StringID"	: "bm_wp_m4_m_pmag_desc"
 	,"orig_text": "A modern lighter magazine with good concealability."
+	,"tran_text": "一個現代更易隱藏的輕型彈匣。"
 },{
 	 "i"		: 2916
 	,"ids"		: "Idstring(@ID428532ffb69cff3f@)"
@@ -17327,6 +17398,7 @@
 	,"ids"		: "Idstring(@ID7e22a1efc8401f5e@)"
 	,"StringID"	: "bm_wp_mp5_body_mp5_desc"
 	,"orig_text": "Standard Issue Part"
+	,"tran_text": "基礎部件。"
 },{
 	 "i"		: 2971
 	,"ids"		: "Idstring(@ID43021af23cd9e0ad@)"
@@ -17344,6 +17416,7 @@
 	,"ids"		: "Idstring(@IDd49c98d423240a18@)"
 	,"StringID"	: "bm_wp_m4_uupg_fg_rail_ext_desc"
 	,"orig_text": "Standard Issue Part"
+	,"tran_text": "基礎部件。"
 },{
 	 "i"		: 2974
 	,"ids"		: "Idstring(@ID0e5bf2566eb5a3db@)"
@@ -17607,6 +17680,7 @@
 	,"ids"		: "Idstring(@IDd7c3a6b89060e85a@)"
 	,"StringID"	: "bm_wp_m16_s_solid"
 	,"orig_text": "Standard Issue Part"
+	,"tran_text": "基礎部件。"
 },{
 	 "i"		: 3019
 	,"ids"		: "Idstring(@ID6b2bcf09432ed7bc@)"
@@ -17646,6 +17720,7 @@
 	,"ids"		: "Idstring(@ID55df3ada1a14bd6d@)"
 	,"StringID"	: "bm_wp_mp5_b_mp5a4_desc"
 	,"orig_text": "Standard Issue Part"
+	,"tran_text": "基礎部件。"
 },{
 	 "i"		: 3026
 	,"ids"		: "Idstring(@IDbcd4d25e01761a2c@)"
@@ -17974,6 +18049,7 @@
 	,"ids"		: "Idstring(@ID73c7fc5ddcb8c16d@)"
 	,"StringID"	: "bm_wp_m4_lower_reciever"
 	,"orig_text": "Standard Issue Part"
+	,"tran_text": "基礎部件。"
 },{
 	 "i"		: 3082
 	,"ids"		: "Idstring(@IDbf0083b81b4c8e56@)"
@@ -18232,6 +18308,7 @@
 	,"ids"		: "Idstring(@ID2ee8410126691ba5@)"
 	,"StringID"	: "bm_wp_m14_body_lower_desc"
 	,"orig_text": "Standard Issue Part"
+	,"tran_text": "基礎部件。"
 },{
 	 "i"		: 3126
 	,"ids"		: "Idstring(@ID763a7fc46e8d5848@)"
@@ -19565,26 +19642,31 @@
 	,"ids"		: "Idstring(@ID1ee05db5c2364782@)"
 	,"StringID"	: "bm_wp_m14_body_dmr"
 	,"orig_text": "Desert Ops Stock"
+	,"tran_text": "沙漠行動槍托"
 },{
 	 "i"		: 3357
 	,"ids"		: "Idstring(@ID531c28aac2230b5b@)"
 	,"StringID"	: "bm_wp_m14_b_standard"
 	,"orig_text": "Standard Issue Part"
+	,"tran_text": "基礎部件。"
 },{
 	 "i"		: 3358
 	,"ids"		: "Idstring(@ID2585a7d14a20b734@)"
 	,"StringID"	: "bm_wp_m14_b_standard_desc"
 	,"orig_text": "Standard Issue Part"
+	,"tran_text": "基礎部件。"
 },{
 	 "i"		: 3359
 	,"ids"		: "Idstring(@ID4ba5a3fec2377df3@)"
 	,"StringID"	: "bm_wp_m14_m_standard"
 	,"orig_text": "Standard Issue Part"
+	,"tran_text": "基礎部件。"
 },{
 	 "i"		: 3360
 	,"ids"		: "Idstring(@ID84690daa232ce94a@)"
 	,"StringID"	: "bm_wp_m16_fg_standard_desc"
 	,"orig_text": "Standard Issue Part"
+	,"tran_text": "基礎部件。"
 },{
 	 "i"		: 3361
 	,"ids"		: "Idstring(@ID3dca172e329eda12@)"
@@ -19608,6 +19690,7 @@
 	,"ids"		: "Idstring(@ID81933370e12d1b77@)"
 	,"StringID"	: "bm_wp_m4_g_ergo_desc"
 	,"orig_text": "Accuracy is improved slightly."
+	,"tran_text": "少量增加精確度。"
 },{
 	 "i"		: 3365
 	,"ids"		: "Idstring(@ID439e18324d51b92f@)"
@@ -19619,6 +19702,7 @@
 	,"ids"		: "Idstring(@ID9978278d1d236df4@)"
 	,"StringID"	: "bm_wp_m4_g_sniper_desc"
 	,"orig_text": "Improves accuracy but stability is affected."
+	,"tran_text": "增加精確度但影響穩定性。"
 },{
 	 "i"		: 3367
 	,"ids"		: "Idstring(@IDe39be79c8a3aa8a1@)"
@@ -19642,31 +19726,37 @@
 	,"ids"		: "Idstring(@IDf1b460489b61f337@)"
 	,"StringID"	: "bm_wp_m4_uupg_b_short_desc"
 	,"orig_text": "Adds concealment but reduces accuracy and stability."
+	,"tran_text": "增加隱匿度但減少精確度及穩定性。"
 },{
 	 "i"		: 3371
 	,"ids"		: "Idstring(@ID94b163970d59d2c4@)"
 	,"StringID"	: "bm_wp_m4_uupg_draghandle"
 	,"orig_text": "Standard Issue Part"
+	,"tran_text": "基礎部件。"
 },{
 	 "i"		: 3372
 	,"ids"		: "Idstring(@ID39d06e5455436786@)"
 	,"StringID"	: "bm_wp_m4_uupg_fg_rail_ext"
 	,"orig_text": "Standard Issue Part"
+	,"tran_text": "基礎部件。"
 },{
 	 "i"		: 3373
 	,"ids"		: "Idstring(@IDbbe0ffa27a1f5213@)"
 	,"StringID"	: "bm_wp_m79_sight_down"
 	,"orig_text": "Flipped Sight"
+	,"tran_text": "翻轉瞄器"
 },{
 	 "i"		: 3374
 	,"ids"		: "Idstring(@ID0a86dd3af9aebc58@)"
 	,"StringID"	: "bm_wp_mac10_body_mac10"
 	,"orig_text": "Standard Issue Part"
+	,"tran_text": "基礎部件。"
 },{
 	 "i"		: 3375
 	,"ids"		: "Idstring(@ID8e82cf219e8e7ad8@)"
 	,"StringID"	: "bm_wp_mac10_b_dummy_desc"
 	,"orig_text": "Standard Issue Part"
+	,"tran_text": "基礎部件。"
 },{
 	 "i"		: 3376
 	,"ids"		: "Idstring(@ID28c33b27df0a5f1f@)"
@@ -19690,16 +19780,19 @@
 	,"ids"		: "Idstring(@IDf15450d29542382c@)"
 	,"StringID"	: "bm_wp_mp5_b_m5k"
 	,"orig_text": "Standard Issue Part"
+	,"tran_text": "基礎部件。"
 },{
 	 "i"		: 3380
 	,"ids"		: "Idstring(@ID6ad1e1cef09ae440@)"
 	,"StringID"	: "bm_wp_mp5_b_m5k_desc"
 	,"orig_text": "Adds concealment but reduces accuracy and stability."
+	,"tran_text": "增加隱匿度但降低精準度及穩定性。"
 },{
 	 "i"		: 3381
 	,"ids"		: "Idstring(@ID6983026ed4cb4ddc@)"
 	,"StringID"	: "bm_wp_mp5_b_mp5sd_desc"
 	,"orig_text": "Standard Issue Part"
+	,"tran_text": "基礎部件。"
 },{
 	 "i"		: 3382
 	,"ids"		: "Idstring(@IDc0090c61c59b140b@)"
@@ -19710,6 +19803,7 @@
 	,"ids"		: "Idstring(@ID7368d53ef2322f6c@)"
 	,"StringID"	: "bm_wp_mp5_fg_mp5a4"
 	,"orig_text": "Navy Handguard"
+	,"tran_text": "海軍護木"
 },{
 	 "i"		: 3384
 	,"ids"		: "Idstring(@IDb8fc27c4097fd62c@)"
@@ -19727,6 +19821,7 @@
 	,"ids"		: "Idstring(@ID5232a42a35a27659@)"
 	,"StringID"	: "bm_wp_mp5_s_adjust_desc"
 	,"orig_text": "Its adjustability makes for improved concealment."
+	,"tran_text": "它的可調性有助隱藏。"
 },{
 	 "i"		: 3387
 	,"ids"		: "Idstring(@ID7a6222e5526bff38@)"
