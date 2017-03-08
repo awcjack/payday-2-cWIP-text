@@ -1094,7 +1094,9 @@
 },{
 	 "i"		: 184
 	,"ids"		: "Idstring(@IDad8edcee11d3df01@)"
+	,"StringID"	: "menu_mute_heist_vo_help"
 	,"orig_text": "Mute contractors radio messages when playing heists."
+	,"tran_text": "當遊玩劫案時關上合約提供者的無線電訊息。"
 },{
 	 "i"		: 185
 	,"ids"		: "Idstring(@IDd51f38a6679bf3b5@)"
@@ -2498,7 +2500,9 @@
 },{
 	 "i"		: 419
 	,"ids"		: "Idstring(@ID0e234ec063465ef2@)"
+	,"StringID"	: "menu_ammo_contour_help"
 	,"orig_text": "Adds a contour around ammo pickups"
+	,"tran_text": "在子彈盒周圍增加輪廓"
 },{
 	 "i"		: 420
 	,"ids"		: "Idstring(@IDf5545836a57fc2ff@)"
@@ -9550,7 +9554,9 @@
 },{
 	 "i"		: 1603
 	,"ids"		: "Idstring(@ID0d8947860e5bf819@)"
+	,"StringID"	: "menu_throwable_contour_help"
 	,"orig_text": "Adds a contour around throwable pickups"
+	,"tran_text": "在投擲物周圍增加輪廓"
 },{
 	 "i"		: 1604
 	,"ids"		: "Idstring(@ID3f63e21645d8cd80@)"
@@ -13342,7 +13348,7 @@
 	,"ids"		: "Idstring(@IDae55e28eeefa7af4@)"
 	,"StringID"	: "menu_controller_invest"
 	,"orig_text": "$BTN_A; Invest Skillpoint"
-	,"tran_text": "$BTN_A; 投切技能點"
+	,"tran_text": "$BTN_A; 投入技能點"
 },{
 	 "i"		: 2241
 	,"ids"		: "Idstring(@IDcf40d3c3dbaf4f8e@)"
@@ -17226,7 +17232,9 @@
 },{
 	 "i"		: 2893
 	,"ids"		: "Idstring(@ID5dc006683bffc1c1@)"
+	,"StringID"	: "menu_mute_heist_vo"
 	,"orig_text": "Mute Contractor Voices"
+	,"tran_text": "合約提供者靜音"
 },{
 	 "i"		: 2894
 	,"ids"		: "Idstring(@IDf7374b80e596ac03@)"
@@ -19800,7 +19808,9 @@
 },{
 	 "i"		: 3325
 	,"ids"		: "Idstring(@ID38ef43067627164e@)"
+	,"StringID"	: "menu_ammo_contour"
 	,"orig_text": "Ammo Contour"
+	,"tran_text": "彈藥輪廓"
 },{
 	 "i"		: 3326
 	,"ids"		: "Idstring(@ID56828edfbd7169d9@)"
@@ -24630,7 +24640,9 @@
 },{
 	 "i"		: 4133
 	,"ids"		: "Idstring(@ID7d880797f8e15a93@)"
+	,"StringID"	: "menu_throwable_contour"
 	,"orig_text": "Throwable Contour"
+	,"tran_text": "投擲物輪廓"
 },{
 	 "i"		: 4134
 	,"ids"		: "Idstring(@ID74ee1fa0cc4e8d4f@)"

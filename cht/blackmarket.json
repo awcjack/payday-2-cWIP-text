@@ -5404,6 +5404,7 @@
 	,"ids"		: "Idstring(@ID01c946ec9a2af2d1@)"
 	,"StringID"	: "bm_menu_btn_equip_secondary_deployable"
 	,"orig_text": "Equip Secondary"
+	,"tran_text": "裝備於副欄位"
 },{
 	 "i"		: 922
 	,"ids"		: "Idstring(@IDa46cd942363ed5e7@)"
@@ -15918,6 +15919,7 @@
 	,"ids"		: "Idstring(@IDc0056ea1e37f1a37@)"
 	,"StringID"	: "bm_menu_btn_equip_primary_deployable"
 	,"orig_text": "Equip Primary"
+	,"tran_text": "裝備於主欄位"
 },{
 	 "i"		: 2718
 	,"ids"		: "Idstring(@ID18b1b6def762239d@)"
@@ -21951,21 +21953,25 @@
 	,"ids"		: "Idstring(@IDe71324f91b5d4c38@)"
 	,"StringID"	: "menu_steam_market_content_event_bah"
 	,"orig_text": "Goat"
+	,"tran_text": "羊"
 },{
 	 "i"		: 3755
 	,"ids"		: "Idstring(@ID2b50b9b7a2f50e39@)"
 	,"StringID"	: "menu_steam_market_content_event_dinner"
 	,"orig_text": "Slaughter"
+	,"tran_text": "屠宰場"
 },{
 	 "i"		: 3756
 	,"ids"		: "Idstring(@IDc13b6a0c9a3382e7@)"
 	,"StringID"	: "menu_steam_market_content_event_flake"
 	,"orig_text": "Christmas"
+	,"tran_text": "聖誕"
 },{
 	 "i"		: 3757
 	,"ids"		: "Idstring(@ID69d4a64d7f533be8@)"
 	,"StringID"	: "menu_steam_market_content_event_red"
 	,"orig_text": "First World"
+	,"tran_text": "世界第一"
 },{
 	 "i"		: 3758
 	,"ids"		: "Idstring(@ID7aca4867483ec1da@)"
