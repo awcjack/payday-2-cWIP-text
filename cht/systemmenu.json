@@ -1154,7 +1154,7 @@
 	,"ids"		: "Idstring(@ID62290d7a58ddc4b8@)"
 	,"StringID"	: "dialog_are_you_sure_you_want_leave_cs"
 	,"orig_text": "Are you sure you want to leave this lobby?$NL;$NL;Your Crime Spree will be suspended until you continue it."
-	,"tran_text": "你確定要離開這房間？$NL;$NL;你的犯罪狂歡將被暫停直止你繼續。"
+	,"tran_text": "你確定要離開這房間？$NL;$NL;你的犯罪狂歡將被暫停直到你繼續。"
 },{
 	 "i"		: 194
 	,"ids"		: "Idstring(@IDe6a0c4c65fbae9c8@)"
@@ -1176,7 +1176,7 @@
 	,"ids"		: "Idstring(@IDce3245b6f573bf22@)"
 	,"StringID"	: "dialog_cant_continue_cs_text"
 	,"orig_text": "You can not continue your Crime Spree as you do not have enough Continental Coins. In order to continue from $level;$BTN_SPREE_TICKET; you need $cost; Continental Coins."
-	,"tran_text": "你沒有足夠的歐洲幣以繼續你的犯罪狂歡，想在 $level;$BTN_SPREE_TICKET; 等級下繼續玩下去，你需 $cost; 個歐洲幣。"
+	,"tran_text": "你沒有足夠的歐洲幣以繼續你的犯罪狂歡，想在 $level;$BTN_SPREE_TICKET; 等級下繼續玩下去，你需花費 $cost; 個歐洲幣。"
 },{
 	 "i"		: 198
 	,"ids"		: "Idstring(@ID71215ba07654eee7@)"

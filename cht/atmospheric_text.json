@@ -1768,7 +1768,7 @@
 	,"ids"		: "Idstring(@ID1024b33e869db6d5@)"
 	,"StringID"	: "ammo_bag"
 	,"orig_text": "The ammo bag can be deployed on the ground, so that you and your crew can use it.$NL;Ammo for everyone."
-	,"tran_text": "彈藥包可以放置在地下，所以你和你的隊員都能使用它。$NL;彈藥是給所有人的。"
+	,"tran_text": "彈藥包可以設置在地上，以便你和你的隊友都能使用它。$NL;分享彈藥給所有人吧。"
 },{
 	 "i"		: 296
 	,"ids"		: "Idstring(@ID482be9515f887e52@)"
@@ -2284,7 +2284,7 @@
 	,"ids"		: "Idstring(@IDd21afd948a251aae@)"
 	,"StringID"	: "ammo_bag_increase"
 	,"orig_text": "This upgrades the amount of ammo that can be acquired from the bag.$NL;Even more ammo for everyone."
-	,"tran_text": "這提升了彈藥包中彈藥數量。$NL;對所有人來說都是。"
+	,"tran_text": "這增加了彈藥包中的備用子彈量。$NL;大家都有更多的彈藥。"
 },{
 	 "i"		: 382
 	,"ids"		: "Idstring(@IDff4d747cf6402c7c@)"
@@ -3244,7 +3244,7 @@
 	,"ids"		: "Idstring(@ID743d2ac7bd4b35c0@)"
 	,"StringID"	: "body_armor"
 	,"orig_text": "Body armor removes some of the damage received in combat.$NL;Good when moving between cover or in close combat."
-	,"tran_text": "護甲能減少戰鬥中的傷害。$NL;最好在掩體跟戰鬥中進出。"
+	,"tran_text": "護甲能減少戰鬥中的傷害。$NL;在各個掩體移動和近距離戰鬥時效果最好。"
 },{
 	 "i"		: 542
 	,"ids"		: "Idstring(@IDe148d25268b5b14f@)"

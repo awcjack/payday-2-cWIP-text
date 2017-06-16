@@ -1233,6 +1233,7 @@
 },{
 	 "i"		: 249
 	,"ids"		: "Idstring(@IDa5a0b78868f58b06@)"
+	,"StringID"	: "geo_glc_02_01"
 	,"orig_text": "Yeah, I'm there in just a minute."
 },{
 	 "i"		: 250
@@ -3984,6 +3985,7 @@
 },{
 	 "i"		: 803
 	,"ids"		: "Idstring(@ID53de84a7d6dd2f31@)"
+	,"StringID"	: "pln_glc_01_03"
 	,"orig_text": "Ok gang, you know what we're here for. Go!"
 },{
 	 "i"		: 804
@@ -5590,6 +5592,7 @@
 },{
 	 "i"		: 1127
 	,"ids"		: "Idstring(@ID9ec313ee941ead43@)"
+	,"StringID"	: "pln_glc_34_02"
 	,"orig_text": "Drill the van open! Get it out of the way! "
 },{
 	 "i"		: 1128
@@ -5902,6 +5905,7 @@
 },{
 	 "i"		: 1190
 	,"ids"		: "Idstring(@IDb801d566ca79765f@)"
+	,"StringID"	: "pln_glc_31_04"
 	,"orig_text": "Go to that pillar! Move!"
 },{
 	 "i"		: 1191
@@ -8955,6 +8959,7 @@
 },{
 	 "i"		: 1805
 	,"ids"		: "Idstring(@ID13c4cc116c9d6083@)"
+	,"StringID"	: "pln_glc_07_05"
 	,"orig_text": "Saw them open!"
 },{
 	 "i"		: 1806
@@ -10479,6 +10484,7 @@
 },{
 	 "i"		: 2112
 	,"ids"		: "Idstring(@ID09965c65626028d7@)"
+	,"StringID"	: "pln_glc_07_08"
 	,"orig_text": "You gotta saw those trucks open to find the target!"
 },{
 	 "i"		: 2113
@@ -11113,6 +11119,7 @@
 },{
 	 "i"		: 2240
 	,"ids"		: "Idstring(@ID79a32c5c27f6d1bb@)"
+	,"StringID"	: "geo_glc_06_01"
 	,"orig_text": "Alright, got the package. Heading home."
 },{
 	 "i"		: 2241
@@ -12629,6 +12636,7 @@
 },{
 	 "i"		: 2546
 	,"ids"		: "Idstring(@IDb86e5c47dae36888@)"
+	,"StringID"	: "pln_glc_08_02"
 	,"orig_text": "That's the first one opened - have a look inside!"
 },{
 	 "i"		: 2547
@@ -12881,6 +12889,7 @@
 },{
 	 "i"		: 2597
 	,"ids"		: "Idstring(@ID29227edaa4ba1382@)"
+	,"StringID"	: "pln_glc_07_07"
 	,"orig_text": "Saw those trucks open and find him!"
 },{
 	 "i"		: 2598
@@ -13510,6 +13519,7 @@
 },{
 	 "i"		: 2724
 	,"ids"		: "Idstring(@ID08f03fb340ee4615@)"
+	,"StringID"	: "pln_glc_33_03"
 	,"orig_text": "Ok, you're gonna have to raise the balloon again, guys!"
 },{
 	 "i"		: 2725
@@ -14671,6 +14681,7 @@
 },{
 	 "i"		: 2957
 	,"ids"		: "Idstring(@IDb073c3553111322d@)"
+	,"StringID"	: "pln_glc_03_02"
 	,"orig_text": "There should be four prison transports."
 },{
 	 "i"		: 2958
@@ -17000,6 +17011,7 @@
 },{
 	 "i"		: 3427
 	,"ids"		: "Idstring(@ID69bbe5ddf78c7987@)"
+	,"StringID"	: "pln_glc_26_03"
 	,"orig_text": "Just 30 seconds to pickup!"
 },{
 	 "i"		: 3428
@@ -18063,6 +18075,7 @@
 },{
 	 "i"		: 3641
 	,"ids"		: "Idstring(@ID53c454e77bedf6e7@)"
+	,"StringID"	: "pln_glc_11_03"
 	,"orig_text": "That's the last one opened! Check it!"
 },{
 	 "i"		: 3642
@@ -22153,6 +22166,7 @@
 },{
 	 "i"		: 4466
 	,"ids"		: "Idstring(@ID8d54d3c25bb59177@)"
+	,"StringID"	: "pln_glc_12_01"
 	,"orig_text": "Is that one of GENSEC's armored cash transports? If you open it we could get some additional cash from this job."
 },{
 	 "i"		: 4467
@@ -24687,6 +24701,7 @@
 },{
 	 "i"		: 4976
 	,"ids"		: "Idstring(@IDfea30e3f1b2c2b96@)"
+	,"StringID"	: "pln_glc_29_01"
 	,"orig_text": "Time to get out of here. Leave the tower and move further along the bridge."
 },{
 	 "i"		: 4977
@@ -27836,6 +27851,7 @@
 },{
 	 "i"		: 5610
 	,"ids"		: "Idstring(@ID1207c89dc68a41ca@)"
+	,"StringID"	: "pln_glc_32_02"
 	,"orig_text": "Watch it! Don't let the cops take the balloon down!"
 },{
 	 "i"		: 5611
@@ -30850,6 +30866,7 @@
 },{
 	 "i"		: 6219
 	,"ids"		: "Idstring(@IDc49edc43c047742f@)"
+	,"StringID"	: "pln_glc_25_01"
 	,"orig_text": "Where's that plane? Report status!"
 },{
 	 "i"		: 6220
@@ -35417,6 +35434,7 @@
 },{
 	 "i"		: 7139
 	,"ids"		: "Idstring(@IDd100e2864712b007@)"
+	,"StringID"	: "pln_glc_10_01"
 	,"orig_text": "Third transport is open - check inside!"
 },{
 	 "i"		: 7140
@@ -35877,6 +35895,7 @@
 },{
 	 "i"		: 7232
 	,"ids"		: "Idstring(@ID9f812bce66d531d4@)"
+	,"StringID"	: "pln_glc_07_06"
 	,"orig_text": "Open the trucks! Use the saws!"
 },{
 	 "i"		: 7233
@@ -38385,6 +38404,7 @@
 },{
 	 "i"		: 7736
 	,"ids"		: "Idstring(@ID3d10d8db16fdeb1a@)"
+	,"StringID"	: "pln_glc_07_04"
 	,"orig_text": "Get those transports opened up!"
 },{
 	 "i"		: 7737
@@ -40452,6 +40472,7 @@
 },{
 	 "i"		: 8153
 	,"ids"		: "Idstring(@ID8b63c606878c39f7@)"
+	,"StringID"	: "pln_glc_brf_01"
 	,"orig_text": "The plan is simple: under cover of darkness, we hit the convoy when they cross Green Bridge. Actually - we'll blow the bridge with explosives! That should stop all traffic, don't you think? We grab the prisoner, put him in a fulton skyhook and make him vanish into thin air."
 },{
 	 "i"		: 8154
@@ -41048,6 +41069,7 @@
 },{
 	 "i"		: 8273
 	,"ids"		: "Idstring(@IDee5ab1877dae2c6f@)"
+	,"StringID"	: "pln_glc_07_03"
 	,"orig_text": "Saw those transports open!"
 },{
 	 "i"		: 8274
@@ -41202,6 +41224,7 @@
 },{
 	 "i"		: 8304
 	,"ids"		: "Idstring(@ID341ebcb4ad8170cb@)"
+	,"StringID"	: "pln_glc_31_03"
 	,"orig_text": "To the pillar guys!"
 },{
 	 "i"		: 8305
@@ -43308,6 +43331,7 @@
 },{
 	 "i"		: 8729
 	,"ids"		: "Idstring(@IDc66db990660348f7@)"
+	,"StringID"	: "geo_glc_03_01"
 	,"orig_text": "I'm here, picking up the package."
 },{
 	 "i"		: 8730
@@ -47374,6 +47398,7 @@
 },{
 	 "i"		: 9551
 	,"ids"		: "Idstring(@ID9506d9e2cace599c@)"
+	,"StringID"	: "pln_glc_19_02"
 	,"orig_text": "So you reached the top? Have the prisoner buckle up and then release the balloon. The plane will be coming in soon."
 },{
 	 "i"		: 9552
@@ -48023,6 +48048,7 @@
 },{
 	 "i"		: 9682
 	,"ids"		: "Idstring(@ID8255e1c125e88f52@)"
+	,"StringID"	: "pln_glc_14_01"
 	,"orig_text": "That's him! Get him to the top of the tower!"
 },{
 	 "i"		: 9683
@@ -48387,6 +48413,7 @@
 },{
 	 "i"		: 9756
 	,"ids"		: "Idstring(@IDc8f2fe36b781f1fa@)"
+	,"StringID"	: "pln_glc_28_02"
 	,"orig_text": "Pilot just landed the passenger. You can go home!"
 },{
 	 "i"		: 9757
@@ -48670,6 +48697,7 @@
 },{
 	 "i"		: 9813
 	,"ids"		: "Idstring(@ID993241e977955108@)"
+	,"StringID"	: "pln_glc_30_02"
 	,"orig_text": "Time to split! To the right and down the stairs. Go!"
 },{
 	 "i"		: 9814
@@ -49653,6 +49681,7 @@
 },{
 	 "i"		: 10011
 	,"ids"		: "Idstring(@ID884fecf30c5f6025@)"
+	,"StringID"	: "pln_glc_05_02"
 	,"orig_text": "Whoa, another explosion! Look out!"
 },{
 	 "i"		: 10012
@@ -50232,6 +50261,7 @@
 },{
 	 "i"		: 10129
 	,"ids"		: "Idstring(@ID215a08d85698bde4@)"
+	,"StringID"	: "pln_glc_06_03"
 	,"orig_text": "You gotta saw the trucks open to find out which one he's in."
 },{
 	 "i"		: 10130
@@ -51345,6 +51375,7 @@
 },{
 	 "i"		: 10354
 	,"ids"		: "Idstring(@IDef5ee3b22b91480a@)"
+	,"StringID"	: "pln_glc_cbf_01"
 	,"orig_text": "Ok, it's time to break this guy Kazuo out of prison so we can get the information he has on Kento. I engineered some ah... trouble... to get him transferred to another facility by convoy. We'll ambush that convoy and break the prisoner out. This isn't gonna be a quiet one, guys, we'll need to take extreme measures to stop the prison trucks. And, yeah, Kazuo doesn't know we're breaking him out, so boy is he in for a surprise!"
 },{
 	 "i"		: 10355
@@ -53179,6 +53210,7 @@
 },{
 	 "i"		: 10724
 	,"ids"		: "Idstring(@ID510c58abd1dc2341@)"
+	,"StringID"	: "pln_glc_32_01"
 	,"orig_text": "Cops are going for the balloon! Stop them!"
 },{
 	 "i"		: 10725
@@ -54847,6 +54879,7 @@
 },{
 	 "i"		: 11062
 	,"ids"		: "Idstring(@IDd2f0c3899b9cc38c@)"
+	,"StringID"	: "pln_glc_end_03"
 	,"orig_text": "Executed like true professionals! You got your guy, and I'm sure that explosion was heard all over the city!"
 },{
 	 "i"		: 11063
@@ -57867,6 +57900,7 @@
 },{
 	 "i"		: 11671
 	,"ids"		: "Idstring(@ID97f37750a91d5c3d@)"
+	,"StringID"	: "geo_glc_01_01"
 	,"orig_text": "I'll be there in a couple of minutes."
 },{
 	 "i"		: 11672
@@ -58629,6 +58663,7 @@
 },{
 	 "i"		: 11825
 	,"ids"		: "Idstring(@ID7020548e74163508@)"
+	,"StringID"	: "pln_glc_17_01"
 	,"orig_text": "Alright, we're close. Get him to the top of the tower on your right!"
 },{
 	 "i"		: 11826
@@ -58996,6 +59031,7 @@
 },{
 	 "i"		: 11899
 	,"ids"		: "Idstring(@IDe8b77c8cd993d6ab@)"
+	,"StringID"	: "pln_glc_18_03"
 	,"orig_text": "See the yellow waste chute on the side of the construction tower? You can throw the loot in there and I'll have someone pick it up later."
 },{
 	 "i"		: 11900
@@ -63812,6 +63848,7 @@
 },{
 	 "i"		: 12869
 	,"ids"		: "Idstring(@IDb9b2bc7bfdd90654@)"
+	,"StringID"	: "pln_glc_02_01"
 	,"orig_text": "Keep moving along the bridge until you reach the prison transports."
 },{
 	 "i"		: 12870
@@ -63824,10 +63861,12 @@
 },{
 	 "i"		: 12872
 	,"ids"		: "Idstring(@ID71d3c1b027817a1a@)"
+	,"StringID"	: "pln_glc_07_02"
 	,"orig_text": "Saw those trucks open!"
 },{
 	 "i"		: 12873
 	,"ids"		: "Idstring(@IDaaae017f128b9bc8@)"
+	,"StringID"	: "pln_glc_09_01"
 	,"orig_text": "Second transport is open - check inside!"
 },{
 	 "i"		: 12874
@@ -63852,6 +63891,7 @@
 },{
 	 "i"		: 12879
 	,"ids"		: "Idstring(@IDd1efb4faa9c97eac@)"
+	,"StringID"	: "pln_glc_21_03"
 	,"orig_text": "That's an attack helicopter incoming! Hold on to your hats!"
 },{
 	 "i"		: 12880
@@ -63864,6 +63904,7 @@
 },{
 	 "i"		: 12882
 	,"ids"		: "Idstring(@IDd073df3c4eb8ed46@)"
+	,"StringID"	: "pln_glc_23_02"
 	,"orig_text": "You gotta hold the fort for two minutes until the plane makes the pickup."
 },{
 	 "i"		: 12883
@@ -65709,10 +65750,12 @@
 },{
 	 "i"		: 13252
 	,"ids"		: "Idstring(@ID38aa1b1ae829930b@)"
+	,"StringID"	: "pln_moon_02_04"
 	,"orig_text": "Whack Santa so he wakes up!"
 },{
 	 "i"		: 13253
 	,"ids"		: "Idstring(@IDb06afe7e31e9337d@)"
+	,"StringID"	: "pln_moon_02_05"
 	,"orig_text": "Give Santa a good thrashing! Wake him up!"
 },{
 	 "i"		: 13254
@@ -67569,6 +67612,7 @@
 },{
 	 "i"		: 13625
 	,"ids"		: "Idstring(@ID0a0a0043c74ba19e@)"
+	,"StringID"	: "pln_run_08_05"
 	,"orig_text": "Take that bastard out!"
 },{
 	 "i"		: 13626
@@ -75759,6 +75803,7 @@
 },{
 	 "i"		: 15274
 	,"ids"		: "Idstring(@ID43ba3fd3309edd13@)"
+	,"StringID"	: "vld_moon_39_04"
 	,"orig_text": "You can destroy anything you want, and kill anyone you want, but leave the tree alone!"
 },{
 	 "i"		: 15275

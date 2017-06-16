@@ -220,7 +220,7 @@
 	,"ids"		: "Idstring(@IDef5c370a5aa6d23b@)"
 	,"StringID"	: "heist_run_crimenet"
 	,"orig_text": "As you know, intelligence and information is my business. And I recently came across something important that concerns you. the Payday Gang. Someone is out to destroy you, possibly kill all of you. This morning I intercepted a message indicating that an agent of these people is meeting someone at a certain location downtown. I don't know yet who these people are, but as you know, I find you a valued asset, and so I want to help you apprehend this agent so you can squeeze information out of him. I'll give you the location and then keep an eye on you while you conduct the operation.$NL;$NL;» Find and apprehend the agent$NL;» Watch out for surprises"
-	,"tran_text": "你知道的，智慧跟資訊都是我的專業，我最近找到了一些關於你很重要的事。 Payday 幫，有人想摧毀你們，可能想殺死你們所有人。今早我收到訊息知道有些人在市中心會見特務，我不知道他們是誰，但你知道的，我找到了有價值的東西，所以我想幫你逮捕這特務以擠出你想要的資訊，我會給你位置以及看住你的運作。$NL;$NL;» 找到及逮捕這特務$NL;» 等待驚喜"
+	,"tran_text": "你們都知道，情報及資訊就是我的專業，然而我最近找到了一些對你們Payday幫很重要的情報：有人一心要毀掉你們，甚至想殺死你們所有人。從我今早攔截到的訊息所知，敵人的特工準備在市中心會見某個人，我不知道他們是誰，但如你們所知，我找到的這個情報極具價值，所以我幫你們「挽留」一下那位特務先生，以便你們從他身上擠出更多情報，我會給你們位置以及在你們在忙的時候幫忙把風的。$NL;$NL;» 找到及逮捕這名特務$NL;» 保持警覺"
 },{
 	 "i"		: 38
 	,"ids"		: "Idstring(@IDa9543f81fc794926@)"
@@ -316,7 +316,7 @@
 	,"ids"		: "Idstring(@IDafd66f4dffb7ba6b@)"
 	,"StringID"	: "heist_born_hl"
 	,"orig_text": "Lion's Den"
-	,"tran_text": "獅子巢穴"
+	,"tran_text": "深入虎穴"
 },{
 	 "i"		: 54
 	,"ids"		: "Idstring(@IDfbd5c2a194b2e19c@)"
@@ -328,13 +328,13 @@
 	,"ids"		: "Idstring(@ID864cfb11b2eb4bb4@)"
 	,"StringID"	: "heist_pal_briefing"
 	,"orig_text": "Welcome to the sunshine state! Where the women are gold diggers and the men are crooks. Meet Mr. Mitchell: on the surface, a golf coach for a respectable country club. Under the surface, a professional money launderer and counterfeiter - a master criminal. Mitchell and his partner in crime, Wilson, have managed to stay under the radar literally making millions. Until now."
-	,"tran_text": "歡迎來到佛羅里達州！女性是釣金龜婿的那種人而男性則是騙子。找到 Mitchell 先生，表面上他是一個鄉村俱樂部的高爾夫球教練。事實上，他是一個專業的洗黑錢師和偽鈔製造者 - 一個犯罪大師。 Mitchell 和他的犯罪夥伴， Wilson ，設法悶聲發大財，當然到此為止了。"
+	,"tran_text": "歡迎來到佛羅里達州！這裡是由一心想釣上金龜婿的女人，和只懂騙財騙色的男人所組成的國度。為你們介紹 Mitchell 先生：他表面上是個鄉村俱樂部的高爾夫球教練，但背地裡，他是個洗黑錢和印刷偽鈔的專家－－真真正正的專業罪犯。原本 Mitchell 和他的犯罪夥伴 Wilson 一直都在悶聲發大財，直到我們上門叨擾為止。"
 },{
 	 "i"		: 56
 	,"ids"		: "Idstring(@ID41cd257a266b151c@)"
 	,"StringID"	: "heist_moon_hl_briefing"
 	,"orig_text": "Vlad's brother-in-law hid from the cops in the mall's loading bay. It seems he hid the coke in various boxes, boxes that have now been distributed to shops all over the mall. He also disguised himself in a Santa Claus costume and stole some vodka and got drunk. What a mess. The cops got suspicious of the drunk Santa and apprehended him. You'll need to free him and ask him if he remembers what boxes he put the coke in."
-	,"tran_text": "Vlad 的兄弟被條子藏了在商場的裝貨區，看起來他藏了古柯鹼在不同盒內，盒子被分到整個商場的商店內。他同時偽裝成聖誕老人及偷了一點伏特加然後喝醉。條子對醉了的聖誕老人感到很可疑然後逮捕他。你需要釋放他並等他想起放了古柯鹼在哪些盒子再問他。"
+	,"tran_text": "Vlad 的姐夫為了逃避條子而匿藏在商場的裝貨區，看來他把古柯鹼藏在不同的盒子內，而這些盒子已被分派到整個商場的商店裡去了。他同時偽裝成聖誕老人，還偷了點伏特加喝個酩酊大醉。真是見鬼，條子對醉醺醺的聖誕老人起疑所以將他逮捕了。你們需要釋放他，並且問他有沒有想起藏有古柯鹼的盒子在哪裡。"
 },{
 	 "i"		: 57
 	,"ids"		: "Idstring(@IDc840d8eed9f27aa3@)"
@@ -394,7 +394,7 @@
 	,"ids"		: "Idstring(@IDdd6918988bce2070@)"
 	,"StringID"	: "heist_spa_crimenet"
 	,"orig_text": "You're going to New York tonight. The Continental called - one of their key staff has been ambushed and is being held by unknown assailants at an address in Brooklyn. We have the location from a call he made just as they took him. The target's name is Charon. We need to get there fast, take out whoever's got him and send him back to the Continental safe and sound.$NL;$NL;» Locate Charon$NL;» Rescue Charon and protect him from the attackers$NL;» Get back what was stolen$NL;» Escape"
-	,"tran_text": "你今晚要去紐約，歐洲集團說了－他們的其中一個主要職員被不明的人在布魯克林中被人襲擊，我們收到了他的電話知道了位置，目標人物是 Charon ，我們需要快點，救他出來及送他回歐洲集團的安全屋。$NL;$NL;? 找到 Charon$NL;? 解救 Charon 及保護他$NL;? 回去起點$NL;? 撤離"
+	,"tran_text": "你們今晚要去紐約。這次是歐洲集團的委託－他們的一個重要職員在布魯克林區被不明人士伏擊並綁走了。我們知道了他在被綁架前撥打電話的地點，目標人物是 Charon 。我們要儘速過去，幹掉綁架他的人及將他安全送回歐洲集團處。$NL;$NL;» 找到 Charon$NL;» 解救 Charon 及保護他$NL;» 拿回被搶走的東西$NL;» 撤離"
 },{
 	 "i"		: 67
 	,"ids"		: "Idstring(@ID1ca3aaba17ce04dd@)"
@@ -508,13 +508,13 @@
 	,"ids"		: "Idstring(@ID58dfcd1ce3cb14f2@)"
 	,"StringID"	: "heist_man_briefing"
 	,"orig_text": "The Taxman thought he was clever making a deal with a big corporation, but the information leaked, and now bigger sharks want in - all in. We have a complete, run-down building to ourselves, overlooking the deal. We've got a set-up installed. Alex will help with the crane. Scare the Taxman into his limo, shake him up, and he'll be sure to give us the server and the codes. When it's about $25,000,000, anything goes."
-	,"tran_text": "稅務員以為他夠聰明可以與大公司進行交易，但資料外洩，而且有更大的鯊魚希望加入 - 全力一搏。我們有一個完整、破爛的建築以供我們俯瞰交易。我們已經設定好裝置。 Alex 將會用起重機幫助我們，嚇稅務員進入他的加長車，威脅他，他一定會給我們伺服器和密碼。當那是二千五百萬時 ($25,000,000) ， 甚麼都可以。"
+	,"tran_text": "有位自作聰明的稅務員打算跟某個大財團進行秘密交易，殊不知走漏風聲，引來飢餓的大鯊魚們打算從中插手不特止－－還要是盡地一煲。那裡有座完整的廢棄大樓供我們監視交易現場。場地也已經佈置好了，Alex 將會用起重機協助驚嚇那稅務員躲進加長車，捉住並威逼他，他就會交出伺服器和密碼了。只要能獲得二千五百萬美元，我們可以不擇手段。"
 },{
 	 "i"		: 86
 	,"ids"		: "Idstring(@ID06f1439fb5ef52bb@)"
 	,"StringID"	: "heist_peta_crimenet"
 	,"orig_text": "Hector's death left a vacuum in the powder trade. Nature abhors a vacuum. Fucking abhors it! There's muck-fuckers crawling in from everywhere. Bunch of Hondurans are trying to spread. Let's hit them before they can take root. Break up their smuggling ring. Steal their product. What can go wrong?$NL;$NL;» Locate the goats$NL;» Secure the goats$NL;» Escape"
-	,"tran_text": "Hector 的死給毒品交易留下了空隙。本性痛恨空虛。見鬼的討厭死了！該死的臭蟲爬了滿地。Honduran 準備大展手腳。讓我們在他們拿到東西之前搶下來。破壞掉他們的走私網。偷走他們的產品，準沒錯？$NL;$NL;» 鎖定山羊的位置$NL;» 安全運走山羊$NL;» 撤離"
+	,"tran_text": "Hector 的死令毒品市場出現一片真空。正所謂「自然厭惡真空」，真是他媽的真理！所以四方八面就爬出一堆臭蟲來了。來自宏都拉斯的毒販們已準備在美國擴張領土，趁他們還沒成氣候之前來點滅蟲運動吧。毀掉他們的走私門路，偷走他們的貨，百利而無一害吧？$NL;$NL;» 鎖定山羊的位置$NL;» 安全運走山羊$NL;» 撤離"
 },{
 	 "i"		: 87
 	,"ids"		: "Idstring(@ID81dd39a6b12397cd@)"
@@ -524,7 +524,7 @@
 	,"ids"		: "Idstring(@ID83486d9adfcac791@)"
 	,"StringID"	: "heist_peta2_briefing"
 	,"orig_text": "Okay, I think the worst is behind us. Vlad's driver got the goats to a farm outside the city, ready to perform the extraction of the packages. Stick around. Watch the perimeter. Easy work, right?"
-	,"tran_text": "好吧，我想最糟糕的事在眼前。Vlad 的司機要把羊送往郊外的農場，準備取出裡面的貨。四處看看，守門，簡單的活，對嗎？"
+	,"tran_text": "好啦，我想最糟糕的事已經過去了。Vlad 的司機要把羊送往郊外的農場，準備取出裡面的貨。緊守崗位，留意四周，夠簡單了吧？"
 },{
 	 "i"		: 89
 	,"ids"		: "Idstring(@IDd235483ed40175ce@)"
@@ -536,7 +536,7 @@
 	,"ids"		: "Idstring(@IDbd3713c8084906d1@)"
 	,"StringID"	: "heist_moon_crimenet"
 	,"orig_text": "My brother-in-law, that useless piece of trash, was transporting some snow for me - Colombian snow, you know, for Christmas. But he fucked up and was followed by the cops. He was hiding at the Midtown Mall, but I think the cops got him. Fucking American cops, there's no Christmas spirit in this country! I'm a friendly guy, and Christmas is about forgiving, but this is not ok. Not ok! You have to help me, my friends. $NL;$NL;» Rescue Santa$NL;» Recover Vlad's coke $NL;» Steal the Christmas tree and escape"
-	,"tran_text": "我的兄弟啊，是完全沒用的垃圾，運了一些雪給我 － 哥倫比亞的雪，你懂的，聖誕節用。但他被條子跟蹤了及搞垮了。他被藏在市區內的商場，但我相信條子抓到他了。他媽的美國警察，在這國家沒有聖誕精神！我很友善的，還有聖誕節是關於寬恕的，但這都不可以，不可以！你需要幫我，我的朋友。 $NL;$NL;» 放出聖誕老人 $NL;» 找到 Vlad 的古柯鹼 $NL;» 偷走聖誕樹及逃離"
+	,"tran_text": "我的姐夫，那個沒用的廢物姐夫，負責替我運送雪－－哥倫比亞產的雪，你懂的，聖誕節用。但他竟然蠢得被條子跟蹤了。他匿藏在中城商場裡，但我相信條子抓到他的尾巴了。他媽的美國警察，這個國家沒有聖誕精神這回事的嗎！你知道我為人友善，而且聖誕節就是講求寬恕嘛，但這檔事上可不行，這不可原諒！我親愛的朋友們，這次你們一定要幫我。 $NL;$NL;» 拯救聖誕老人 $NL;» 找回 Vlad 的古柯鹼 $NL;» 偷走聖誕樹及逃離"
 },{
 	 "i"		: 91
 	,"ids"		: "Idstring(@ID45635f1ce402950c@)"
@@ -578,7 +578,7 @@
 	,"ids"		: "Idstring(@IDe9aa94d445d9b938@)"
 	,"StringID"	: "heist_glace_crimenet"
 	,"orig_text": "Ok, it's time to break this guy Kazuo out of prison so we can get the information he has on Kento. I engineered some ah... trouble... to get him transferred to another facility by convoy. We'll ambush that convoy and break the prisoner out. This isn't gonna be a quiet one, guys, we'll need to take extreme measures to stop the prison trucks. And, yeah, Kazuo doesn't know we're breaking him out, so boy is he in for a surprise!$NL;$NL;» Find the trucks$NL;» Saw the trucks open and find the prisoner$NL;» Escort the prisoner to the tower$NL;» Get the prisoner airlifted out$NL;» Escape"
-	,"tran_text": "好，是時候從監獄中救 Kazuo 出來以得到關於 Kento 的情報，我設計了一些 ... 麻煩 ... 以令他要移去另一個監獄。我們將伏擊護送車隊以解救囚犯，這絕對靜不下來，伙伴，我們要用極端手段阻止囚車車隊，還有的是， Kazuo 不知道我們會放他出來，所以他會很驚訝！$NL;$NL;? 找到囚車$NL;? 鋸開囚車及找到囚犯$NL;? 護送囚犯到高塔$NL;? 送囚犯上天$NL;? 撤離"
+	,"tran_text": "好，是時候從監獄中救 Kazuo 出來以得到關於 Kento 的情報。我設計了一些…麻煩…以令他轉移去另一個監獄。我們將伏擊護送車隊以解救囚犯。這檔事絕不可能偷偷進行，伙伴，我們要用極端手段阻止囚車車隊。還有的是，對啦，Kazuo 不知道我們會救他出來，所以他會很驚訝！$NL;$NL;» 找到囚車$NL;» 鋸開囚車及找到囚犯$NL;» 護送囚犯到高塔$NL;» 將囚犯空運出去$NL;» 撤離"
 },{
 	 "i"		: 98
 	,"ids"		: "Idstring(@IDa0e8f3cb6c96df52@)"
@@ -774,7 +774,7 @@
 	,"ids"		: "Idstring(@IDc3897f70d24d47e1@)"
 	,"StringID"	: "heist_chill_combat_hl_briefing"
 	,"orig_text": "The cops are coming to raid the Safe House. But they don't know who's there , so you'll have the advantage of surprise. Protect your money bags at all costs!$NL;$NL;»Defeat the police raid.$NL;»Don't let the cops steal your money."
-	,"tran_text": "警察快來偷襲安全屋了，但他們不知誰在內，所以你有驚嚇的優勢，不惜一切代價的保護好你的錢包！$NL;$NL;»擋住警察偷襲。$NL;»不要被條子偷走你的錢。"
+	,"tran_text": "警察快來襲擊安全屋了。但他們不知有誰在內，所以我們可以反過來為他們準備一個「驚喜派對」。記緊不惜一切代價都要保護好你們的錢袋！$NL;$NL;»擋住警察的偷襲。$NL;»不要被條子偷走你的錢。"
 },{
 	 "i"		: 131
 	,"ids"		: "Idstring(@IDd360a266a1d74463@)"
@@ -786,7 +786,7 @@
 	,"ids"		: "Idstring(@ID5f832fb1c6f217c4@)"
 	,"StringID"	: "heist_friend_crimenet"
 	,"orig_text": "I have been running guns in the Caribbean for a while. It's been very profitable, but some of the old movers in the region don't approve of my presence on the local market. The Bolivian Sosa Cartel specifically. As they could not compete with me on level terms, they decided to attack my operation - sinking one of my ships, stealing my merchandise and killing my operatives. That was very unwise. Now they must pay. You will collect that payment, in blood.$NL;$NL;» Gain access to the house$NL;» Draw Ernesto Sosa out and kill him$NL;» Open the hidden safe$NL;» Escape with the loot"
-	,"tran_text": "我幫加勒比運送一段時間了，這利潤很高，但有些在那地區舊有的運送者不願意在市場中見到我。特別是 Bolivian Sosa Cartel ，以等級來說他們不能跟我比，所以他們選擇了攻擊的我的運作－弄沉我其中一艘船，偷走我的貨物，殺死我的操作員。這很不明智，現在他們需要付出代價，你要幫我收，以血來支付。$NL;$NL;» 得到權限入屋$NL;» 抽 Ernesto Sosa 出來並殺死他$NL;» 打開隱藏保險箱$NL;» 帶住贓物逃跑"
+	,"tran_text": "我在加勒比走私軍火好一段時間了，這生意很有賺頭，但當地有些老行家不願意在市場上見到我。特別是來自玻利維亞的 Sosa 犯罪集團，因為他們無法跟我公平競爭，所以他們選擇攻擊的我的走私門路：弄沉我的一艘船、偷走我的貨物，並且殺死我的員工。這很不明智，現在他們得付出代價。血債只能用血償，就由你們代我收取吧。$NL;$NL;» 進入大屋$NL;» 找出 Ernesto Sosa 並殺死他$NL;» 打開隱藏保險箱$NL;» 帶住贓物逃跑"
 },{
 	 "i"		: 133
 	,"ids"		: "Idstring(@ID7de88db18f5ecb5c@)"
@@ -852,7 +852,7 @@
 	,"ids"		: "Idstring(@ID252529043dfd12dd@)"
 	,"StringID"	: "heist_chill_combat_crimenet"
 	,"orig_text": "The cops are coming to raid the Safe House. But they don't know who's there , so you'll have the advantage of surprise. Protect your money bags at all costs!$NL;$NL;»Defeat the police raid.$NL;»Don't let the cops steal your money."
-	,"tran_text": "警察快來偷襲安全屋了，但他們不知誰在內，所以你有驚嚇的優勢，不惜一切代價的保護好你的錢包！$NL;$NL;»擋住警察偷襲。$NL;»不要被條子偷走你的錢。"
+	,"tran_text": "警察快來襲擊安全屋了。但他們不知有誰在內，所以我們可以反過來為他們準備一個「驚喜派對」。記緊不惜一切代價都要保護好你們的錢袋！$NL;$NL;»擋住警察的偷襲。$NL;»不要被條子偷走你的錢。"
 },{
 	 "i"		: 144
 	,"ids"		: "Idstring(@ID86b3b428badec757@)"
@@ -990,7 +990,7 @@
 	,"ids"		: "Idstring(@ID84b040b03f39838a@)"
 	,"StringID"	: "heist_pbr_briefing"
 	,"orig_text": "Locke has us hitting a Murky facility out in the desert. Black Ridge. Was an old air force place, back in the day. Murkywater bought it up after the Cold War, turned it into their own Fort Knox, so you can bet they're holding some serious loot here. Not sure what to expect. Not much online, so we got little in the way of intel. One thing is certain though - you're not going to sneak through this one. Dress for loud."
-	,"tran_text": "Locke 讓我們襲擊沙漠中的 Murkywater 設施。黑脊。在那過去的年代曾是空軍的領地。冷戰後 Murkywater 買下了它，把它改造成了堡壘，所以你可以打賭他們藏著某些值錢的戰利品。不知道會是什麼。表面沒什麼東西，所以我們必須走的更深。一件事可以確定 － 你不可能安靜的完成這個任務。全副武裝吧。"
+	,"tran_text": "Locke 要我們襲擊沙漠中的 Murkywater 設施：黑脊嶺。過去曾是一座空軍的領地。冷戰過後 Murkywater 買下了它，把它改建成像諾克斯堡一樣牢不可破，所以他們肯定收藏著一些值錢的戰利品了。不知道裡面會有什麼，網上也沒提及，故此我們只撈到極少量情報。只有一件事可以確定的－－你們別指望能潛進基地裡。重裝上陣吧。"
 },{
 	 "i"		: 167
 	,"ids"		: "Idstring(@IDe005076a318d46cf@)"
@@ -1092,7 +1092,7 @@
 	,"ids"		: "Idstring(@ID8f36f2349e838aea@)"
 	,"StringID"	: "heist_mad_crimenet"
 	,"orig_text": "This dirty Russian organization is conducting some very disturbing experiments from a hidden laboratory in Russia. You won't believe what shit they're doing over there. We need to fuckin' stop Akan from getting his hands on the data, yeah? It's do or die, boys and girls.$NL;$NL;» Enter the compound$NL;» Gain access to the lab$NL;» Obtain the data$NL;» Escape"
-	,"tran_text": "這個骯髒的俄羅斯機構在它國內的隱藏的實驗室內正進行一些十分煩擾的實驗。你不會相信他們在做甚麼，我們需要從 Akan 手上奪取數據以阻止他，對嗎？不論男女，不做就去死。$NL;» 進入院子$NL;» 獲得權限進入實驗室$NL;» 取得數據$NL;» 逃脫"
+	,"tran_text": "這個見不得光的俄羅斯組織在位於俄國境內的秘密實驗室內進行著一些令人心感不安的實驗。我保證你不敢相信他們在那裡所做的一切的。我們必需從 Akan 手上奪取資料才阻止得了他，明白嗎？不然死的就會是我們了，各位。$NL;» 進入建築群$NL;» 獲得權限進入實驗室$NL;» 取得資料$NL;» 逃脫"
 },{
 	 "i"		: 184
 	,"ids"		: "Idstring(@ID277008182dd80b47@)"
@@ -1152,7 +1152,7 @@
 	,"ids"		: "Idstring(@ID9ce716ef88d2df4f@)"
 	,"StringID"	: "heist_pbr2_crimenet"
 	,"orig_text": "The target is a Murkywater transport plane. It is carrying pallets of currency. You will be smuggled aboard. Drop the money from the plane and recover it.$NL;$NL;» Emerge into the cargo compartment$NL;» Open the cargo doors and release the money pallets$NL;» Skydive to the surface$NL;» Recover the money pallets in the town and signal Locke$NL;» Descend into the sewers and escape"
-	,"tran_text": "目標是 Murkywater 的運輸飛機。它載著大包貨幣。你會被偷渡登船。把錢扔出飛機再帶回來$NL;$NL;»闖進貨艙區$ NL;»打開艙門然後釋放載錢運貨板$NL;»跳傘至地面$NL;»找到載錢運貨板然後通知 Locke $NL;»進入下水道然後撤離"
+	,"tran_text": "目標是 Murkywater 的運輸飛機。它載著好幾板現金。你們會偷渡上機。把錢扔出飛機然後再找回來。$NL;$NL;»闖進貨艙區$ NL;»打開艙門然後推走現金棧板$NL;»跳傘至地面$NL;»在城中找回棧板然後通知 Locke $NL;»進入下水道然後撤離"
 },{
 	 "i"		: 194
 	,"ids"		: "Idstring(@IDff6ca1176a631986@)"
@@ -1212,13 +1212,13 @@
 	,"ids"		: "Idstring(@IDfe3a1f1187943274@)"
 	,"StringID"	: "heist_pal_crimenet"
 	,"orig_text": "Pack your bags, gang. This one is south of the Mason-Dixie. We're going after Mitchell and Wilson - couple of counterfeiters down in Pensacola. Running a printing operation out of his basement. It's a discreet operation, and this guy's work is solid, so he's making serious bank. Let's grab a piece!$NL;$NL;» Meet up with Mitchell$NL;» Breach into the basement$NL;» Extract the counterfeit plates and escape"
-	,"tran_text": "大家，拿起你的包，今次是在梅森—迪克森線以南。我們跟住 Mitchell 和 Wilson - 一對住在彭薩科拉的偽鈔製造者。在他的地下室運行影印偽鈔的行動。這是單獨行動，而且做得不錯，所以他真的的當銀行。來分一份吧！$NL;$NL;» 找到 Mitchell$NL;» 闖入地下室$NL;» 取得偽鈔影印版及逃脫"
+	,"tran_text": "大伙兒，收拾好行李，我們這次要前往梅森—迪克森線以南的地方。目標是 Mitchell 和 Wilson：一對住在彭薩科拉的偽鈔製造者。他們在自家地下室開設印刷中心。他倆分工合作，而且那傢伙手藝高超，所以他真的在自家開起銀行來了。來分一杯羹吧！$NL;$NL;» 找到 Mitchell$NL;» 闖入地下室$NL;» 取走偽鈔印刷模板及逃脫"
 },{
 	 "i"		: 204
 	,"ids"		: "Idstring(@IDb607929ff9bf6603@)"
 	,"StringID"	: "heist_contact_locke_description"
 	,"orig_text": "Born in South Africa, educated at Lincoln Laboratory, trained under MI5, and now employed by Murkywater. Vernon Locke heads their special cyberwarfare division, which has been tasked with infiltrating Crime.net. Locke has managed this. However, he sees this as an opportunity, and has reached out to Bain and the Payday gang. The deal? Work with him, or he brings Crime.net down forever."
-	,"tran_text": "出生於南非，就讀於林肯實驗室，在軍情五處受訓，現在受僱於 Murkywater 。Vernon Locke 帶領著他們的特殊網絡指揮部門，受命入侵Crime.net。Locke 已經成功做到這點。實際上，他看到了機遇，並且已經接觸了 Bain 和 Payday團。交易？為他幹活，或者讓Crime.net永遠再見。"
+	,"tran_text": "出生於南非，就讀於林肯實驗室，在軍情五處受訓，現在受僱於 Murkywater 。Vernon Locke 帶領著他們的特殊網絡戰指揮部門，受命入侵Crime.net。Locke 已經成功做到這點。實際上，他將之視為一個機遇，並且接觸了 Bain 和 Payday 團來跟他們來場交易。結果？為他幹活，或者讓Crime.net永遠關門大吉。"
 },{
 	 "i"		: 205
 	,"ids"		: "Idstring(@ID6c17f0c6abd9cec5@)"
@@ -1254,7 +1254,7 @@
 	,"ids"		: "Idstring(@IDba6b8afb466e5e97@)"
 	,"StringID"	: "heist_friend_hl_briefing"
 	,"orig_text": "Ernesto Sosa is the local boss in Miami for the Sosa Cartel, and The Butcher wants him dead. You're gonna love this: he lives in Tony Montana's old mansion in Miami Beach. Yeah that's right - Scarface, the legendary 80's drug lord. Anyway, you've got to hit the mansion, find a way in and then kill Ernesto Sosa. It won't be easy, the place is like a fortress. But you can do it. Oh yeah, I almost forgot - there should be a lot of money and other loot in that house. Steal it. Wipe them clean. But above all - kill Ernesto Sosa."
-	,"tran_text": "Ernesto Sosa 是在邁阿密的 Sosa Cartel 的頭目， Butcher 想他死。你一定會很喜歡的：他住在邁阿密海邊 Tony Montana 的舊公館，對－疤面煞星，八十年代傳奇大毒梟。無論如何，你一定要打進公館，找個方法入內，然後殺死 Ernesto Sosa 。這不會太容易，這地方像個堡壘，但你做到的。噢對，我差點忘了－裡面應該有很多金錢和其他贓物，偷走它，清乾淨它，但最重要－殺死 Ernesto Sosa 。"
+	,"tran_text": "Ernesto Sosa 是在邁阿密 Sosa 犯罪集團的頭目，Butcher 想要他死。你們肯定愛死了這個：他就住在 Tony Montana 在邁阿密海邊的舊別墅，你沒有聽錯－－就是那個八十年代傳奇大毒梟「疤面煞星」。無論如何，你們一定要攻入別墅，然後殺死 Ernesto Sosa。這當然不易辦，那個地方重門深鎖，但你們一定辦得到的。噢，我差點忘了－－裡面應該有很多金錢和其他贓物，偷走它們，把整座別墅清乾淨，但最重要的當然是－－清掉 Ernesto Sosa。"
 },{
 	 "i"		: 211
 	,"ids"		: "Idstring(@IDf6d77e5edf897df9@)"
@@ -1724,7 +1724,7 @@
 	,"ids"		: "Idstring(@ID0700b0bc59139ddf@)"
 	,"StringID"	: "heist_mad_briefing"
 	,"orig_text": "Of all the times to grow a conscience, you decide now is the time? I can't say I like it, but I can't say you are making a mistake either. Based on what this Jimmy character is telling us, Akan really needs to be stopped. Your destination is a lumber mill in the middle of nowhere, that is secretly a laboratory run by a strange Russian organization. Jimmy tells me they are conducting some experiments that involve things out of this reality. Break into the lab and get the data Akan is after. Good luck, gang."
-	,"tran_text": "現在才培育出良知，你決定了是現在？我不能說我喜歡，但我亦不能說你有錯。根據 Jimmy 告訴我們， Akan 真的需要被人停止。你的目標是在無名之地中間的木材廠，當中有奇怪的俄羅斯機構運行秘密實驗室。 Jimmy 告訴我，他們在進行一些不現實的實驗。進入實驗室及取得數據。祝你好運，伙伴。"
+	,"tran_text": "你們就不能早一點遲一點，偏偏現在才來良心發現？我不能說我喜歡這樣，但倒也不會說你們這個決定是錯的。根據 Jimmy 這人告訴我們的話來看，似乎得有人去阻止 Akan 那傢伙才行。你們的目的地是座落於不毛之地的鋸木廠，裡頭有一所由俄羅斯的詭異機構所設立的秘密實驗室。Jimmy 告訴我，他們正進行一些超乎現實的實驗。設法進入實驗室及取得 Akan 想要的資料。總之祝你們好運，大伙兒。"
 },{
 	 "i"		: 290
 	,"ids"		: "Idstring(@ID2c3b54021e9f0057@)"
@@ -1796,13 +1796,13 @@
 	,"ids"		: "Idstring(@ID65f13770154831db@)"
 	,"StringID"	: "heist_pbr2_briefing"
 	,"orig_text": "Okay, here's the plan. Locke is going to have you smuggled onto the plane. Wait until you get his signal and burst out. Resistance should be light - just the crew. The money is packed into large pallets. Get them out of the cargo doors, and we'll collect them when they hit the ground. Simple."
-	,"tran_text": "好，計劃是這樣的。Locke 已幫你們偷渡到飛機上。等在那直到他的信號然後衝出去。抵抗不會太強 - 只有 Murkywater 的人。錢被打包在了運貨板上。把它們弄出艙門，然後等它們落地我們再帶走。簡簡單單。"
+	,"tran_text": "OK，計劃如下。Locke 會協助你們偷渡到飛機上。等他發出信號後你們就動手。應該只有零星抵抗－－上面只有機組人員。鈔票已打包在棧板上。把它們弄出艙門，然後等它們落地我們再帶走。簡簡單單。"
 },{
 	 "i"		: 302
 	,"ids"		: "Idstring(@ID0d3c2a8d8b62c35c@)"
 	,"StringID"	: "heist_pbr_crimenet"
 	,"orig_text": "The target is a Murkywater facility in the desert. Consider it their Fort Knox. Force your way in, and bring out whatever loot they're holding.$NL;$NL;» Retrieve assets left by Locke$NL;» Fight your way to the inner complex$NL;» Open the vaults and retrieve the loot$NL;» Meet with Locke$NL;» Destroy the radars and escape"
-	,"tran_text": "目標是 Murkywater 在沙漠中的設施。考慮到它固若金湯。炸開你的路，然後帶走他們藏起來的所有贓物。$NL;$NL;» 獲得 Locke 留下的裝備$NL;» 殺出條進入建築內部的道路$NL;» 打開金庫取走贓物$NL;» 面見 Locke$NL;» 破壞雷達然後撤離"
+	,"tran_text": "目標是位於沙漠的 Murkywater 設施。那是一座固若金湯的堡壘。炸開你的路，然後帶走他們藏起來的所有贓物。$NL;$NL;» 取得 Locke 留下的裝備$NL;» 殺出條進入建築內部的道路$NL;» 打開金庫取走贓物$NL;» 跟 Locke 匯合$NL;» 破壞雷達設施然後撤離"
 },{
 	 "i"		: 303
 	,"ids"		: "Idstring(@ID9f12ed433ed6172d@)"
@@ -1820,13 +1820,13 @@
 	,"ids"		: "Idstring(@ID5b37ce5ecbe16d4d@)"
 	,"StringID"	: "heist_peta2_crimenet"
 	,"orig_text": "Vlad's driver got the goats to a farm outside the city. Snap on your gloves - time for some dirty work. $NL;$NL;» Make sure the product is secure$NL;» Watch the perimeter$NL;» Leave the area and escape"
-	,"tran_text": "Vlad 的司機要把羊送往郊外的農場。戴上你的手套 － 是時候來點污活。$NL;$NL;» 確保貨物安全運到達NL;» 守衛四周$NL;» 離開這片區域並撤離"
+	,"tran_text": "Vlad 的司機把羊送往郊外的農場。戴上你的手套 － 是時候來點污活。$NL;$NL;» 確保貨物安全運到$NL;» 看守四周$NL;» 離開這片區域並撤離"
 },{
 	 "i"		: 306
 	,"ids"		: "Idstring(@IDb01b24313b2acd95@)"
 	,"StringID"	: "heist_peta_briefing"
 	,"orig_text": "This Honduran cartel has a truck moving its product through Downtown. Vlad has arranged to have it hit. We're on clean-up. We go in afterwards, make sure the product gets out. Boots on the ground, you know? "
-	,"tran_text": "Honduran 聯合商會的卡車載著貨物穿行在市中心。 Vlad 準備襲擊它。我們要大幹一場。我們跟上，確保貨物運出來。一觸即發，你還不走？"
+	,"tran_text": "一輛屬於宏都拉斯販毒集團的卡車正載著貨物穿行在市中心。 Vlad 已安排人手襲擊它了，我們負責善後工作。我們事後進場，確保貨物運出來就好。說起來這個國家是由軍隊來負責維持治安的，你們知道嗎？"
 },{
 	 "i"		: 307
 	,"ids"		: "Idstring(@ID4648d7aab3f850fe@)"
@@ -1886,6 +1886,7 @@
 	,"ids"		: "Idstring(@IDadca6fecfde5550d@)"
 	,"StringID"	: "heist_run_briefing"
 	,"orig_text": "Okay guys. Remember who you're dealing with here. Locke is a smelly fish. There's bound to be more sides to this than what he's telling you. Keep your eyes peeled."
+	,"tran_text": "好啦各位，記緊你們接下來要面對的傢伙 Locke 是隻狡猾的狐狸，他涉足此事的程度肯定比他打算透露給你們的還要深。罩子放亮點。"
 },{
 	 "i"		: 317
 	,"ids"		: "Idstring(@ID63525d22909bddd2@)"
