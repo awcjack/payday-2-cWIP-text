@@ -358,6 +358,7 @@
 	,"ids"		: "Idstring(@ID7951044fab88a0af@)"
 	,"StringID"	: "dialog_crew_loadout_help_text"
 	,"orig_text": "The AI Teammates will fill the empty player slots in your own lobby as soon as you start the game. By specifying their loadouts in the Crew Management you can decide which weapons, abilities and boosts they have. New players that join your game will replace the AI Teammates in a bottom up order, starting with loadout number 3.$NL;$NL;Characters will be assigned to the AI Teammates according to the selected Character Priority if available."
+	,"tran_text": "在開始遊戲時， AI 隊友將會佔用你的大廳中的空位，在隊伍管理選取他們的裝備，你能幫他們選擇武器、能力跟加成。新玩家加入你的遊戲時將由底開始取代你的 AI 隊友，由 3 開始。$NL;$NL;AI 角色會根據角色排序而決定。"
 },{
 	 "i"		: 62
 	,"ids"		: "Idstring(@IDec0150d49a1eb2b7@)"
@@ -899,6 +900,7 @@
 	,"ids"		: "Idstring(@ID0aced7f488f677fd@)"
 	,"StringID"	: "menu_color_sunsetstrip"
 	,"orig_text": "Max Saturation"
+	,"tran_text": "最大飽和度"
 },{
 	 "i"		: 155
 	,"ids"		: "Idstring(@ID30f526b435df81ad@)"
@@ -2468,6 +2470,7 @@
 	,"ids"		: "Idstring(@ID667992123ea5ebdc@)"
 	,"StringID"	: "menu_color_colorful"
 	,"orig_text": "Hipster Vintage"
+	,"tran_text": "時髦復古"
 },{
 	 "i"		: 421
 	,"ids"		: "Idstring(@IDd912159f8c7d4ef2@)"
@@ -3461,6 +3464,7 @@
 	,"ids"		: "Idstring(@ID636bf09ecf5fe3c8@)"
 	,"StringID"	: "menu_nh_dsync_beta"
 	,"orig_text": "The Desync Beta is live!"
+	,"tran_text": "不同步問題修正測試已推出！"
 },{
 	 "i"		: 588
 	,"ids"		: "Idstring(@IDf08e8836f4daf649@)"
@@ -4672,6 +4676,7 @@
 	,"ids"		: "Idstring(@ID0ef841792437e348@)"
 	,"StringID"	: "menu_color_madplanet"
 	,"orig_text": "Mad Planet"
+	,"tran_text": "瘋星"
 },{
 	 "i"		: 791
 	,"ids"		: "Idstring(@ID1aa38342677f7c06@)"
@@ -5507,6 +5512,7 @@
 	,"ids"		: "Idstring(@ID6afd41d6ef8f448d@)"
 	,"StringID"	: "menu_crew_ai_ap_ammo_desc"
 	,"orig_text": "Your team AI will now use armor piercing rounds. This enables them to shoot through shields and armor."
+	,"tran_text": "你隊伍 AI 現在能用穿甲彈，這容量他們射穿盾兵及護甲。"
 },{
 	 "i"		: 932
 	,"ids"		: "Idstring(@ID791f87d7491e1dca@)"
@@ -6154,6 +6160,7 @@
 	,"ids"		: "Idstring(@ID75a9acc700e16db4@)"
 	,"StringID"	: "menu_revolver"
 	,"orig_text": "Revolver"
+	,"tran_text": "左輪"
 },{
 	 "i"		: 1041
 	,"ids"		: "Idstring(@ID3e083a12df87e439@)"
@@ -6887,6 +6894,7 @@
 	,"ids"		: "Idstring(@IDa88a31693ba85d9d@)"
 	,"StringID"	: "menu_color_sin_classic"
 	,"orig_text": "PD1: Bastard"
+	,"tran_text": "PD1: 混蛋"
 },{
 	 "i"		: 1165
 	,"ids"		: "Idstring(@ID8ef82bed21f0f825@)"
@@ -6982,6 +6990,7 @@
 	,"ids"		: "Idstring(@IDf2a51f48bda2b4d8@)"
 	,"StringID"	: "menu_max"
 	,"orig_text": "Sangres"
+	,"tran_text": "Sangres"
 },{
 	 "i"		: 1181
 	,"ids"		: "Idstring(@ID52e4d0f4282d5334@)"
@@ -8247,6 +8256,7 @@
 	,"ids"		: "Idstring(@IDc01364ededea3506@)"
 	,"StringID"	: "menu_nh_russian_national_day"
 	,"orig_text": "Russia Day - The Matryoshka Grenade!"
+	,"tran_text": "俄國日 － 套娃手榴彈！"
 },{
 	 "i"		: 1395
 	,"ids"		: "Idstring(@ID09c9064e15e295b3@)"
@@ -9976,6 +9986,7 @@
 	,"ids"		: "Idstring(@ID461c84a4a3a49a53@)"
 	,"StringID"	: "menu_color_sepia"
 	,"orig_text": "Wild West"
+	,"tran_text": "西部"
 },{
 	 "i"		: 1687
 	,"ids"		: "Idstring(@ID99285fde7eee713b@)"
@@ -10411,6 +10422,7 @@
 	,"ids"		: "Idstring(@ID0c55115e674f34c5@)"
 	,"StringID"	: "menu_crew_ai_ap_ammo"
 	,"orig_text": "Piercing"
+	,"tran_text": "穿透"
 },{
 	 "i"		: 1760
 	,"ids"		: "Idstring(@ID8c86ee837da2e7dd@)"
@@ -11176,6 +11188,7 @@
 	,"ids"		: "Idstring(@IDabdeba3927db7c5f@)"
 	,"StringID"	: "bm_melee_zeus_info"
 	,"orig_text": "Device that electrocutes and interrupts targets on touch"
+	,"tran_text": "電擊以阻止別人的工具"
 },{
 	 "i"		: 1889
 	,"ids"		: "Idstring(@ID9de1fb86d3585312@)"
@@ -16051,6 +16064,7 @@
 	,"ids"		: "Idstring(@ID1217a40d17189f17@)"
 	,"StringID"	: "menu_nh_ultimate_edition"
 	,"orig_text": "PAYDAY 2 - Ultimate Edition now available on Steam!"
+	,"tran_text": "PAYDAY 2 - Ultimate Edition 現已在 Steam 上推出！"
 },{
 	 "i"		: 2710
 	,"ids"		: "Idstring(@ID669b52bd860a8e3d@)"
@@ -16536,6 +16550,7 @@
 	,"ids"		: "Idstring(@ID0186a8973b7db001@)"
 	,"StringID"	: "menu_color_matrix_classic"
 	,"orig_text": "PD1: Matrices"
+	,"tran_text": "PD1: 矩陣"
 },{
 	 "i"		: 2792
 	,"ids"		: "Idstring(@ID1e9291bfb9ec0e17@)"
@@ -16745,6 +16760,7 @@
 	,"ids"		: "Idstring(@IDd5615120e2db7bc2@)"
 	,"StringID"	: "max_desc"
 	,"orig_text": "Nationality: Mexican$NL;Age: 33$NL;$NL;Sangres is a dangerous man. He spent many years working as an enforcer and assassin for a drug cartel in Monterrey, Mexico. Then one day he decided to defect and crossed the border to the US, looking to make the big bucks. Gage introduced him to the Payday Gang. He's as skilled as he's ruthless and with those revolvers he can really light things up. And yeah... check out that razor-sharp machete."
+	,"tran_text": "國籍： 墨西哥$NL;年齡： 33$NL;$NL;Sangres 是個危險的人，他多年來都在蒙特雷的毒品廠中當暴徒及刺客，之後有一天他決定了投降及透過邊界進入美國，希望能賺大錢。 Gage 介紹了他來 Payday 幫，他的無情加上左輪能燒開一切，還有... 看看那鋒利的彎腰。"
 },{
 	 "i"		: 2827
 	,"ids"		: "Idstring(@ID3916a72814790844@)"
@@ -19270,6 +19286,7 @@
 	,"ids"		: "Idstring(@ID7c9bb7604e20e218@)"
 	,"StringID"	: "menu_color_default"
 	,"orig_text": "Default"
+	,"tran_text": "預設"
 },{
 	 "i"		: 3254
 	,"ids"		: "Idstring(@IDbe614b8bf74c094a@)"
@@ -20255,6 +20272,7 @@
 	,"ids"		: "Idstring(@IDb7186a5ac629c480@)"
 	,"StringID"	: "dialog_crew_loadout_help_title"
 	,"orig_text": "AI Teammates Information"
+	,"tran_text": "AI 隊友資訊"
 },{
 	 "i"		: 3420
 	,"ids"		: "Idstring(@ID63222b0f6b22ef84@)"
@@ -21078,6 +21096,7 @@
 	,"ids"		: "Idstring(@IDaee9b23e9d25e1b7@)"
 	,"StringID"	: "menu_asset_prison_transport_trucks"
 	,"orig_text": "Prisoner transport truck"
+	,"tran_text": "囚犯運送車"
 },{
 	 "i"		: 3559
 	,"ids"		: "Idstring(@IDc2c86743e668e03e@)"
@@ -23439,6 +23458,7 @@
 	,"ids"		: "Idstring(@IDb3fe4e4ff00a1af2@)"
 	,"StringID"	: "menu_l_global_value_ue"
 	,"orig_text": "This is a PAYDAY 2: Ultimate Edition item!"
+	,"tran_text": "這是 PAYDAY 2: Ultimate Edition 的物品！"
 },{
 	 "i"		: 3961
 	,"ids"		: "Idstring(@ID20c2834834aefdfa@)"

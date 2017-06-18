@@ -100,6 +100,7 @@
 	,"ids"		: "Idstring(@IDb481fed2ac4e6847@)"
 	,"StringID"	: "loading_trivia_43"
 	,"orig_text": "Chains spends a fortune on guns."
+	,"tran_text": "Chains 把血汗錢都花在槍械上。"
 },{
 	 "i"		: 18
 	,"ids"		: "Idstring(@ID2e1437343310ed7a@)"
@@ -147,6 +148,7 @@
 	,"ids"		: "Idstring(@IDc2376dc46f6ca4be@)"
 	,"StringID"	: "loading_trivia_99"
 	,"orig_text": "Locke is a greedy ex-mercenary from Murkywater. He'll assign jobs that more or less always involve his former employer."
+	,"tran_text": "Locke 這個貪心鬼是私人軍企 Murkywater 的前傭兵，他委託的工作多少都與他的老東家有關。"
 },{
 	 "i"		: 26
 	,"ids"		: "Idstring(@ID64187b9162604be0@)"
@@ -397,6 +399,7 @@
 	,"ids"		: "Idstring(@ID33629d942c10b3ce@)"
 	,"StringID"	: "mission_glace_2_hl"
 	,"orig_text": "Find The Prisoner"
+	,"tran_text": "找出囚犯"
 },{
 	 "i"		: 68
 	,"ids"		: "Idstring(@ID58954e4141b3a89f@)"
@@ -600,6 +603,7 @@
 	,"ids"		: "Idstring(@ID806605bf3df87a4f@)"
 	,"StringID"	: "loading_trivia_8"
 	,"orig_text": "Jacket spends a fortune on batteries."
+	,"tran_text": "Jacket 把錢都花在買乾電池上去。"
 },{
 	 "i"		: 102
 	,"ids"		: "Idstring(@IDfa219fa57ac6cd5c@)"
@@ -1089,6 +1093,7 @@
 	,"ids"		: "Idstring(@IDc0d3b9f33e270265@)"
 	,"StringID"	: "loading_trivia_90"
 	,"orig_text": "The Butcher's family has been running guns for several generations."
+	,"tran_text": "Butcher 的家族從事走私軍火的事業好幾代了。"
 },{
 	 "i"		: 184
 	,"ids"		: "Idstring(@IDfd19a3b6fe3e1285@)"
@@ -1266,6 +1271,7 @@
 	,"ids"		: "Idstring(@ID6a1876d95fda75f5@)"
 	,"StringID"	: "loading_trivia_4"
 	,"orig_text": "Jimmy once challenged Bonnie to a drinking competition, but they had to interrupt after it nearly ended in violence."
+	,"tran_text": "Jimmy 曾經跟 Bonnie 鬥過一次酒，但後來幾乎是暴力收場所以無疾而終。"
 },{
 	 "i"		: 214
 	,"ids"		: "Idstring(@ID4c70cc20d22d2d25@)"
@@ -2105,6 +2111,7 @@
 	,"ids"		: "Idstring(@ID8673161f6cad1f89@)"
 	,"StringID"	: "loading_trivia_59"
 	,"orig_text": "Captain Winters spends a fortune on protective gear."
+	,"tran_text": "Captain Winters 把錢都花在護甲上。"
 },{
 	 "i"		: 354
 	,"ids"		: "Idstring(@ID451816a14d6d9554@)"
@@ -2272,6 +2279,7 @@
 	,"ids"		: "Idstring(@ID0db053856ee68808@)"
 	,"StringID"	: "loading_trivia_35"
 	,"orig_text": "Wolf spends a fortune on power tools."
+	,"tran_text": "Wolf 把錢都花在電動工具上。"
 },{
 	 "i"		: 382
 	,"ids"		: "Idstring(@IDd238a01ee0bb0bcc@)"
@@ -2697,11 +2705,13 @@
 	,"ids"		: "Idstring(@ID6d9b0d63e6bbf65c@)"
 	,"StringID"	: "loading_trivia_32"
 	,"orig_text": "Dallas is the informal leader of the Payday Gang."
+	,"tran_text": "Dallas 可說是 Payday 幫的精神領袖。"
 },{
 	 "i"		: 453
 	,"ids"		: "Idstring(@IDeeec7efbf5807c2f@)"
 	,"StringID"	: "loading_trivia_76"
 	,"orig_text": "Dragan spends a fortune on healthy food."
+	,"tran_text": "Dragan 把錢都花在健康食品上。"
 },{
 	 "i"		: 454
 	,"ids"		: "Idstring(@IDd3578ea04cbfc657@)"
@@ -3277,6 +3287,7 @@
 	,"ids"		: "Idstring(@IDc2e19765989bc299@)"
 	,"StringID"	: "mission_glace_3_hl"
 	,"orig_text": "Escort the prisoner to the scaffolding"
+	,"tran_text": "護送囚犯到鷹架"
 },{
 	 "i"		: 550
 	,"ids"		: "Idstring(@ID186d4671081dfc31@)"
@@ -3354,6 +3365,7 @@
 	,"ids"		: "Idstring(@ID69cfb10084efd1fc@)"
 	,"StringID"	: "mission_glace_4"
 	,"orig_text": "Hold the tower, wait for the airplane and make sure the pilot snatches up the chair!"
+	,"tran_text": "死守這座塔，等待飛機來到，確保機師成功釣走椅子！"
 },{
 	 "i"		: 563
 	,"ids"		: "Idstring(@ID1a77db9a4918f223@)"
@@ -3531,6 +3543,7 @@
 	,"ids"		: "Idstring(@ID3e2489fb4bb2706e@)"
 	,"StringID"	: "loading_trivia_88"
 	,"orig_text": "Bob McKendrick is a political veteran of many battles and has gone through many ups and downs during his career."
+	,"tran_text": "Bob McKendrick 是個老練的政客，在他的政治生涯經歷過無數起跌才有今時今日的成就。"
 },{
 	 "i"		: 593
 	,"ids"		: "Idstring(@ID2c8b16d55b19c769@)"
@@ -3644,6 +3657,7 @@
 	,"ids"		: "Idstring(@IDd1327386d29f95b4@)"
 	,"StringID"	: "loading_trivia_66"
 	,"orig_text": "Rust would probably kill anyone who damaged his bike."
+	,"tran_text": "Rust 會殺掉任何一個損壞他的重機的傢伙。"
 },{
 	 "i"		: 612
 	,"ids"		: "Idstring(@ID8ecd3ac99850387d@)"
@@ -4593,11 +4607,13 @@
 	,"ids"		: "Idstring(@IDd2e3e012130e788f@)"
 	,"StringID"	: "mission_glace_6"
 	,"orig_text": "Make it to the Bridge Pillar and take the stairs to the waiting scuba gear."
+	,"tran_text": "撤退至橋墩，走下樓梯到放置了潛水裝備的地方。"
 },{
 	 "i"		: 771
 	,"ids"		: "Idstring(@IDe3534e8828ba1f95@)"
 	,"StringID"	: "mission_glace_4_hl"
 	,"orig_text": "Defend the scaffolding"
+	,"tran_text": "守住鷹架"
 },{
 	 "i"		: 772
 	,"ids"		: "Idstring(@ID483a6e89761b9f84@)"
@@ -4711,6 +4727,7 @@
 	,"ids"		: "Idstring(@ID7f6d32e737a14f00@)"
 	,"StringID"	: "loading_trivia_64"
 	,"orig_text": "Rust betrayed a strong brotherhood to join the Payday Gang."
+	,"tran_text": "Rust 在背叛了一個強勢的兄弟幫後成為 Payday 幫的一份子。"
 },{
 	 "i"		: 791
 	,"ids"		: "Idstring(@IDa28e04706ed855b8@)"
@@ -5328,6 +5345,7 @@
 	,"ids"		: "Idstring(@IDf0fed9b1d0854e27@)"
 	,"StringID"	: "loading_trivia_47"
 	,"orig_text": "Clover spends a fortune on electronics."
+	,"tran_text": "Clover 把錢花在電器上。"
 },{
 	 "i"		: 894
 	,"ids"		: "Idstring(@ID8d38d55f22ce4977@)"
@@ -5375,6 +5393,7 @@
 	,"ids"		: "Idstring(@IDf181a53eb174921b@)"
 	,"StringID"	: "loading_trivia_65"
 	,"orig_text": "Rust is marked for death by Overkill MC."
+	,"tran_text": "Rust 已被 Overkill 電單車幫會列為已死之人。"
 },{
 	 "i"		: 902
 	,"ids"		: "Idstring(@ID40746278cb32a74b@)"
@@ -5452,6 +5471,7 @@
 	,"ids"		: "Idstring(@IDba179a2c4c5459e6@)"
 	,"StringID"	: "loading_trivia_5"
 	,"orig_text": "Jimmy spends a fortune on cocaine."
+	,"tran_text": "Jimmy 把錢都花在古柯鹼上。"
 },{
 	 "i"		: 915
 	,"ids"		: "Idstring(@ID5418a02f67dcd0ba@)"
@@ -6479,6 +6499,7 @@
 	,"ids"		: "Idstring(@ID525dd79c52376d3c@)"
 	,"StringID"	: "loading_trivia_55"
 	,"orig_text": "Bonnie spends a fortune on whisky."
+	,"tran_text": "Bonnie 把錢都花在威士忌上。"
 },{
 	 "i"		: 1087
 	,"ids"		: "Idstring(@ID7f88478a6a621629@)"
@@ -6662,6 +6683,7 @@
 	,"ids"		: "Idstring(@ID41a29574a555ca69@)"
 	,"StringID"	: "hud_int_take_missing_animal_poster"
 	,"orig_text": "Hold $BTN_INTERACT; to take missing animal poster"
+	,"tran_text": "緊按 $BTN_INTERACT; 以撕下失蹤動物的海報。"
 },{
 	 "i"		: 1118
 	,"ids"		: "Idstring(@ID0353b63ca3c5915f@)"
@@ -6925,6 +6947,7 @@
 	,"ids"		: "Idstring(@IDf737c274fc13b15a@)"
 	,"StringID"	: "loading_trivia_95"
 	,"orig_text": "Hector is a man of serious business. He doesn't like his operations in D.C. to be trampled on. Expect long loud heists from this guy."
+	,"tran_text": "Hector 對他的事業十分認真。他討厭他在華盛頓D.C.的產業遭到他人踐踏。他的委託就意味住長時間的火併任務。"
 },{
 	 "i"		: 1162
 	,"ids"		: "Idstring(@IDffb294a5e126d836@)"
@@ -7224,6 +7247,7 @@
 	,"ids"		: "Idstring(@ID2187997aeb89bb29@)"
 	,"StringID"	: "loading_trivia_49"
 	,"orig_text": "Clover's name is a reference to her being a lucky heister. And she is."
+	,"tran_text": "Clover 的名字是用來提醒他人她是個帶來幸運的劫匪，這是真的。"
 },{
 	 "i"		: 1212
 	,"ids"		: "Idstring(@IDe83dab40b86e861c@)"
@@ -7715,6 +7739,7 @@
 	,"ids"		: "Idstring(@ID6d3ded243f08907b@)"
 	,"StringID"	: "loading_trivia_3"
 	,"orig_text": "Jimmy never gets to drive the escape van."
+	,"tran_text": "Jimmy 永不被允許駕駛逃亡車輛。"
 },{
 	 "i"		: 1294
 	,"ids"		: "Idstring(@ID7bc1335755f3b794@)"
@@ -8350,6 +8375,7 @@
 	,"ids"		: "Idstring(@ID19851c7d2ae9bb52@)"
 	,"StringID"	: "loading_trivia_28"
 	,"orig_text": "Bain doesn't approve of needless killing of civilians."
+	,"tran_text": "Bain 從不允許任何不必要的平民死傷。"
 },{
 	 "i"		: 1400
 	,"ids"		: "Idstring(@ID868e82dbbe005631@)"
@@ -8684,6 +8710,7 @@
 	,"ids"		: "Idstring(@IDe53bd8177bf66f66@)"
 	,"StringID"	: "loading_trivia_92"
 	,"orig_text": "Jiro doesn't like the Cloaker. He cuts their head off with his Katana."
+	,"tran_text": "Jiro 不喜歡潛伏者 Cloaker。他甚至會用日本刀斬下他們的頭。"
 },{
 	 "i"		: 1456
 	,"ids"		: "Idstring(@ID0dcf118527be7dfc@)"
@@ -8701,6 +8728,7 @@
 	,"ids"		: "Idstring(@ID749b2f3bde124d3f@)"
 	,"StringID"	: "loading_trivia_89"
 	,"orig_text": "Bob McKendrick is not to be underestimated."
+	,"tran_text": "不能小看 Bob McKendrick。"
 },{
 	 "i"		: 1459
 	,"ids"		: "Idstring(@IDa01b0603a5a44c9c@)"
@@ -10042,6 +10070,7 @@
 	,"ids"		: "Idstring(@ID1960ae4a837c4cb3@)"
 	,"StringID"	: "mission_glace_2"
 	,"orig_text": "Locate the prisoner! He's in one of the trucks. Saw the doors open."
+	,"tran_text": "找出那名囚犯！他就在其中一輛車內。鋸開車門。"
 },{
 	 "i"		: 1683
 	,"ids"		: "Idstring(@ID818242ba58906896@)"
@@ -10627,6 +10656,7 @@
 	,"ids"		: "Idstring(@ID0d72b7cdcb01d302@)"
 	,"StringID"	: "loading_trivia_71"
 	,"orig_text": "Jiro spends a fortune on sword maintenance."
+	,"tran_text": "Jiro 會花錢去保養他的日本刀。"
 },{
 	 "i"		: 1781
 	,"ids"		: "Idstring(@ID42e500da4f6c841e@)"
@@ -10800,6 +10830,7 @@
 	,"ids"		: "Idstring(@ID01e2c854e043dc29@)"
 	,"StringID"	: "loading_trivia_69"
 	,"orig_text": "Sokol still maintains the physique of a professional athlete."
+	,"tran_text": "Sokol 依然維持著專業選手的體能。"
 },{
 	 "i"		: 1810
 	,"ids"		: "Idstring(@IDd9f5ded99c0a3b34@)"
@@ -11093,6 +11124,7 @@
 	,"ids"		: "Idstring(@IDe83bbec966dbd71b@)"
 	,"StringID"	: "loading_trivia_87"
 	,"orig_text": "Bob McKendrick spends a fortune on influence-peddling."
+	,"tran_text": "Bob McKendrick 把錢都用來打通人脈以助他以權謀私。"
 },{
 	 "i"		: 1859
 	,"ids"		: "Idstring(@ID35fa6ac313314fdd@)"
@@ -11128,6 +11160,7 @@
 	,"ids"		: "Idstring(@ID7effb4f7dc0487ce@)"
 	,"StringID"	: "loading_trivia_80"
 	,"orig_text": "Aldstone's first name is unknown to all the heisters except Hoxton, who never uses it."
+	,"tran_text": "劫匪們都不知道 Aldstone 的姓氏，除了 Hoxton，但他從沒說過。"
 },{
 	 "i"		: 1865
 	,"ids"		: "Idstring(@ID88d67d38990e64e5@)"
@@ -11181,6 +11214,7 @@
 	,"ids"		: "Idstring(@ID306b1e2ea896ec9c@)"
 	,"StringID"	: "mission_glace_5_hl"
 	,"orig_text": "Send up the balloon"
+	,"tran_text": "升起氣球"
 },{
 	 "i"		: 1874
 	,"ids"		: "Idstring(@ID38b7889fef1e797d@)"
@@ -11550,6 +11584,7 @@
 	,"ids"		: "Idstring(@ID1c28dbac02be7065@)"
 	,"StringID"	: "loading_trivia_50"
 	,"orig_text": "Clover is a fan of The Walking Dead."
+	,"tran_text": "Clover 是《陰屍路》的粉絲。"
 },{
 	 "i"		: 1936
 	,"ids"		: "Idstring(@IDc7cfbd519b6ffa79@)"
@@ -11831,6 +11866,7 @@
 	,"ids"		: "Idstring(@ID3fb0d8ebdf106288@)"
 	,"StringID"	: "loading_trivia_39"
 	,"orig_text": "Bodhi spends a fortune on surfboards."
+	,"tran_text": "Bodhi 把錢都花在滑浪板上。"
 },{
 	 "i"		: 1983
 	,"ids"		: "Idstring(@IDed1461b4a9b78f9f@)"
@@ -11998,6 +12034,7 @@
 	,"ids"		: "Idstring(@ID22fef796419412a3@)"
 	,"StringID"	: "loading_trivia_36"
 	,"orig_text": "Wolf used to work as a game developer in Sweden."
+	,"tran_text": "Wolf 曾經在瑞典做過遊戲開發者。"
 },{
 	 "i"		: 2011
 	,"ids"		: "Idstring(@ID35da02bd78a1ac09@)"
@@ -12075,6 +12112,7 @@
 	,"ids"		: "Idstring(@IDcd15abc571e19ce5@)"
 	,"StringID"	: "loading_trivia_27"
 	,"orig_text": "Bain's favorite color might be blue. But maybe it isn't. Maybe it's red. Maybe he doesn't have one."
+	,"tran_text": "Bain 最喜歡的顏色應該是藍色，又或者不是。可能他喜歡紅色，又或者他根本沒有喜歡的顏色。"
 },{
 	 "i"		: 2024
 	,"ids"		: "Idstring(@IDfe3c3df761550294@)"
@@ -12630,6 +12668,7 @@
 	,"ids"		: "Idstring(@IDa4728ad090e5dee5@)"
 	,"StringID"	: "loading_trivia_91"
 	,"orig_text": "The Butcher's signature and mode of operation is to transport guns inside frozen animal carcasses."
+	,"tran_text": "Butcher 最為人熟知的走私軍火方式就是利用急凍的動物屍體。"
 },{
 	 "i"		: 2117
 	,"ids"		: "Idstring(@ID375f3e31bb3e3b99@)"
@@ -12725,6 +12764,7 @@
 	,"ids"		: "Idstring(@IDe52b9a45bc156a91@)"
 	,"StringID"	: "loading_trivia_86"
 	,"orig_text": "Gage has an extensive net of contacts around the world, allowing him to procure the very best hardware available."
+	,"tran_text": "Gage 在全球各地都有豐富的人脈，讓他可以入口最好的槍械。"
 },{
 	 "i"		: 2133
 	,"ids"		: "Idstring(@ID0d17432d67991ebe@)"
@@ -12874,6 +12914,7 @@
 	,"ids"		: "Idstring(@IDfb929661d5c12e41@)"
 	,"StringID"	: "loading_trivia_9"
 	,"orig_text": "Jacket doesn't like to talk about himself."
+	,"tran_text": "Jacket 不喜歡提及自己的事。"
 },{
 	 "i"		: 2158
 	,"ids"		: "Idstring(@ID2160883ab2f23f16@)"
@@ -13065,6 +13106,7 @@
 	,"ids"		: "Idstring(@ID7ca340c749755cb9@)"
 	,"StringID"	: "loading_trivia_75"
 	,"orig_text": "Dragan spends a lot of time keeping himself in physical shape."
+	,"tran_text": "Dragan 花上大量時間去維持自己的體能。"
 },{
 	 "i"		: 2190
 	,"ids"		: "Idstring(@ID33b11d73b83870a4@)"
@@ -13082,6 +13124,7 @@
 	,"ids"		: "Idstring(@ID33dd22a389697d7d@)"
 	,"StringID"	: "loading_trivia_67"
 	,"orig_text": "Sokol spends a fortune on ice hockey gear."
+	,"tran_text": "Sokol 把錢花在冰上曲棍球的裝備上。"
 },{
 	 "i"		: 2193
 	,"ids"		: "Idstring(@IDd07820d4fda42e67@)"
@@ -14018,6 +14061,7 @@
 	,"ids"		: "Idstring(@ID8e3d7da3984fa6e8@)"
 	,"StringID"	: "loading_trivia_78"
 	,"orig_text": "Dragan was introduced to the Payday Gang by the Butcher."
+	,"tran_text": "Dragan 是經由 Butcher 介紹而加入 Payday 幫。"
 },{
 	 "i"		: 2351
 	,"ids"		: "Idstring(@IDca26973824ad5c94@)"
@@ -19415,7 +19459,7 @@
 	,"ids"		: "Idstring(@ID9dbef145db5b830f@)"
 	,"StringID"	: "loading_heister_36"
 	,"orig_text": "While in the Loadout screen, take a look at the \"crew setup\" to see what equipment your teammates are bringing."
-	,"tran_text": "在「裝備畫面」中，你可以從「隊員配置」頁面中看到隊友帶了什麼武器和道具上場。"
+	,"tran_text": "在「裝備畫面」中，你可以從「隊伍管理」頁面中看到隊友帶了什麼武器和道具上場。"
 },{
 	 "i"		: 3253
 	,"ids"		: "Idstring(@ID0151a0bccf79b4e2@)"
@@ -19547,236 +19591,283 @@
 	,"ids"		: "Idstring(@IDe725b42f0c678903@)"
 	,"StringID"	: "loading_trivia_25"
 	,"orig_text": "John Wick is sometimes called Baba Yaga, after a Slavic folklore figure."
+	,"tran_text": "John Wick 的綽號「Baba Yaga」，出自斯拉夫民間傳說中之女巫「芭芭雅嘎｣。"
 },{
 	 "i"		: 3275
 	,"ids"		: "Idstring(@IDcc5bf42743eb1f38@)"
 	,"StringID"	: "loading_trivia_26"
 	,"orig_text": "John Wick is back. He's definitely back."
+	,"tran_text": "John Wick 復出了，他真的重出江湖了。"
 },{
 	 "i"		: 3276
 	,"ids"		: "Idstring(@ID56e037454f751346@)"
 	,"StringID"	: "loading_trivia_29"
 	,"orig_text": "Bain spends a fortune on bribes and informants."
+	,"tran_text": "Bain 會把錢都花在收買線人和建立情報網上。"
 },{
 	 "i"		: 3277
 	,"ids"		: "Idstring(@ID05de1b7869c5efc4@)"
 	,"StringID"	: "loading_trivia_30"
 	,"orig_text": "Everyone knows Bain's name. No one knows his identity."
+	,"tran_text": "誰都知道 Bain 的名字就叫做 Bain，但無人知道他的底細。"
 },{
 	 "i"		: 3278
 	,"ids"		: "Idstring(@IDde3ae3a988a3f70d@)"
 	,"StringID"	: "loading_trivia_31"
 	,"orig_text": "Dallas spends a fortune on nice suits."
+	,"tran_text": "Dallas 把血汗錢都花在西裝上。"
 },{
 	 "i"		: 3279
 	,"ids"		: "Idstring(@ID943c9a5b69db195b@)"
 	,"StringID"	: "loading_trivia_33"
 	,"orig_text": "Dallas is not from Texas, he's from Chicago."
+	,"tran_text": "Dallas 不是來自德克薩斯州，而是芝加哥。"
 },{
 	 "i"		: 3280
 	,"ids"		: "Idstring(@IDeb3a619fddcd3749@)"
 	,"StringID"	: "loading_trivia_34"
 	,"orig_text": "Dallas doesn't like going to the dentist."
+	,"tran_text": "Dallas 不太喜歡看牙醫。"
 },{
 	 "i"		: 3281
 	,"ids"		: "Idstring(@ID579ef6285121eda7@)"
 	,"StringID"	: "loading_trivia_37"
 	,"orig_text": "Wolf is not a healthy human being."
+	,"tran_text": "Wolf 並不健康。"
 },{
 	 "i"		: 3282
 	,"ids"		: "Idstring(@ID6d6f8539957d027d@)"
 	,"StringID"	: "loading_trivia_38"
 	,"orig_text": "Wolf is not nice to hostages."
+	,"tran_text": "Wolf 對待人質並不友善。"
 },{
 	 "i"		: 3283
 	,"ids"		: "Idstring(@ID40a9f9f2ebfc6ffe@)"
 	,"StringID"	: "loading_trivia_40"
 	,"orig_text": "Bodhi used to be a member of a gang called the Ex-Presidents."
+	,"tran_text": "Bodhi 曾經是犯罪組織「Ex-Presidents」的一員。"
 },{
 	 "i"		: 3284
 	,"ids"		: "Idstring(@IDaff73f9aa8f54a70@)"
 	,"StringID"	: "loading_trivia_41"
 	,"orig_text": "Bodhi isn't just in it for the money."
+	,"tran_text": "Bodhi 之所以搶劫並不單純是為了金錢。"
 },{
 	 "i"		: 3285
 	,"ids"		: "Idstring(@ID0f39a54ec5887625@)"
 	,"StringID"	: "loading_trivia_42"
 	,"orig_text": "Bodhi is into crazy stunts like extreme skydiving."
+	,"tran_text": "Bodhi 喜歡瘋狂的特技，例如極限跳傘。"
 },{
 	 "i"		: 3286
 	,"ids"		: "Idstring(@IDf17c1f3b65930a85@)"
 	,"StringID"	: "loading_trivia_44"
 	,"orig_text": "Chains used to be a military man but he didn't fit in. As a bank robber, he's a natural."
+	,"tran_text": "Chains 曾經從軍但似乎無所適從，不過作為銀行劫匪來說他確實擁有天份。"
 },{
 	 "i"		: 3287
 	,"ids"		: "Idstring(@ID7a28ed60f4393fb3@)"
 	,"StringID"	: "loading_trivia_45"
 	,"orig_text": "Chains often acts and talks like he's impervious to bullets. Perhaps he is."
+	,"tran_text": "Chains 常常自誇自己刀槍不入，就不定他真的是。"
 },{
 	 "i"		: 3288
 	,"ids"		: "Idstring(@ID14b2b738bc872055@)"
 	,"StringID"	: "loading_trivia_46"
 	,"orig_text": "Chains is sometimes in a pickle."
+	,"tran_text": "Chains 常常遭難。"
 },{
 	 "i"		: 3289
 	,"ids"		: "Idstring(@ID6b739365fca9f2a5@)"
 	,"StringID"	: "loading_trivia_48"
 	,"orig_text": "Clover has had a long and complicated relationship with Hoxton, since before the Payday Gang. They get on well now, though."
+	,"tran_text": "在 Payday 幫成立以前，Clover 跟 Hoxton 有過一段不算短的孽緣。倒是最近這兩人相處得不錯。"
 },{
 	 "i"		: 3290
 	,"ids"		: "Idstring(@IDf9af221b4c6e6697@)"
 	,"StringID"	: "loading_trivia_51"
 	,"orig_text": "Houston spends a fortune on cars."
+	,"tran_text": "Houston 將錢都用在汽車上。"
 },{
 	 "i"		: 3291
 	,"ids"		: "Idstring(@ID8f10cf90f29f573d@)"
 	,"StringID"	: "loading_trivia_52"
 	,"orig_text": "Houston has many problems, but the cops ain't one."
+	,"tran_text": "Houston 有很多煩惱，但顯然條子不是其中之一。"
 },{
 	 "i"		: 3292
 	,"ids"		: "Idstring(@ID810499003537c9e7@)"
 	,"StringID"	: "loading_trivia_53"
 	,"orig_text": "Houston thinks Hoxton is an idiot."
+	,"tran_text": "Houston 一直認為 Hoxton 是個白痴。"
 },{
 	 "i"		: 3293
 	,"ids"		: "Idstring(@IDa6403aef0b271ba7@)"
 	,"StringID"	: "loading_trivia_54"
 	,"orig_text": "Houston likes to keep an eye on the escape van, making sure it's in good shape."
+	,"tran_text": "Houston 一直有好好保養逃亡車，確保她在最佳狀態。"
 },{
 	 "i"		: 3294
 	,"ids"		: "Idstring(@ID91c3a8ea5d17079f@)"
 	,"StringID"	: "loading_trivia_56"
 	,"orig_text": "Bonnie used to be a honeymoon murderer, marrying and then murdering her husbands for insurance money."
+	,"tran_text": "Bonnie 曾經幹過所謂的蜜月殺手－－跟人結婚然後謀害丈夫來騙取保險金的那種人。"
 },{
 	 "i"		: 3295
 	,"ids"		: "Idstring(@ID028a4496bbaf8518@)"
 	,"StringID"	: "loading_trivia_57"
 	,"orig_text": "Bonnie isn't good with computers."
+	,"tran_text": "Bonnie 不太會用電腦。"
 },{
 	 "i"		: 3296
 	,"ids"		: "Idstring(@IDdaab8be609243893@)"
 	,"StringID"	: "loading_trivia_58"
 	,"orig_text": "Bonnie probably gambles too much. But it wouldn't be safe to tell her that."
+	,"tran_text": "Bonnie 沉迷賭搏，但似乎誰都沒有勇氣告訴她這件事。"
 },{
 	 "i"		: 3297
 	,"ids"		: "Idstring(@ID9cf770d0c67e7b0f@)"
 	,"StringID"	: "loading_trivia_6"
 	,"orig_text": "Jimmy has declared that he will empty the Safe House bar faster than Aldstone can refill it. It's a titanic struggle with an unclear outcome."
+	,"tran_text": "Jimmy 發誓要以 Aldstone 來不及補充的速度把安全屋酒吧裡的酒喝清光，這場世紀之戰至今仍未分出勝負。"
 },{
 	 "i"		: 3298
 	,"ids"		: "Idstring(@ID3bf3fcb2695ff28d@)"
 	,"StringID"	: "loading_trivia_60"
 	,"orig_text": "Captain Winters is not a kind leader."
+	,"tran_text": "Captain Winters 不是個好上司。"
 },{
 	 "i"		: 3299
 	,"ids"		: "Idstring(@ID3b86f32b909b671a@)"
 	,"StringID"	: "loading_trivia_61"
 	,"orig_text": "Captain Winters holds a personal grudge against the Payday Gang."
+	,"tran_text": "Captain Winters 與 Payday 幫有私怨。"
 },{
 	 "i"		: 3300
 	,"ids"		: "Idstring(@ID763cf146d56c8fcb@)"
 	,"StringID"	: "loading_trivia_62"
 	,"orig_text": "Captain Winters used to be in the Military Police before he joined GenSec."
+	,"tran_text": "Captain Winters 在加入 GenSec 之前曾經做過憲兵。"
 },{
 	 "i"		: 3301
 	,"ids"		: "Idstring(@ID217c1077766ab3fd@)"
 	,"StringID"	: "loading_trivia_63"
 	,"orig_text": "Rust spends a fortune on his bike."
+	,"tran_text": "Rust 把錢都花在他的寶貝重機車上。"
 },{
 	 "i"		: 3302
 	,"ids"		: "Idstring(@ID05433d6619763007@)"
 	,"StringID"	: "loading_trivia_68"
 	,"orig_text": "Sokol watches the Russian hockey league every week."
+	,"tran_text": "Sokol 每週都會看俄國冰球聯盟的比賽。"
 },{
 	 "i"		: 3303
 	,"ids"		: "Idstring(@IDdfe3eb2db4a5fcfd@)"
 	,"StringID"	: "loading_trivia_7"
 	,"orig_text": "Jacket has never spoken a word to the other heisters without using his tape recorder."
+	,"tran_text": "Jacket 從沒說過話，他都是用卡式錄音機跟其他劫匪溝通。"
 },{
 	 "i"		: 3304
 	,"ids"		: "Idstring(@IDa8a686a309508d43@)"
 	,"StringID"	: "loading_trivia_70"
 	,"orig_text": "Sokol enjoys the fact that he still has fans in Russia from his ice hockey days."
+	,"tran_text": "Sokol 對於他以前的冰球粉絲至今還記得他一事感到高興。"
 },{
 	 "i"		: 3305
 	,"ids"		: "Idstring(@IDf8af0a65834e12ad@)"
 	,"StringID"	: "loading_trivia_72"
 	,"orig_text": "Jiro's body is full of traditional Yakuza tattoos."
+	,"tran_text": "Jiro 全身刺滿了日本黑道的傳統刺青。"
 },{
 	 "i"		: 3306
 	,"ids"		: "Idstring(@ID2573b01b30e6b3a0@)"
 	,"StringID"	: "loading_trivia_73"
 	,"orig_text": "Jiro has picked up decent English after spending a couple of years in the US."
+	,"tran_text": "Jiro 已經來到美國好幾年，他的英語尚算流利。"
 },{
 	 "i"		: 3307
 	,"ids"		: "Idstring(@ID47f3587624b688d2@)"
 	,"StringID"	: "loading_trivia_74"
 	,"orig_text": "Jiro's relationship to American food is marked more by tolerance than appreciation."
+	,"tran_text": "Jiro 並沒多欣賞美國的飲食文化－－他只當成苦行的一部分。"
 },{
 	 "i"		: 3308
 	,"ids"		: "Idstring(@ID23690d3862e3bda7@)"
 	,"StringID"	: "loading_trivia_77"
 	,"orig_text": "Dragan used to be a cop in Croatia."
+	,"tran_text": "Dragan 曾經是克羅埃西亞共和國的警察。"
 },{
 	 "i"		: 3309
 	,"ids"		: "Idstring(@IDb10eb605ce042f0b@)"
 	,"StringID"	: "loading_trivia_79"
 	,"orig_text": "Aldstone spends a fortune on specially imported tea."
+	,"tran_text": "Aldstone 把錢都花在高檔入口茶葉上。"
 },{
 	 "i"		: 3310
 	,"ids"		: "Idstring(@ID308dbf8783da446a@)"
 	,"StringID"	: "loading_trivia_81"
 	,"orig_text": "Aldstone was once married, but it didn't end happily."
+	,"tran_text": "Aldstone 結過婚，但不是愉快收場。"
 },{
 	 "i"		: 3311
 	,"ids"		: "Idstring(@IDac2ebf0b3e2e0124@)"
 	,"StringID"	: "loading_trivia_82"
 	,"orig_text": "Aldstone doesn't like Hoxton's choice of profession, but as a loyal and professional butler he stoically accepts it."
+	,"tran_text": "Aldstone 並不喜歡 Hoxton 少爺的職業，但作為一名忠心且專業的管家，他選擇默默接受。"
 },{
 	 "i"		: 3312
 	,"ids"		: "Idstring(@ID655a89e0b81ce7f8@)"
 	,"StringID"	: "loading_trivia_83"
 	,"orig_text": "Gage spends a fortune on bribing customs officials."
+	,"tran_text": "Gage 把錢都花在賄賂關員身上。"
 },{
 	 "i"		: 3313
 	,"ids"		: "Idstring(@ID5e77269836be0c2f@)"
 	,"StringID"	: "loading_trivia_84"
 	,"orig_text": "Gage doesn't like everything about his job, but he does have a passion for the merchandise."
+	,"tran_text": "Gage 並不是那麼喜歡他的工作，但是他很熱愛他的商品。"
 },{
 	 "i"		: 3314
 	,"ids"		: "Idstring(@IDd1741b206253383b@)"
 	,"StringID"	: "loading_trivia_85"
 	,"orig_text": "Gage is often underestimated, something which he uses to his advantage."
+	,"tran_text": "Gage 常常被人小看，而他亦不時利用這一點佔得好處。"
 },{
 	 "i"		: 3315
 	,"ids"		: "Idstring(@IDc1df0288f2806ff2@)"
 	,"StringID"	: "loading_trivia_93"
 	,"orig_text": "Bodhi despises Tasers. Try shooting one with the Platypus Sniper Rifle when playing as him."
+	,"tran_text": "Bodhi 鄙視電擊兵 Tasers。下次不妨扮演他，用 Platypus 狙擊槍擊殺他們試試看。"
 },{
 	 "i"		: 3316
 	,"ids"		: "Idstring(@IDb285762ce45ad01a@)"
 	,"StringID"	: "loading_trivia_94"
 	,"orig_text": "No animals were hurt during the making of the Goat Simulator Heist."
+	,"tran_text": "在製作 Goat Simulator Heist 的過程中沒有動物受到傷害。"
 },{
 	 "i"		: 3317
 	,"ids"		: "Idstring(@IDd844c630dc3f23eb@)"
 	,"StringID"	: "loading_trivia_96"
 	,"orig_text": "Events are heists that take place during special events, like Halloween. Expect some crazy things to happen."
+	,"tran_text": "每逄節日都會有限時推出的特殊劫案，例如萬聖節。你可以期待會有瘋狂的事件等待著你。"
 },{
 	 "i"		: 3318
 	,"ids"		: "Idstring(@IDc8a0d876c8e22ca8@)"
 	,"StringID"	: "loading_trivia_97"
 	,"orig_text": "The Dentist's jobs require careful planning and finesse. If you think you're ready, give him a call."
+	,"tran_text": "牙醫 Dentist 的委託需要周長的計劃和靈巧的身手。要是你已準備好，就跟他聯絡吧。"
 },{
 	 "i"		: 3319
 	,"ids"		: "Idstring(@ID8533beec950580bb@)"
 	,"StringID"	: "loading_trivia_98"
 	,"orig_text": "The Classics. These jobs were the biggest things the gang's ever done. Let's say we see if they still have what it takes?"
+	,"tran_text": "經典劫案，這些都是前代 Payday 幫完成過的大型劫案。你有沒興趣再一次試試自己的身手？"
 },{
 	 "i"		: 3320
 	,"ids"		: "Idstring(@IDf7a17b8a68891fce@)"
 	,"StringID"	: "loading_trivia_title"
 	,"orig_text": "Payday Trivia"
+	,"tran_text": "遊戲小趣事"
 },{
 	 "i"		: 3321
 	,"ids"		: "Idstring(@ID8e3f37d229b07ed4@)"
@@ -19840,26 +19931,31 @@
 	,"ids"		: "Idstring(@IDb8d59721a9d4b15e@)"
 	,"StringID"	: "mission_glace_1"
 	,"orig_text": "Make your way further along the bridge and locate the prison convoy."
+	,"tran_text": "沿著大橋前進並找出囚車車隊。"
 },{
 	 "i"		: 3332
 	,"ids"		: "Idstring(@ID61708ddaa5173204@)"
 	,"StringID"	: "mission_glace_1_hl"
 	,"orig_text": "Locate the prison convoy"
+	,"tran_text": "找出囚車車隊"
 },{
 	 "i"		: 3333
 	,"ids"		: "Idstring(@ID8652a66de02657e6@)"
 	,"StringID"	: "mission_glace_3"
 	,"orig_text": "Escort the prisoner to the top of the right tower. When he's at the top, strap him down in the chair and send him skyward with the balloon."
+	,"tran_text": "護送那名囚犯到大橋右側的塔頂。當他到達塔頂，將他縛緊在椅子上，利用氣球將他空運送走。"
 },{
 	 "i"		: 3334
 	,"ids"		: "Idstring(@IDb8138c8855be1396@)"
 	,"StringID"	: "mission_glace_5"
 	,"orig_text": "Send up the Balloon so George can fly in and pick up the Ejection Seat."
+	,"tran_text": "升起氣球，以便機師 George 飛過來並帶走逃生椅。"
 },{
 	 "i"		: 3335
 	,"ids"		: "Idstring(@IDb6a82b1c4ba9ab5f@)"
 	,"StringID"	: "mission_glace_6_hl"
 	,"orig_text": "Make for the escape"
+	,"tran_text": "準備逃亡"
 },{
 	 "i"		: 3336
 	,"ids"		: "Idstring(@ID6f2baf485a3d7521@)"
