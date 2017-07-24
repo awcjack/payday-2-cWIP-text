@@ -608,6 +608,7 @@
 	,"ids"		: "Idstring(@ID7e5cc95bfe06f0ee@)"
 	,"StringID"	: "cha_spa_04_01"
 	,"orig_text": "I need to open this gate. Give me a minute!"
+	,"tran_text": "我要去打開這道閘門。給我一分鐘！"
 },{
 	 "i"		: 108
 	,"ids"		: "Idstring(@ID72dbb39b788c71ca@)"
@@ -879,6 +880,7 @@
 	,"ids"		: "Idstring(@IDa218ae9ec526437f@)"
 	,"StringID"	: "cha_spa_10_01"
 	,"orig_text": "More enemies! I'd appreciate some help..."
+	,"tran_text": "又有追兵！我這兒需要些幫忙……"
 },{
 	 "i"		: 155
 	,"ids"		: "Idstring(@IDec5ebe7270fcc8a6@)"
@@ -940,7 +942,9 @@
 },{
 	 "i"		: 165
 	,"ids"		: "Idstring(@ID8ad06da7000b8fa7@)"
+	,"StringID"	: "pln_fish_15_01"
 	,"orig_text": "Use the zipline to secure the loot."
+	,"tran_text": "用滑索去運走贓物。"
 },{
 	 "i"		: 166
 	,"ids"		: "Idstring(@IDa54058411e7a3cf7@)"
@@ -1299,7 +1303,9 @@
 },{
 	 "i"		: 228
 	,"ids"		: "Idstring(@ID16acd740cf128ee7@)"
+	,"StringID"	: "pln_spa_04_01"
 	,"orig_text": "Quickly guys, find him and take him out!"
+	,"tran_text": "快點！把他找出來幹掉！"
 },{
 	 "i"		: 229
 	,"ids"		: "Idstring(@ID4fb69321ddd0fd41@)"
@@ -1353,6 +1359,7 @@
 	,"ids"		: "Idstring(@IDfb4c084b3e59992d@)"
 	,"StringID"	: "cha_spa_08_01"
 	,"orig_text": "Thank you. That was getting a little... uncomfortable."
+	,"tran_text": "謝謝。剛才差點令我……漏出來了。"
 },{
 	 "i"		: 238
 	,"ids"		: "Idstring(@ID216d5a122f563b21@)"
@@ -1999,7 +2006,9 @@
 },{
 	 "i"		: 348
 	,"ids"		: "Idstring(@ID4b894ecc284860a8@)"
+	,"StringID"	: "pln_fish_12_01"
 	,"orig_text": "Throw the bags into the sea. You can pick them up when you leave."
+	,"tran_text": "將袋子拋進海中，當你離開前可以帶走它。"
 },{
 	 "i"		: 349
 	,"ids"		: "Idstring(@ID0611a6be7febd5ef@)"
@@ -2333,7 +2342,9 @@
 },{
 	 "i"		: 407
 	,"ids"		: "Idstring(@ID2f671f2ed14f555c@)"
+	,"StringID"	: "cha_spa_11_02"
 	,"orig_text": "You have to take the snipers out. I'm stuck here!"
+	,"tran_text": "你們要解決那些狙擊手。我被困住啦！"
 },{
 	 "i"		: 408
 	,"ids"		: "Idstring(@IDf1fcd34407a242c4@)"
@@ -2541,7 +2552,9 @@
 },{
 	 "i"		: 443
 	,"ids"		: "Idstring(@IDa5f8874e23990368@)"
+	,"StringID"	: "pln_fish_03_03"
 	,"orig_text": "You find that laptop yet?"
+	,"tran_text": "你已經找到那台筆記型電腦嗎？"
 },{
 	 "i"		: 444
 	,"ids"		: "Idstring(@IDdcc0215ed41f6ffe@)"
@@ -3462,7 +3475,9 @@
 },{
 	 "i"		: 604
 	,"ids"		: "Idstring(@IDb62df04bfbf153ae@)"
+	,"StringID"	: "pln_fish_21_02"
 	,"orig_text": "Turn off the flow of coolant. That should make the secondary servers overheat."
+	,"tran_text": "關閉水冷系統。這樣應該能將第二伺服器過熱。"
 },{
 	 "i"		: 605
 	,"ids"		: "Idstring(@ID8c5104c88fa28a73@)"
@@ -3587,7 +3602,9 @@
 },{
 	 "i"		: 626
 	,"ids"		: "Idstring(@IDc8d580c75099d502@)"
+	,"StringID"	: "pln_fish_24_02"
 	,"orig_text": "Ok, now for overriding the main panel."
+	,"tran_text": "OK，讓我來搞定那主控台。"
 },{
 	 "i"		: 627
 	,"ids"		: "Idstring(@IDd91ed16667cfa7d6@)"
@@ -3915,6 +3932,7 @@
 	,"ids"		: "Idstring(@ID4861cd23635f04dd@)"
 	,"StringID"	: "pln_spa_03_01"
 	,"orig_text": "Find the sniper and take him out before he takes the shot!"
+	,"tran_text": "在狙擊手開槍之前找到並收拾他！"
 },{
 	 "i"		: 684
 	,"ids"		: "Idstring(@ID8dac305c00afe6ec@)"
@@ -4326,7 +4344,9 @@
 },{
 	 "i"		: 756
 	,"ids"		: "Idstring(@IDc96fb7a56dc7985d@)"
+	,"StringID"	: "pln_fish_11_03"
 	,"orig_text": "That's all of the cash!"
+	,"tran_text": "這是所有現金了！"
 },{
 	 "i"		: 757
 	,"ids"		: "Idstring(@IDf4fb279d7ef97b4c@)"
@@ -4625,6 +4645,7 @@
 	,"ids"		: "Idstring(@IDe586e87acb2d1f80@)"
 	,"StringID"	: "cha_spa_01_01"
 	,"orig_text": "I'm glad you showed up! As you can see, I need some help here."
+	,"tran_text": "我很高興見到你們現身！如你們所見，我這裡需要些協助。"
 },{
 	 "i"		: 809
 	,"ids"		: "Idstring(@ID4217dcf1660fb2f6@)"
@@ -4657,7 +4678,9 @@
 },{
 	 "i"		: 814
 	,"ids"		: "Idstring(@ID128c553af7922142@)"
+	,"StringID"	: "pln_fish_18_02"
 	,"orig_text": "Ok, that's the server room door opened."
+	,"tran_text": "OK，幫你把伺服器門打開了。"
 },{
 	 "i"		: 815
 	,"ids"		: "Idstring(@ID0f87e0b7d1f65e95@)"
@@ -5591,7 +5614,9 @@
 },{
 	 "i"		: 979
 	,"ids"		: "Idstring(@IDc1dc4b1dd9a58dc4@)"
+	,"StringID"	: "pln_fish_intro_02"
 	,"orig_text": "Be careful now, don't let the guards see you. And find that cash."
+	,"tran_text": "小心點，別讓守衛看見你。快去找現金。"
 },{
 	 "i"		: 980
 	,"ids"		: "Idstring(@ID4e3540956e6e22ca@)"
@@ -6002,7 +6027,9 @@
 },{
 	 "i"		: 1051
 	,"ids"		: "Idstring(@IDb7c2bec4370ffe2a@)"
+	,"StringID"	: "cha_spa_02_02"
 	,"orig_text": "I'm a sitting duck here with those snipers. Can you do something?"
+	,"tran_text": "有那些狙擊手在我可動不了啦。你們想想辦法吧？"
 },{
 	 "i"		: 1052
 	,"ids"		: "Idstring(@ID85a85d6ca8e8fdfc@)"
@@ -7527,7 +7554,9 @@
 },{
 	 "i"		: 1317
 	,"ids"		: "Idstring(@ID46eba0d967120a8d@)"
+	,"StringID"	: "pln_fish_21_03"
 	,"orig_text": "The secondary servers should overheat if you turn off the flow of coolant."
+	,"tran_text": "把水冷系統關閉應該能讓第二伺服器過熱。"
 },{
 	 "i"		: 1318
 	,"ids"		: "Idstring(@ID8814cdf3fd6191bd@)"
@@ -7798,7 +7827,9 @@
 },{
 	 "i"		: 1364
 	,"ids"		: "Idstring(@ID89031b0b86ba2024@)"
+	,"StringID"	: "cha_spa_end_01"
 	,"orig_text": "Thank you. I'm impressed that you showed up so quickly. I'm in your debt."
+	,"tran_text": "謝謝。我很感激你們能那麼快現身。我欠你們一次。"
 },{
 	 "i"		: 1365
 	,"ids"		: "Idstring(@IDb8bae7cefc4ca5e0@)"
@@ -8015,7 +8046,9 @@
 },{
 	 "i"		: 1402
 	,"ids"		: "Idstring(@ID6f242e8f1ba1c9ba@)"
+	,"StringID"	: "cha_spa_11_01"
 	,"orig_text": "The snipers have me pinned down. I can't move until you clear them out!"
+	,"tran_text": "我正被狙擊手所牽制。你們不收拾他們我就動不了！"
 },{
 	 "i"		: 1403
 	,"ids"		: "Idstring(@IDfa9d05d1e627c52e@)"
@@ -8094,7 +8127,9 @@
 },{
 	 "i"		: 1416
 	,"ids"		: "Idstring(@IDf1745fd3f57d55d1@)"
+	,"StringID"	: "pln_spa_07_02"
 	,"orig_text": "They're deploying another group of snipers!"
+	,"tran_text": "他們又派出另一隊狙擊手了！"
 },{
 	 "i"		: 1417
 	,"ids"		: "Idstring(@ID762ea60faff993c7@)"
@@ -8822,7 +8857,9 @@
 },{
 	 "i"		: 1544
 	,"ids"		: "Idstring(@ID9314de6416fd2ad3@)"
+	,"StringID"	: "pln_fish_14_01"
 	,"orig_text": "You can secure the bags down in the motorboat or throw them in the sea and we'll pick them up later."
+	,"tran_text": "你可以把贓物丟到水上摩托車上，或者把它們都到海浬，之後我們會去把它撿起來。"
 },{
 	 "i"		: 1545
 	,"ids"		: "Idstring(@ID5d2a1dc302e88f6e@)"
@@ -9856,7 +9893,9 @@
 },{
 	 "i"		: 1723
 	,"ids"		: "Idstring(@ID1100e1e8ea05783a@)"
+	,"StringID"	: "cha_spa_15_03"
 	,"orig_text": "I think we will come out of this alive after all! Of course, I never doubted it!"
+	,"tran_text": "我就知道我們一定能活著離去！當然，我從沒懷疑過！"
 },{
 	 "i"		: 1724
 	,"ids"		: "Idstring(@IDfaabb25d45b11dda@)"
@@ -10860,7 +10899,9 @@
 },{
 	 "i"		: 1898
 	,"ids"		: "Idstring(@ID80c711b0d77a614e@)"
+	,"StringID"	: "pln_fish_36_01"
 	,"orig_text": "An active ECM jammer will probably make it hard to open the server room security door. Keep that in mind."
+	,"tran_text": "設置ECM會干擾到伺服器室安全門的破解工作的，這點記緊了。"
 },{
 	 "i"		: 1899
 	,"ids"		: "Idstring(@ID4c1c8c343a3dceae@)"
@@ -11081,7 +11122,9 @@
 },{
 	 "i"		: 1936
 	,"ids"		: "Idstring(@ID77d47d4382a71e5d@)"
+	,"StringID"	: "pln_fish_27_02"
 	,"orig_text": "Ok, we got it. Can't wait to extract those passwords!"
+	,"tran_text": "OK，我們到手了。我等不及要提取裡面的密碼了！"
 },{
 	 "i"		: 1937
 	,"ids"		: "Idstring(@IDe82ef2023ca3a951@)"
@@ -11181,7 +11224,9 @@
 },{
 	 "i"		: 1954
 	,"ids"		: "Idstring(@IDe4537d5a5abfb4a6@)"
+	,"StringID"	: "pln_fish_09_01"
 	,"orig_text": "That's the second stash. Two to go!"
+	,"tran_text": "那是第二份。還剩兩份！"
 },{
 	 "i"		: 1955
 	,"ids"		: "Idstring(@ID4b17455a36541872@)"
@@ -12465,7 +12510,9 @@
 },{
 	 "i"		: 2179
 	,"ids"		: "Idstring(@ID8a88924843e95db8@)"
+	,"StringID"	: "pln_fish_13_02"
 	,"orig_text": "Secure the loot bags in the motorboat you arrived in."
+	,"tran_text": "把贓物放到你來這裡的水上摩托車上。"
 },{
 	 "i"		: 2180
 	,"ids"		: "Idstring(@ID50d55ba9b0e5b2e8@)"
@@ -12829,7 +12876,9 @@
 },{
 	 "i"		: 2243
 	,"ids"		: "Idstring(@ID3f81d95214b2d6f6@)"
+	,"StringID"	: "pln_fish_30_01"
 	,"orig_text": "The server room is locked down. We can't get in there now!"
+	,"tran_text": "伺服器室鎖死了。現在我們不能進去！"
 },{
 	 "i"		: 2244
 	,"ids"		: "Idstring(@ID03b1c13530c6d24c@)"
@@ -12879,7 +12928,9 @@
 },{
 	 "i"		: 2252
 	,"ids"		: "Idstring(@IDbb4bbc6a81bc83e0@)"
+	,"StringID"	: "cha_spa_10_03"
 	,"orig_text": "There's more of them! If you don't mind - some help please?"
+	,"tran_text": "又一批追兵！如果你們不介意－－能幫個忙嗎？"
 },{
 	 "i"		: 2253
 	,"ids"		: "Idstring(@IDd0b36f4e718752b5@)"
@@ -13026,7 +13077,9 @@
 },{
 	 "i"		: 2278
 	,"ids"		: "Idstring(@IDd15caf2a99bfd767@)"
+	,"StringID"	: "cha_spa_08_02"
 	,"orig_text": "Thanks, it's good to work with professionals."
+	,"tran_text": "謝了，能與專業人仕合作實在太好了。"
 },{
 	 "i"		: 2279
 	,"ids"		: "Idstring(@IDc611abbae3f4b3cb@)"
@@ -13065,7 +13118,9 @@
 },{
 	 "i"		: 2285
 	,"ids"		: "Idstring(@ID827a3d1aed6b8338@)"
+	,"StringID"	: "cha_spa_12_02"
 	,"orig_text": "The elevator isn't working, I can't get up! Listen - I need you to find something for me up there -  it's a metal briefcase that they took from me. It's very important!"
+	,"tran_text": "升降機不動了，我上不了去！聽著－－我要你們替我找個東西，那是個金屬公事包，是他們從我身上搶走的。那東西超重要的！"
 },{
 	 "i"		: 2286
 	,"ids"		: "Idstring(@ID051c2bb8b4ac38dd@)"
@@ -13469,7 +13524,9 @@
 },{
 	 "i"		: 2356
 	,"ids"		: "Idstring(@ID48730ce6866be010@)"
+	,"StringID"	: "pln_fish_30_03"
 	,"orig_text": "The server room is in security lockdown. We can't access it now!"
+	,"tran_text": "伺服器室啟動了保安程序。我們進不了去！"
 },{
 	 "i"		: 2357
 	,"ids"		: "Idstring(@ID50b4a72133eef76e@)"
@@ -15010,7 +15067,9 @@
 },{
 	 "i"		: 2630
 	,"ids"		: "Idstring(@IDfa94cab3340a4887@)"
+	,"StringID"	: "pln_fish_intro_03"
 	,"orig_text": "Good luck on your treasure hunt, guys. And remember, keep it quiet."
+	,"tran_text": "祝你們尋寶順利，各位。記緊保持安靜。"
 },{
 	 "i"		: 2631
 	,"ids"		: "Idstring(@ID860523512c0749fa@)"
@@ -15181,7 +15240,9 @@
 },{
 	 "i"		: 2660
 	,"ids"		: "Idstring(@ID5ccae0ffc820a911@)"
+	,"StringID"	: "cha_spa_11_03"
 	,"orig_text": "I can't take the snipers out! Help me, yes?"
+	,"tran_text": "我打不到那些狙擊手！幫個忙，可好？"
 },{
 	 "i"		: 2661
 	,"ids"		: "Idstring(@ID48339bd11a08b611@)"
@@ -16502,7 +16563,9 @@
 },{
 	 "i"		: 2888
 	,"ids"		: "Idstring(@ID2d3a927858ba5538@)"
+	,"StringID"	: "pln_fish_end_01"
 	,"orig_text": "Great job, gang - you really screwed McKendrick over this time. He won't be happy when he finds out all that money's gone."
+	,"tran_text": "大伙兒，幹得好－－你們成功惡整了 McKendrick 那混蛋。要是他發現所有錢都不翼而飛的話他肯定要哭死了。"
 },{
 	 "i"		: 2889
 	,"ids"		: "Idstring(@IDfdb4e8f0d04c33aa@)"
@@ -16769,6 +16832,7 @@
 	,"ids"		: "Idstring(@ID9e84da43c368d0e9@)"
 	,"StringID"	: "cha_spa_09_03"
 	,"orig_text": "Let's meet in the building next door. You can probably enter from the roof."
+	,"tran_text": "我們就在下一座大樓會合吧。你們可以穿過天台進去。"
 },{
 	 "i"		: 2935
 	,"ids"		: "Idstring(@IDdf3b0309fb77295e@)"
@@ -16789,7 +16853,9 @@
 },{
 	 "i"		: 2938
 	,"ids"		: "Idstring(@ID9fab637f95faf22c@)"
+	,"StringID"	: "pln_fish_06_02"
 	,"orig_text": "Looks like a list of where the money is hidden. It's all over the yacht."
+	,"tran_text": "看起來是一份隱藏現金的位置清單。它們遍佈在這艘遊艇裡。"
 },{
 	 "i"		: 2939
 	,"ids"		: "Idstring(@ID9ae55651e9dffa02@)"
@@ -17293,7 +17359,9 @@
 },{
 	 "i"		: 3027
 	,"ids"		: "Idstring(@IDe6bf3a13a3a42195@)"
+	,"StringID"	: "pln_fish_03_02"
 	,"orig_text": "Remember to look for the laptop!"
+	,"tran_text": "記得去尋找那台筆記型電腦！"
 },{
 	 "i"		: 3028
 	,"ids"		: "Idstring(@IDf5eb5d0ea79d1509@)"
@@ -17468,7 +17536,9 @@
 },{
 	 "i"		: 3058
 	,"ids"		: "Idstring(@ID3353ff74090dde16@)"
+	,"StringID"	: "pln_fish_16_02"
 	,"orig_text": "Ok, now for the server room... That laptop you found earlier should enable me to give you access. Go back there and hook me up."
+	,"tran_text": "OK，現在來搞定伺服器房...稍早你用的那台筆電應該能讓你進入。回去然後將我連接上。"
 },{
 	 "i"		: 3059
 	,"ids"		: "Idstring(@ID4db220ee6e5374a3@)"
@@ -17749,7 +17819,9 @@
 },{
 	 "i"		: 3108
 	,"ids"		: "Idstring(@ID9279c96e2353be78@)"
+	,"StringID"	: "cha_spa_14_01"
 	,"orig_text": "Is the pickup coming? This is getting pretty hot!"
+	,"tran_text": "逃亡車是否在路上？這裡火力越來越猛了！"
 },{
 	 "i"		: 3109
 	,"ids"		: "Idstring(@ID62e73ca37b36abb1@)"
@@ -17903,7 +17975,9 @@
 },{
 	 "i"		: 3136
 	,"ids"		: "Idstring(@IDc77aabd432789fd5@)"
+	,"StringID"	: "cha_spa_01_03"
 	,"orig_text": "The Payday Gang! Welcome! Let's teach these guys a lesson, yes?"
+	,"tran_text": "Payday 幫！歡迎歡迎！來給這些傢伙上一課，可好？"
 },{
 	 "i"		: 3137
 	,"ids"		: "Idstring(@IDbfe208cd24467e12@)"
@@ -18128,7 +18202,9 @@
 },{
 	 "i"		: 3175
 	,"ids"		: "Idstring(@ID7e59714038ae97d0@)"
+	,"StringID"	: "pln_fish_14_02"
 	,"orig_text": "Either secure the bags in the motorboat, or chuck them in the sea. We can pick them up as we leave."
+	,"tran_text": "把贓物丟到水上摩托車上，不然就往海裡丟。我們可以離開前去撿回來。"
 },{
 	 "i"		: 3176
 	,"ids"		: "Idstring(@ID572792ac01ada7cd@)"
@@ -18812,7 +18888,9 @@
 },{
 	 "i"		: 3295
 	,"ids"		: "Idstring(@IDb6acaf92cbcbe884@)"
+	,"StringID"	: "pln_fish_end_03"
 	,"orig_text": "That's the end of McKendrick's re-election dreams - you're true kingmakers, guys! The Payday Gang giveth and it taketh away."
+	,"tran_text": "McKendrick 的重選之夢到些為止了－－你們才是真正的造王者，各位！成也 Payday 幫，敗也 Payday 幫。"
 },{
 	 "i"		: 3296
 	,"ids"		: "Idstring(@ID38dcc308cf8a674b@)"
@@ -19257,6 +19335,7 @@
 	,"ids"		: "Idstring(@ID888aa55df606e186@)"
 	,"StringID"	: "cha_spa_02_01"
 	,"orig_text": "Those snipers have me pinned down. Can you take them out?"
+	,"tran_text": "那些狙擊手正牽制着我。你們能收拾他們嗎？"
 },{
 	 "i"		: 3374
 	,"ids"		: "Idstring(@ID2518faee3f2b4f2d@)"
@@ -19864,7 +19943,9 @@
 },{
 	 "i"		: 3479
 	,"ids"		: "Idstring(@ID775ce840b3c24ff5@)"
+	,"StringID"	: "cha_spa_07_02"
 	,"orig_text": "I can't open the door while they are firing at me!"
+	,"tran_text": "他們正向我開火，我開不了閘門！"
 },{
 	 "i"		: 3480
 	,"ids"		: "Idstring(@ID683433499b0b1c7b@)"
@@ -20748,7 +20829,9 @@
 },{
 	 "i"		: 3632
 	,"ids"		: "Idstring(@ID195b683f594e06bc@)"
+	,"StringID"	: "pln_fish_20_01"
 	,"orig_text": "You'll have to overheat the system to cause a soft reboot and gain access to the controls. Then we should be able to get that server."
+	,"tran_text": "你必須讓系統過熱導致他重新啟動，這時就有機會控制它。然後我們就能搶走伺服器了。"
 },{
 	 "i"		: 3633
 	,"ids"		: "Idstring(@ID66c68e3f34c19f7e@)"
@@ -20879,7 +20962,9 @@
 },{
 	 "i"		: 3655
 	,"ids"		: "Idstring(@ID7fed52c022ffd08b@)"
+	,"StringID"	: "pln_fish_08_02"
 	,"orig_text": "You got the first stash. Keep looking!"
+	,"tran_text": "你找到第一份了。繼續找吧！"
 },{
 	 "i"		: 3656
 	,"ids"		: "Idstring(@IDa4fc973394c7ca54@)"
@@ -20959,7 +21044,9 @@
 },{
 	 "i"		: 3669
 	,"ids"		: "Idstring(@ID361c22868b6fa33e@)"
+	,"StringID"	: "pln_fish_22_03"
 	,"orig_text": "Turn those valves off."
+	,"tran_text": "把閥門關掉。"
 },{
 	 "i"		: 3670
 	,"ids"		: "Idstring(@IDf0d4c06651739647@)"
@@ -21265,7 +21352,9 @@
 },{
 	 "i"		: 3723
 	,"ids"		: "Idstring(@ID78a4eb06840056e0@)"
+	,"StringID"	: "pln_fish_10_02"
 	,"orig_text": "You got the third stash. One more now!"
+	,"tran_text": "你拿到第三份了。現在剩一個！"
 },{
 	 "i"		: 3724
 	,"ids"		: "Idstring(@IDc7e750e200f2a993@)"
@@ -23116,7 +23205,9 @@
 },{
 	 "i"		: 4048
 	,"ids"		: "Idstring(@ID2c1bfd8d686f9343@)"
+	,"StringID"	: "pln_spa_04_02"
 	,"orig_text": "Take that sniper out!"
+	,"tran_text": "收拾那狙擊手！"
 },{
 	 "i"		: 4049
 	,"ids"		: "Idstring(@ID31cacc16cea7a2ee@)"
@@ -23314,6 +23405,7 @@
 	,"ids"		: "Idstring(@ID7559b1fe48f99dc5@)"
 	,"StringID"	: "cha_spa_09_02"
 	,"orig_text": "I will move to the building next door. Enter across the roof and you can meet me there."
+	,"tran_text": "我會移動到下一座大樓。你們從天台穿過去就能見到我。"
 },{
 	 "i"		: 4084
 	,"ids"		: "Idstring(@ID6bbed13eb0b0a954@)"
@@ -23400,7 +23492,9 @@
 },{
 	 "i"		: 4099
 	,"ids"		: "Idstring(@IDfd15f02cc5c8d6a5@)"
+	,"StringID"	: "pln_fish_09_03"
 	,"orig_text": "Two down, two to go!"
+	,"tran_text": "兩個搞定，還剩兩個！"
 },{
 	 "i"		: 4100
 	,"ids"		: "Idstring(@ID76f5c037d82e6262@)"
@@ -23627,7 +23721,9 @@
 },{
 	 "i"		: 4139
 	,"ids"		: "Idstring(@ID7a3d84714d90a153@)"
+	,"StringID"	: "pln_fish_20_03"
 	,"orig_text": "You'll need to induce a soft reboot by overheating the system. That'll get you access to the controls so you can grab the server."
+	,"tran_text": "你得讓系統過熱讓它導致系統重新啟動。這樣你就能控制它好讓你能拿走伺服器。"
 },{
 	 "i"		: 4140
 	,"ids"		: "Idstring(@ID94b40bbc12d98cf0@)"
@@ -23690,7 +23786,9 @@
 },{
 	 "i"		: 4150
 	,"ids"		: "Idstring(@ID5d84b11e6dfed231@)"
+	,"StringID"	: "pln_fish_04_02"
 	,"orig_text": "Yeah, that's the one we're looking for."
+	,"tran_text": "非常好！這是我們要找的。"
 },{
 	 "i"		: 4151
 	,"ids"		: "Idstring(@IDd48fd01bc676f932@)"
@@ -23962,7 +24060,9 @@
 },{
 	 "i"		: 4197
 	,"ids"		: "Idstring(@IDb6226b47418c9537@)"
+	,"StringID"	: "pln_fish_22_02"
 	,"orig_text": "You need to turn off those valves at the bottom of the server rack."
+	,"tran_text": "你們要去關掉閥門，就在伺服器機架的下方。"
 },{
 	 "i"		: 4198
 	,"ids"		: "Idstring(@ID761c4b0a424ec5e8@)"
@@ -24018,6 +24118,7 @@
 	,"ids"		: "Idstring(@ID35c1f61984bce18c@)"
 	,"StringID"	: "pln_spa_06_01"
 	,"orig_text": "Watch out, they're deploying more snipers!"
+	,"tran_text": "小心，他們派出更多狙擊手！"
 },{
 	 "i"		: 4208
 	,"ids"		: "Idstring(@IDcb9a50b37017d10b@)"
@@ -24696,7 +24797,9 @@
 },{
 	 "i"		: 4326
 	,"ids"		: "Idstring(@ID5890a5ac911815d5@)"
+	,"StringID"	: "pln_fish_26_03"
 	,"orig_text": "Just one more override."
+	,"tran_text": "還有一處要改寫。"
 },{
 	 "i"		: 4327
 	,"ids"		: "Idstring(@ID5644f78a866309f2@)"
@@ -24992,7 +25095,9 @@
 },{
 	 "i"		: 4378
 	,"ids"		: "Idstring(@ID5156d421cb45ef19@)"
+	,"StringID"	: "pln_spa_03_03"
 	,"orig_text": "Get that sniper!"
+	,"tran_text": "殺掉那狙擊手！"
 },{
 	 "i"		: 4379
 	,"ids"		: "Idstring(@IDab6beb40d94f5b4c@)"
@@ -25031,7 +25136,9 @@
 },{
 	 "i"		: 4385
 	,"ids"		: "Idstring(@ID1ab482fd82b2c695@)"
+	,"StringID"	: "pln_fish_07_01"
 	,"orig_text": "Big ones and Benjamins. Beautiful!"
+	,"tran_text": "很大筆錢！很多富蘭克林頭像噢！非常好！"
 },{
 	 "i"		: 4386
 	,"ids"		: "Idstring(@ID14a40f311c192227@)"
@@ -25671,7 +25778,9 @@
 },{
 	 "i"		: 4495
 	,"ids"		: "Idstring(@ID151f285dd2ffefaa@)"
+	,"StringID"	: "pln_spa_02_01"
 	,"orig_text": "Watch those windows, there might be snipers."
+	,"tran_text": "小心那些窗戶，可能有狙擊手在。"
 },{
 	 "i"		: 4496
 	,"ids"		: "Idstring(@ID6390433c57aa27d1@)"
@@ -26019,7 +26128,9 @@
 },{
 	 "i"		: 4556
 	,"ids"		: "Idstring(@IDf3cde0119cb5a558@)"
+	,"StringID"	: "cha_spa_06_02"
 	,"orig_text": "I can't open the gate while they are firing at me!"
+	,"tran_text": "他們正向我開火，我開不了閘門！"
 },{
 	 "i"		: 4557
 	,"ids"		: "Idstring(@ID8565a4a3be3361bf@)"
@@ -28360,7 +28471,9 @@
 },{
 	 "i"		: 4964
 	,"ids"		: "Idstring(@IDb04de26497f47d70@)"
+	,"StringID"	: "pln_fish_33_01"
 	,"orig_text": "You can throw bodies into the sea over the railing at the back of the boat."
+	,"tran_text": "你們可以在遊艇後方的扶手處把屍體丟入大海。"
 },{
 	 "i"		: 4965
 	,"ids"		: "Idstring(@ID3413f919e1871bcb@)"
@@ -28504,7 +28617,9 @@
 },{
 	 "i"		: 4990
 	,"ids"		: "Idstring(@ID987369a8ab060e84@)"
+	,"StringID"	: "pln_fish_30_02"
 	,"orig_text": "That's the alarm! The server room's locked down now - we can't access it!"
+	,"tran_text": "警報響了！伺服器室鎖死了－－我們進不了去！"
 },{
 	 "i"		: 4991
 	,"ids"		: "Idstring(@ID28a392fdf8ba9860@)"
@@ -29248,11 +29363,15 @@
 },{
 	 "i"		: 5119
 	,"ids"		: "Idstring(@IDbc1e8cf5ad43766c@)"
+	,"StringID"	: "pln_fish_25_01"
 	,"orig_text": "Halfway now, just two more overrides to go."
+	,"tran_text": "做到一半了，只要再改寫兩處就好。"
 },{
 	 "i"		: 5120
 	,"ids"		: "Idstring(@ID922d5abc978e16e2@)"
+	,"StringID"	: "pln_fish_32_02"
 	,"orig_text": "If you want to dump bodies into the sea, you can use the windows."
+	,"tran_text": "如果你們想將屍體扔下海裡，就利用那些窗子吧。"
 },{
 	 "i"		: 5121
 	,"ids"		: "Idstring(@IDd1f8ad95afa95b3f@)"
@@ -29379,7 +29498,9 @@
 },{
 	 "i"		: 5142
 	,"ids"		: "Idstring(@ID2049420e9258aeae@)"
+	,"StringID"	: "cha_spa_05_03"
 	,"orig_text": "Cover me while I open the door!"
+	,"tran_text": "在我打開大閘時掩護我！"
 },{
 	 "i"		: 5143
 	,"ids"		: "Idstring(@ID453b76ecff8b6606@)"
@@ -29781,7 +29902,9 @@
 },{
 	 "i"		: 5211
 	,"ids"		: "Idstring(@IDe7f73abd4650e9a3@)"
+	,"StringID"	: "pln_fish_20_02"
 	,"orig_text": "If you overheat the system it'll do a soft reboot, giving you access to the controls. Then you can get the server."
+	,"tran_text": "如果你讓系統過熱它應該就會重新啟動，讓你有機會能控制它。這時你就能拿走伺服器了。"
 },{
 	 "i"		: 5212
 	,"ids"		: "Idstring(@ID1f6b799a6238d069@)"
@@ -30066,7 +30189,9 @@
 },{
 	 "i"		: 5261
 	,"ids"		: "Idstring(@IDab8a5ae722e9e1d5@)"
+	,"StringID"	: "pln_fish_18_03"
 	,"orig_text": "Ok guys, you're in."
+	,"tran_text": "OK各位，你們可以進去了。"
 },{
 	 "i"		: 5262
 	,"ids"		: "Idstring(@ID83c5532b771a0b55@)"
@@ -30179,7 +30304,9 @@
 },{
 	 "i"		: 5281
 	,"ids"		: "Idstring(@ID3aae405d0f522184@)"
+	,"StringID"	: "pln_fish_02_03"
 	,"orig_text": "There's a laptop with info on where the cash is stashed. Charon provided the password. See if you can find it!"
+	,"tran_text": "那台筆記型電腦記錄了收藏現金的地方，Charon已經提供了登入密碼，看看能否找到它！"
 },{
 	 "i"		: 5282
 	,"ids"		: "Idstring(@IDbb46b17a08cd1926@)"
@@ -30232,6 +30359,7 @@
 	,"ids"		: "Idstring(@ID5cd17e65252e712e@)"
 	,"StringID"	: "cha_spa_01_02"
 	,"orig_text": "Ah! So Winston called you. Can you help me out here?"
+	,"tran_text": "呀！原來是 Winston 找了你們。能過來幫個忙嗎？"
 },{
 	 "i"		: 5291
 	,"ids"		: "Idstring(@ID870b947fad2d1651@)"
@@ -30587,7 +30715,9 @@
 },{
 	 "i"		: 5352
 	,"ids"		: "Idstring(@ID589261b5937dc2c8@)"
+	,"StringID"	: "pln_fish_17_01"
 	,"orig_text": "Ok, connect me to the laptop, this should only take a moment."
+	,"tran_text": "好，讓我連接上那台筆電，這應該不會太久。"
 },{
 	 "i"		: 5353
 	,"ids"		: "Idstring(@ID23e739ad7c68217e@)"
@@ -30690,7 +30820,9 @@
 },{
 	 "i"		: 5371
 	,"ids"		: "Idstring(@ID406f24efd5b5f8c3@)"
+	,"StringID"	: "cha_spa_13_02"
 	,"orig_text": "I fear the main entrance is not an option. They are all over it."
+	,"tran_text": "恐怕從正門逃走是不可行的了。他們全聚集在那裡。"
 },{
 	 "i"		: 5372
 	,"ids"		: "Idstring(@ID45a022ea083d8c79@)"
@@ -30710,7 +30842,9 @@
 },{
 	 "i"		: 5375
 	,"ids"		: "Idstring(@ID4b908f0a7d7b3ac8@)"
+	,"StringID"	: "cha_spa_09_01"
 	,"orig_text": "If you move across the roof into the next building, I can meet you there."
+	,"tran_text": "如果你們打算橫越天台到下一座大樓，我可以在那裡會合你們。"
 },{
 	 "i"		: 5376
 	,"ids"		: "Idstring(@IDeadc39629d762e19@)"
@@ -30768,7 +30902,9 @@
 },{
 	 "i"		: 5386
 	,"ids"		: "Idstring(@ID675174f2e6322511@)"
+	,"StringID"	: "pln_fish_08_03"
 	,"orig_text": "One down, three to go!"
+	,"tran_text": "一個搞定，還剩三個！"
 },{
 	 "i"		: 5387
 	,"ids"		: "Idstring(@ID468bd40d9c5cc65e@)"
@@ -31173,7 +31309,9 @@
 },{
 	 "i"		: 5457
 	,"ids"		: "Idstring(@ID426498d4eca78326@)"
+	,"StringID"	: "cha_spa_04_03"
 	,"orig_text": "Cover me while I open the gate!"
+	,"tran_text": "在我打開大閘時掩護我！"
 },{
 	 "i"		: 5458
 	,"ids"		: "Idstring(@IDcee561c542ff2f0e@)"
@@ -32125,7 +32263,9 @@
 },{
 	 "i"		: 5624
 	,"ids"		: "Idstring(@IDe1c8c2b15dfce9e2@)"
+	,"StringID"	: "pln_fish_28_03"
 	,"orig_text": "You can either look for more loot or get out of there now."
+	,"tran_text": "你們可以再去搜出更多贓物，或是直接閃人。"
 },{
 	 "i"		: 5625
 	,"ids"		: "Idstring(@ID971591d030260843@)"
@@ -32316,7 +32456,9 @@
 },{
 	 "i"		: 5658
 	,"ids"		: "Idstring(@IDf84673a1b871adb4@)"
+	,"StringID"	: "cha_spa_19_02"
 	,"orig_text": "Let's go!"
+	,"tran_text": "出發吧！"
 },{
 	 "i"		: 5659
 	,"ids"		: "Idstring(@ID64563e1edfd03490@)"
@@ -32444,7 +32586,9 @@
 },{
 	 "i"		: 5681
 	,"ids"		: "Idstring(@IDd1f77d161308cc40@)"
+	,"StringID"	: "cha_spa_05_02"
 	,"orig_text": "Just a minute.  I have to open the door!"
+	,"tran_text": "一分鐘就好。我要去打開大閘！"
 },{
 	 "i"		: 5682
 	,"ids"		: "Idstring(@IDd1e1f3f727efe24c@)"
@@ -33043,7 +33187,9 @@
 },{
 	 "i"		: 5787
 	,"ids"		: "Idstring(@IDb6286806accd750c@)"
+	,"StringID"	: "pln_spa_06_03"
 	,"orig_text": "Snipers! You gotta take 'em out!"
+	,"tran_text": "有狙擊手！你們要做掉他們！"
 },{
 	 "i"		: 5788
 	,"ids"		: "Idstring(@ID8abd9c7307b9a3e3@)"
@@ -33573,7 +33719,9 @@
 },{
 	 "i"		: 5880
 	,"ids"		: "Idstring(@IDc3431a2bc881167f@)"
+	,"StringID"	: "pln_fish_26_01"
 	,"orig_text": "Just one more now."
+	,"tran_text": "只餘下一個了。"
 },{
 	 "i"		: 5881
 	,"ids"		: "Idstring(@IDf4fefde7c9459fad@)"
@@ -34242,7 +34390,9 @@
 },{
 	 "i"		: 5998
 	,"ids"		: "Idstring(@ID8a4ea257ef5fccde@)"
+	,"StringID"	: "pln_fish_17_02"
 	,"orig_text": "Ok, connect me and I'll have this done in a few seconds."
+	,"tran_text": "好，幫我連接上，不用花幾秒我就可以搞定它。"
 },{
 	 "i"		: 5999
 	,"ids"		: "Idstring(@ID6c99873bc28cee43@)"
@@ -34542,7 +34692,9 @@
 },{
 	 "i"		: 6051
 	,"ids"		: "Idstring(@IDaf42675d033ac371@)"
+	,"StringID"	: "pln_fish_29_01"
 	,"orig_text": "You cleaned it out. Time to leave."
+	,"tran_text": "這裡清空了，該閃人了。"
 },{
 	 "i"		: 6052
 	,"ids"		: "Idstring(@ID84599db87a33fcaf@)"
@@ -34648,7 +34800,9 @@
 },{
 	 "i"		: 6070
 	,"ids"		: "Idstring(@IDb16c6acbb770cba5@)"
+	,"StringID"	: "cha_spa_16_01"
 	,"orig_text": "I think it's time we leave, don't you?"
+	,"tran_text": "我想是時候閃人了，你們呢？"
 },{
 	 "i"		: 6071
 	,"ids"		: "Idstring(@ID5a5e8efc44c02b1f@)"
@@ -35703,6 +35857,7 @@
 	,"ids"		: "Idstring(@ID9b1d5612799d3961@)"
 	,"StringID"	: "cha_spa_13_01"
 	,"orig_text": "They are all over the main entrance. We can't get out that way."
+	,"tran_text": "他們的人馬聚集在正門處，我們不能從那處離開。"
 },{
 	 "i"		: 6256
 	,"ids"		: "Idstring(@ID9d42e70a8441cb07@)"
@@ -36157,7 +36312,9 @@
 },{
 	 "i"		: 6335
 	,"ids"		: "Idstring(@ID15d902fbe7ff6444@)"
+	,"StringID"	: "cha_spa_end_02"
 	,"orig_text": "That was very impressive. And you probably saved my life. I owe you one for this. "
+	,"tran_text": "真令人感動。你們救了我一命，我欠你們一個人情。"
 },{
 	 "i"		: 6336
 	,"ids"		: "Idstring(@ID7d16affa9f3d3404@)"
@@ -36391,7 +36548,9 @@
 },{
 	 "i"		: 6376
 	,"ids"		: "Idstring(@IDae92430e9ef9974c@)"
+	,"StringID"	: "cha_spa_08_03"
 	,"orig_text": "Thanks, it's good to have some firepower behind me."
+	,"tran_text": "謝了，幸好有你們在背後火力支援我。"
 },{
 	 "i"		: 6377
 	,"ids"		: "Idstring(@IDa916b4ba7fbaa652@)"
@@ -36520,6 +36679,7 @@
 	,"ids"		: "Idstring(@IDd35bc26a5bf1c200@)"
 	,"StringID"	: "cha_spa_14_02"
 	,"orig_text": "How about that escape? Is your driver coming?"
+	,"tran_text": "逃亡車怎麼了？你們的司機真的會來嗎？"
 },{
 	 "i"		: 6400
 	,"ids"		: "Idstring(@ID172bf25510a0209a@)"
@@ -37268,7 +37428,9 @@
 },{
 	 "i"		: 6529
 	,"ids"		: "Idstring(@IDd823d8fa23edf843@)"
+	,"StringID"	: "pln_fish_26_02"
 	,"orig_text": "One more should do it."
+	,"tran_text": "再改寫一處就搞定。"
 },{
 	 "i"		: 6530
 	,"ids"		: "Idstring(@ID10a5f77dd2ffa8ea@)"
@@ -37476,7 +37638,9 @@
 },{
 	 "i"		: 6566
 	,"ids"		: "Idstring(@ID557f4465fb22ae7c@)"
+	,"StringID"	: "pln_fish_36_02"
 	,"orig_text": "Just a heads up: the type of security they use for the server room will make it harder to open if there's an active ECM jammer nearby."
+	,"tran_text": "溫馨提示：這伺服器室所用的保安系統很易受干擾，若然在附近啟動了ECM干擾器的話就會很難打開。"
 },{
 	 "i"		: 6567
 	,"ids"		: "Idstring(@IDd9d692854b64179c@)"
@@ -37983,6 +38147,7 @@
 	,"ids"		: "Idstring(@ID189853391ed6cdaa@)"
 	,"StringID"	: "cha_spa_18_02"
 	,"orig_text": "I'm hit. But it just grazed me, I'm fine."
+	,"tran_text": "我被射中了。不過只是擦傷而已，我沒問題的。"
 },{
 	 "i"		: 6656
 	,"ids"		: "Idstring(@ID932943676ef3a7ec@)"
@@ -38320,7 +38485,9 @@
 },{
 	 "i"		: 6714
 	,"ids"		: "Idstring(@ID01c66d2cfd267602@)"
+	,"StringID"	: "pln_fish_28_02"
 	,"orig_text": "There might be more loot on the yacht, but you got what you came for. Your choice."
+	,"tran_text": "遊艇上應該還有更多值錢東西，但你們的目的已經達成了，你們作主。"
 },{
 	 "i"		: 6715
 	,"ids"		: "Idstring(@IDeae175923e337f07@)"
@@ -38434,7 +38601,9 @@
 },{
 	 "i"		: 6734
 	,"ids"		: "Idstring(@IDa051d147391dd676@)"
+	,"StringID"	: "pln_fish_05_02"
 	,"orig_text": "Now you've got to enter the password."
+	,"tran_text": "現在你必須要輸入密碼。"
 },{
 	 "i"		: 6735
 	,"ids"		: "Idstring(@ID5d682b0320f165e0@)"
@@ -38892,6 +39061,7 @@
 	,"ids"		: "Idstring(@ID40b1088677047706@)"
 	,"StringID"	: "pln_spa_08_01"
 	,"orig_text": "Damn, it's the cops! Just what we need!"
+	,"tran_text": "該死，是條子！在最不想他們出現的時候！"
 },{
 	 "i"		: 6815
 	,"ids"		: "Idstring(@IDe30fff91fe7b0dd1@)"
@@ -39176,7 +39346,9 @@
 },{
 	 "i"		: 6865
 	,"ids"		: "Idstring(@IDba45ebd49d939bf1@)"
+	,"StringID"	: "pln_fish_25_02"
 	,"orig_text": "Check two overrides, two more to go."
+	,"tran_text": "兩處修改完成，還有兩處要弄。"
 },{
 	 "i"		: 6866
 	,"ids"		: "Idstring(@ID92ec170cf4127a7e@)"
@@ -39294,7 +39466,9 @@
 },{
 	 "i"		: 6886
 	,"ids"		: "Idstring(@ID2626f37eabfbf024@)"
+	,"StringID"	: "pln_fish_10_03"
 	,"orig_text": "Three down, just one to go!"
+	,"tran_text": "搞定三堆，就剩一堆拉！"
 },{
 	 "i"		: 6887
 	,"ids"		: "Idstring(@IDecd91e2af327116d@)"
@@ -39448,7 +39622,9 @@
 },{
 	 "i"		: 6913
 	,"ids"		: "Idstring(@ID8d384ccb5ff33944@)"
+	,"StringID"	: "pln_fish_02_02"
 	,"orig_text": "Charon gave us a password for a laptop that contains data on where the money is. Find it!"
+	,"tran_text": "Charon已經給了那台記錄現金位置的筆記型電腦的登入密碼。尋找它吧！"
 },{
 	 "i"		: 6914
 	,"ids"		: "Idstring(@ID327b3793712a3645@)"
@@ -39566,7 +39742,9 @@
 },{
 	 "i"		: 6934
 	,"ids"		: "Idstring(@IDe1a680e419b4a767@)"
+	,"StringID"	: "pln_fish_13_01"
 	,"orig_text": "You can secure the loot bags in the boat you came in on."
+	,"tran_text": "你可以把贓物放在開始的船上。"
 },{
 	 "i"		: 6935
 	,"ids"		: "Idstring(@ID61766175d88b98ec@)"
@@ -40605,7 +40783,9 @@
 },{
 	 "i"		: 7113
 	,"ids"		: "Idstring(@IDab22bb65473bf43f@)"
+	,"StringID"	: "pln_fish_33_03"
 	,"orig_text": "At the back you can throw any bodies over the railing into the sea."
+	,"tran_text": "在遊艇後方，你們可以把屍體扔出扶手外頭處。"
 },{
 	 "i"		: 7114
 	,"ids"		: "Idstring(@ID6ed27c4b43138ea0@)"
@@ -41337,7 +41517,9 @@
 },{
 	 "i"		: 7242
 	,"ids"		: "Idstring(@ID6c3f5cb084751974@)"
+	,"StringID"	: "cha_spa_15_01"
 	,"orig_text": "I am so glad to hear that!"
+	,"tran_text": "這真是個好消息！"
 },{
 	 "i"		: 7243
 	,"ids"		: "Idstring(@IDbb36cd9a78ae4150@)"
@@ -43031,7 +43213,9 @@
 },{
 	 "i"		: 7536
 	,"ids"		: "Idstring(@IDfd3334fa318bbfc8@)"
+	,"StringID"	: "pln_fish_14_03"
 	,"orig_text": "You can throw the bags in the sea and pick them up when we leave. Or take them directly to the motorboat - your choice."
+	,"tran_text": "你可以把贓物往海裡丟然後離開前撿回來。或直接丟到水上摩托車上－－你自己決定吧。"
 },{
 	 "i"		: 7537
 	,"ids"		: "Idstring(@IDfa773ba5ac82f433@)"
@@ -43256,7 +43440,9 @@
 },{
 	 "i"		: 7575
 	,"ids"		: "Idstring(@ID1101be244feeac82@)"
+	,"StringID"	: "pln_fish_16_03"
 	,"orig_text": "That's all the cash secured. Now for the server with the bank passwords - get back to that laptop and hook me up so I can open the server room's security lock."
+	,"tran_text": "這樣所有的錢都拿到了。現在搞定那台有銀行密碼的伺服器－－回去筆電那邊然後將我連接上我就可以把伺服器房的安全鎖打開。"
 },{
 	 "i"		: 7576
 	,"ids"		: "Idstring(@ID9ff865151fe87af8@)"
@@ -43445,7 +43631,9 @@
 },{
 	 "i"		: 7608
 	,"ids"		: "Idstring(@IDc83f1fbb3ac4ea55@)"
+	,"StringID"	: "pln_fish_37_03"
 	,"orig_text": "I guess that's the server room. Make note of it - you should find the cash first."
+	,"tran_text": "我猜這裡就是伺服器室了。記住這兒－－你們先去找現金。"
 },{
 	 "i"		: 7609
 	,"ids"		: "Idstring(@ID7ab6c9cce22fbfae@)"
@@ -44317,7 +44505,9 @@
 },{
 	 "i"		: 7761
 	,"ids"		: "Idstring(@ID525b32140f81fc0a@)"
+	,"StringID"	: "cha_spa_16_03"
 	,"orig_text": "What a messy situation. Let's get out of here."
+	,"tran_text": "形勢真是有夠混亂，我們該離開囉。"
 },{
 	 "i"		: 7762
 	,"ids"		: "Idstring(@ID43bf12f7ba4b2298@)"
@@ -44693,7 +44883,9 @@
 },{
 	 "i"		: 7827
 	,"ids"		: "Idstring(@ID404787ef81c60754@)"
+	,"StringID"	: "pln_fish_09_02"
 	,"orig_text": "You got the second stash. Keep looking, two more!"
+	,"tran_text": "你找到第二份了。繼續找，還有兩份！"
 },{
 	 "i"		: 7828
 	,"ids"		: "Idstring(@IDc1f86a6ee495bc66@)"
@@ -45160,7 +45352,9 @@
 },{
 	 "i"		: 7908
 	,"ids"		: "Idstring(@IDe3d645fd68d2c039@)"
+	,"StringID"	: "cha_spa_03_03"
 	,"orig_text": "The snipers have me pinned down!"
+	,"tran_text": "那些狙擊手使我動彈不得！"
 },{
 	 "i"		: 7909
 	,"ids"		: "Idstring(@IDc8ab1cd0551d345e@)"
@@ -46106,7 +46300,9 @@
 },{
 	 "i"		: 8073
 	,"ids"		: "Idstring(@IDe5aab3826b3516d7@)"
+	,"StringID"	: "pln_fish_36_03"
 	,"orig_text": "An active ECM jammer will make it harder to access the server room. So use them with caution."
+	,"tran_text": "ECM干擾器的電波會令到伺服器室大門更難破解。要用干擾器時小心點。"
 },{
 	 "i"		: 8074
 	,"ids"		: "Idstring(@IDb5069b5ed03e3f3b@)"
@@ -46281,7 +46477,9 @@
 },{
 	 "i"		: 8103
 	,"ids"		: "Idstring(@ID4f7663a197c044cc@)"
+	,"StringID"	: "pln_fish_35_03"
 	,"orig_text": "A TV crew. Hmm... try to stay off their camera."
+	,"tran_text": "電視台的員工。嗯……盡量離鏡頭遠點。"
 },{
 	 "i"		: 8104
 	,"ids"		: "Idstring(@ID8da6ccc6a0d65bf6@)"
@@ -46411,6 +46609,7 @@
 	,"ids"		: "Idstring(@ID8e9822cc35a80e13@)"
 	,"StringID"	: "cha_spa_04_02"
 	,"orig_text": "Just a minute.  I have to open the gate!"
+	,"tran_text": "一分鐘就好。我要去打開大閘！"
 },{
 	 "i"		: 8126
 	,"ids"		: "Idstring(@ID4d4da9c0e5a4d6e8@)"
@@ -46620,7 +46819,9 @@
 },{
 	 "i"		: 8162
 	,"ids"		: "Idstring(@IDadd3d197d5920dd6@)"
+	,"StringID"	: "pln_fish_07_02"
 	,"orig_text": "Sweet sweet cash! Now bag it!"
+	,"tran_text": "美妙的現金啊！全部打包！"
 },{
 	 "i"		: 8163
 	,"ids"		: "Idstring(@ID104882c54ca8da45@)"
@@ -47137,7 +47338,9 @@
 },{
 	 "i"		: 8252
 	,"ids"		: "Idstring(@IDa57f1c56abe4244a@)"
+	,"StringID"	: "cha_spa_19_03"
 	,"orig_text": "When I find out who did this, they will pay!"
+	,"tran_text": "給我知道是誰幹的，我就要他們付出代價！"
 },{
 	 "i"		: 8253
 	,"ids"		: "Idstring(@ID31f11c6728f57432@)"
@@ -48078,7 +48281,9 @@
 },{
 	 "i"		: 8416
 	,"ids"		: "Idstring(@ID0e05578b52c09a28@)"
+	,"StringID"	: "pln_fish_05_03"
 	,"orig_text": "Enter the password and access the files."
+	,"tran_text": "輸入密碼並查找那些檔案。"
 },{
 	 "i"		: 8417
 	,"ids"		: "Idstring(@ID9b3fd4fd2ae07962@)"
@@ -48221,7 +48426,9 @@
 },{
 	 "i"		: 8441
 	,"ids"		: "Idstring(@ID6e8fac8d3a243760@)"
+	,"StringID"	: "pln_fish_12_02"
 	,"orig_text": "If you throw the loot bags into the sea, you can pick them up when it's time to leave."
+	,"tran_text": "如果你將搶回來的袋子扔到海裡，你可以在離開前帶走它們。"
 },{
 	 "i"		: 8442
 	,"ids"		: "Idstring(@IDbb8bffbba3277263@)"
@@ -48529,7 +48736,9 @@
 },{
 	 "i"		: 8495
 	,"ids"		: "Idstring(@IDed552cbb96efd10e@)"
+	,"StringID"	: "pln_fish_37_02"
 	,"orig_text": "That looks like it might be the server room. Better save it for after you find the cash. Remember where it is."
+	,"tran_text": "這裡看起來該是伺服器室了。最好在你們找到現金後才來處理它，先記下這裡吧。"
 },{
 	 "i"		: 8496
 	,"ids"		: "Idstring(@IDba506ddfb6ce75a6@)"
@@ -48579,7 +48788,9 @@
 },{
 	 "i"		: 8504
 	,"ids"		: "Idstring(@ID4c83f05564150fb0@)"
+	,"StringID"	: "pln_fish_02_01"
 	,"orig_text": "There should be a laptop with information about where the cash is hidden. We got the password from Charon so all you gotta do is find the thing."
+	,"tran_text": "那裡應有台筆記型電腦記錄了現金收藏的位置。我們已從Charon身上得悉電腦的登入密碼，我們必須找到它。"
 },{
 	 "i"		: 8505
 	,"ids"		: "Idstring(@IDfeb1b3ee3165c1f5@)"
@@ -48800,7 +49011,9 @@
 },{
 	 "i"		: 8543
 	,"ids"		: "Idstring(@IDe8bd776c60336bee@)"
+	,"StringID"	: "cha_spa_18_03"
 	,"orig_text": "They shot me, but it's only a minor one. Barely hurts."
+	,"tran_text": "他們射中我了，但不過是小事，連傷口也算不上。"
 },{
 	 "i"		: 8544
 	,"ids"		: "Idstring(@ID693b2666460953e4@)"
@@ -48930,11 +49143,15 @@
 },{
 	 "i"		: 8566
 	,"ids"		: "Idstring(@ID11eb04c20909db22@)"
+	,"StringID"	: "pln_fish_31_03"
 	,"orig_text": "We almost tasted that cigar!"
+	,"tran_text": "就差一點點就到手了！"
 },{
 	 "i"		: 8567
 	,"ids"		: "Idstring(@ID8103e35bd2af5ad3@)"
+	,"StringID"	: "pln_fish_17_03"
 	,"orig_text": "Get me hooked up and I'll get that door unlocked in just a few moments."
+	,"tran_text": "幫我連接上去我就可以很快的把門解鎖。"
 },{
 	 "i"		: 8568
 	,"ids"		: "Idstring(@IDecd8054ee4cbacf2@)"
@@ -49617,7 +49834,9 @@
 },{
 	 "i"		: 8686
 	,"ids"		: "Idstring(@ID07219339594351c8@)"
+	,"StringID"	: "pln_fish_32_03"
 	,"orig_text": "Use the windows to get rid of any bodies. The sea will swallow them."
+	,"tran_text": "把屍體從窗戶扔出去吧，大海會吞噬它們的。"
 },{
 	 "i"		: 8687
 	,"ids"		: "Idstring(@ID4994c88872e991ef@)"
@@ -49808,7 +50027,9 @@
 },{
 	 "i"		: 8719
 	,"ids"		: "Idstring(@IDb81b482ab2d7f404@)"
+	,"StringID"	: "pln_fish_34_01"
 	,"orig_text": "Look at that. A lot of rich people up there, enjoying themselves."
+	,"tran_text": "你們看看，盡是有錢人，就在上面尋開心哩。"
 },{
 	 "i"		: 8720
 	,"ids"		: "Idstring(@ID1a0952418802f70c@)"
@@ -50343,7 +50564,9 @@
 },{
 	 "i"		: 8813
 	,"ids"		: "Idstring(@IDd4d06e68a361bc49@)"
+	,"StringID"	: "pln_fish_07_03"
 	,"orig_text": "Green and sweet! Bag that cash!"
+	,"tran_text": "綠油油又美妙的錢啊！把錢全部打包吧！"
 },{
 	 "i"		: 8814
 	,"ids"		: "Idstring(@ID8c2a6e1557a0fdc2@)"
@@ -50794,7 +51017,9 @@
 },{
 	 "i"		: 8893
 	,"ids"		: "Idstring(@ID275fd41a67fe2be7@)"
+	,"StringID"	: "cha_spa_15_02"
 	,"orig_text": "Good! But it will be a long minute!"
+	,"tran_text": "很好！但這將會是漫長的一分鐘！"
 },{
 	 "i"		: 8894
 	,"ids"		: "Idstring(@ID9ba294b4378a6b89@)"
@@ -51457,7 +51682,9 @@
 },{
 	 "i"		: 9009
 	,"ids"		: "Idstring(@ID10ca59bd3f9b44ad@)"
+	,"StringID"	: "pln_fish_27_03"
 	,"orig_text": "We got it!"
+	,"tran_text": "我們拿到了！"
 },{
 	 "i"		: 9010
 	,"ids"		: "Idstring(@ID7db6c6b3a1345229@)"
@@ -51495,7 +51722,9 @@
 },{
 	 "i"		: 9016
 	,"ids"		: "Idstring(@IDe776886ff61f45e6@)"
+	,"StringID"	: "pln_fish_end_02"
 	,"orig_text": "I wonder if McKendrick will ever figure out who did this. In any case, he shouldn't have messed with us."
+	,"tran_text": "我很好奇 McKendrick 會不會猜到是誰幹了他一票？無論如何，他開罪了我們，這就是報應。"
 },{
 	 "i"		: 9017
 	,"ids"		: "Idstring(@ID668f609dfd381e0c@)"
@@ -51683,6 +51912,7 @@
 	,"ids"		: "Idstring(@ID93e1d86e78b419e7@)"
 	,"StringID"	: "pln_spa_05_03"
 	,"orig_text": "The guys in the street - take 'em out!"
+	,"tran_text": "街上的傢伙－－殺光他們！"
 },{
 	 "i"		: 9050
 	,"ids"		: "Idstring(@IDb768522be37718d9@)"
@@ -51794,7 +52024,9 @@
 },{
 	 "i"		: 9069
 	,"ids"		: "Idstring(@IDa39c02176c411e1e@)"
+	,"StringID"	: "pln_fish_27_01"
 	,"orig_text": "There we go. Money in a box!"
+	,"tran_text": "搞定！袋袋平安！"
 },{
 	 "i"		: 9070
 	,"ids"		: "Idstring(@IDb65efed0ba0f4f82@)"
@@ -52148,7 +52380,9 @@
 },{
 	 "i"		: 9130
 	,"ids"		: "Idstring(@IDd15b5a5ac5faaba8@)"
+	,"StringID"	: "cha_spa_12_03"
 	,"orig_text": "Ah, the elevator is broken! How inconvenient! Listen - since I can't get up, I need you to search for something important that they took from me. It's a metal briefcase. I must have it back!"
+	,"tran_text": "哎，升降機故障了！真麻煩！聽好－－因為我上不了來，我需要你們去找東西。他們搶走了我的重要東西，是個金屬公事包。我一定要拿回來！"
 },{
 	 "i"		: 9131
 	,"ids"		: "Idstring(@ID26b429e7c6fae9c3@)"
@@ -52236,7 +52470,9 @@
 },{
 	 "i"		: 9146
 	,"ids"		: "Idstring(@ID0e3fa6d62f4acaf0@)"
+	,"StringID"	: "pln_fish_06_01"
 	,"orig_text": "This is gold. It's got all the locations of the hidden cash."
+	,"tran_text": "這就我們的目標。它裡面有所有隱藏現金的位置。"
 },{
 	 "i"		: 9147
 	,"ids"		: "Idstring(@ID061cdfe608ad53dd@)"
@@ -53450,7 +53686,9 @@
 },{
 	 "i"		: 9364
 	,"ids"		: "Idstring(@ID4c7d3cf9ff313ce5@)"
+	,"StringID"	: "cha_spa_02_03"
 	,"orig_text": "It'd be very helpful if you could deal with those snipers. Yes?"
+	,"tran_text": "如果你們能處理一下那些狙擊手就感激不盡了，可以吧？"
 },{
 	 "i"		: 9365
 	,"ids"		: "Idstring(@ID885f660e382e8ef5@)"
@@ -54019,7 +54257,9 @@
 },{
 	 "i"		: 9463
 	,"ids"		: "Idstring(@ID03cd7d964fc592cc@)"
+	,"StringID"	: "pln_fish_19_03"
 	,"orig_text": "The doors will only open once the ECM jammer stops."
+	,"tran_text": "門只會在ECM結束的時候打開。"
 },{
 	 "i"		: 9464
 	,"ids"		: "Idstring(@ID894d1a3964229deb@)"
@@ -54161,7 +54401,9 @@
 },{
 	 "i"		: 9488
 	,"ids"		: "Idstring(@ID2604e67e35485274@)"
+	,"StringID"	: "pln_fish_15_02"
 	,"orig_text": "There's a zipline you can use to secure the bags of loot."
+	,"tran_text": "那邊架設了滑索，你可以用來運走贓物袋。"
 },{
 	 "i"		: 9489
 	,"ids"		: "Idstring(@IDf28440b313ec6ea0@)"
@@ -54351,7 +54593,9 @@
 },{
 	 "i"		: 9521
 	,"ids"		: "Idstring(@ID6fb82a61c450b69d@)"
+	,"StringID"	: "pln_fish_04_03"
 	,"orig_text": "Ok, that's the laptop. Good job!"
+	,"tran_text": "OK，就是這台筆記型電腦。做得好！"
 },{
 	 "i"		: 9522
 	,"ids"		: "Idstring(@ID3866af38503c32e5@)"
@@ -54384,7 +54628,9 @@
 },{
 	 "i"		: 9527
 	,"ids"		: "Idstring(@ID50f2793532bc0665@)"
+	,"StringID"	: "cha_spa_07_01"
 	,"orig_text": "They have me pinned down - I can't get the door open!"
+	,"tran_text": "我被他們牽制住－－這樣我打開不了大門啦！"
 },{
 	 "i"		: 9528
 	,"ids"		: "Idstring(@IDfeb0ca127ffc2d10@)"
@@ -54460,7 +54706,9 @@
 },{
 	 "i"		: 9541
 	,"ids"		: "Idstring(@ID609c788f1a9a03fd@)"
+	,"StringID"	: "cha_spa_13_03"
 	,"orig_text": "We cannot use the main entrance. Too much heat."
+	,"tran_text": "我們不能從正門離去，太多追兵了。"
 },{
 	 "i"		: 9542
 	,"ids"		: "Idstring(@IDc23fc84e16cc946f@)"
@@ -54911,7 +55159,9 @@
 },{
 	 "i"		: 9620
 	,"ids"		: "Idstring(@ID46d9601d119559d1@)"
+	,"StringID"	: "pln_spa_01_03"
 	,"orig_text": "Looks like he broke free and took a gun! You gotta help him!"
+	,"tran_text": "看來他逃離之餘還搶到了一把槍！你們得要幫助他！"
 },{
 	 "i"		: 9621
 	,"ids"		: "Idstring(@IDc72464bfb4a48fdf@)"
@@ -55083,7 +55333,9 @@
 },{
 	 "i"		: 9651
 	,"ids"		: "Idstring(@ID61c3308d523b89b9@)"
+	,"StringID"	: "pln_fish_16_01"
 	,"orig_text": "Ok, that's great. Now for that server... If you get back to that laptop and hook me up, I should be able to open the room where the server is."
+	,"tran_text": "OK，很好。現在來搞定那台伺服器...如果你回去筆店那邊將我連結上，我應該就能把伺服器的房間門打開。"
 },{
 	 "i"		: 9652
 	,"ids"		: "Idstring(@ID1ae4c0f74c68ac67@)"
@@ -55264,7 +55516,9 @@
 },{
 	 "i"		: 9683
 	,"ids"		: "Idstring(@IDe6fda384ea00b375@)"
+	,"StringID"	: "cha_spa_03_02"
 	,"orig_text": "I can't move until you deal with the snipers!"
+	,"tran_text": "你們不處理掉狙擊手我就動不了！"
 },{
 	 "i"		: 9684
 	,"ids"		: "Idstring(@ID715a5e2c987ae2c0@)"
@@ -55711,6 +55965,7 @@
 	,"ids"		: "Idstring(@IDa77d1397b578207f@)"
 	,"StringID"	: "cha_spa_06_01"
 	,"orig_text": "They have me pinned down - I can't get the gate open!"
+	,"tran_text": "我被他們牽制住－－我可打開不了閘門！"
 },{
 	 "i"		: 9763
 	,"ids"		: "Idstring(@IDaad2435a20bc5dde@)"
@@ -56558,7 +56813,9 @@
 },{
 	 "i"		: 9912
 	,"ids"		: "Idstring(@IDb50073f54377394d@)"
+	,"StringID"	: "pln_fish_18_01"
 	,"orig_text": "Ok, the doors are open. Get inside."
+	,"tran_text": "OK，大門打開了，進去吧。"
 },{
 	 "i"		: 9913
 	,"ids"		: "Idstring(@IDbb46caf451679808@)"
@@ -56774,7 +57031,9 @@
 },{
 	 "i"		: 9949
 	,"ids"		: "Idstring(@ID72a7b895677c738f@)"
+	,"StringID"	: "pln_fish_33_02"
 	,"orig_text": "You could hide the bodies by throwing them into the sea at the back of the boat."
+	,"tran_text": "你們可以在遊艇後方把屍體扔進大海。"
 },{
 	 "i"		: 9950
 	,"ids"		: "Idstring(@ID55121245459e1a5b@)"
@@ -56904,7 +57163,9 @@
 },{
 	 "i"		: 9972
 	,"ids"		: "Idstring(@ID2fe25b0101ecb3c0@)"
+	,"StringID"	: "pln_fish_13_03"
 	,"orig_text": "You can secure the bags down in the motorboat."
+	,"tran_text": "你可以把贓物放到水上摩托車上。"
 },{
 	 "i"		: 9973
 	,"ids"		: "Idstring(@IDfa0c23e0f409e4fd@)"
@@ -57361,7 +57622,9 @@
 },{
 	 "i"		: 10053
 	,"ids"		: "Idstring(@ID5866235f617f18d5@)"
+	,"StringID"	: "pln_fish_32_01"
 	,"orig_text": "You can dump bodies into the sea through the windows."
+	,"tran_text": "你們可以從窗戶把屍體丟下海。"
 },{
 	 "i"		: 10054
 	,"ids"		: "Idstring(@ID457e76115e3e6196@)"
@@ -58001,7 +58264,9 @@
 },{
 	 "i"		: 10166
 	,"ids"		: "Idstring(@ID6f9b5fe51fc238ec@)"
+	,"StringID"	: "pln_fish_35_02"
 	,"orig_text": "That looks like a television news crew. You don't want to be on TV guys, stay off their camera."
+	,"tran_text": "看起來是電視台的新聞組人員。你們不會想上電視的，離鏡頭遠一點。"
 },{
 	 "i"		: 10167
 	,"ids"		: "Idstring(@IDacfc9872047e7ffe@)"
@@ -58188,7 +58453,9 @@
 },{
 	 "i"		: 10200
 	,"ids"		: "Idstring(@ID38d7b6a0b326db67@)"
+	,"StringID"	: "pln_fish_10_01"
 	,"orig_text": "That's the third stash. Only one left!"
+	,"tran_text": "那是第三份。剩一個了！"
 },{
 	 "i"		: 10201
 	,"ids"		: "Idstring(@ID45461a3f043d8b7e@)"
@@ -59193,7 +59460,9 @@
 },{
 	 "i"		: 10376
 	,"ids"		: "Idstring(@IDd1ca7e175ab1622d@)"
+	,"StringID"	: "pln_fish_06_03"
 	,"orig_text": "Great job - it's got all the info on where the money's hidden."
+	,"tran_text": "幹得好－－它有所有錢藏在哪裡的資訊。"
 },{
 	 "i"		: 10377
 	,"ids"		: "Idstring(@IDb3daeecdcda15f99@)"
@@ -59243,7 +59512,9 @@
 },{
 	 "i"		: 10385
 	,"ids"		: "Idstring(@IDc5c8d7f8cb91b810@)"
+	,"StringID"	: "cha_spa_14_03"
 	,"orig_text": "We really need that escape car now! How long do you think it will be?"
+	,"tran_text": "我們超需要那輛逃亡車！你認為還有多久才到達？"
 },{
 	 "i"		: 10386
 	,"ids"		: "Idstring(@ID34e42d8f7a01573f@)"
@@ -59255,6 +59526,7 @@
 	,"ids"		: "Idstring(@IDada4bc2b9ef31c6d@)"
 	,"StringID"	: "cha_spa_06_03"
 	,"orig_text": "You need to cover me while open the gate!"
+	,"tran_text": "你們要在我打開大閘時掩護我！"
 },{
 	 "i"		: 10388
 	,"ids"		: "Idstring(@ID034d85a4c3ca2da2@)"
@@ -59633,7 +59905,9 @@
 },{
 	 "i"		: 10452
 	,"ids"		: "Idstring(@IDd54fe84b0962ca78@)"
+	,"StringID"	: "cha_spa_19_01"
 	,"orig_text": "What took you so long?"
+	,"tran_text": "幹嗎那麼久才來？"
 },{
 	 "i"		: 10453
 	,"ids"		: "Idstring(@ID7cb2d82c21e9bb5d@)"
@@ -59726,6 +60000,7 @@
 	,"ids"		: "Idstring(@IDe51e4372361e9975@)"
 	,"StringID"	: "pln_spa_05_01"
 	,"orig_text": "You gotta help Charon! Clear the street!"
+	,"tran_text": "你們要救救 Charon！清空街道！"
 },{
 	 "i"		: 10469
 	,"ids"		: "Idstring(@IDcd1a05859e460569@)"
@@ -59842,7 +60117,9 @@
 },{
 	 "i"		: 10488
 	,"ids"		: "Idstring(@ID763163e4140bc2c5@)"
+	,"StringID"	: "pln_spa_01_01"
 	,"orig_text": "This guy's something else! Looks like he broke free on his own! But you gotta help him!"
+	,"tran_text": "這傢伙可非善類！看來他自己想辦法逃獄了！但你們可得要救他！"
 },{
 	 "i"		: 10489
 	,"ids"		: "Idstring(@IDb7fca47ebf49775c@)"
@@ -59880,7 +60157,9 @@
 },{
 	 "i"		: 10495
 	,"ids"		: "Idstring(@IDe1e5c3677963cbd7@)"
+	,"StringID"	: "pln_fish_03_01"
 	,"orig_text": "Find that laptop, guys!"
+	,"tran_text": "大家找那台筆記型電腦吧！"
 },{
 	 "i"		: 10496
 	,"ids"		: "Idstring(@IDca6d7fdc15f4a601@)"
@@ -60181,7 +60460,9 @@
 },{
 	 "i"		: 10548
 	,"ids"		: "Idstring(@ID571ea4892e3c936e@)"
+	,"StringID"	: "pln_fish_24_03"
 	,"orig_text": "Ok. I can override the main panel now."
+	,"tran_text": "OK，我可以改寫主控台權限了。"
 },{
 	 "i"		: 10549
 	,"ids"		: "Idstring(@ID4f99ae70279b1ab6@)"
@@ -60561,7 +60842,9 @@
 },{
 	 "i"		: 10615
 	,"ids"		: "Idstring(@ID0f23fc58adf0db4c@)"
+	,"StringID"	: "pln_fish_19_02"
 	,"orig_text": "The doors should open once the ECM jammer stops."
+	,"tran_text": "ECM結束之後門應該就會打開了。"
 },{
 	 "i"		: 10616
 	,"ids"		: "Idstring(@ID19c7d8659d679f61@)"
@@ -61192,7 +61475,9 @@
 },{
 	 "i"		: 10726
 	,"ids"		: "Idstring(@ID7741d7ffd6c6c7b4@)"
+	,"StringID"	: "pln_fish_05_01"
 	,"orig_text": "Now enter the password."
+	,"tran_text": "現在輸入密碼吧。"
 },{
 	 "i"		: 10727
 	,"ids"		: "Idstring(@IDeee3b01b5ea58e57@)"
@@ -61575,7 +61860,9 @@
 },{
 	 "i"		: 10793
 	,"ids"		: "Idstring(@ID9da37ee90b47c526@)"
+	,"StringID"	: "pln_fish_15_03"
 	,"orig_text": "Use the zipline to secure the bags."
+	,"tran_text": "用滑索去運走贓物袋。"
 },{
 	 "i"		: 10794
 	,"ids"		: "Idstring(@ID7185a15c8b6d236d@)"
@@ -61635,6 +61922,7 @@
 	,"ids"		: "Idstring(@IDe211bf3e7fc44e80@)"
 	,"StringID"	: "pln_spa_05_02"
 	,"orig_text": "Help Charon! Take 'em out!"
+	,"tran_text": "去救 Charon！收拾他們！"
 },{
 	 "i"		: 10805
 	,"ids"		: "Idstring(@ID59f0d3f5f77f4dba@)"
@@ -61697,7 +61985,9 @@
 },{
 	 "i"		: 10815
 	,"ids"		: "Idstring(@ID20e65ef882875e5a@)"
+	,"StringID"	: "cha_spa_12_01"
 	,"orig_text": "Ok, I'm inside - but it seems the elevator isn't working. Listen - I need to get something important that they took from me. It's in a metal briefcase. Can you get it for me?"
+	,"tran_text": "OK，我在裡面了－－但似乎升降機不動了。聽好－－他們從我身上搶走了某個重要東西，就藏在一個金屬公事包裡。能幫我拿回來嗎？"
 },{
 	 "i"		: 10816
 	,"ids"		: "Idstring(@IDf5b1195ab0eeb267@)"
@@ -62219,7 +62509,9 @@
 },{
 	 "i"		: 10908
 	,"ids"		: "Idstring(@IDd36a7d90ff915557@)"
+	,"StringID"	: "pln_fish_34_03"
 	,"orig_text": "I'm sure glad most of the party is upstairs so we can work in peace and quiet down here."
+	,"tran_text": "我很慶幸派對是在上層舉行，這樣我們就能在下層安安靜靜地動手。"
 },{
 	 "i"		: 10909
 	,"ids"		: "Idstring(@ID32444b1a4e6379bd@)"
@@ -62985,6 +63277,7 @@
 	,"ids"		: "Idstring(@ID2d13da7948410ca4@)"
 	,"StringID"	: "cha_spa_10_02"
 	,"orig_text": "These people don't give up! Let's show them, shall we?"
+	,"tran_text": "他們還沒放棄嗎！來給他們一點顏色吧？"
 },{
 	 "i"		: 11043
 	,"ids"		: "Idstring(@ID8521214f083f0407@)"
@@ -63108,7 +63401,9 @@
 },{
 	 "i"		: 11064
 	,"ids"		: "Idstring(@IDfbfdb0d57acf1373@)"
+	,"StringID"	: "pln_spa_07_03"
 	,"orig_text": "More snipers!"
+	,"tran_text": "又有狙擊手！"
 },{
 	 "i"		: 11065
 	,"ids"		: "Idstring(@ID92a3096bfe45f5ce@)"
@@ -63271,7 +63566,9 @@
 },{
 	 "i"		: 11093
 	,"ids"		: "Idstring(@IDe6cdff8a14a730b3@)"
+	,"StringID"	: "cha_spa_05_01"
 	,"orig_text": "I need to open this door. Give me a minute!"
+	,"tran_text": "我要去打開這道閘門。給我一分鐘！"
 },{
 	 "i"		: 11094
 	,"ids"		: "Idstring(@IDd6b80d8b9b36ea34@)"
@@ -63887,7 +64184,9 @@
 },{
 	 "i"		: 11200
 	,"ids"		: "Idstring(@ID5520b90f4b2d88ef@)"
+	,"StringID"	: "cha_spa_18_01"
 	,"orig_text": "They got me. But it's ok, just a minor flesh wound."
+	,"tran_text": "他們射中我了。但是沒問題，只是個小傷口。"
 },{
 	 "i"		: 11201
 	,"ids"		: "Idstring(@ID4565831ac07eed33@)"
@@ -65109,7 +65408,9 @@
 },{
 	 "i"		: 11413
 	,"ids"		: "Idstring(@ID49a9a631691d2e95@)"
+	,"StringID"	: "pln_fish_intro_01"
 	,"orig_text": "Okay, pirates - board the ship and get the loot. And keep it quiet."
+	,"tran_text": "OK，海盜們－－上船大肆搜掠吧。記緊一切安靜行事。"
 },{
 	 "i"		: 11414
 	,"ids"		: "Idstring(@ID6b6d8915b0670eb4@)"
@@ -65786,7 +66087,9 @@
 },{
 	 "i"		: 11530
 	,"ids"		: "Idstring(@ID28f89dc3f23b8113@)"
+	,"StringID"	: "pln_fish_11_02"
 	,"orig_text": "Great - that's the last of 'em!"
+	,"tran_text": "很好－那是最後了！"
 },{
 	 "i"		: 11531
 	,"ids"		: "Idstring(@ID329f94ab61b9d885@)"
@@ -65840,7 +66143,9 @@
 },{
 	 "i"		: 11540
 	,"ids"		: "Idstring(@IDfdcc1b67898120ca@)"
+	,"StringID"	: "cha_spa_07_03"
 	,"orig_text": "You need to cover me while open the door !"
+	,"tran_text": "你們要在我打開大閘時掩護我！"
 },{
 	 "i"		: 11541
 	,"ids"		: "Idstring(@IDe5d4fb1389e2810b@)"
@@ -66051,7 +66356,9 @@
 },{
 	 "i"		: 11577
 	,"ids"		: "Idstring(@ID3a9c2c82dbe301ab@)"
+	,"StringID"	: "pln_fish_brf_01"
 	,"orig_text": "Ok guys, you know what's at stake here. McKendrick needs that cash to win the elections, and if you can steal it you're pulling the rug out from under his feet. Let's spoil his party, rain on his parade - get even for what that ungrateful bastard did. So get that cash. And there's another thing I found in the file that Charon gave us - somewhere on the yacht there's a server which contains passwords for illicit foreign bank accounts, some of which are also used by McKendrick. Steal that server, and we can cash in nicely on it. (pause) Uh, yeah... I almost forgot... there's a fundraising party for McKendrick on the yacht tonight. With TV and everything. But the party's mostly on the upper deck, so if you sneak in quietly you should be able to get in and out without anyone noticing."
+	,"tran_text": "OK 大夥們，你們很清楚這裡的賭注吧。McKendrick 要贏得選舉就需要這筆現金，如果你把他偷走了就有如給他釜底抽薪。咱們來毀了他的派對，撥他一記冷水－－讓那個不知感恩的混蛋嘗嘗我們的厲害。所以去搶錢吧。然後在Charon給我們的檔案當中我找到另一件事－－在這艘遊艇某處有一個伺服器裡面有許多非法海外帳戶的密碼，其中一些就屬於 McKendrick 的。把那個伺服器偷走，我們就能巧妙的進帳一大筆錢啦。（停頓）喔，對了……我差點忘了……今晚這艘遊艇上會有McKendrick的募款派對，會有電視台啊還有其他人之類的出入。但派對大都集中在上層甲板上舉行，所以如果悄悄的潛入的話，你應該可以神不知鬼不覺的進出。"
 },{
 	 "i"		: 11578
 	,"ids"		: "Idstring(@ID87571fc26eb448d1@)"
@@ -66566,7 +66873,9 @@
 },{
 	 "i"		: 11667
 	,"ids"		: "Idstring(@ID0b1760dbab95141a@)"
+	,"StringID"	: "pln_fish_22_01"
 	,"orig_text": "Turn off the valves at the bottom of the server rack."
+	,"tran_text": "去關掉伺服器機架下方的閥門。"
 },{
 	 "i"		: 11668
 	,"ids"		: "Idstring(@ID19a4f9e4c14fffcc@)"
@@ -66662,7 +66971,9 @@
 },{
 	 "i"		: 11684
 	,"ids"		: "Idstring(@IDa85514213a675445@)"
+	,"StringID"	: "pln_fish_35_01"
 	,"orig_text": "Is that a TV news crew? Try to stay away from them."
+	,"tran_text": "是電視新聞台的員工？盡量離他們遠一點。"
 },{
 	 "i"		: 11685
 	,"ids"		: "Idstring(@ID045eb22630c98d63@)"
@@ -66800,7 +67111,9 @@
 },{
 	 "i"		: 11708
 	,"ids"		: "Idstring(@ID7fc0dba6d42b821a@)"
+	,"StringID"	: "pln_fish_08_01"
 	,"orig_text": "That's the first stash. Three to go!"
+	,"tran_text": "那是第一堆。還剩三個！"
 },{
 	 "i"		: 11709
 	,"ids"		: "Idstring(@IDa1c925c3ef461767@)"
@@ -66916,7 +67229,9 @@
 },{
 	 "i"		: 11729
 	,"ids"		: "Idstring(@ID6c26e0eb029a334d@)"
+	,"StringID"	: "cha_spa_03_01"
 	,"orig_text": "Can you take the snipers out?!"
+	,"tran_text": "你們能解決那些狙擊手嗎？！"
 },{
 	 "i"		: 11730
 	,"ids"		: "Idstring(@IDb61b8ce592d64ac3@)"
@@ -67374,6 +67689,7 @@
 	,"ids"		: "Idstring(@IDc8d90bcf1ed9ec6e@)"
 	,"StringID"	: "cha_spa_end_03"
 	,"orig_text": "Thank you, my friends. I will not forget this day."
+	,"tran_text": "謝謝，我的朋友。你們的大恩我沒齒難忘。"
 },{
 	 "i"		: 11809
 	,"ids"		: "Idstring(@ID5a048f6855924c0e@)"
@@ -67686,7 +68002,9 @@
 },{
 	 "i"		: 11862
 	,"ids"		: "Idstring(@ID47001a0b7cabfa0e@)"
+	,"StringID"	: "cha_spa_16_02"
 	,"orig_text": "Let's get out of here. After you, please..."
+	,"tran_text": "我們離開吧。你們先走，有勞了……"
 },{
 	 "i"		: 11863
 	,"ids"		: "Idstring(@IDc3fe0571b2cdb1cb@)"
@@ -72048,59 +72366,87 @@
 },{
 	 "i"		: 12617
 	,"ids"		: "Idstring(@ID29086a7f45f659be@)"
+	,"StringID"	: "pln_fish_04_01"
 	,"orig_text": "There it is."
+	,"tran_text": "就是這台。"
 },{
 	 "i"		: 12618
 	,"ids"		: "Idstring(@ID4e29fc54e7ff0d4f@)"
+	,"StringID"	: "pln_fish_11_01"
 	,"orig_text": "That's the last stash! You got'em all!"
+	,"tran_text": "那是最後一份！你拿走全部了！"
 },{
 	 "i"		: 12619
 	,"ids"		: "Idstring(@IDb36bfdcaeef6af2d@)"
+	,"StringID"	: "pln_fish_12_03"
 	,"orig_text": "Throw the bags over the side. You can fish them out of the water when you get out of there."
+	,"tran_text": "丟那些袋子到那邊，你可以在走之前把袋子撈回來。"
 },{
 	 "i"		: 12620
 	,"ids"		: "Idstring(@ID14526c49f927733c@)"
+	,"StringID"	: "pln_fish_19_01"
 	,"orig_text": "Ok, I got the doors. But they won't open until the ECM jammer stops."
+	,"tran_text": "OK，那扇門搞定了。只是他在ECM結束之前是不會打開的。"
 },{
 	 "i"		: 12621
 	,"ids"		: "Idstring(@ID300f244e94528ac1@)"
+	,"StringID"	: "pln_fish_21_01"
 	,"orig_text": "You'll need to overheat the secondary servers. Turning off the flow of coolant should do it."
+	,"tran_text": "你需要將第二伺服器過熱。關閉水冷系統應該能搞定。"
 },{
 	 "i"		: 12622
 	,"ids"		: "Idstring(@ID532f628cb5fed579@)"
+	,"StringID"	: "pln_fish_24_01"
 	,"orig_text": "Great, now I should be able to override the main panel."
+	,"tran_text": "很好，現在我應該能改寫那個主控台。"
 },{
 	 "i"		: 12623
 	,"ids"		: "Idstring(@ID9479ef457a9f06e1@)"
+	,"StringID"	: "pln_fish_25_03"
 	,"orig_text": "Check two overrides, two more to go."
+	,"tran_text": "兩處修改完成，還有兩處要弄。"
 },{
 	 "i"		: 12624
 	,"ids"		: "Idstring(@ID971fbb67ed2aab72@)"
+	,"StringID"	: "pln_fish_28_01"
 	,"orig_text": "You can escape now, or maybe look for more valuables. Your choice."
+	,"tran_text": "你們可以撤離了，或是留下來找更多贓物，悉隨尊便。"
 },{
 	 "i"		: 12625
 	,"ids"		: "Idstring(@ID1c25b3c49cb8d880@)"
+	,"StringID"	: "pln_fish_29_02"
 	,"orig_text": "You got everything. Time to go home."
+	,"tran_text": "所有贓物到手了，該回家囉。"
 },{
 	 "i"		: 12626
 	,"ids"		: "Idstring(@ID820086c6353d4e85@)"
+	,"StringID"	: "pln_fish_29_03"
 	,"orig_text": "Ok, there's nothing left to steal. Get out of there."
+	,"tran_text": "OK，能偷的東西都偷走了。快走吧。"
 },{
 	 "i"		: 12627
 	,"ids"		: "Idstring(@ID05590a3001573b93@)"
+	,"StringID"	: "pln_fish_31_01"
 	,"orig_text": "Damn it, so close!"
+	,"tran_text": "該死！就差一點點！"
 },{
 	 "i"		: 12628
 	,"ids"		: "Idstring(@IDeff34f72b1254dac@)"
+	,"StringID"	: "pln_fish_31_02"
 	,"orig_text": "We almost had it!"
+	,"tran_text": "我們幾乎就能搞定了的！"
 },{
 	 "i"		: 12629
 	,"ids"		: "Idstring(@ID1492b0e6fafde46f@)"
+	,"StringID"	: "pln_fish_34_02"
 	,"orig_text": "McKendrick sure has a lot of influential supporters up there. They're expecting to cash in if he wins, I'm sure."
+	,"tran_text": "上面肯定有一大票 McKendrick 的支持者在。要是他勝出了他們就會發大財了，我敢輸賭。"
 },{
 	 "i"		: 12630
 	,"ids"		: "Idstring(@ID1891fd7bd69582d1@)"
+	,"StringID"	: "pln_fish_37_01"
 	,"orig_text": "That's probably the server room. Remember where it is."
+	,"tran_text": "這裡應該是伺服器室了，記好這裡的位置。"
 },{
 	 "i"		: 12631
 	,"ids"		: "Idstring(@ID445ddf4dc2ae90d6@)"
@@ -79183,23 +79529,33 @@
 },{
 	 "i"		: 13851
 	,"ids"		: "Idstring(@ID74d62212f45af670@)"
+	,"StringID"	: "pln_spa_01_02"
 	,"orig_text": "Looks like Charon freed himself! Now help him get out of here alive!"
+	,"tran_text": "看來 Charon 逃離了！去協助他活著離開這裡！"
 },{
 	 "i"		: 13852
 	,"ids"		: "Idstring(@ID13c25629f17c3b04@)"
+	,"StringID"	: "pln_spa_02_02"
 	,"orig_text": "Something's fishy here - I think there might be snipers in those windows."
+	,"tran_text": "看起來很可疑－－我猜那些窗戶後頭有狙擊手。"
 },{
 	 "i"		: 13853
 	,"ids"		: "Idstring(@ID98aeadafab6be513@)"
+	,"StringID"	: "pln_spa_02_03"
 	,"orig_text": "Stay sharp, guys, this whole place smells of sniper."
+	,"tran_text": "提高警覺，各位，我聞到這兒有狙擊手的味道。"
 },{
 	 "i"		: 13854
 	,"ids"		: "Idstring(@IDa4671ce07c1af161@)"
+	,"StringID"	: "pln_spa_03_02"
 	,"orig_text": "Find that sniper and take him out!"
+	,"tran_text": "找出狙擊手把他做了！"
 },{
 	 "i"		: 13855
 	,"ids"		: "Idstring(@IDb151ec0ecde3281b@)"
+	,"StringID"	: "pln_spa_04_03"
 	,"orig_text": "Get the sniper guys!"
+	,"tran_text": "把狙擊手給做了！"
 },{
 	 "i"		: 13856
 	,"ids"		: "Idstring(@ID6801757d8fc7448f@)"
@@ -79211,11 +79567,15 @@
 },{
 	 "i"		: 13858
 	,"ids"		: "Idstring(@ID89be73a45bdc86dc@)"
+	,"StringID"	: "pln_spa_06_02"
 	,"orig_text": "Snipers! Take 'em out, gang!"
+	,"tran_text": "狙擊手！快殺掉，各位！"
 },{
 	 "i"		: 13859
 	,"ids"		: "Idstring(@ID6172bc812a0d6291@)"
+	,"StringID"	: "pln_spa_07_01"
 	,"orig_text": "More snipers incoming!"
+	,"tran_text": "更多狙擊手來了！"
 },{
 	 "i"		: 13860
 	,"ids"		: "Idstring(@IDdbd0b0feed9d89ab@)"

@@ -728,7 +728,7 @@
 	,"ids"		: "Idstring(@ID0f17154ebee3b505@)"
 	,"StringID"	: "heist_spa"
 	,"orig_text": "Brooklyn 10-10"
-	,"tran_text": "布魯克林 10-10 (Brooklyn 10-10)"
+	,"tran_text": "荒唐警局 (Brooklyn 10-10)"
 },{
 	 "i"		: 123
 	,"ids"		: "Idstring(@ID9f70c7c0a8a8df11@)"
@@ -2018,7 +2018,7 @@
 	,"ids"		: "Idstring(@ID34e668cf36233c2e@)"
 	,"StringID"	: "heist_spa_hl"
 	,"orig_text": "Brooklyn 10-10"
-	,"tran_text": "布魯克林 10-10"
+	,"tran_text": "荒唐警局"
 },{
 	 "i"		: 339
 	,"ids"		: "Idstring(@IDee943a527b95e9c6@)"
