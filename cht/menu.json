@@ -14182,7 +14182,7 @@
 	,"ids"		: "Idstring(@ID20af370111c815f1@)"
 	,"StringID"	: "menu_fast_fire_beta_desc"
 	,"orig_text": "BASIC: ##$basic;##$NL;Your SMGs, LMGs and Assault Rifles gain ##$multibasic;## more bullets in their magazines. This does not affect the \"Lock n' Load\" Ace skill.$NL;$NL;ACE: ##$pro;##$NL;Your ranged weapons can now pierce through enemy body armor.$NL;$NL;Note: Does not apply to throwable weapons."
-	,"tran_text": "基礎：##$basic;##$NL;當你使用全自動模式的衝鋒槍、輕機槍、步槍彈匣容量增加##$multibasic;##。此技能不影響「Lock n' Load」精通技能。$NL;$NL;精通：##$pro;##$NL;你的武器可以打穿護甲。$NL;$NL;注意：不適用於投擲型武器。"
+	,"tran_text": "基礎：##$basic;##$NL;當你使用衝鋒槍、輕機槍、步槍彈匣容量增加##$multibasic;##。此技能不影響「Lock n' Load」精通技能。$NL;$NL;精通：##$pro;##$NL;你的武器可以打穿護甲。$NL;$NL;注意：不適用於投擲型武器。"
 },{
 	 "i"		: 2403
 	,"ids"		: "Idstring(@ID2d5bba4c0aa7bf6b@)"
