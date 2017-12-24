@@ -23269,7 +23269,7 @@
 	,"ids"		: "Idstring(@IDae9d7ff26c71b6a9@)"
 	,"StringID"	: "menu_deck8_7_desc"
 	,"orig_text": "When you are surrounded by three enemies or more, you receive an additional ##$multiperk;## less damage from enemies.$NL;$NL;Each successful melee hit grants an additional ##$multiperk2;## melee damage boost for ##$multiperk3;## seconds and can stack up to ##$multiperk4;## times."
-	,"tran_text": "當你被三個或以上的敵人包圍，你受到的傷害會再減少 ##$multiperk;## 。$NL;$NL;每次成功的近戰攻擊可獲得額外 ##$multiperk2;## 的近戰傷害，為期 ##$multiperk3;## 秒，可以疊加 ##$multiperk4;## 次。"
+	,"tran_text": "當你被三個或以上的敵人包圍，你受到的傷害會再減少 ##$multiperk;## 。$NL;$NL;每次在 ##$multiperk2;## 秒內成功的近戰攻擊可獲得 ##$multiperk3;## 倍的近戰傷害。"
 },{
 	 "i"		: 3986
 	,"ids"		: "Idstring(@ID4da26ec5dd5180a6@)"
