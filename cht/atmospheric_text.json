@@ -1126,7 +1126,7 @@
 	,"ids"		: "Idstring(@ID0102800d6dbf9ae1@)"
 	,"StringID"	: "tip_melee_attack"
 	,"orig_text": "A hit with the butt of your weapon can be a good way to finish off an opponent. $NL; $NL; This is especially useful if you are low on ammo."
-	,"tran_text": "用槍柄來打是解決敵人的好方法。 $NL; $NL; 如果你彈藥量很少會很有用。"
+	,"tran_text": "用槍柄來打是解決敵人的好方法。 $NL; $NL; 尤其當你很缺乏子彈的時候就很有用。"
 },{
 	 "i"		: 189
 	,"ids"		: "Idstring(@IDa5967cea223e9983@)"
@@ -1492,7 +1492,7 @@
 	,"ids"		: "Idstring(@ID8d7caaa2d9a05277@)"
 	,"StringID"	: "tip_secret_assignmnet"
 	,"orig_text": "The four types of special units are very dangerous, especially if you face them alone. $NL; $NL; Team up to take them down!"
-	,"tran_text": "四種特殊單位非常危險，特別是你單獨面對時。 $NL; $NL; 聚起來以殺死他們！"
+	,"tran_text": "四種特殊警察都非常危險，特別是當你孤身面對他們時。 $NL; $NL; 與隊友一起圍剿他們吧！"
 },{
 	 "i"		: 250
 	,"ids"		: "Idstring(@IDc9e669fe9bb5ec81@)"
@@ -1528,7 +1528,7 @@
 	,"ids"		: "Idstring(@ID26dbaae74939c5c0@)"
 	,"StringID"	: "tip_shoot_in_bleed_out"
 	,"orig_text": "While in bleed-out, you can still fire your sidearm. $NL; $NL; When a partner is helping you up you can protect the both of you, but provoking law enforcers while on your own makes you an easy and helpless target."
-	,"tran_text": "當倒地時，你仍可以用側臂射擊。 $NL; $NL; 當隊友救起你能保護你們兩人，但會挑釁起條子令你成為無助的目標。"
+	,"tran_text": "當倒地時，你仍可以用副武器射擊。 $NL; $NL; 這樣當隊友正在拯救你時你能保護你們兩人，但孤身一人時這樣做只是挑釁條子將你當成靶子，令你更快變成「無助」狀態。"
 },{
 	 "i"		: 256
 	,"ids"		: "Idstring(@ID53680a24c6e478f0@)"
@@ -2098,7 +2098,7 @@
 	,"ids"		: "Idstring(@ID5098c0debdd66e53@)"
 	,"StringID"	: "tip_shoot_at_civilians"
 	,"orig_text": "Shout at civilians to keep them in check. $NL; $NL; A living civilian is always an asset, and lying down he/she is more likely to stay alive."
-	,"tran_text": "喝止市民能令他們恐懼。 $NL; $NL; 生存的市民是資產，使他們更大機會生存。"
+	,"tran_text": "喝止平民能令他們持續趴下不動。 $NL; $NL; 只有活著的平民才有價值，保持他們趴下以免他們被流彈殺死。"
 },{
 	 "i"		: 351
 	,"ids"		: "Idstring(@ID22fd27ff019f37e4@)"
@@ -2332,7 +2332,7 @@
 	,"ids"		: "Idstring(@ID8c553447b9bcedb6@)"
 	,"StringID"	: "tip_help_bleed_out"
 	,"orig_text": "If a robber is shot down he goes into \"bleed-out\", where he can't move and can only shoot with his sidearm. $NL; $NL; A robber in bleed-out can be helped back up at no cost."
-	,"tran_text": "如果劫匪被擊倒，進入「倒地」狀態，他不能移動及只能用側臂射擊。 $NL; $NL; 劫匪在倒地時可以無成本下幫忙。"
+	,"tran_text": "如果劫匪被擊倒並進入「倒地」狀態，他將不能移動及只能用副武器射擊。 $NL; $NL; 倒地的劫匪可以被隊友救起而無須消耗道具。"
 },{
 	 "i"		: 390
 	,"ids"		: "Idstring(@ID4d55d69284a72c3b@)"
@@ -2644,7 +2644,7 @@
 	,"ids"		: "Idstring(@ID4c7fecb0ee43e34e@)"
 	,"StringID"	: "tip_police_free_hostage"
 	,"orig_text": "The police will always take the opportunity to free hostages when no robber is nearby. $NL; $NL; Spread your crew out and keep an eye on all the hostages - they are your life lines!"
-	,"tran_text": "當沒有劫匪在附近時，條子會拿機會來釋放人質。 $NL; $NL; 分散你的隊伍及看住所有人質－他們是你的生命！"
+	,"tran_text": "當沒有劫匪在附近時，條子會趁機會來釋放人質。 $NL; $NL; 分散你的隊伍及看住所有人質－－他們是你的命脈！"
 },{
 	 "i"		: 442
 	,"ids"		: "Idstring(@ID0d3182283943a284@)"
@@ -2770,7 +2770,7 @@
 	,"ids"		: "Idstring(@IDff7e99719452f84e@)"
 	,"StringID"	: "tip_help_arrested"
 	,"orig_text": "Try to complete challenges - these award cash and are a good way to progress fast. $NL; $NL; All the challenges and their objectives are listed in the main menu."
-	,"tran_text": "試試完成挑戰－這些獎勵現金是好方法去加快進度。 $NL; $NL; 所有的挑戰跟目標都在主選單內。"
+	,"tran_text": "試試完成挑戰吧－－除了現金獎勵外還有大量經驗值令你更快升級。 $NL; $NL; 所有挑戰及它們的詳細目標都在主選單中列出。"
 },{
 	 "i"		: 463
 	,"ids"		: "Idstring(@IDf06203d95bd025b5@)"
