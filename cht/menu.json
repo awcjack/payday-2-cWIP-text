@@ -17239,8 +17239,8 @@
 	 "i"		: 2914
 	,"ids"		: "Idstring(@IDd617319bc95347c1@)"
 	,"StringID"	: "menu_risk_sm_wish"
-	,"orig_text": "One Down. Tremendously increased XP and cash."
-	,"tran_text": "One Down 。 異常地增加經驗值及現金。"
+	,"orig_text": "Death Sentence. Tremendously increased XP and cash."
+	,"tran_text": "Death Sentence 。 異常地增加經驗值及現金。"
 },{
 	 "i"		: 2915
 	,"ids"		: "Idstring(@ID370eca9efea183b9@)"
@@ -24109,8 +24109,8 @@
 	 "i"		: 4070
 	,"ids"		: "Idstring(@ID58191b76579a4224@)"
 	,"StringID"	: "menu_difficulty_sm_wish"
-	,"orig_text": "One Down"
-	,"tran_text": "One Down"
+	,"orig_text": "Death Sentence"
+	,"tran_text": "Death Sentence"
 },{
 	 "i"		: 4071
 	,"ids"		: "Idstring(@IDf3e730b9f43547a0@)"
