@@ -48,7 +48,8 @@
 	 "i"		: 10
 	,"ids"		: "Idstring(@IDb26895936feebb26@)"
 	,"StringID"	: "recoil_multiplier"
-	,"orig_text": "This upgrade will lower the amount of firing recoil.$NL;This makes it easier to land a series of aimed shots."
+	,"orig_text": "This upgrade will lower the amount of firing recoil.\nThis makes it easier to land a series of aimed shots."
+	,"btn"		: "$NL; "
 },{
 	 "i"		: 11
 	,"ids"		: "Idstring(@IDf3880e4f1740b9cf@)"
@@ -103,7 +104,8 @@
 	 "i"		: 21
 	,"ids"		: "Idstring(@ID2ee65c54c454b9dd@)"
 	,"StringID"	: "enter_steelsight_speed_multiplier"
-	,"orig_text": "This upgrade decreases the time needed to bring up weapon sights.$NL;Good when you need to quickly switch to precision aiming."
+	,"orig_text": "This upgrade decreases the time needed to bring up weapon sights.\nGood when you need to quickly switch to precision aiming."
+	,"btn"		: "$NL; "
 },{
 	 "i"		: 22
 	,"ids"		: "Idstring(@ID95aa2436ab115845@)"
@@ -183,7 +185,8 @@
 	 "i"		: 37
 	,"ids"		: "Idstring(@ID996bd57f8e0721a3@)"
 	,"StringID"	: "tip_xp"
-	,"orig_text": "You get cash by completing objectives, challenges and stealing loot. $NL; $NL; Collecting cash rewards increases your reputation, which in turn gives you access new weapons, equipment and abilities."
+	,"orig_text": "You get cash by completing objectives, challenges and stealing loot. \n \n Collecting cash rewards increases your reputation, which in turn gives you access new weapons, equipment and abilities."
+	,"btn"		: "$NL; "
 },{
 	 "i"		: 38
 	,"ids"		: "Idstring(@ID1e732004b860d5eb@)"
@@ -208,7 +211,8 @@
 	 "i"		: 42
 	,"ids"		: "Idstring(@IDbb93c59c0f517906@)"
 	,"StringID"	: "extra_ammo_multiplier"
-	,"orig_text": "This upgrade increases the maximum amount of ammo.$NL;If you are trigger happy, then This could be it."
+	,"orig_text": "This upgrade increases the maximum amount of ammo.\nIf you are trigger happy, then This could be it."
+	,"btn"		: "$NL; "
 },{
 	 "i"		: 43
 	,"ids"		: "Idstring(@ID8774913897a7864b@)"
@@ -348,7 +352,8 @@
 	 "i"		: 70
 	,"ids"		: "Idstring(@ID827da9b940ef757e@)"
 	,"StringID"	: "tip_select_reward"
-	,"orig_text": "On the info screen you can choose amongst several skill-trees which lets you specialize in different areas. $NL; $NL; The trees give different perks and weapons, and you can have them all if your reputation is high enough."
+	,"orig_text": "On the info screen you can choose amongst several skill-trees which lets you specialize in different areas. \n \n The trees give different perks and weapons, and you can have them all if your reputation is high enough."
+	,"btn"		: "$NL; "
 },{
 	 "i"		: 71
 	,"ids"		: "Idstring(@IDd596fb8eeda9b7fe@)"
@@ -378,7 +383,8 @@
 	 "i"		: 76
 	,"ids"		: "Idstring(@ID8f59b612cf21fb05@)"
 	,"StringID"	: "tip_trading_hostage"
-	,"orig_text": "A robber who loses all his health is put in custody. When in custody, you can only be brought back through a hostage trade. $NL; $NL; The police will contact Bain to set up the trade."
+	,"orig_text": "A robber who loses all his health is put in custody. When in custody, you can only be brought back through a hostage trade. \n \n The police will contact Bain to set up the trade."
+	,"btn"		: "$NL; "
 },{
 	 "i"		: 77
 	,"ids"		: "Idstring(@ID928f2d2c4edc3372@)"
@@ -438,7 +444,8 @@
 	 "i"		: 88
 	,"ids"		: "Idstring(@ID6b6e2e93ed4a0865@)"
 	,"StringID"	: "extra_cable_tie"
-	,"orig_text": "This upgrade adds extra cable ties.$NL;Need a lot of hostages to trade? This is it."
+	,"orig_text": "This upgrade adds extra cable ties.\nNeed a lot of hostages to trade? This is it."
+	,"btn"		: "$NL; "
 },{
 	 "i"		: 89
 	,"ids"		: "Idstring(@ID5ffd1663191dc8cb@)"
@@ -483,7 +490,8 @@
 	 "i"		: 97
 	,"ids"		: "Idstring(@ID1a10167bebf1830e@)"
 	,"StringID"	: "des_hk21"
-	,"orig_text": "STATS : 7.62mm : High capacity magazine$NL;Even though it was originally designed as a mounted machinegun, the Brenner 21 is a mobile powerhouse. With its huge capacity magazine, this is a given choice for the assault specialist."
+	,"orig_text": "STATS : 7.62mm : High capacity magazine\nEven though it was originally designed as a mounted machinegun, the Brenner 21 is a mobile powerhouse. With its huge capacity magazine, this is a given choice for the assault specialist."
+	,"btn"		: "$NL; "
 },{
 	 "i"		: 98
 	,"ids"		: "Idstring(@IDcf5d9d7c9459d744@)"
@@ -498,7 +506,8 @@
 	 "i"		: 100
 	,"ids"		: "Idstring(@ID6130cfcc94cc4c57@)"
 	,"StringID"	: "des_beretta92"
-	,"orig_text": "STATS : 9mm : Semiautomatic : Low recoil$NL;The B9-S is one of the most used law-enforcement pistols today.$NL;The relatively light damage is compensated by its big clips.$NL;A sidearm for the professional."
+	,"orig_text": "STATS : 9mm : Semiautomatic : Low recoil\nThe B9-S is one of the most used law-enforcement pistols today.\nThe relatively light damage is compensated by its big clips.\nA sidearm for the professional."
+	,"btn"		: "$NL; "
 },{
 	 "i"		: 101
 	,"ids"		: "Idstring(@ID3a7fc7acd6f02147@)"
@@ -788,7 +797,8 @@
 	 "i"		: 158
 	,"ids"		: "Idstring(@ID5ecd39704127523a@)"
 	,"StringID"	: "des_mossberg"
-	,"orig_text": "STATS : 12 Gauge : Quick action$NL;The Locomotive is a compact, extremely fast 12-gauge shotgun.$NL;Clearing an entire room in a few seconds is what this was made for."
+	,"orig_text": "STATS : 12 Gauge : Quick action\nThe Locomotive is a compact, extremely fast 12-gauge shotgun.\nClearing an entire room in a few seconds is what this was made for."
+	,"btn"		: "$NL; "
 },{
 	 "i"		: 159
 	,"ids"		: "Idstring(@IDf4e1e8f9f59f371b@)"
@@ -813,7 +823,8 @@
 	 "i"		: 163
 	,"ids"		: "Idstring(@ID87a704cf9cd3ae90@)"
 	,"StringID"	: "reload_speed_multiplier"
-	,"orig_text": "This upgrade decreases the reload times of the weapon.$NL;Good for those intense moments."
+	,"orig_text": "This upgrade decreases the reload times of the weapon.\nGood for those intense moments."
+	,"btn"		: "$NL; "
 },{
 	 "i"		: 164
 	,"ids"		: "Idstring(@ID3f70a1e3af5f19c2@)"
@@ -868,7 +879,8 @@
 	 "i"		: 174
 	,"ids"		: "Idstring(@IDfd0787b9b61878c8@)"
 	,"StringID"	: "des_mac11"
-	,"orig_text": "STATS : .45 Caliber : Very high fire rate$NL;Against its original purpose, black market upgrades have converted the MARK11 into a fully automatic monster of a weapon.$NL;When in need of a close range bullet hose, look no further."
+	,"orig_text": "STATS : .45 Caliber : Very high fire rate\nAgainst its original purpose, black market upgrades have converted the MARK11 into a fully automatic monster of a weapon.\nWhen in need of a close range bullet hose, look no further."
+	,"btn"		: "$NL; "
 },{
 	 "i"		: 175
 	,"ids"		: "Idstring(@ID5b99d91285355af7@)"
@@ -913,7 +925,8 @@
 	 "i"		: 183
 	,"ids"		: "Idstring(@ID7e99e5f48b237a7d@)"
 	,"StringID"	: "des_m14"
-	,"orig_text": "STATS : 7.62mm : Semiautomatic : Medium recoil$NL;Chambered for the 7.62 mm round, the M308 has made its way out on the black market after years of military service.$NL;When one well placed shot is all you need, this is it."
+	,"orig_text": "STATS : 7.62mm : Semiautomatic : Medium recoil\nChambered for the 7.62 mm round, the M308 has made its way out on the black market after years of military service.\nWhen one well placed shot is all you need, this is it."
+	,"btn"		: "$NL; "
 },{
 	 "i"		: 184
 	,"ids"		: "Idstring(@IDac1919e4e97b5ecd@)"
@@ -938,7 +951,8 @@
 	 "i"		: 188
 	,"ids"		: "Idstring(@ID0102800d6dbf9ae1@)"
 	,"StringID"	: "tip_melee_attack"
-	,"orig_text": "A hit with the butt of your weapon can be a good way to finish off an opponent. $NL; $NL; This is especially useful if you are low on ammo."
+	,"orig_text": "A hit with the butt of your weapon can be a good way to finish off an opponent. \n \n This is especially useful if you are low on ammo."
+	,"btn"		: "$NL; "
 },{
 	 "i"		: 189
 	,"ids"		: "Idstring(@IDa5967cea223e9983@)"
@@ -963,7 +977,8 @@
 	 "i"		: 193
 	,"ids"		: "Idstring(@ID23f01665f98af252@)"
 	,"StringID"	: "tip_mask_off"
-	,"orig_text": "Law enforcers won't take notice of you if your mask is off - use that to your advantage. $NL; $NL; Scout the place and take positions before you put your masks on. Once you have put your mask on, it can't be taken off for the remainder of the heist."
+	,"orig_text": "Law enforcers won't take notice of you if your mask is off - use that to your advantage. \n \n Scout the place and take positions before you put your masks on. Once you have put your mask on, it can't be taken off for the remainder of the heist."
+	,"btn"		: "$NL; "
 },{
 	 "i"		: 194
 	,"ids"		: "Idstring(@ID1b75edb37fce46bc@)"
@@ -1088,7 +1103,8 @@
 	 "i"		: 218
 	,"ids"		: "Idstring(@IDcaff67ef5460aff1@)"
 	,"StringID"	: "damage_multiplier"
-	,"orig_text": "This upgrade increases the damage of the weapon.$NL;Nice when taking down heavier enemies."
+	,"orig_text": "This upgrade increases the damage of the weapon.\nNice when taking down heavier enemies."
+	,"btn"		: "$NL; "
 },{
 	 "i"		: 219
 	,"ids"		: "Idstring(@ID7eeca028a69957dc@)"
@@ -1178,7 +1194,8 @@
 	 "i"		: 236
 	,"ids"		: "Idstring(@IDf98043acb2b711c0@)"
 	,"StringID"	: "thick_skin"
-	,"orig_text": "This upgrade gives extra health.$NL;Being a criminal toughens your skin."
+	,"orig_text": "This upgrade gives extra health.\nBeing a criminal toughens your skin."
+	,"btn"		: "$NL; "
 },{
 	 "i"		: 237
 	,"ids"		: "Idstring(@ID07f76a6226befdd3@)"
@@ -1208,7 +1225,8 @@
 	 "i"		: 242
 	,"ids"		: "Idstring(@ID62d29fd1e7ce4dd2@)"
 	,"StringID"	: "tip_dont_shoot_civilians"
-	,"orig_text": "Don't shoot civilians. For each civilian you kill, penalty time is added to your regular custody time. $NL; $NL; This means that if you are put in custody, you will have to wait longer before the police make an offer to trade you for a hostage."
+	,"orig_text": "Don't shoot civilians. For each civilian you kill, penalty time is added to your regular custody time. \n \n This means that if you are put in custody, you will have to wait longer before the police make an offer to trade you for a hostage."
+	,"btn"		: "$NL; "
 },{
 	 "i"		: 243
 	,"ids"		: "Idstring(@ID35994e027458e077@)"
@@ -1243,7 +1261,8 @@
 	 "i"		: 249
 	,"ids"		: "Idstring(@ID8d7caaa2d9a05277@)"
 	,"StringID"	: "tip_secret_assignmnet"
-	,"orig_text": "The four types of special units are very dangerous, especially if you face them alone. $NL; $NL; Team up to take them down!"
+	,"orig_text": "The four types of special units are very dangerous, especially if you face them alone. \n \n Team up to take them down!"
+	,"btn"		: "$NL; "
 },{
 	 "i"		: 250
 	,"ids"		: "Idstring(@IDc9e669fe9bb5ec81@)"
@@ -1273,7 +1292,8 @@
 	 "i"		: 255
 	,"ids"		: "Idstring(@ID26dbaae74939c5c0@)"
 	,"StringID"	: "tip_shoot_in_bleed_out"
-	,"orig_text": "While in bleed-out, you can still fire your sidearm. $NL; $NL; When a partner is helping you up you can protect the both of you, but provoking law enforcers while on your own makes you an easy and helpless target."
+	,"orig_text": "While in bleed-out, you can still fire your sidearm. \n \n When a partner is helping you up you can protect the both of you, but provoking law enforcers while on your own makes you an easy and helpless target."
+	,"btn"		: "$NL; "
 },{
 	 "i"		: 256
 	,"ids"		: "Idstring(@ID53680a24c6e478f0@)"
@@ -1283,7 +1303,8 @@
 	 "i"		: 257
 	,"ids"		: "Idstring(@ID87730583847c8f7d@)"
 	,"StringID"	: "des_m79"
-	,"orig_text": "STATS : 40mm rounds : Single-shot : Break Action$NL;\"The Thump-Gun\", \"The Skill Cannon\", \"The Pro Pipe\", \"The Noob Tube\", and \"The Ex-Wife\" - things we love have many names. The GL40 is a single-shot, shoulder-fired break action grenade launcher that aims to please."
+	,"orig_text": "STATS : 40mm rounds : Single-shot : Break Action\n\"The Thump-Gun\", \"The Skill Cannon\", \"The Pro Pipe\", \"The Noob Tube\", and \"The Ex-Wife\" - things we love have many names. The GL40 is a single-shot, shoulder-fired break action grenade launcher that aims to please."
+	,"btn"		: "$NL; "
 },{
 	 "i"		: 258
 	,"ids"		: "Idstring(@ID890ea8967f04e71d@)"
@@ -1363,12 +1384,14 @@
 	 "i"		: 273
 	,"ids"		: "Idstring(@ID35f784a6a46b227d@)"
 	,"StringID"	: "trip_mine_quantity"
-	,"orig_text": "This upgrade adds extra trip mines to the inventory.$NL;A couple of extra mines will increase your chances."
+	,"orig_text": "This upgrade adds extra trip mines to the inventory.\nA couple of extra mines will increase your chances."
+	,"btn"		: "$NL; "
 },{
 	 "i"		: 274
 	,"ids"		: "Idstring(@IDde78a0c309ffbb57@)"
 	,"StringID"	: "fire_rate_multiplier"
-	,"orig_text": "This upgrade increases the rate of fire.$NL;Eats through enemies like it eats through ammunition."
+	,"orig_text": "This upgrade increases the rate of fire.\nEats through enemies like it eats through ammunition."
+	,"btn"		: "$NL; "
 },{
 	 "i"		: 275
 	,"ids"		: "Idstring(@ID5f7dae9ef42daa8f@)"
@@ -1413,7 +1436,8 @@
 	 "i"		: 283
 	,"ids"		: "Idstring(@IDe8221cc5869ffa7f@)"
 	,"StringID"	: "explosion_range_multiplier"
-	,"orig_text": "This upgrades the explosion range for the GL40 Grenade Launcher.$NL;The only thing better than an explosion - is a bigger explosion."
+	,"orig_text": "This upgrades the explosion range for the GL40 Grenade Launcher.\nThe only thing better than an explosion - is a bigger explosion."
+	,"btn"		: "$NL; "
 },{
 	 "i"		: 284
 	,"ids"		: "Idstring(@IDd24eb2ad4a56e973@)"
@@ -1423,7 +1447,8 @@
 	 "i"		: 285
 	,"ids"		: "Idstring(@ID63c26b21d42b387c@)"
 	,"StringID"	: "des_r870_shotgun"
-	,"orig_text": "STATS : 12 Gauge : Very high damage$NL;There is no more powerful firearm than the pump-action, 12 gauge bore Reinbeck shotgun.$NL;What it lacks in speed, it makes up for in raw, indisputable power."
+	,"orig_text": "STATS : 12 Gauge : Very high damage\nThere is no more powerful firearm than the pump-action, 12 gauge bore Reinbeck shotgun.\nWhat it lacks in speed, it makes up for in raw, indisputable power."
+	,"btn"		: "$NL; "
 },{
 	 "i"		: 286
 	,"ids"		: "Idstring(@IDae9497a30f3c884d@)"
@@ -1468,12 +1493,14 @@
 	 "i"		: 294
 	,"ids"		: "Idstring(@ID8d94d051f0a05ab6@)"
 	,"StringID"	: "toolset"
-	,"orig_text": "This upgrade makes you interact faster.$NL; When you need to get in and out fast as hell, the Toolkit might be something for you."
+	,"orig_text": "This upgrade makes you interact faster.\n When you need to get in and out fast as hell, the Toolkit might be something for you."
+	,"btn"		: "$NL; "
 },{
 	 "i"		: 295
 	,"ids"		: "Idstring(@ID1024b33e869db6d5@)"
 	,"StringID"	: "ammo_bag"
-	,"orig_text": "The ammo bag can be deployed on the ground, so that you and your crew can use it.$NL;Ammo for everyone."
+	,"orig_text": "The ammo bag can be deployed on the ground, so that you and your crew can use it.\nAmmo for everyone."
+	,"btn"		: "$NL; "
 },{
 	 "i"		: 296
 	,"ids"		: "Idstring(@ID482be9515f887e52@)"
@@ -1678,7 +1705,8 @@
 	 "i"		: 336
 	,"ids"		: "Idstring(@IDbb5e5bf4ae2f7e03@)"
 	,"StringID"	: "des_m4"
-	,"orig_text": "STATS : 5.56mm : Semiautomatic : Medium recoil$NL;The AMCAR-4 is one of the most versatile assault rifles there is.$NL;The good accuracy coupled with the high rate of fire prepares its owner for any situation."
+	,"orig_text": "STATS : 5.56mm : Semiautomatic : Medium recoil\nThe AMCAR-4 is one of the most versatile assault rifles there is.\nThe good accuracy coupled with the high rate of fire prepares its owner for any situation."
+	,"btn"		: "$NL; "
 },{
 	 "i"		: 337
 	,"ids"		: "Idstring(@IDc4aaf7e3b6ed62c0@)"
@@ -1748,7 +1776,8 @@
 	 "i"		: 350
 	,"ids"		: "Idstring(@ID5098c0debdd66e53@)"
 	,"StringID"	: "tip_shoot_at_civilians"
-	,"orig_text": "Shout at civilians to keep them in check. $NL; $NL; A living civilian is always an asset, and lying down he/she is more likely to stay alive."
+	,"orig_text": "Shout at civilians to keep them in check. \n \n A living civilian is always an asset, and lying down he/she is more likely to stay alive."
+	,"btn"		: "$NL; "
 },{
 	 "i"		: 351
 	,"ids"		: "Idstring(@ID22fd27ff019f37e4@)"
@@ -1818,7 +1847,8 @@
 	 "i"		: 364
 	,"ids"		: "Idstring(@IDd4b0b46e3bc55da8@)"
 	,"StringID"	: "tip_tactical_reload"
-	,"orig_text": "You can reload your weapon even if you haven't completely emptied your current ammo clip. $NL; $NL;This way you make sure that you have a full clip the next time you run into trouble. This is called a \"tactical reload\"."
+	,"orig_text": "You can reload your weapon even if you haven't completely emptied your current ammo clip. \n \nThis way you make sure that you have a full clip the next time you run into trouble. This is called a \"tactical reload\"."
+	,"btn"		: "$NL; "
 },{
 	 "i"		: 365
 	,"ids"		: "Idstring(@ID2bf8092e9605e1da@)"
@@ -1828,7 +1858,8 @@
 	 "i"		: 366
 	,"ids"		: "Idstring(@ID589cc42d4c965e47@)"
 	,"StringID"	: "des_c45"
-	,"orig_text": "STATS : .45 Caliber : Semiautomatic : Medium recoil$NL;The C45 is a very reliable weapon that has proven its worth over years of use. It does enough damage and carries enough rounds to handle most targets. A good all rounder."
+	,"orig_text": "STATS : .45 Caliber : Semiautomatic : Medium recoil\nThe C45 is a very reliable weapon that has proven its worth over years of use. It does enough damage and carries enough rounds to handle most targets. A good all rounder."
+	,"btn"		: "$NL; "
 },{
 	 "i"		: 367
 	,"ids"		: "Idstring(@IDc8bad8e6ce60184c@)"
@@ -1858,7 +1889,8 @@
 	 "i"		: 372
 	,"ids"		: "Idstring(@ID8c0f628034a3654e@)"
 	,"StringID"	: "tip_switch_to_sidearm"
-	,"orig_text": "It is always quicker to switch to your sidearm than reloading your primary weapon. $NL; $NL; So if you run out of ammo for your SMG and you're in a tight spot, switching to your sidearm instead of reloading could save your life."
+	,"orig_text": "It is always quicker to switch to your sidearm than reloading your primary weapon. \n \n So if you run out of ammo for your SMG and you're in a tight spot, switching to your sidearm instead of reloading could save your life."
+	,"btn"		: "$NL; "
 },{
 	 "i"		: 373
 	,"ids"		: "Idstring(@ID3a3d264df16d0258@)"
@@ -1868,7 +1900,8 @@
 	 "i"		: 374
 	,"ids"		: "Idstring(@ID01e6f797ad15eab1@)"
 	,"StringID"	: "doctor_bag_increase"
-	,"orig_text": "This upgrades the amount of health that can be acquired from the bag.$NL;It will help you help your friends even more."
+	,"orig_text": "This upgrades the amount of health that can be acquired from the bag.\nIt will help you help your friends even more."
+	,"btn"		: "$NL; "
 },{
 	 "i"		: 375
 	,"ids"		: "Idstring(@ID18b801906a7a8667@)"
@@ -1903,7 +1936,8 @@
 	 "i"		: 381
 	,"ids"		: "Idstring(@IDd21afd948a251aae@)"
 	,"StringID"	: "ammo_bag_increase"
-	,"orig_text": "This upgrades the amount of ammo that can be acquired from the bag.$NL;Even more ammo for everyone."
+	,"orig_text": "This upgrades the amount of ammo that can be acquired from the bag.\nEven more ammo for everyone."
+	,"btn"		: "$NL; "
 },{
 	 "i"		: 382
 	,"ids"		: "Idstring(@IDff4d747cf6402c7c@)"
@@ -1923,7 +1957,8 @@
 	 "i"		: 385
 	,"ids"		: "Idstring(@ID8d5268335b637789@)"
 	,"StringID"	: "des_mp5"
-	,"orig_text": "STATS : 9mm : High rate of fire and low recoil$NL;COMPACT-5 is hands down the most frequently used weapon of special operation units.$NL;With its low recoil and compact size it is ideal for urban combat."
+	,"orig_text": "STATS : 9mm : High rate of fire and low recoil\nCOMPACT-5 is hands down the most frequently used weapon of special operation units.\nWith its low recoil and compact size it is ideal for urban combat."
+	,"btn"		: "$NL; "
 },{
 	 "i"		: 386
 	,"ids"		: "Idstring(@IDa37bfc3e41c1fc7f@)"
@@ -1943,7 +1978,8 @@
 	 "i"		: 389
 	,"ids"		: "Idstring(@ID8c553447b9bcedb6@)"
 	,"StringID"	: "tip_help_bleed_out"
-	,"orig_text": "If a robber is shot down he goes into \"bleed-out\", where he can't move and can only shoot with his sidearm. $NL; $NL; A robber in bleed-out can be helped back up at no cost."
+	,"orig_text": "If a robber is shot down he goes into \"bleed-out\", where he can't move and can only shoot with his sidearm. \n \n A robber in bleed-out can be helped back up at no cost."
+	,"btn"		: "$NL; "
 },{
 	 "i"		: 390
 	,"ids"		: "Idstring(@ID4d55d69284a72c3b@)"
@@ -2073,7 +2109,8 @@
 	 "i"		: 415
 	,"ids"		: "Idstring(@IDe4e834e21e89ac35@)"
 	,"StringID"	: "tip_xp_bar"
-	,"orig_text": "The cash gauge is in the lower left corner of the screen. $NL; $NL; It shows how much more cash you need to collect to reach your next level of reputation, and what weapon, equipment or ability you will be rewarded with."
+	,"orig_text": "The cash gauge is in the lower left corner of the screen. \n \n It shows how much more cash you need to collect to reach your next level of reputation, and what weapon, equipment or ability you will be rewarded with."
+	,"btn"		: "$NL; "
 },{
 	 "i"		: 416
 	,"ids"		: "Idstring(@ID5278b6b0ad49be54@)"
@@ -2088,7 +2125,8 @@
 	 "i"		: 418
 	,"ids"		: "Idstring(@ID500a33edee7f315b@)"
 	,"StringID"	: "des_glock"
-	,"orig_text": "STATS : 9mm : Full Auto : Low recoil$NL;The military has it, the police have it, and now you have it. The Stryk is an easy to use fully automatic pistol, specifically designed to fight crime. Wait a minute..."
+	,"orig_text": "STATS : 9mm : Full Auto : Low recoil\nThe military has it, the police have it, and now you have it. The Stryk is an easy to use fully automatic pistol, specifically designed to fight crime. Wait a minute..."
+	,"btn"		: "$NL; "
 },{
 	 "i"		: 419
 	,"ids"		: "Idstring(@IDad78fcc64c7d0a64@)"
@@ -2173,7 +2211,8 @@
 	 "i"		: 435
 	,"ids"		: "Idstring(@IDca4e978fe2a16ed9@)"
 	,"StringID"	: "clip_ammo_increase"
-	,"orig_text": "This upgrade adds more bullets to every clip.$NL;Some extra bullets can make all the difference in the world."
+	,"orig_text": "This upgrade adds more bullets to every clip.\nSome extra bullets can make all the difference in the world."
+	,"btn"		: "$NL; "
 },{
 	 "i"		: 436
 	,"ids"		: "Idstring(@IDf597ec52f8df874b@)"
@@ -2183,7 +2222,8 @@
 	 "i"		: 437
 	,"ids"		: "Idstring(@ID98bea8a700dba2f6@)"
 	,"StringID"	: "tip_doctor_bag"
-	,"orig_text": "The doctor's bag is a real life saver. $NL; $NL; If your team runs low on health, place your doctor's bag on the ground and let everyone patch themselves up!"
+	,"orig_text": "The doctor's bag is a real life saver. \n \n If your team runs low on health, place your doctor's bag on the ground and let everyone patch themselves up!"
+	,"btn"		: "$NL; "
 },{
 	 "i"		: 438
 	,"ids"		: "Idstring(@ID25751a530b0fa3dd@)"
@@ -2203,7 +2243,8 @@
 	 "i"		: 441
 	,"ids"		: "Idstring(@ID4c7fecb0ee43e34e@)"
 	,"StringID"	: "tip_police_free_hostage"
-	,"orig_text": "The police will always take the opportunity to free hostages when no robber is nearby. $NL; $NL; Spread your crew out and keep an eye on all the hostages - they are your life lines!"
+	,"orig_text": "The police will always take the opportunity to free hostages when no robber is nearby. \n \n Spread your crew out and keep an eye on all the hostages - they are your life lines!"
+	,"btn"		: "$NL; "
 },{
 	 "i"		: 442
 	,"ids"		: "Idstring(@ID0d3182283943a284@)"
@@ -2273,7 +2314,8 @@
 	 "i"		: 455
 	,"ids"		: "Idstring(@ID183be3333ec5ff60@)"
 	,"StringID"	: "spread_multiplier"
-	,"orig_text": "This upgrade increases the precision of the weapon.$NL;Good for long range shots."
+	,"orig_text": "This upgrade increases the precision of the weapon.\nGood for long range shots."
+	,"btn"		: "$NL; "
 },{
 	 "i"		: 456
 	,"ids"		: "Idstring(@ID2828c959019c909f@)"
@@ -2308,7 +2350,8 @@
 	 "i"		: 462
 	,"ids"		: "Idstring(@IDff7e99719452f84e@)"
 	,"StringID"	: "tip_help_arrested"
-	,"orig_text": "Try to complete challenges - these award cash and are a good way to progress fast. $NL; $NL; All the challenges and their objectives are listed in the main menu."
+	,"orig_text": "Try to complete challenges - these award cash and are a good way to progress fast. \n \n All the challenges and their objectives are listed in the main menu."
+	,"btn"		: "$NL; "
 },{
 	 "i"		: 463
 	,"ids"		: "Idstring(@IDf06203d95bd025b5@)"
@@ -2333,12 +2376,14 @@
 	 "i"		: 467
 	,"ids"		: "Idstring(@ID0b1aa8597e2fde24@)"
 	,"StringID"	: "sentry_gun_armor_increase"
-	,"orig_text": "This upgrades the amount of heat your sentry gun can take before going out.$NL;When you are in a tight spot, this might save your life."
+	,"orig_text": "This upgrades the amount of heat your sentry gun can take before going out.\nWhen you are in a tight spot, this might save your life."
+	,"btn"		: "$NL; "
 },{
 	 "i"		: 468
 	,"ids"		: "Idstring(@IDf02d905b43082a29@)"
 	,"StringID"	: "trip_mine"
-	,"orig_text": "Trip mines can be placed anywhere and are triggered by a laser \"trip line\".$NL;Having issues watching your back or taking out special units? This could be it."
+	,"orig_text": "Trip mines can be placed anywhere and are triggered by a laser \"trip line\".\nHaving issues watching your back or taking out special units? This could be it."
+	,"btn"		: "$NL; "
 },{
 	 "i"		: 469
 	,"ids"		: "Idstring(@ID5f35cc5d5c5e0536@)"
@@ -2383,7 +2428,8 @@
 	 "i"		: 477
 	,"ids"		: "Idstring(@ID24592b60e76ecc3f@)"
 	,"StringID"	: "tip_objectives"
-	,"orig_text": "Your current objective is shown in the upper left corner of the screen. $NL; $NL; A more detailed description of the objective, as well as a list of completed objectives, can be seen in the info screen."
+	,"orig_text": "Your current objective is shown in the upper left corner of the screen. \n \n A more detailed description of the objective, as well as a list of completed objectives, can be seen in the info screen."
+	,"btn"		: "$NL; "
 },{
 	 "i"		: 478
 	,"ids"		: "Idstring(@ID27520aa981687467@)"
@@ -2653,7 +2699,8 @@
 	 "i"		: 531
 	,"ids"		: "Idstring(@ID4043bfa6fd7d52d3@)"
 	,"StringID"	: "des_raging_bull"
-	,"orig_text": "STATS : .44 Caliber : Six-shooter : High recoil$NL;Primarily developed for hunting big animals, the Bronco has found its use against heavily armored targets.$NL;With its .44 round, it packs a mean punch."
+	,"orig_text": "STATS : .44 Caliber : Six-shooter : High recoil\nPrimarily developed for hunting big animals, the Bronco has found its use against heavily armored targets.\nWith its .44 round, it packs a mean punch."
+	,"btn"		: "$NL; "
 },{
 	 "i"		: 532
 	,"ids"		: "Idstring(@IDda328f7a371467fb@)"
@@ -2663,7 +2710,8 @@
 	 "i"		: 533
 	,"ids"		: "Idstring(@IDf35d6a2ed7634ba4@)"
 	,"StringID"	: "clip_amount_increase"
-	,"orig_text": "This upgrades the ammo clip amount for the GL40 Grenade Launcher.$NL;Why carry few ammo clips, when you can carry many?"
+	,"orig_text": "This upgrades the ammo clip amount for the GL40 Grenade Launcher.\nWhy carry few ammo clips, when you can carry many?"
+	,"btn"		: "$NL; "
 },{
 	 "i"		: 534
 	,"ids"		: "Idstring(@ID8970027fc92d755b@)"
@@ -2703,7 +2751,8 @@
 	 "i"		: 541
 	,"ids"		: "Idstring(@ID743d2ac7bd4b35c0@)"
 	,"StringID"	: "body_armor"
-	,"orig_text": "Body armor removes some of the damage received in combat.$NL;Good when moving between cover or in close combat."
+	,"orig_text": "Body armor removes some of the damage received in combat.\nGood when moving between cover or in close combat."
+	,"btn"		: "$NL; "
 },{
 	 "i"		: 542
 	,"ids"		: "Idstring(@IDe148d25268b5b14f@)"
@@ -2813,7 +2862,8 @@
 	 "i"		: 563
 	,"ids"		: "Idstring(@IDfd8279032870375a@)"
 	,"StringID"	: "tip_ammo_bag"
-	,"orig_text": "If you often run out of ammo, it might be a good idea to bring a bag of extra ammo. $NL; $NL; When ammo is running low, place the ammo bag on the ground and use it to refill your stash."
+	,"orig_text": "If you often run out of ammo, it might be a good idea to bring a bag of extra ammo. \n \n When ammo is running low, place the ammo bag on the ground and use it to refill your stash."
+	,"btn"		: "$NL; "
 },{
 	 "i"		: 564
 	,"ids"		: "Idstring(@ID81240dbfd2078d60@)"
@@ -2883,7 +2933,8 @@
 	 "i"		: 577
 	,"ids"		: "Idstring(@ID5f855ab79a876cf7@)"
 	,"StringID"	: "des_ak47"
-	,"orig_text": "STATS : 7.62mm : Automatic : Medium recoil$NL;Stick it to the man with the premiere choice amongst entrepeneurs and thugs alike. Simple Design, high reliability, low cost and so popular it is a part of a national flag - the AK was built to heist."
+	,"orig_text": "STATS : 7.62mm : Automatic : Medium recoil\nStick it to the man with the premiere choice amongst entrepeneurs and thugs alike. Simple Design, high reliability, low cost and so popular it is a part of a national flag - the AK was built to heist."
+	,"btn"		: "$NL; "
 },{
 	 "i"		: 578
 	,"ids"		: "Idstring(@ID987d04bc2f16e458@)"
@@ -2933,12 +2984,14 @@
 	 "i"		: 587
 	,"ids"		: "Idstring(@ID0a73847573a977b9@)"
 	,"StringID"	: "doctor_bag"
-	,"orig_text": "The doctor bag can be deployed on the ground, so that you and your teamates can use it.$NL;It will help you help your friends."
+	,"orig_text": "The doctor bag can be deployed on the ground, so that you and your teamates can use it.\nIt will help you help your friends."
+	,"btn"		: "$NL; "
 },{
 	 "i"		: 588
 	,"ids"		: "Idstring(@ID4f582e7a9ce326b7@)"
 	,"StringID"	: "sentry_gun_ammo_increase"
-	,"orig_text": "This upgrades the amount of ammo your sentry gun has, making it last longer.$NL;Outstanding. Now all we need is a deck of cards."
+	,"orig_text": "This upgrades the amount of ammo your sentry gun has, making it last longer.\nOutstanding. Now all we need is a deck of cards."
+	,"btn"		: "$NL; "
 },{
 	 "i"		: 589
 	,"ids"		: "Idstring(@IDa621fdacc9e54ca2@)"
