@@ -208,7 +208,7 @@
 	,"ids"		: "Idstring(@IDa02d6836979e78b2@)"
 	,"StringID"	: "des_more_blood_to_bleed"
 	,"orig_text": "All your teammates bleedout time increases. The benefit of a Crew Bonus only applies to the three teammates of the one who equips it. This means that someone else on the team needs to equip a crew bonus in order for you to directly benefit from it. Multipliers do not stack if several teammates equip the same crew bonus."
-	,"tran_text": "所有你的隊員都能增加倒地次數，當其中一個有這技能就對三個隊友都有效，這代表有人有這技能你都能受惠，如果有幾個隊員有相同技能，增幅不能堆疊。"
+	,"tran_text": "你的隊員都會延長倒地時間。提升效果只會對其他三位隊員有效，這代表你想受惠就必須由隊員使用。效果無法疊加。"
 },{
 	 "i"		: 36
 	,"ids"		: "Idstring(@ID2cfa464c78bc9067@)"
@@ -250,7 +250,7 @@
 	,"ids"		: "Idstring(@IDbb93c59c0f517906@)"
 	,"StringID"	: "extra_ammo_multiplier"
 	,"orig_text": "This upgrade increases the maximum amount of ammo.$NL;If you are trigger happy, then This could be it."
-	,"tran_text": "這增加了彈藥的最大數量。$NL;如果你想玩得高興，它可能有效。"
+	,"tran_text": "這增加了彈藥的最大數量。$NL;如果你是個開槍狂人，它可能會是你喜歡的技能。"
 },{
 	 "i"		: 43
 	,"ids"		: "Idstring(@ID8774913897a7864b@)"
@@ -598,7 +598,7 @@
 	,"ids"		: "Idstring(@ID6130cfcc94cc4c57@)"
 	,"StringID"	: "des_beretta92"
 	,"orig_text": "STATS : 9mm : Semiautomatic : Low recoil$NL;The B9-S is one of the most used law-enforcement pistols today.$NL;The relatively light damage is compensated by its big clips.$NL;A sidearm for the professional."
-	,"tran_text": "統計： 9mm ： 半自動 ： 後座力低$NL;B9-S 是警用手槍中最常用的一把。$NL;低傷害換來高彈夾。$NL;專家的側臂。"
+	,"tran_text": "統計： 9mm ： 半自動 ： 後座力低$NL;B9-S 是警用手槍中最常用的一把。$NL;高彈夾但低傷害。$NL;專家的佩槍。"
 },{
 	 "i"		: 101
 	,"ids"		: "Idstring(@ID3a7fc7acd6f02147@)"
@@ -1306,7 +1306,7 @@
 	,"ids"		: "Idstring(@IDcaff67ef5460aff1@)"
 	,"StringID"	: "damage_multiplier"
 	,"orig_text": "This upgrade increases the damage of the weapon.$NL;Nice when taking down heavier enemies."
-	,"tran_text": "這提升了武器傷害。$NL;當攻擊重型敵人時很好。"
+	,"tran_text": "這提升了武器傷害。$NL;攻擊重型敵人時更得心應手。"
 },{
 	 "i"		: 219
 	,"ids"		: "Idstring(@ID7eeca028a69957dc@)"
@@ -1402,7 +1402,7 @@
 	,"ids"		: "Idstring(@IDa9d74262a249eade@)"
 	,"StringID"	: "mission_boat_money"
 	,"orig_text": "Collect the money into bags."
-	,"tran_text": "包錢入袋子內。"
+	,"tran_text": "把錢集中到袋子裡。"
 },{
 	 "i"		: 235
 	,"ids"		: "Idstring(@IDdff3142470ddb883@)"
@@ -1660,7 +1660,7 @@
 	,"ids"		: "Idstring(@IDa80f7a14df40230b@)"
 	,"StringID"	: "intro_hospital107"
 	,"orig_text": "That's just bad for business!"
-	,"tran_text": "這對經濟不好！"
+	,"tran_text": "這對工作不好！"
 },{
 	 "i"		: 278
 	,"ids"		: "Idstring(@ID79590f24fd7e978f@)"
@@ -1696,7 +1696,7 @@
 	,"ids"		: "Idstring(@IDe8221cc5869ffa7f@)"
 	,"StringID"	: "explosion_range_multiplier"
 	,"orig_text": "This upgrades the explosion range for the GL40 Grenade Launcher.$NL;The only thing better than an explosion - is a bigger explosion."
-	,"tran_text": "這提升了 GL40 榴彈發射器的爆炸範圍。$NL;比爆炸更好的就只有－更有的爆炸。"
+	,"tran_text": "這提升了 GL40 榴彈發射器的爆炸範圍。$NL;比爆炸更好的就只有－更大的爆炸。"
 },{
 	 "i"		: 284
 	,"ids"		: "Idstring(@IDd24eb2ad4a56e973@)"
@@ -1978,7 +1978,7 @@
 	,"ids"		: "Idstring(@IDe209aa1dcc1a44dc@)"
 	,"StringID"	: "intro_hospital100"
 	,"orig_text": "WOLF: Guys... it feels like something's in the air... money!"
-	,"tran_text": "WOLF ：伙伴 ... 看來有點東西來這裡 ... 金錢！"
+	,"tran_text": "WOLF ：伙伴 ... 感覺有事情即將發生 ... 錢啊！！"
 },{
 	 "i"		: 331
 	,"ids"		: "Idstring(@ID131053db83e4bafb@)"
@@ -2122,7 +2122,7 @@
 	,"ids"		: "Idstring(@ID8365cd46cd82465b@)"
 	,"StringID"	: "intro_diamondheist03"
 	,"orig_text": "Remember: Stay low, stay dark, avoid guards and gunfire. Here we go..."
-	,"tran_text": "記住：低調行事，不要被人及發現，避開警衛及開槍的機會，來吧 ..."
+	,"tran_text": "記住：低調行事，不要被人發現，避開警衛和盡可能的不要開槍，來吧 ..."
 },{
 	 "i"		: 355
 	,"ids"		: "Idstring(@ID914fc969f41fbe37@)"
@@ -2284,7 +2284,7 @@
 	,"ids"		: "Idstring(@IDd21afd948a251aae@)"
 	,"StringID"	: "ammo_bag_increase"
 	,"orig_text": "This upgrades the amount of ammo that can be acquired from the bag.$NL;Even more ammo for everyone."
-	,"tran_text": "這增加了彈藥包中的備用子彈量。$NL;大家都有更多的彈藥。"
+	,"tran_text": "這增加了彈藥包中的彈藥量。$NL;對所有人來說都是。"
 },{
 	 "i"		: 382
 	,"ids"		: "Idstring(@IDff4d747cf6402c7c@)"
@@ -2494,7 +2494,7 @@
 	,"ids"		: "Idstring(@ID5278b6b0ad49be54@)"
 	,"StringID"	: "des_more_ammo"
 	,"orig_text": "All your teammates get to carry more ammo. The benefit of a Crew Bonus only applies to the three teammates of the one who equips it. This means that someone else on the team needs to equip a crew bonus in order for you to directly benefit from it. Multipliers do not stack if several teammates equip the same crew bonus."
-	,"tran_text": "所有你的隊員都能帶有更多彈藥，當其中一個有這技能就對三個隊友都有效，這代表有人有這技能你都能受惠，如果有幾個隊員有相同技能，增幅不能堆疊。"
+	,"tran_text": "你的隊員都會獲得子彈量提升。提升效果只會對其他三位隊員有效，這代表你想受惠就必須由隊員使用。效果無法疊加。"
 },{
 	 "i"		: 417
 	,"ids"		: "Idstring(@IDf6215acbb8a62ae0@)"
@@ -2548,7 +2548,7 @@
 	,"ids"		: "Idstring(@ID8e7b65b0c62cf28f@)"
 	,"StringID"	: "des_gang_of_ninjas"
 	,"orig_text": "All your teammates melee attack range increases. The benefit of a Crew Bonus only applies to the three teammates of the one who equips it. This means that someone else on the team needs to equip a crew bonus in order for you to directly benefit from it. Multipliers do not stack if several teammates equip the same crew bonus."
-	,"tran_text": "所有你的隊員都會有近戰距離增幅，當其中一個有這技能就對三個隊友都有效，這代表有人有這技能你都能受惠，如果有幾個隊員有相同技能，增幅不能堆疊。"
+	,"tran_text": "你的隊員都會獲得近戰距離提升。提升效果只會對其他三位隊員有效，這代表你想受惠就必須由隊員使用。效果無法疊加。"
 },{
 	 "i"		: 426
 	,"ids"		: "Idstring(@IDe32550b872bff007@)"
@@ -2608,7 +2608,7 @@
 	,"ids"		: "Idstring(@IDca4e978fe2a16ed9@)"
 	,"StringID"	: "clip_ammo_increase"
 	,"orig_text": "This upgrade adds more bullets to every clip.$NL;Some extra bullets can make all the difference in the world."
-	,"tran_text": "這提升了每個彈夾的子彈量。$NL;額外的子彈能改善世界。"
+	,"tran_text": "這提升了每個彈夾的子彈量。$NL;額外的子彈能夠帶來很可觀的改變。"
 },{
 	 "i"		: 436
 	,"ids"		: "Idstring(@IDf597ec52f8df874b@)"
@@ -2698,7 +2698,7 @@
 	,"ids"		: "Idstring(@ID36265b839c43b33a@)"
 	,"StringID"	: "des_aggressor"
 	,"orig_text": "All your teammates get a damage multiplier. The benefit of a Crew Bonus only applies to the three teammates of the one who equips it. This means that someone else on the team needs to equip a crew bonus in order for you to directly benefit from it. Multipliers do not stack if several teammates equip the same crew bonus."
-	,"tran_text": "所有你的隊員都會有傷害增幅，當其中一個有這技能就對三個隊友都有效，這代表有人有這技能你都能受惠，如果有幾個隊員有相同技能，增幅不能堆疊。"
+	,"tran_text": "你的隊員都會獲得傷害提升。提升效果只會對其他三位隊員有效，這代表你想受惠就必須由隊員使用。效果無法疊加。"
 },{
 	 "i"		: 451
 	,"ids"		: "Idstring(@ID98c1fd9c3aa2f44b@)"
@@ -2764,7 +2764,7 @@
 	,"ids"		: "Idstring(@ID0e690f30b9513eab@)"
 	,"StringID"	: "des_sharpshooters"
 	,"orig_text": "All your teammates get improved accuracy. The benefit of a Crew Bonus only applies to the three teammates of the one who equips it. This means that someone else on the team needs to equip a crew bonus in order for you to directly benefit from it. Multipliers do not stack if several teammates equip the same crew bonus."
-	,"tran_text": "所有你的隊員都獲得了準確度增幅，當其中一個有這技能就對三個隊友都有效，這代表有人有這技能你都能受惠，如果有幾個隊員有相同技能，增幅不能堆疊。"
+	,"tran_text": "你的隊員都會提高準確度。提升效果只會對其他三位隊員有效，這代表你想受惠就必須由隊員使用。效果無法疊加。"
 },{
 	 "i"		: 462
 	,"ids"		: "Idstring(@IDff7e99719452f84e@)"
@@ -2920,7 +2920,7 @@
 	,"ids"		: "Idstring(@ID4e1bebcad43a7381@)"
 	,"StringID"	: "des_welcome_to_the_gang"
 	,"orig_text": "All your teammates get a cash multiplier. The benefit of a Crew Bonus only applies to the three teammates of the one who equips it. This means that someone else on the team has to equip a Crew Bonus in order for you to directly benefit from it. Multipliers do not stack if several teammates equip the same crew bonus."
-	,"tran_text": "你的隊伍會得到現金增幅，當其中一個有這技能就對三個隊友都有效，這代表有人有這技能你都能受惠，如果有幾個隊員有相同技能，增幅不能堆疊。"
+	,"tran_text": "你的隊員都會獲得現金加成。提升效果只會對其他三位隊員有效，這代表你想受惠就必須由隊員使用。效果無法疊加。"
 },{
 	 "i"		: 488
 	,"ids"		: "Idstring(@ID0797f57a035f1b1d@)"
@@ -2980,7 +2980,7 @@
 	,"ids"		: "Idstring(@ID0ad0bc56f504c446@)"
 	,"StringID"	: "mission_suburbia_mission13_hl"
 	,"orig_text": "IT'S A TRAP!"
-	,"tran_text": "陷阱！"
+	,"tran_text": "是陷阱！"
 },{
 	 "i"		: 498
 	,"ids"		: "Idstring(@ID509db19a866285dd@)"
@@ -3016,7 +3016,7 @@
 	,"ids"		: "Idstring(@ID0828ddad9361775c@)"
 	,"StringID"	: "des_speed_reloaders"
 	,"orig_text": "All your teammates reload faster. The benefit of a Crew Bonus only applies to the three teammates of the one who equips it. This means that someone else on the team needs to equip a crew bonus in order for you to directly benefit from it. Multipliers do not stack if several teammates equip the same crew bonus."
-	,"tran_text": "所有你的隊員都獲得了回槍速度增幅，當其中一個有這技能就對三個隊友都有效，這代表有人有這技能你都能受惠，如果有幾個隊員有相同技能，增幅不能堆疊。"
+	,"tran_text": "你的隊員都會加快換彈速度。提升效果只會對其他三位隊員有效，這代表你想受惠就必須由隊員使用。效果無法疊加。"
 },{
 	 "i"		: 504
 	,"ids"		: "Idstring(@ID1967ac8342e162e3@)"
@@ -3160,7 +3160,7 @@
 	,"ids"		: "Idstring(@IDacb01b111a357f35@)"
 	,"StringID"	: "des_mr_nice_guy"
 	,"orig_text": "All your teammates get a cash multiplier. The benefit of a Crew Bonus only applies to the three teammates of the one who equips it. This means that someone else on the team needs to equip a crew bonus in order for you to directly benefit from it. Multipliers do not stack if several teammates equip the same crew bonus."
-	,"tran_text": "所有你的隊員能得到現金加成，當其中一個有這技能就對三個隊友都有效，這代表有人有這技能你都能受惠，如果有幾個隊員有相同技能，增幅不能堆疊。"
+	,"tran_text": "你的隊員都會獲得現金加成。提升效果只會對其他三位隊員有效，這代表你想受惠就必須由隊員使用。效果無法疊加。"
 },{
 	 "i"		: 528
 	,"ids"		: "Idstring(@ID4201a46d8dd6c9ca@)"
@@ -3196,7 +3196,7 @@
 	,"ids"		: "Idstring(@IDf35d6a2ed7634ba4@)"
 	,"StringID"	: "clip_amount_increase"
 	,"orig_text": "This upgrades the ammo clip amount for the GL40 Grenade Launcher.$NL;Why carry few ammo clips, when you can carry many?"
-	,"tran_text": "這提升了 GL40 榴彈發射器的彈夾量。$NL;當你能帶更多時，為甚麼只帶這麼少？"
+	,"tran_text": "這提升了 GL40 榴彈發射器的榴彈攜帶量。$NL;當你能帶更多時，為甚麼只帶這麼少？"
 },{
 	 "i"		: 534
 	,"ids"		: "Idstring(@ID8970027fc92d755b@)"
@@ -3448,7 +3448,7 @@
 	,"ids"		: "Idstring(@ID0c6998f2469138ba@)"
 	,"StringID"	: "des_protector"
 	,"orig_text": "All your teammates get a health multiplier. The benefit of a Crew Bonus only applies to the three teammates of the one who equips it. This means that someone else on the team needs to equip a crew bonus in order for you to directly benefit from it. Multipliers do not stack if several teammates equip the same crew bonus."
-	,"tran_text": "所以你的隊員能得到血量加成，當其中一個有這技能就對三個隊友都有效，這代表有人有這技能你都能受惠，如果有幾個隊員有相同技能，增幅不能堆疊。"
+	,"tran_text": "你的隊員都會獲得血量提升。提升效果只會對其他三位隊員有效，這代表你想受惠就必須由隊員使用。效果無法疊加。"
 },{
 	 "i"		: 576
 	,"ids"		: "Idstring(@ID00b120f3e1fc05b5@)"
@@ -3460,7 +3460,7 @@
 	,"ids"		: "Idstring(@ID5f855ab79a876cf7@)"
 	,"StringID"	: "des_ak47"
 	,"orig_text": "STATS : 7.62mm : Automatic : Medium recoil$NL;Stick it to the man with the premiere choice amongst entrepeneurs and thugs alike. Simple Design, high reliability, low cost and so popular it is a part of a national flag - the AK was built to heist."
-	,"tran_text": "統計： 7.62mm ：自動：後座力一般$NL;它在企業家及暴徒上被認為是首先選擇，簡單設計、高可靠度、成本低廉，所以歡迎得像國旗一部份－ AK 是為搶劫而造的。"
+	,"tran_text": "統計： 7.62mm ：自動：後座力一般$NL;創業家及暴徒會優先選擇它。結構簡單、可靠度高、成本低廉，甚至有國家把它加到國旗上 － AK 就是為搶劫打造的。"
 },{
 	 "i"		: 578
 	,"ids"		: "Idstring(@ID987d04bc2f16e458@)"
@@ -3742,7 +3742,7 @@
 	,"ids"		: "Idstring(@ID7308ed2923def1ae@)"
 	,"StringID"	: "intro_hospital10"
 	,"orig_text": "WOLF: Guys... it feels like something's in the air... money!"
-	,"tran_text": "WOLF ：伙伴 ... 看來有點東西來這裡 ... 金錢！"
+	,"tran_text": "WOLF ：伙伴 ... 感覺有事情即將發生 ... 錢啊！！"
 },{
 	 "i"		: 625
 	,"ids"		: "Idstring(@ID7a69409ed9c88ec3@)"
@@ -3826,7 +3826,7 @@
 	,"ids"		: "Idstring(@ID918354d360edeb67@)"
 	,"StringID"	: "intro_hospital67"
 	,"orig_text": "WOLF: Bain, I heard nada. This guy in the elevator kept messing it up!"
-	,"tran_text": "WOLF ：Bain ，我聽不到，這人在升降機內吵鬧！"
+	,"tran_text": "WOLF ：Bain ，我聽不到，這人在升降機內一直吵鬧！"
 },{
 	 "i"		: 639
 	,"ids"		: "Idstring(@IDa759ccaf1fea4877@)"
