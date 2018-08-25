@@ -491,10 +491,9 @@
 	,"tran_text": "按住 $BTN_INTERACT; 以將黃金分裝"
 },{
 	 "i"		: 83
-	,"ids"		: "Idstring(@IDbc148685456b02f5@)"
-	,"StringID"	: "debug_silent_sentry_gun"
-	,"orig_text": "Suppressed Sentry Gun"
-	,"tran_text": "低音步哨塔"
+	,"ids"		: "Idstring(@IDd2db7c48dcf84a93@)"
+	,"StringID"	: "debug_interact_trade_hostage_skm"
+	,"orig_text": "Hold $BTN_INTERACT; to Trade the Hostage"
 },{
 	 "i"		: 84
 	,"ids"		: "Idstring(@ID67f241e9c1b6e208@)"
@@ -1543,204 +1542,214 @@
 	,"tran_text": "房主離開！"
 },{
 	 "i"		: 259
+	,"ids"		: "Idstring(@IDbc148685456b02f5@)"
+	,"StringID"	: "debug_silent_sentry_gun"
+	,"orig_text": "Suppressed Sentry Gun"
+	,"tran_text": "低音步哨塔"
+},{
+	 "i"		: 260
 	,"ids"		: "Idstring(@IDbd37804c82eb83c7@)"
 	,"StringID"	: "debug_team_mate_need_free"
 	,"orig_text": "Teammate is under Arrest!"
 	,"tran_text": "隊友被捕！"
 },{
-	 "i"		: 260
+	 "i"		: 261
 	,"ids"		: "Idstring(@ID0a43cfbb757f9f47@)"
 	,"StringID"	: "debug_toggle_mission_fading_debug_enabled"
 	,"orig_text": "Disable mission debug text"
 	,"tran_text": "開掉任務除錯字樣"
 },{
-	 "i"		: 261
+	 "i"		: 262
+	,"ids"		: "Idstring(@IDcf9c1130aca5efec@)"
+	,"orig_text": "Trade Hostage for Ransom!"
+},{
+	 "i"		: 263
 	,"ids"		: "Idstring(@ID8c91f3c8d3e8e2f7@)"
 	,"StringID"	: "debug_trip_mine"
 	,"orig_text": "Trip Mine"
 	,"tran_text": "詭雷"
 },{
-	 "i"		: 262
+	 "i"		: 264
 	,"ids"		: "Idstring(@ID4dd4c9e7cfdbbdbd@)"
 	,"StringID"	: "debug_undecided"
 	,"orig_text": "Undecided"
 	,"tran_text": "未決定"
 },{
-	 "i"		: 263
+	 "i"		: 265
 	,"ids"		: "Idstring(@IDf5f8f7c8ac18ede1@)"
 	,"StringID"	: "debug_upgrade_tree_assault"
 	,"orig_text": "ASSAULT"
 	,"tran_text": "突擊"
 },{
-	 "i"		: 264
+	 "i"		: 266
 	,"ids"		: "Idstring(@ID976f153e32b794f5@)"
 	,"StringID"	: "debug_wskn_base_gradient"
 	,"orig_text": "Base Gradient"
 	,"tran_text": "基礎素材"
 },{
-	 "i"		: 265
+	 "i"		: 267
 	,"ids"		: "Idstring(@ID740473a3cbd7971a@)"
 	,"StringID"	: "debug_wskn_blue"
 	,"orig_text": "Blue"
 	,"tran_text": "藍色"
 },{
-	 "i"		: 266
+	 "i"		: 268
 	,"ids"		: "Idstring(@ID1a395b7add4e83f1@)"
 	,"StringID"	: "debug_wskn_blueprint"
 	,"orig_text": "Default Blueprint"
 	,"tran_text": "預設藍圖"
 },{
-	 "i"		: 267
+	 "i"		: 269
 	,"ids"		: "Idstring(@IDce92369baddd56ed@)"
 	,"StringID"	: "debug_wskn_clear_skin"
 	,"orig_text": "Clear Skin"
 	,"tran_text": "清空皮膚"
 },{
-	 "i"		: 268
+	 "i"		: 270
 	,"ids"		: "Idstring(@IDd770a4eb73d58ab4@)"
 	,"StringID"	: "debug_wskn_cubemap_pattern_control_y"
 	,"orig_text": "Pattern Cubemap Influence"
 	,"tran_text": "圖案立體貼圖效果"
 },{
-	 "i"		: 269
+	 "i"		: 271
 	,"ids"		: "Idstring(@IDe80b01230cd20211@)"
 	,"StringID"	: "debug_wskn_delete_skin"
 	,"orig_text": "Delete skin"
 	,"tran_text": "刪除皮膚"
 },{
-	 "i"		: 270
+	 "i"		: 272
 	,"ids"		: "Idstring(@ID0c6582911a45c98f@)"
 	,"StringID"	: "debug_wskn_desc_input"
 	,"orig_text": "Description"
 	,"tran_text": "介紹"
 },{
-	 "i"		: 271
+	 "i"		: 273
 	,"ids"		: "Idstring(@ID1a14dd9b5abe6bef@)"
 	,"StringID"	: "debug_wskn_edit_skin"
 	,"orig_text": "Edit Skin"
 	,"tran_text": "修改皮膚"
 },{
-	 "i"		: 272
+	 "i"		: 274
 	,"ids"		: "Idstring(@ID80dfe9899d24a7c2@)"
 	,"StringID"	: "debug_wskn_green"
 	,"orig_text": "Green"
 	,"tran_text": "綠色"
 },{
-	 "i"		: 273
+	 "i"		: 275
 	,"ids"		: "Idstring(@ID6b48bce3b5f15d15@)"
 	,"StringID"	: "debug_wskn_name_input"
 	,"orig_text": "Enter ID here"
 	,"tran_text": "輸入 ID"
 },{
-	 "i"		: 274
+	 "i"		: 276
 	,"ids"		: "Idstring(@IDdc9adc9bfbb42d3c@)"
 	,"StringID"	: "debug_wskn_pattern_pos_x"
 	,"orig_text": "Pattern Position X"
 	,"tran_text": "圖案位置 X"
 },{
-	 "i"		: 275
+	 "i"		: 277
 	,"ids"		: "Idstring(@ID6f9af91111674ed9@)"
 	,"StringID"	: "debug_wskn_pattern_pos_y"
 	,"orig_text": "Pattern Position Y"
 	,"tran_text": "圖案位置 Y"
 },{
-	 "i"		: 276
+	 "i"		: 278
 	,"ids"		: "Idstring(@ID476ceae441a38746@)"
 	,"StringID"	: "debug_wskn_publish_skin"
 	,"orig_text": "Publish"
 	,"tran_text": "發佈"
 },{
-	 "i"		: 277
+	 "i"		: 279
 	,"ids"		: "Idstring(@ID5d570daf17c36453@)"
 	,"StringID"	: "debug_wskn_rarity"
 	,"orig_text": "Rarity"
 	,"tran_text": "稀有度"
 },{
-	 "i"		: 278
+	 "i"		: 280
 	,"ids"		: "Idstring(@ID2a26162567e7ac77@)"
 	,"StringID"	: "debug_wskn_red"
 	,"orig_text": "Red"
 	,"tran_text": "紅色"
 },{
-	 "i"		: 279
+	 "i"		: 281
 	,"ids"		: "Idstring(@IDb96262a0858a03ad@)"
 	,"StringID"	: "debug_wskn_save_kit"
 	,"orig_text": "Copy Kit to Clipboard"
 	,"tran_text": "複製裝置到剪貼簿"
 },{
-	 "i"		: 280
+	 "i"		: 282
 	,"ids"		: "Idstring(@IDc385e7aefc531833@)"
 	,"StringID"	: "debug_wskn_save_skin"
 	,"orig_text": "Copy Skin to Clipboard"
 	,"tran_text": "複製皮膚到剪貼簿"
 },{
-	 "i"		: 281
+	 "i"		: 283
 	,"ids"		: "Idstring(@ID0afe91dc328e29ba@)"
 	,"StringID"	: "debug_wskn_sticker"
 	,"orig_text": "Sticker"
 	,"tran_text": "貼紙"
 },{
-	 "i"		: 282
+	 "i"		: 284
 	,"ids"		: "Idstring(@ID5cba6afb2ff833da@)"
 	,"StringID"	: "debug_wskn_submit_failed"
 	,"orig_text": "Failed to submit skin"
 	,"tran_text": "提交皮膚失敗"
 },{
-	 "i"		: 283
+	 "i"		: 285
 	,"ids"		: "Idstring(@ID458ac35f79b0644e@)"
 	,"StringID"	: "debug_wskn_take_screenshot"
 	,"orig_text": "Screenshot"
 	,"tran_text": "截圖"
 },{
-	 "i"		: 284
+	 "i"		: 286
 	,"ids"		: "Idstring(@ID32a4ddee47f7fe3b@)"
 	,"StringID"	: "debug_wskn_tbf_input"
 	,"orig_text": "Enter GUI Folder here"
 	,"tran_text": "輸入圖像化資料夾"
 },{
-	 "i"		: 285
+	 "i"		: 287
 	,"ids"		: "Idstring(@ID438a78dbee7f90cc@)"
 	,"StringID"	: "debug_wskn_types"
 	,"orig_text": "By Type"
 	,"tran_text": "分類"
 },{
-	 "i"		: 286
+	 "i"		: 288
 	,"ids"		: "Idstring(@IDaf6524fd328b949a@)"
 	,"StringID"	: "debug_wskn_uv_offset_rot_x"
 	,"orig_text": "Sticker X"
 	,"tran_text": "貼紙 X"
 },{
-	 "i"		: 287
+	 "i"		: 289
 	,"ids"		: "Idstring(@ID30472de1c851f317@)"
 	,"StringID"	: "debug_wskn_uv_offset_rot_z"
 	,"orig_text": "Sticker Rotation"
 	,"tran_text": "貼紙角度"
 },{
-	 "i"		: 288
+	 "i"		: 290
 	,"ids"		: "Idstring(@IDf9411c65328812bb@)"
 	,"StringID"	: "debug_wskn_uv_scale_y"
 	,"orig_text": "Sticker Height"
 	,"tran_text": "貼紙高度"
 },{
-	 "i"		: 289
+	 "i"		: 291
 	,"ids"		: "Idstring(@IDfa45ae94e11f074e@)"
 	,"StringID"	: "debug_wskn_white"
 	,"orig_text": "White"
 	,"tran_text": "白色"
 },{
-	 "i"		: 290
+	 "i"		: 292
 	,"ids"		: "Idstring(@ID22760c20ce231b3f@)"
 	,"StringID"	: "debug_wskn_yellow"
 	,"orig_text": "Yellow"
 	,"tran_text": "黃色"
 },{
-	 "i"		: 291
+	 "i"		: 293
 	,"ids"		: "Idstring(@IDe2f421351b30067b@)"
 	,"StringID"	: "wp_uc_power_back_up"
 	,"orig_text": "Get the Power Back Up!"
 	,"tran_text": "開回電源！"
 },{
-	 "i"		: 292
+	 "i"		: 294
 	,"ids"		: "Idstring(@ID18dfd8f3b1d21a64@)"
 	,"StringID"	: "wp_uc_saw_limo"
 	,"orig_text": "Use the Saw to Open the Limo!"

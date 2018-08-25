@@ -537,7 +537,7 @@
 	 "i"		: 103
 	,"ids"		: "Idstring(@IDb705ea9f44b8dc3e@)"
 	,"StringID"	: "dialog_game_permission_changed"
-	,"orig_text": "The game settings has changed, you no longer have permission to join"
+	,"orig_text": "The game settings have changed, you no longer have permission to join"
 	,"tran_text": "遊戲設定已被更改，你沒有許可加入遊戲。"
 },{
 	 "i"		: 104
