@@ -494,6 +494,7 @@
 	,"ids"		: "Idstring(@IDd2db7c48dcf84a93@)"
 	,"StringID"	: "debug_interact_trade_hostage_skm"
 	,"orig_text": "Hold $BTN_INTERACT; to Trade the Hostage"
+	,"tran_text": "按住 $BTN_INTERACT; 以交換人質"
 },{
 	 "i"		: 84
 	,"ids"		: "Idstring(@ID67f241e9c1b6e208@)"

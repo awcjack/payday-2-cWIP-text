@@ -1526,6 +1526,7 @@
 	,"ids"		: "Idstring(@IDb2a6fb1dd20a5fd8@)"
 	,"StringID"	: "cn_menu_skirmish_contract_ransom_header"
 	,"orig_text": "Maximum Ransom:"
+	,"tran_text": "最大贖金："
 },{
 	 "i"		: 263
 	,"ids"		: "Idstring(@ID07f76629f1b7ed0f@)"
@@ -1795,6 +1796,7 @@
 	,"ids"		: "Idstring(@ID59f283e86fbe6216@)"
 	,"StringID"	: "trophy_box_2_completion_objective"
 	,"orig_text": "Complete The Breakin' Feds heist on Normal Difficulty or above."
+	,"tran_text": "完成在 Normal 或以上難度的闖越 FBI (Breakin' Feds)。"
 },{
 	 "i"		: 308
 	,"ids"		: "Idstring(@IDbf8b05566c4d44f2@)"
@@ -1860,6 +1862,7 @@
 	,"ids"		: "Idstring(@ID09c165ae3a80db7a@)"
 	,"StringID"	: "joy_desc"
 	,"orig_text": "Nationality: Japanese$NL;Age: 22$NL;$NL;Joy's been a cyber criminal since her younger teens. She's a skilled hacker, invaluable when it comes to tech and computers. But she also knows how to handle a gun and she's as tough as they come in spite of her young age."
+	,"tran_text": "國籍：日本$NL;年齡：22$NL;$NL; Joy 從她年幼起就已經在網絡上犯罪，她是充滿技能的駭客，當要用到電腦或科技時，她絕對是無價之寶。但她同時會用槍，而且她亦是極於強硬的。"
 },{
 	 "i"		: 319
 	,"ids"		: "Idstring(@IDc9a795464563acf6@)"
@@ -2713,6 +2716,7 @@
 	,"ids"		: "Idstring(@IDaa4d7bff3401645e@)"
 	,"StringID"	: "menu_joy_desc_codex"
 	,"orig_text": "With razor-sharp skills for breaking into secure computer systems, Joy is great asset to the team. Her combined skills with security and firearms make her feared by both law enforcement and security firms alike."
+	,"tran_text": "居有鋒利的攻入電腦系統的能力， Joy 是隊伍中重要的資產，她對保安及槍支的認識令警察跟保安公司一樣害怕她。"
 },{
 	 "i"		: 463
 	,"ids"		: "Idstring(@IDa78b147c1e567661@)"
@@ -2856,6 +2860,7 @@
 	,"ids"		: "Idstring(@ID7983205710b25d43@)"
 	,"StringID"	: "menu_random_skirmish"
 	,"orig_text": "Holdout"
+	,"tran_text": "頂天立地"
 },{
 	 "i"		: 487
 	,"ids"		: "Idstring(@IDbc78266e62871f96@)"
@@ -2913,6 +2918,7 @@
 	,"ids"		: "Idstring(@ID75a6cbf426f871f8@)"
 	,"StringID"	: "cn_menu_skirmish_contract_modifiers_header"
 	,"orig_text": "Modifiers:"
+	,"tran_text": "變化："
 },{
 	 "i"		: 497
 	,"ids"		: "Idstring(@IDba28f34026d9fa86@)"
@@ -3136,6 +3142,7 @@
 	,"ids"		: "Idstring(@IDcafd276aade9460e@)"
 	,"StringID"	: "skirmish_weekly_time_left"
 	,"orig_text": "Time left: $hours;h $minutes;min"
+	,"tran_text": "時間剩餘： $hours; 小時 $minutes; 分鐘"
 },{
 	 "i"		: 535
 	,"ids"		: "Idstring(@IDce3c392d16681a1f@)"
@@ -3417,6 +3424,7 @@
 	,"ids"		: "Idstring(@ID9709347c8e25d590@)"
 	,"StringID"	: "menu_cn_skirmish"
 	,"orig_text": "Holdout"
+	,"tran_text": "頂天立地"
 },{
 	 "i"		: 582
 	,"ids"		: "Idstring(@ID2c08d08edcfe5aa6@)"
@@ -3614,6 +3622,7 @@
 	,"ids"		: "Idstring(@ID278cc8a653735d0c@)"
 	,"StringID"	: "menu_weekly_skirmish_dropin_warning"
 	,"orig_text": "Joining an ongoing WEEKLY HOLDOUT will not unlock rewards."
+	,"tran_text": "加入現已進行中的每週頂天立地劫案並不能解鎖獎勵。"
 },{
 	 "i"		: 615
 	,"ids"		: "Idstring(@ID7c940ba3bf35ec91@)"
@@ -4523,11 +4532,13 @@
 	,"ids"		: "Idstring(@ID064912187d3dbf77@)"
 	,"StringID"	: "menu_nh_cat"
 	,"orig_text": "Community Safe 7 is now live!"
+	,"tran_text": "社群保險箱 7 現已推出！"
 },{
 	 "i"		: 768
 	,"ids"		: "Idstring(@ID4666b6d1687261b1@)"
 	,"StringID"	: "trophy_box_2_desc"
 	,"orig_text": "At the Gates of Silent Memory you stand. One, two, three, three, one. Open them and see the darkness engulf the world, to the bain of all as a new Watchman ascends. Zi dingir kia kanpa, zi dingir anna kanpa."
+	,"tran_text": "在無聲記憶的大門口，一，二，三，三，一，打開它們並看住它黑暗吞噬世界，之後會有新的守望者。"
 },{
 	 "i"		: 769
 	,"ids"		: "Idstring(@ID15e436f81daff37d@)"
@@ -5085,6 +5096,7 @@
 	,"ids"		: "Idstring(@IDf029d448de07610a@)"
 	,"StringID"	: "menu_random_skirmish_subtitle"
 	,"orig_text": "Randomly selected heist"
+	,"tran_text": "隨機選擇劫案"
 },{
 	 "i"		: 863
 	,"ids"		: "Idstring(@ID7530746340a1f252@)"
@@ -6768,6 +6780,7 @@
 	,"ids"		: "Idstring(@IDbd02cbe4497ef5b1@)"
 	,"StringID"	: "menu_skirmish"
 	,"orig_text": "Holdout"
+	,"tran_text": "頂天立地"
 },{
 	 "i"		: 1147
 	,"ids"		: "Idstring(@ID8a3c9916085cf32b@)"
@@ -7719,6 +7732,7 @@
 	,"ids"		: "Idstring(@IDd944d91d3eda6608@)"
 	,"StringID"	: "menu_skirmish_random_briefing"
 	,"orig_text": "In this game mode you are thrust into a randomly selected HOLDOUT heist. Your objective is to fight off up to 9 waves of enemies, each increasing in difficulty, to gain the maximum ransom!$NL;$NL;The duration between the assault and break phases are shorter, and with each assault wave, combat becomes more difficult. The potential reward increases with each completed wave.$NL;$NL;You will fail if one of you gets captured or if the hostage is rescued."
+	,"tran_text": "在這遊戲模式中，你走進了隨機的頂天立地劫案，你的目標只是打敗 9 波敵人，每一波難度都會增加，但人質贖金亦會上升！$NL;$NL;突擊之間的時間會更短，每次突擊亦會更難，每完成一波的獎勵都會上升。$NL;$NL;當你們有人被抓到或人質被救出時就會失敗。"
 },{
 	 "i"		: 1308
 	,"ids"		: "Idstring(@ID9129e31cc9df9fb9@)"
@@ -7926,6 +7940,7 @@
 	,"ids"		: "Idstring(@ID39b966f5af696cdd@)"
 	,"StringID"	: "cn_menu_skirmish_contract_waves_header"
 	,"orig_text": "Waves:"
+	,"tran_text": "波："
 },{
 	 "i"		: 1343
 	,"ids"		: "Idstring(@ID1c12d7b7c196b9fd@)"
@@ -7937,6 +7952,7 @@
 	,"ids"		: "Idstring(@ID6d5a34f46b35fe68@)"
 	,"StringID"	: "menu_cs_help_joy_3"
 	,"orig_text": "All work and no play would make Joy go on a rampage. Time to upgrade to a mobile gaming station with every current video game platform (and some not-so-current). A fresh paint job can't hurt either."
+	,"tran_text": "全都是工作而沒有玩樂會令 Joy 發狂，是時候升級成有現時電子遊戲（部分不夠現時）的流動遊戲站，新的油漆裝潢亦不會傷害到她。"
 },{
 	 "i"		: 1345
 	,"ids"		: "Idstring(@ID0ca02820232b11e2@)"
@@ -8198,6 +8214,7 @@
 	,"ids"		: "Idstring(@IDbe0b8969026c0048@)"
 	,"StringID"	: "menu_skirmish_wave_filter"
 	,"orig_text": "Maximum wave"
+	,"tran_text": "最大波數"
 },{
 	 "i"		: 1389
 	,"ids"		: "Idstring(@ID1c35c4023da7b02b@)"
@@ -8541,6 +8558,7 @@
 	,"ids"		: "Idstring(@IDf3cbc997a04d166a@)"
 	,"StringID"	: "menu_weekly_skirmish_rewards"
 	,"orig_text": "Rewards"
+	,"tran_text": "獎勵"
 },{
 	 "i"		: 1447
 	,"ids"		: "Idstring(@ID48cc90f15b9aff6b@)"
@@ -9700,6 +9718,7 @@
 	,"ids"		: "Idstring(@ID0575c2173a631ab8@)"
 	,"StringID"	: "menu_asset_sah_ladder"
 	,"orig_text": "Ladder"
+	,"tran_text": "樓梯"
 },{
 	 "i"		: 1643
 	,"ids"		: "Idstring(@ID1036055096a031d7@)"
@@ -9867,6 +9886,7 @@
 	,"ids"		: "Idstring(@ID4a03de4d6b9e964d@)"
 	,"StringID"	: "menu_nh_icebreaker"
 	,"orig_text": "Welcome to the Party!"
+	,"tran_text": "歡迎來到派對！"
 },{
 	 "i"		: 1671
 	,"ids"		: "Idstring(@IDe4397e13faa8ea1e@)"
@@ -10696,6 +10716,7 @@
 	,"ids"		: "Idstring(@ID1294c56ddfb6892e@)"
 	,"StringID"	: "menu_asset_sah_ladder_desc"
 	,"orig_text": "Gain access to the upper floor from outside the building."
+	,"tran_text": "在建築物外面走上樓上。"
 },{
 	 "i"		: 1811
 	,"ids"		: "Idstring(@IDef247fa719741483@)"
@@ -11743,6 +11764,7 @@
 	,"ids"		: "Idstring(@ID03a4cce438a67b24@)"
 	,"StringID"	: "menu_joy"
 	,"orig_text": "Joy"
+	,"tran_text": "Joy"
 },{
 	 "i"		: 1989
 	,"ids"		: "Idstring(@ID7f67ecf531239a93@)"
@@ -12208,6 +12230,7 @@
 	,"ids"		: "Idstring(@IDb1c41db6849b91e5@)"
 	,"StringID"	: "trophy_box_3_completion_objective"
 	,"orig_text": "Complete Henry's Rock on Normal Difficulty or above."
+	,"tran_text": "完成在 Normal 或以上難度的 Henry's Rock 。"
 },{
 	 "i"		: 2067
 	,"ids"		: "Idstring(@ID9416551aa130515f@)"
@@ -12709,6 +12732,7 @@
 	,"ids"		: "Idstring(@ID6d05e59ee1117f43@)"
 	,"StringID"	: "trophy_box_2"
 	,"orig_text": "The Elephant's Coffer"
+	,"tran_text": "Elephant 的保險箱"
 },{
 	 "i"		: 2153
 	,"ids"		: "Idstring(@ID9f6e521345e0270e@)"
@@ -16010,6 +16034,7 @@
 	,"ids"		: "Idstring(@ID6b548ab0c5cddcfd@)"
 	,"StringID"	: "trophy_black_plate"
 	,"orig_text": "The Obsidian Plate"
+	,"tran_text": "黑曜石板"
 },{
 	 "i"		: 2711
 	,"ids"		: "Idstring(@ID1bbf48b16e2d0cf8@)"
@@ -17963,6 +17988,7 @@
 	,"ids"		: "Idstring(@ID81bbc82e1cbb84e3@)"
 	,"StringID"	: "menu_l_global_value_ztm"
 	,"orig_text": "THIS IS A ZAG TOYS ITEM!"
+	,"tran_text": "這是 ZAG TOYS 的物品！"
 },{
 	 "i"		: 3041
 	,"ids"		: "Idstring(@ID84a3c66eeb57aa41@)"
@@ -19192,6 +19218,7 @@
 	,"ids"		: "Idstring(@ID001cee5c35beaa32@)"
 	,"StringID"	: "trophy_box_3_desc"
 	,"orig_text": "For Her light thou wouldst flee, but thou cannot get away and are taken to ground. From hell's heart thou art stabbed. For hate's sake, the darkness spits at thee. Thou will not find respite upon this Earth."
+	,"tran_text": "因為她的光明而會逃跑，但沒辦法逃跑而會被抓在地上，你刺傷了來自地獄的心臟，黑暗討厭你後向你吐口水，你不會在地球上抓到喘息機會。"
 },{
 	 "i"		: 3248
 	,"ids"		: "Idstring(@ID5c859d4e22760e42@)"
@@ -20149,6 +20176,7 @@
 	,"ids"		: "Idstring(@ID0c5f9975c96f62fa@)"
 	,"StringID"	: "menu_skirmish_success_all_end_screen"
 	,"orig_text": "You held out for the maximum ransom!"
+	,"tran_text": "你堅持下來成功獲得最大的贖金！"
 },{
 	 "i"		: 3409
 	,"ids"		: "Idstring(@ID5aa64bf451ef1ed3@)"
@@ -20504,6 +20532,7 @@
 	,"ids"		: "Idstring(@ID6741d6dbbff63ce8@)"
 	,"StringID"	: "menu_random_skirmish_desc"
 	,"orig_text": " "
+	,"tran_text": " "
 },{
 	 "i"		: 3470
 	,"ids"		: "Idstring(@IDdaa88085cdfd2628@)"
@@ -20673,6 +20702,7 @@
 	,"ids"		: "Idstring(@IDcd8c087130928574@)"
 	,"StringID"	: "menu_st_spec_21"
 	,"orig_text": "Hacker"
+	,"tran_text": "駭客"
 },{
 	 "i"		: 3499
 	,"ids"		: "Idstring(@IDa8d66b5b1c927804@)"
@@ -20690,6 +20720,7 @@
 	,"ids"		: "Idstring(@ID299faa52507e1cde@)"
 	,"StringID"	: "cn_skirmish_modifiers"
 	,"orig_text": "Modifiers:"
+	,"tran_text": "變化："
 },{
 	 "i"		: 3502
 	,"ids"		: "Idstring(@ID2f2ed7a162943002@)"
@@ -21053,6 +21084,7 @@
 	,"ids"		: "Idstring(@IDb47e27c4c83e446e@)"
 	,"StringID"	: "trophy_box_1"
 	,"orig_text": "The Healer's Coffer"
+	,"tran_text": "治療師的保險箱"
 },{
 	 "i"		: 3563
 	,"ids"		: "Idstring(@ID39d8ed01a2634725@)"
@@ -21330,6 +21362,7 @@
 	,"ids"		: "Idstring(@IDc24a84efaa56c832@)"
 	,"StringID"	: "menu_weekly_skirmish"
 	,"orig_text": "Weekly Holdout"
+	,"tran_text": "每週頂天立地"
 },{
 	 "i"		: 3611
 	,"ids"		: "Idstring(@IDb3c8f442b549c32d@)"
@@ -22893,6 +22926,7 @@
 	,"ids"		: "Idstring(@ID316a83513a3cc43b@)"
 	,"StringID"	: "menu_cs_help_joy_1"
 	,"orig_text": "A reward from Locke for several jobs well done, 'acquired' from a TV station on the east coast.  It's not much to look at yet, but with some t-l-c, this van can become a hackers paradise."
+	,"tran_text": "當做好幾單工作時 Locke 給予的獎勵，在東岸的電視台獲得的，看起來不多，但在改造後，這車能成為駭客天堂。"
 },{
 	 "i"		: 3876
 	,"ids"		: "Idstring(@ID2d7ee5c64a3da279@)"
@@ -23292,6 +23326,7 @@
 	,"ids"		: "Idstring(@IDf19de7059069f3fd@)"
 	,"StringID"	: "menu_cs_help_joy_2"
 	,"orig_text": "The first thing to do is make sure you have enough screens. A hacker can never have too many monitors. A snazzy bench to relax on after hacking all those politicians' e-mails, would be nice too."
+	,"tran_text": "第一件要做的事是確保你有足夠的屏幕，駭客從不嫌棄有太多的屏幕，在駭入那些政客的電郵後，在時髦的長凳上放鬆都應該很棒。"
 },{
 	 "i"		: 3944
 	,"ids"		: "Idstring(@IDe4692572234dd5a3@)"
@@ -24227,6 +24262,7 @@
 	,"ids"		: "Idstring(@IDdf99727f27be6ac3@)"
 	,"StringID"	: "menu_cs_title_joy"
 	,"orig_text": "Joy's Van"
+	,"tran_text": "Joy 的車"
 },{
 	 "i"		: 4102
 	,"ids"		: "Idstring(@ID7d5d6bcdaeea7f25@)"
@@ -24872,6 +24908,7 @@
 	,"ids"		: "Idstring(@ID2839495204f130ee@)"
 	,"StringID"	: "menu_es_skirmish_cash"
 	,"orig_text": "Ransom payout"
+	,"tran_text": "贖金支付"
 },{
 	 "i"		: 4211
 	,"ids"		: "Idstring(@IDf91c6a8c1ec90df1@)"
@@ -26017,6 +26054,7 @@
 	,"ids"		: "Idstring(@ID8872b137a0f4834c@)"
 	,"StringID"	: "menu_l_global_value_joy"
 	,"orig_text": "This is a Joy Character Pack item!"
+	,"tran_text": "這是 Joy 角色包 的物品！"
 },{
 	 "i"		: 4405
 	,"ids"		: "Idstring(@IDe615a638dfc24ff5@)"
@@ -26572,6 +26610,7 @@
 	,"ids"		: "Idstring(@ID8c7da9f468b5df76@)"
 	,"StringID"	: "menu_nh_sft"
 	,"orig_text": "From The Modestly Awesome Company"
+	,"tran_text": "來自謙虛的公司"
 },{
 	 "i"		: 4498
 	,"ids"		: "Idstring(@IDe8120b4601cd9907@)"
@@ -29421,36 +29460,43 @@
 	,"ids"		: "Idstring(@IDd9346145b3bdf4b0@)"
 	,"StringID"	: "menu_skirmish_fail_end_screen"
 	,"orig_text": "You failed on ##wave $wave;##."
+	,"tran_text": "你在第 ##$wave; 波## 失敗。"
 },{
 	 "i"		: 4976
 	,"ids"		: "Idstring(@IDc0054f0e0f3d5fbe@)"
 	,"StringID"	: "menu_skirmish_random"
 	,"orig_text": "Holdout"
+	,"tran_text": "頂天立地"
 },{
 	 "i"		: 4977
 	,"ids"		: "Idstring(@IDa7692b2a4f68efdb@)"
 	,"StringID"	: "menu_skirmish_ransom"
 	,"orig_text": "Current ransom: $money;"
+	,"tran_text": "現時贖金： $money;"
 },{
 	 "i"		: 4978
 	,"ids"		: "Idstring(@ID34c9292b48c9dd7b@)"
 	,"StringID"	: "menu_skirmish_success_end_screen"
 	,"orig_text": "You accepted the ransom offer at ##wave $wave;##."
+	,"tran_text": "你在第 ##$wave; 波## 中接受了贖金交易。"
 },{
 	 "i"		: 4979
 	,"ids"		: "Idstring(@ID11eb9dde7e5dd9ae@)"
 	,"StringID"	: "menu_skirmish_wave_number"
 	,"orig_text": "Wave $wave;"
+	,"tran_text": "$wave; 波"
 },{
 	 "i"		: 4980
 	,"ids"		: "Idstring(@ID3cf0c68fd1e522ea@)"
 	,"StringID"	: "menu_skirmish_wave_range"
 	,"orig_text": "Wave span: $min; - $max;"
+	,"tran_text": "波的範圍： $min; － $max;"
 },{
 	 "i"		: 4981
 	,"ids"		: "Idstring(@ID4189b00dcb2f8c54@)"
 	,"StringID"	: "menu_skirmish_weekly_reward_end_screen"
 	,"orig_text": "Claim your special rewards in the weekly holdout menu!"
+	,"tran_text": "在本週頂天立地選單中領取你的特別獎勵！"
 },{
 	 "i"		: 4982
 	,"ids"		: "Idstring(@ID2ed721075b06b8bc@)"
@@ -30208,6 +30254,7 @@
 	,"ids"		: "Idstring(@IDfcf436f835308a42@)"
 	,"StringID"	: "menu_st_spec_21_desc"
 	,"orig_text": "Using your sharp mind and gear, you can bring any security system to it's knees with the push of a button. You are never caught unaware by a camera or security guard, but if things do go awry, you can just as easily brute-force your way into enemy comms to deliver a nasty surprise for anyone listening."
+	,"tran_text": "使用你敏銳的思考及工具，你能只按個按鈕就能破壞保安系統，你從不會被攝像頭或警衛留意到，但當事情走歪了，你能簡單的用蠻力攻去敵人通訊室。"
 },{
 	 "i"		: 5110
 	,"ids"		: "Idstring(@IDa0d1013a1696186e@)"
@@ -30759,6 +30806,7 @@
 	,"ids"		: "Idstring(@ID275437c40f0663b4@)"
 	,"StringID"	: "menu_toggle_weekly_skirmish_filter"
 	,"orig_text": "Weekly Holdouts only"
+	,"tran_text": "只限每週頂天立地"
 },{
 	 "i"		: 5203
 	,"ids"		: "Idstring(@ID24fb2ae2748a8aba@)"
@@ -31088,21 +31136,25 @@
 	,"ids"		: "Idstring(@IDd92d97135701fb41@)"
 	,"StringID"	: "menu_weekly_skirmish_current_progress"
 	,"orig_text": "Best: $current;/$total;"
+	,"tran_text": "最佳： $current;/$total;"
 },{
 	 "i"		: 5258
 	,"ids"		: "Idstring(@ID4b9054bbeaf3217c@)"
 	,"StringID"	: "menu_weekly_skirmish_desc"
 	,"orig_text": "In this game mode you're placed in a preconfigured HOLDOUT heist with special modifiers. Your objective is to fight off up to 9 waves of enemies, each increasing in difficulty, to unlock special weekly rewards.$NL;$NL;The duration between the assault and break phases are shorter, and with each assault wave, combat becomes more difficult. The potential reward increases with each completed wave.$NL;$NL;You will fail if one of you gets captured or if the hostage is rescued."
+	,"tran_text": "在這遊戲模式中，你會在特定變化下的頂天立地劫案，你的目標只是打敗 9 波敵人，每一波難度都會增加，以解獲得特別每週獎勵。$NL;$NL;突擊之間的時間會更短，每次突擊亦會更難，每完成一波的獎勵都會上升。$NL;$NL;當你們有人被抓到或人質被救出時就會失敗。"
 },{
 	 "i"		: 5259
 	,"ids"		: "Idstring(@ID75d7e76e0cada0d7@)"
 	,"StringID"	: "menu_weekly_skirmish_progress"
 	,"orig_text": "Weekly Reward"
+	,"tran_text": "每週獎勵"
 },{
 	 "i"		: 5260
 	,"ids"		: "Idstring(@ID18f9970f6e3d3184@)"
 	,"StringID"	: "menu_weekly_skirmish_tab_description"
 	,"orig_text": "Description"
+	,"tran_text": "介紹"
 },{
 	 "i"		: 5261
 	,"ids"		: "Idstring(@ID2dddac99aacb5066@)"
@@ -31692,11 +31744,13 @@
 	,"ids"		: "Idstring(@ID17d74e5d5055d67d@)"
 	,"StringID"	: "trophy_black_plate_completion_objective"
 	,"orig_text": "Complete the Shacklethorne Heist on Normal Difficulty or above."
+	,"tran_text": "完成在 Normal 或以上難度的沙克爾頓拍賣會 (Shacklethorne Auction)。"
 },{
 	 "i"		: 5363
 	,"ids"		: "Idstring(@ID2b2d0565ef6e9977@)"
 	,"StringID"	: "trophy_black_plate_desc"
 	,"orig_text": "Some things are best forgotten, lest the secrets they hold undo the world. Offer your flesh, your heart, to stave the darkness. Stare into the abyss long enough, and you will welcome the end, for in the cracks and hollows, the Earth is good."
+	,"tran_text": "有些事最好忘了它，免得為了保護秘密而有事，交上你的肉、心臟以侍奉黑暗，長時間盯住深淵會令你接受終結，地獄真美好。"
 },{
 	 "i"		: 5364
 	,"ids"		: "Idstring(@ID1538ebf9ddaf5025@)"
@@ -31720,16 +31774,19 @@
 	,"ids"		: "Idstring(@ID882fcf3c9e7e7a57@)"
 	,"StringID"	: "trophy_box_1_completion_objective"
 	,"orig_text": "Complete The Golden Grin and Henry's Rock heists on Normal Difficulty or above."
+	,"tran_text": "完成在 Normal 或以上難度的大賭場劫案 (Golden Grin Casino) 和 Henry's Rock 劫案。"
 },{
 	 "i"		: 5368
 	,"ids"		: "Idstring(@ID6cff14096c046f83@)"
 	,"StringID"	: "trophy_box_1_desc"
 	,"orig_text": "The Gold is bright enough to burn, dark enough to blind. It waits, Dead but Dreaming beneath the Earth, until the Time of Alignment. Three and One, Four and One. The Watcher returns."
+	,"tran_text": "黃金亮到燒著，暗到致盲，它等著死亡在地球下發夢的時機，三和一，四和一，守望者回來。"
 },{
 	 "i"		: 5369
 	,"ids"		: "Idstring(@ID91b617625beea6a6@)"
 	,"StringID"	: "trophy_box_3"
 	,"orig_text": "The Scribe's Coffer"
+	,"tran_text": "抄寫員的保險箱"
 },{
 	 "i"		: 5370
 	,"ids"		: "Idstring(@ID61f95fcfc5db6ac8@)"
@@ -32297,6 +32354,7 @@
 	,"ids"		: "Idstring(@ID21d617c38b6034ce@)"
 	,"StringID"	: "victory_stage_cash_summary_name_skirmish"
 	,"orig_text": "You accepted a ransom of $skirmish_cash; after assault wave $wave;."
+	,"tran_text": "你在過了第 $wave; 波後接受了贖金 $skirmish_cash; 。"
 },{
 	 "i"		: 5465
 	,"ids"		: "Idstring(@ID54525906576eac37@)"

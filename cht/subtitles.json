@@ -72,6 +72,7 @@
 	,"ids"		: "Idstring(@IDb4552190f2aaec7e@)"
 	,"StringID"	: "pln_polin_01_05"
 	,"orig_text": "20 and counting - cops imminent."
+	,"tran_text": "倒數 20 秒－條子逼近中。"
 },{
 	 "i"		: 14
 	,"ids"		: "Idstring(@ID7facd9ec4b2da207@)"
@@ -274,6 +275,7 @@
 	,"ids"		: "Idstring(@IDb8da0e721b0a34b0@)"
 	,"StringID"	: "pln_polin_01_04"
 	,"orig_text": "20 until police arrive."
+	,"tran_text": "警察還有 20 秒就來。"
 },{
 	 "i"		: 49
 	,"ids"		: "Idstring(@IDebbba69a4cddfce5@)"
@@ -2309,6 +2311,7 @@
 	,"ids"		: "Idstring(@ID2f89fc4f5a8d8bfc@)"
 	,"StringID"	: "pln_polin_03_01"
 	,"orig_text": "Police about 40 seconds out."
+	,"tran_text": "警察大約在 40 秒距離外。"
 },{
 	 "i"		: 405
 	,"ids"		: "Idstring(@ID040b578108e95587@)"
@@ -2977,6 +2980,7 @@
 	,"ids"		: "Idstring(@ID3fea18e978be47d1@)"
 	,"StringID"	: "pln_polin_04_06"
 	,"orig_text": "Scanner tells me 60 seconds until the police are there. Load up."
+	,"tran_text": "雷達表示警方 60 秒後會抵達。準備整裝。"
 },{
 	 "i"		: 523
 	,"ids"		: "Idstring(@IDef3a6464b3711a8e@)"
@@ -3369,6 +3373,7 @@
 	,"ids"		: "Idstring(@ID12711a52544c7b2f@)"
 	,"StringID"	: "pln_mallcrasch_stage1_end_b_01"
 	,"orig_text": "OK that was severe OVERKILL. Vlad will eat this up. This will really work for him."
+	,"tran_text": "好，這真的殺很大。Vlad能順勢接手，這真的對他有幫助。"
 },{
 	 "i"		: 593
 	,"ids"		: "Idstring(@ID8717b9d76e3b9865@)"
@@ -3782,6 +3787,7 @@
 	,"ids"		: "Idstring(@ID454c78e855d8b623@)"
 	,"StringID"	: "pln_mallcrasch_stage1_brief_01b"
 	,"orig_text": "Enough destruction and this client will rethink his whole stance on protection money. Dirty job but you like getting dirty, right?"
+	,"tran_text": "適量的破壞能驅使他的客戶重新考慮支付他保護費的立場。是個無聊活，但勝在夠骯髒，你們會喜歡，對吧？"
 },{
 	 "i"		: 667
 	,"ids"		: "Idstring(@ID1133db6363ff3b59@)"
@@ -5051,6 +5057,7 @@
 	,"ids"		: "Idstring(@IDd4ed284311547a99@)"
 	,"StringID"	: "pln_nightclub_stage1_end_a_04"
 	,"orig_text": "Disco inferno. Nicely done. Let's get paid."
+	,"tran_text": "簡直是 Disco 煉獄。做得好，咱們去領錢吧。"
 },{
 	 "i"		: 891
 	,"ids"		: "Idstring(@IDd13c51245ee43b77@)"
@@ -6265,7 +6272,7 @@
 	,"ids"		: "Idstring(@IDf00ce553317d3d96@)"
 	,"StringID"	: "pln_nightclub_stage1_dj_01_01"
 	,"orig_text": "I paid the DJ to play some crappy songs he found online, so you'll risk less civilians getting in the line of fire. "
-	,"tran_text": "我賄賂DJ放點從網上下載來的可怕音樂，所以你可以減少平民進入火力範圍的危險。"
+	,"tran_text": "我賄賂 DJ 放點從網上下載來的可怕音樂，所以你可以減少平民進入火力範圍的危險。"
 },{
 	 "i"		: 1105
 	,"ids"		: "Idstring(@IDf1574ea1271a97b7@)"
@@ -8313,6 +8320,7 @@
 	,"ids"		: "Idstring(@IDe29f5a56a8e5ec35@)"
 	,"StringID"	: "pln_pdsg_01_02"
 	,"orig_text": "Awesome guys!"
+	,"tran_text": "太棒了各位!"
 },{
 	 "i"		: 1465
 	,"ids"		: "Idstring(@ID49fee60f2b081534@)"
@@ -9162,6 +9170,7 @@
 	,"ids"		: "Idstring(@IDfd48e2f1c898a0a0@)"
 	,"StringID"	: "pln_mcr_02_any_01"
 	,"orig_text": "Quick guys, the van's gonna leave soon!"
+	,"tran_text": "快點，貨車快要走了！"
 },{
 	 "i"		: 1614
 	,"ids"		: "Idstring(@IDd22d4bd32d4d41a8@)"
@@ -9925,6 +9934,7 @@
 	,"ids"		: "Idstring(@ID4dd88046d1680895@)"
 	,"StringID"	: "pln_polin_03_02"
 	,"orig_text": "Cops running up - 40 seconds to confrontation."
+	,"tran_text": "條子來趕來了－ 40 秒後就要對抗他們。"
 },{
 	 "i"		: 1747
 	,"ids"		: "Idstring(@ID2e8c66cb704ba2b4@)"
@@ -10834,6 +10844,7 @@
 	,"ids"		: "Idstring(@IDdee8a86213da8770@)"
 	,"StringID"	: "pln_polin_01_06"
 	,"orig_text": "Cops in 20 - gear up."
+	,"tran_text": "條子 20 秒後到－快整裝！"
 },{
 	 "i"		: 1906
 	,"ids"		: "Idstring(@ID2380dc58c980c061@)"
@@ -13809,6 +13820,7 @@
 	,"ids"		: "Idstring(@ID1bdea9b72d004e29@)"
 	,"StringID"	: "pln_mcr_01_any_02"
 	,"orig_text": "Our driver is taking heat, guys."
+	,"tran_text": "我們的司機被人留意了，伙伴。"
 },{
 	 "i"		: 2429
 	,"ids"		: "Idstring(@ID55cfd7eba6d1ca7d@)"
@@ -17380,6 +17392,7 @@
 	,"ids"		: "Idstring(@IDeac9c2f7704ffefb@)"
 	,"StringID"	: "pln_polin_03_05"
 	,"orig_text": "T minus 40 seconds. Cops soon to be there!"
+	,"tran_text": "還剩 40 秒，條子快來到了！"
 },{
 	 "i"		: 3061
 	,"ids"		: "Idstring(@IDae2616cb3e893cb2@)"
@@ -17765,6 +17778,7 @@
 	,"ids"		: "Idstring(@ID01c29708ca12682b@)"
 	,"StringID"	: "pln_nightclub_stage1_end_b_04"
 	,"orig_text": "I'm sure Vlad wanted some more blood but this was clean and mean. The Russians will know they got hit by pros. See you back at the safe house."
+	,"tran_text": "我很確定 Vlad 會希望能更血腥點，不過這次我們做的又快又狠。俄國人會知道自己被高手搶了，安全屋見。"
 },{
 	 "i"		: 3129
 	,"ids"		: "Idstring(@ID6509362b07a07ad7@)"
@@ -20650,6 +20664,7 @@
 	,"ids"		: "Idstring(@ID14c0cbae60c8da60@)"
 	,"StringID"	: "pln_ko1_end_02_01"
 	,"orig_text": "Not pretty. Not a great achievement. But any day you walk away from is a payday. "
+	,"tran_text": "不太漂亮。並不算是個大成就，不過你能逃出來就算是賺了。"
 },{
 	 "i"		: 3639
 	,"ids"		: "Idstring(@ID448d6307001304b3@)"
@@ -21113,6 +21128,7 @@
 	,"ids"		: "Idstring(@IDfe18e8a97614e98d@)"
 	,"StringID"	: "pln_ko1_end_02_02"
 	,"orig_text": "Shame you guys couldn't keep it stealthy. Not a day for achievements."
+	,"tran_text": "你們不能安靜完事真是丟臉，今天算不了成就。"
 },{
 	 "i"		: 3721
 	,"ids"		: "Idstring(@ID0d890480452b1e8c@)"
@@ -21351,6 +21367,7 @@
 	,"ids"		: "Idstring(@ID59b1d360730d20c4@)"
 	,"StringID"	: "pln_polin_01_03"
 	,"orig_text": "Police should be here in 20."
+	,"tran_text": "警察應該在 20 秒後抵達。"
 },{
 	 "i"		: 3763
 	,"ids"		: "Idstring(@IDc25b7defeda54a36@)"
@@ -21664,6 +21681,7 @@
 	,"ids"		: "Idstring(@IDf4aaad18e3e13993@)"
 	,"StringID"	: "pln_ko1_end_01_03"
 	,"orig_text": "Ninja's in socks tiptoeing on thick carpet make more noise than you. Expertly done!"
+	,"tran_text": "連忍者穿著襪子墊著腳尖在厚地毯上走路都會發出比你們大的聲響。太專業了。"
 },{
 	 "i"		: 3818
 	,"ids"		: "Idstring(@IDaa2e149c3baf7ab3@)"
@@ -26403,6 +26421,7 @@
 	,"ids"		: "Idstring(@IDdf68ab8230bbdb2a@)"
 	,"StringID"	: "pln_polin_02_01"
 	,"orig_text": "Police are closing in. They are here in 30 seconds."
+	,"tran_text": "條子在進來了，他們 30 秒內到。"
 },{
 	 "i"		: 4652
 	,"ids"		: "Idstring(@ID2fa17bbfda0c7459@)"
@@ -27841,6 +27860,7 @@
 	,"ids"		: "Idstring(@IDe659eb0112334c7f@)"
 	,"StringID"	: "pln_mallcrasch_stage1_end_a_01"
 	,"orig_text": "That's it guys. Vlad's going to get his message through. Let's cash in."
+	,"tran_text": "可以了各位，Vlad的訊息已經表達了，咱們來數錢吧。"
 },{
 	 "i"		: 4905
 	,"ids"		: "Idstring(@IDdf7fab9429c2fb95@)"
@@ -27869,6 +27889,7 @@
 	,"ids"		: "Idstring(@ID13f28f5516f76814@)"
 	,"StringID"	: "pln_ko1b_brf_01_01"
 	,"orig_text": "\"We're hitting the Murkywater warehouse for Vlad. Don't know what the target is, or where it is, but it's tucked away in a vault, which itself is in one of their branded shipping container. Get in there, find the vault and get out whatever it is that crazy Russki wants. Murkies will be on high alert when you get there, and the cops'll be quick to respond, so you gotta get in there and do the job fast. Fast means loud. No tip-toe'ing this one. It's safeties off from the get-go. And, don't forget, there's loot all around. See what you can grab.\""
+	,"tran_text": "「我們正為了 Vlad 再次襲擊 Murkywater 的倉庫，這次的目標物不但不知道是甚麼，就連存放的位置也毫無頭緒，不過可以確定的是東西存放在保險庫中，而且是設置在外觀具有 Murkywater 標示的貨櫃中，闖進裡面然後從保險庫中找到並帶回這瘋狂的俄國佬想要的一切。這群傭兵們會處於高度警戒的情況下來迎接我們，而且警察也會在最短的時間內趕來支援， 所以你必須盡其所能地用最快的速度來執行任務，快也就代表只能正面衝突，可不像上次那樣可以讓我們躡手躡腳，就連在搬運過中也毫無安全性可言，還有別忘了，過程中肯定可以發現其他有價值的物品，試著看看能不能一起帶走。」"
 },{
 	 "i"		: 4910
 	,"ids"		: "Idstring(@ID8bbd9a60d5b4a777@)"
@@ -28338,6 +28359,7 @@
 	,"ids"		: "Idstring(@ID27374433279f8e79@)"
 	,"StringID"	: "pln_polin_04_05"
 	,"orig_text": "Community radio says cops in 60 seconds. Bless them for the heads up!"
+	,"tran_text": "民用電台表示警方 60 秒後會抵達，提高警戒！"
 },{
 	 "i"		: 4993
 	,"ids"		: "Idstring(@IDd98949159776bd11@)"
@@ -29111,6 +29133,7 @@
 	,"ids"		: "Idstring(@ID5f7959fe91e74840@)"
 	,"StringID"	: "pln_polin_02_06"
 	,"orig_text": "Police will arrive in approximately 30 seconds."
+	,"tran_text": "條子大約在 30 秒後到。"
 },{
 	 "i"		: 5129
 	,"ids"		: "Idstring(@IDfc8342c970e0e737@)"
@@ -30592,6 +30615,7 @@
 	,"ids"		: "Idstring(@IDeef3247814083e77@)"
 	,"StringID"	: "pln_polin_02_05"
 	,"orig_text": "In 30 seconds you've got company. Cops incoming!"
+	,"tran_text": "30 秒後會有敵人出現，條子要來了！"
 },{
 	 "i"		: 5387
 	,"ids"		: "Idstring(@ID304b845ef8883ab6@)"
@@ -33979,6 +34003,7 @@
 	,"ids"		: "Idstring(@IDde567f3929d09f01@)"
 	,"StringID"	: "pln_nightclub_stage1_end_b_01"
 	,"orig_text": "You can dance, I will give you that. Good work. Get the money here and let's talk with Vlad."
+	,"tran_text": "你可以去跳舞了，做得好。去領錢吧，我們去跟 Vlad 談談。"
 },{
 	 "i"		: 5981
 	,"ids"		: "Idstring(@IDb745b9df75091a65@)"
@@ -34158,6 +34183,7 @@
 	,"ids"		: "Idstring(@ID7f5cee6ca4001f7f@)"
 	,"StringID"	: "pln_pdsg_01_05"
 	,"orig_text": "Fuck yeah. "
+	,"tran_text": "太爽啦！"
 },{
 	 "i"		: 6013
 	,"ids"		: "Idstring(@ID0430253d95620567@)"
@@ -35440,6 +35466,7 @@
 	,"ids"		: "Idstring(@IDda6e2e459a9eb2ca@)"
 	,"StringID"	: "pln_polin_03_03"
 	,"orig_text": "In 40 seconds or less - you've got police on the scene."
+	,"tran_text": "你們已經進入警方視線了，最多只剩 40 秒。"
 },{
 	 "i"		: 6238
 	,"ids"		: "Idstring(@ID7f18bcd11fcb1ce3@)"
@@ -41995,6 +42022,7 @@
 	,"ids"		: "Idstring(@IDea46ab44f83b2bc9@)"
 	,"StringID"	: "pln_pdsg_01_01"
 	,"orig_text": "Good job!"
+	,"tran_text": "做得很好！"
 },{
 	 "i"		: 7389
 	,"ids"		: "Idstring(@ID2f6b90872b4a9163@)"
@@ -42643,6 +42671,7 @@
 	,"ids"		: "Idstring(@ID67c44011208d6556@)"
 	,"StringID"	: "pln_pdsg_01_04"
 	,"orig_text": "Just like that - great stuff!"
+	,"tran_text": "就像這樣－太讚了!"
 },{
 	 "i"		: 7504
 	,"ids"		: "Idstring(@ID05b04561a4b4269d@)"
@@ -43783,6 +43812,7 @@
 	,"ids"		: "Idstring(@ID560c4688649f3e85@)"
 	,"StringID"	: "pln_ko1_end_01_01"
 	,"orig_text": "Expertly done, gang. You guys are like shadows."
+	,"tran_text": "做得十分專業，你們就像影子般行動。"
 },{
 	 "i"		: 7705
 	,"ids"		: "Idstring(@IDd6b80d8b9b36ea34@)"
@@ -43810,6 +43840,7 @@
 	,"ids"		: "Idstring(@IDb5c57fa5d9c52740@)"
 	,"StringID"	: "pln_ko1_end_01_02"
 	,"orig_text": "That was text-book whisper mode, guys. Great work."
+	,"tran_text": "這就是潛入爆竊的最完美示範，大伙兒，幹得好。"
 },{
 	 "i"		: 7710
 	,"ids"		: "Idstring(@IDc86f76283012968e@)"
@@ -47664,6 +47695,7 @@
 	,"ids"		: "Idstring(@ID67f3a96a5cd78734@)"
 	,"StringID"	: "pln_mcr_23_any_01"
 	,"orig_text": "Kerosene around... Set it on fire..."
+	,"tran_text": "附近有汽油 ... 燒掉它 ..."
 },{
 	 "i"		: 8385
 	,"ids"		: "Idstring(@IDcb539f3cee32d64b@)"
@@ -48150,6 +48182,7 @@
 	,"ids"		: "Idstring(@ID065e0298306d12ca@)"
 	,"StringID"	: "pln_polin_03_06"
 	,"orig_text": "You got the cops coming down on you in 40 seconds."
+	,"tran_text": "警方朝你來了，40秒內會抵達。"
 },{
 	 "i"		: 8471
 	,"ids"		: "Idstring(@ID6efa57c41c50760c@)"
@@ -49085,6 +49118,7 @@
 	,"ids"		: "Idstring(@ID985d0cd932e0ac9b@)"
 	,"StringID"	: "pln_nightclub_stage1_end_b_02"
 	,"orig_text": "Not a cop in the world saw this one coming. Russians will be furious and Vlad will OD on vodka. Let's get paid."
+	,"tran_text": "全世界的警察都沒料想到這種情況，俄國人會氣炸，而 Vlad 會喝到掛。咱們去領報酬吧。"
 },{
 	 "i"		: 8635
 	,"ids"		: "Idstring(@ID23fb34b1c50effca@)"
@@ -50248,6 +50282,7 @@
 	,"ids"		: "Idstring(@ID8954aa2d9b153264@)"
 	,"StringID"	: "pln_nightclub_stage1_end_a_03"
 	,"orig_text": "That was a hell of a bar brawl. And now Vlad's probably on top, cagey old Russian. Let's go get you that PAYDAY."
+	,"tran_text": "真是場他媽精彩的酒吧亂鬥！Vlad八成佔盡好處，狡猾的俄國人。咱們去領我們到報酬吧。"
 },{
 	 "i"		: 8838
 	,"ids"		: "Idstring(@ID3c64ede929887a74@)"
@@ -51058,6 +51093,7 @@
 	,"ids"		: "Idstring(@IDb773a2942c310bb5@)"
 	,"StringID"	: "pln_polin_01_01"
 	,"orig_text": "Police are closing in. They are here in 20 seconds."
+	,"tran_text": "警察逼進了，他們 20 秒內會抵達。"
 },{
 	 "i"		: 8981
 	,"ids"		: "Idstring(@IDfee7dbeef6e1dbb9@)"
@@ -52596,6 +52632,7 @@
 	,"ids"		: "Idstring(@ID53775e15c6358a5d@)"
 	,"StringID"	: "pln_polin_04_03"
 	,"orig_text": "60 seconds to police action. Ready up!"
+	,"tran_text": "60 秒內警方會採取行動，做好準備！"
 },{
 	 "i"		: 9250
 	,"ids"		: "Idstring(@ID9df7afeb74befc36@)"
@@ -53915,6 +53952,7 @@
 	,"ids"		: "Idstring(@IDef5d31b104fccd32@)"
 	,"StringID"	: "pln_pdsg_01_03"
 	,"orig_text": "Keep going - this is great!"
+	,"tran_text": "繼續下去－這太棒了!"
 },{
 	 "i"		: 9481
 	,"ids"		: "Idstring(@ID8179680a17280462@)"
@@ -57758,6 +57796,7 @@
 	,"ids"		: "Idstring(@IDeff4c25f946fb3c3@)"
 	,"StringID"	: "pln_mallcrasch_stage1_end_a_02"
 	,"orig_text": "Mall destruction: check. Pissed off police: check. Let's go get paid from old Vlad."
+	,"tran_text": "毀掉購物中心：搞定，氣死警察：搞定。砸們去找Vlad領錢吧。"
 },{
 	 "i"		: 10154
 	,"ids"		: "Idstring(@IDb5321057e0e2ff04@)"
@@ -59368,6 +59407,7 @@
 	,"ids"		: "Idstring(@ID0e321d4efe0bf118@)"
 	,"StringID"	: "pln_nightclub_stage1_brief_01"
 	,"orig_text": "OK, we're going to pay a visit to the Tasteful club and uh, liberate their cash reserve. Nothing special. Find the manager's office, contain the crowd, make sure we leave in one piece. "
+	,"tran_text": "OK，我們要去 Tasteful 俱樂部然後......呃，「解放」他們的現金儲備。沒什麼難處。找出經理房在哪，控制人群，確保我們能全身而退。"
 },{
 	 "i"		: 10437
 	,"ids"		: "Idstring(@IDceefa8b988b9e4da@)"
@@ -59627,6 +59667,7 @@
 	,"ids"		: "Idstring(@ID5dc4bd76f395aef0@)"
 	,"StringID"	: "pln_polin_03_04"
 	,"orig_text": "Police arriving at your location in 40 seconds."
+	,"tran_text": "警察在 40 秒內到達你的位置。"
 },{
 	 "i"		: 10483
 	,"ids"		: "Idstring(@ID7e1618f9a27fc727@)"
@@ -60753,6 +60794,7 @@
 	,"ids"		: "Idstring(@ID44657e6341bf03d3@)"
 	,"StringID"	: "pln_mallcrasch_stage1_brief_01"
 	,"orig_text": "Yep. You heard him right. Vlad is serious. We go into the mall, we destroy as much as we can. "
+	,"tran_text": "是的，你們沒聽錯，Vlad是認真的。我們走進商場，將看到的一切東西大肆破壞。"
 },{
 	 "i"		: 10683
 	,"ids"		: "Idstring(@ID0b61711273946dff@)"
@@ -60950,6 +60992,7 @@
 	,"ids"		: "Idstring(@IDe720f2d5a399dc03@)"
 	,"StringID"	: "pln_nightclub_stage1_brief_01b"
 	,"orig_text": "Oh, and there are probably rival Russian mobsters here. I know, Vlad is not being forthcoming with me either."
+	,"tran_text": "喔，對了，應該會有些俄國黑幫駐守店內。我知道，他們也不歡迎 Vlad 或是我大駕光臨吧。"
 },{
 	 "i"		: 10718
 	,"ids"		: "Idstring(@IDfbd9d1e17bd9ef40@)"
@@ -62393,6 +62436,7 @@
 	,"ids"		: "Idstring(@IDf0755521af6e8435@)"
 	,"StringID"	: "pln_polin_04_02"
 	,"orig_text": "Can we be gone in 60 seconds? Else cops will be here."
+	,"tran_text": "我們能在 60 秒內離開嗎？不然條子要來了。"
 },{
 	 "i"		: 10970
 	,"ids"		: "Idstring(@IDcc7956a91198264c@)"
@@ -85273,6 +85317,7 @@
 	,"ids"		: "Idstring(@ID2622ee2a418c3a42@)"
 	,"StringID"	: "pln_ko1b_brf_02_01"
 	,"orig_text": "No grand plan here. Just dash in, grab as many goods as you can, and get them out. And if there are any special ways to stick it to the Murkies, well, I wouldn't blame you."
+	,"tran_text": "沒啥偉大的計畫，直接衝進去，能拿多少就拿多少，如果能有任何其他方法可以搞 Murkywater ，我不反對你去做。"
 },{
 	 "i"		: 14954
 	,"ids"		: "Idstring(@IDa7acd7f6d3046416@)"
@@ -85488,6 +85533,7 @@
 	,"ids"		: "Idstring(@ID79581f3412d04781@)"
 	,"StringID"	: "pln_ko1_end_02_03"
 	,"orig_text": "You did the job, but with none of the finesse I hoped for. Roll home, gang."
+	,"tran_text": "你們完事了，但完全沒達到預期，回家了各位。"
 },{
 	 "i"		: 14990
 	,"ids"		: "Idstring(@ID59509d3aa7a70f02@)"
@@ -86080,21 +86126,25 @@
 	,"ids"		: "Idstring(@ID6658792e3a08128d@)"
 	,"StringID"	: "pln_mallcrasch_stage1_end_a_03"
 	,"orig_text": "OK done. Let's see what the crazy Russian got in store for us next. "
+	,"tran_text": "好，搞定，咱們去看看那瘋俄國人接下來會給我們什麼差事做。"
 },{
 	 "i"		: 15089
 	,"ids"		: "Idstring(@IDb0b76062e027a227@)"
 	,"StringID"	: "pln_mallcrasch_stage1_end_a_04"
 	,"orig_text": "OK we beat on this sorry mall enough for one day. Well done. Vlad has proven his point and I think we need to lay low for a bit after this."
+	,"tran_text": "好，我們今天砸爛了這間可憐的購物中心。做得很好，Vlad已經表明他的立場，而我們最好保持低調一段時間。"
 },{
 	 "i"		: 15090
 	,"ids"		: "Idstring(@ID08d67f6fb2b7a7c3@)"
 	,"StringID"	: "pln_mallcrasch_stage1_end_b_02"
 	,"orig_text": "I think you just wiped out everything. All of it. The farm. Well done."
+	,"tran_text": "看來你掃光全部了，沒有剩下東西。好個自肥，做得好。"
 },{
 	 "i"		: 15091
 	,"ids"		: "Idstring(@IDaa04d369af3f108c@)"
 	,"StringID"	: "pln_mallcrasch_stage1_end_b_03"
 	,"orig_text": "OVERKILL - enough said. See you at the safe house."
+	,"tran_text": "殺很大啊各位。安全屋見。"
 },{
 	 "i"		: 15092
 	,"ids"		: "Idstring(@ID91679ae53e5643d4@)"
@@ -86124,13 +86174,13 @@
 	,"ids"		: "Idstring(@ID1baadbb11fa3a4dd@)"
 	,"StringID"	: "pln_mallcrash_stage1_05_any_01"
 	,"orig_text": "OK, that's around 5000 dollars."
-	,"tran_text": "OK，差不多50000美元了。"
+	,"tran_text": "OK，差不多5000美元了。"
 },{
 	 "i"		: 15097
 	,"ids"		: "Idstring(@ID7d18d09acba940e3@)"
 	,"StringID"	: "pln_mallcrash_stage1_05_any_02"
 	,"orig_text": "Five thousand dollars, guys."
-	,"tran_text": "50000美元了。"
+	,"tran_text": "5000美元了。"
 },{
 	 "i"		: 15098
 	,"ids"		: "Idstring(@ID72f302b9e0c994de@)"
@@ -86838,21 +86888,25 @@
 	,"ids"		: "Idstring(@IDab6d0bfddf3ad197@)"
 	,"StringID"	: "pln_mcr_01_any_01"
 	,"orig_text": "If you wreck quick enough, you'll be able to escape in the same van you came in."
+	,"tran_text": "如果你夠快，你可以在你入來的車逃走。"
 },{
 	 "i"		: 15216
 	,"ids"		: "Idstring(@IDa25770ae4b7da3a4@)"
 	,"StringID"	: "pln_mcr_17_any_01"
 	,"orig_text": "The escape driver had to go, I'll get you an alternative escape."
+	,"tran_text": "撤離司機要走了，我會找另一個撤離方法給你。"
 },{
 	 "i"		: 15217
 	,"ids"		: "Idstring(@ID3777c4d614a651cc@)"
 	,"StringID"	: "pln_mcr_22"
 	,"orig_text": "All those pretty automobiles..."
+	,"tran_text": "那些美麗的車 ..."
 },{
 	 "i"		: 15218
 	,"ids"		: "Idstring(@IDa62f7cedb7c556c1@)"
 	,"StringID"	: "pln_mcr_22_any_01"
 	,"orig_text": "All those pretty automobiles..."
+	,"tran_text": "那些美麗的車 ..."
 },{
 	 "i"		: 15219
 	,"ids"		: "Idstring(@IDc4efc460af4389c8@)"
@@ -87462,16 +87516,19 @@
 	,"ids"		: "Idstring(@ID728b5d2086f25aee@)"
 	,"StringID"	: "pln_nightclub_stage1_end_a_01"
 	,"orig_text": "Wow. Russians would call this tactic scorched earth. Very aggressive. I'm sure Vlad will pour you a shot of vodka in thanks. "
+	,"tran_text": "哇，俄國人把這稱為焦土政策，非常激進。我確定 Vlad 會為你到上一杯伏特加作為感謝的。"
 },{
 	 "i"		: 15321
 	,"ids"		: "Idstring(@ID786ce13acfd833c7@)"
 	,"StringID"	: "pln_nightclub_stage1_end_a_02"
 	,"orig_text": "Cops bloodied our nose on that one - somehow I think Vlad was holding back information... As usual. But you did well... Let's see what old Vlad tells us. "
+	,"tran_text": "條子真是弄得我們滿身是血－然而我覺得Vlad在隱埋一些消息。不過你還是做得很好 ... 咱們去看看 Vlad 怎麼交代。"
 },{
 	 "i"		: 15322
 	,"ids"		: "Idstring(@ID2ac68a2d8517ad5c@)"
 	,"StringID"	: "pln_nightclub_stage1_end_b_03"
 	,"orig_text": "No cop could have seen  this one coming. Perfect. The Russians are going to be pissed and Vlad will OD on vodka. After we get paid. "
+	,"tran_text": "全世界的警察都沒料想到這種情況，完美。俄國人會氣炸，而 Vlad 會喝到掛，當然我們會先領報酬。"
 },{
 	 "i"		: 15323
 	,"ids"		: "Idstring(@IDffb2f9a8530603cd@)"
@@ -88290,36 +88347,43 @@
 	,"ids"		: "Idstring(@ID2f48a729f8096178@)"
 	,"StringID"	: "pln_pdsg_01_06"
 	,"orig_text": "That's my guys! Good stuff!"
+	,"tran_text": "這就是我的人！好伙伴！"
 },{
 	 "i"		: 15460
 	,"ids"		: "Idstring(@ID9d88a9f85559deea@)"
 	,"StringID"	: "pln_polin_01_02"
 	,"orig_text": "20 seconds. Cops closing in."
+	,"tran_text": "20 秒，條子來了。"
 },{
 	 "i"		: 15461
 	,"ids"		: "Idstring(@ID4f9bf4d91f96ae0a@)"
 	,"StringID"	: "pln_polin_02_02"
 	,"orig_text": "30 seconds until the police arrive."
+	,"tran_text": "條子還有 30 秒就來。"
 },{
 	 "i"		: 15462
 	,"ids"		: "Idstring(@ID36603504779ca264@)"
 	,"StringID"	: "pln_polin_02_03"
 	,"orig_text": "Cops are about 30 seconds away."
+	,"tran_text": "條子只剩 30 秒距離了。"
 },{
 	 "i"		: 15463
 	,"ids"		: "Idstring(@IDc09fde0c1f0c2935@)"
 	,"StringID"	: "pln_polin_02_04"
 	,"orig_text": "Police coming in hot. 30 seconds."
+	,"tran_text": "警察來衝過來了， 30 秒。"
 },{
 	 "i"		: 15464
 	,"ids"		: "Idstring(@ID600de60cbf106530@)"
 	,"StringID"	: "pln_polin_04_01"
 	,"orig_text": "Pretty far out but cops will be here in 60 seconds."
+	,"tran_text": "雖然還有點距離，不過警察 60 秒內會抵達此處。"
 },{
 	 "i"		: 15465
 	,"ids"		: "Idstring(@ID2af67fc16ee039ab@)"
 	,"StringID"	: "pln_polin_04_04"
 	,"orig_text": "About 60 seconds until police arrives. They are scrambling!"
+	,"tran_text": "約 60 秒後警方會抵達，他們正席捲而來！"
 },{
 	 "i"		: 15466
 	,"ids"		: "Idstring(@IDbcc57c05e38dd160@)"

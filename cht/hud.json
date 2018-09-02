@@ -196,6 +196,7 @@
 	,"ids"		: "Idstring(@ID7b304e8a8fdab1a5@)"
 	,"StringID"	: "hud_heist_sah_6_hl"
 	,"orig_text": "Turn the power back on"
+	,"tran_text": "開回電源"
 },{
 	 "i"		: 34
 	,"ids"		: "Idstring(@IDf3335b52774d9bb5@)"
@@ -513,6 +514,7 @@
 	,"ids"		: "Idstring(@ID8d739fae9e5c21e5@)"
 	,"StringID"	: "hud_heist_sah_13"
 	,"orig_text": "Use the tool to cut the barrier open."
+	,"tran_text": "使用工具切開屏障。"
 },{
 	 "i"		: 87
 	,"ids"		: "Idstring(@ID06fb9ed337de897a@)"
@@ -770,6 +772,7 @@
 	,"ids"		: "Idstring(@ID435063e1ee9aed36@)"
 	,"StringID"	: "hud_heist_sah_9"
 	,"orig_text": "Hack the auctioneer's computer to get the code to the vault."
+	,"tran_text": "駭入拍賣人電腦並獲得金庫密碼。"
 },{
 	 "i"		: 130
 	,"ids"		: "Idstring(@IDeff5f8d0f70de26e@)"
@@ -1051,6 +1054,7 @@
 	,"ids"		: "Idstring(@ID210c186cdfb3a6cd@)"
 	,"StringID"	: "hud_heist_sah_2_hl"
 	,"orig_text": "Gain access to the storage room"
+	,"tran_text": "得到開儲藏室門的權限"
 },{
 	 "i"		: 177
 	,"ids"		: "Idstring(@ID8845fe5aba230a3c@)"
@@ -1392,6 +1396,7 @@
 	,"ids"		: "Idstring(@ID17112089f591bf47@)"
 	,"StringID"	: "hud_heist_sah_17"
 	,"orig_text": "Make your way to the vault."
+	,"tran_text": "用你的方法進金庫。"
 },{
 	 "i"		: 234
 	,"ids"		: "Idstring(@ID3a37c4f927bee6d4@)"
@@ -1541,6 +1546,7 @@
 	,"ids"		: "Idstring(@ID242ad6ea78dcf08b@)"
 	,"StringID"	: "hud_action_taking_tablet"
 	,"orig_text": "Taking the tablet"
+	,"tran_text": "拿取平版中"
 },{
 	 "i"		: 259
 	,"ids"		: "Idstring(@IDd082dc62e7b611b2@)"
@@ -1792,6 +1798,7 @@
 	,"ids"		: "Idstring(@ID43b9e602c33fd882@)"
 	,"StringID"	: "hud_skirmish_ransom_popup"
 	,"orig_text": "New ransom offer: $money;"
+	,"tran_text": "最新贖金提供： $money;"
 },{
 	 "i"		: 301
 	,"ids"		: "Idstring(@IDbbdd747be600277d@)"
@@ -2151,6 +2158,7 @@
 	,"ids"		: "Idstring(@ID3e8ee10c7c8271cc@)"
 	,"StringID"	: "hud_heist_sah_14_hl"
 	,"orig_text": "Retrieve the item"
+	,"tran_text": "取得物品"
 },{
 	 "i"		: 361
 	,"ids"		: "Idstring(@ID17d1810432289966@)"
@@ -2282,6 +2290,7 @@
 	,"ids"		: "Idstring(@IDf5c0cb99b250e814@)"
 	,"StringID"	: "hud_heist_sah_14"
 	,"orig_text": "Pick up the item that you are here for."
+	,"tran_text": "拿你來的目標。"
 },{
 	 "i"		: 383
 	,"ids"		: "Idstring(@ID29fbffb5e6b22abc@)"
@@ -3433,6 +3442,7 @@
 	,"ids"		: "Idstring(@IDfb82a8512d2ab0b3@)"
 	,"StringID"	: "hud_heist_sah_15_hl"
 	,"orig_text": "Secure the item"
+	,"tran_text": "獲得物品"
 },{
 	 "i"		: 575
 	,"ids"		: "Idstring(@ID3d7fd81609494936@)"
@@ -3474,6 +3484,7 @@
 	,"ids"		: "Idstring(@IDd3e2bb795b83d39f@)"
 	,"StringID"	: "hud_heist_sah_19_hl"
 	,"orig_text": "Wait for the helicopter"
+	,"tran_text": "等待直昇機"
 },{
 	 "i"		: 582
 	,"ids"		: "Idstring(@IDca09a9a6d555d1fb@)"
@@ -3857,6 +3868,7 @@
 	,"ids"		: "Idstring(@ID8e198c2a2375e81b@)"
 	,"StringID"	: "hud_carry_black_tablet"
 	,"orig_text": "Black tablet"
+	,"tran_text": "平版"
 },{
 	 "i"		: 646
 	,"ids"		: "Idstring(@ID913d0cd7b19029d8@)"
@@ -4198,6 +4210,7 @@
 	,"ids"		: "Idstring(@ID3e34753dbd027e15@)"
 	,"StringID"	: "hud_chill_access_bankinvader"
 	,"orig_text": "Press $BTN_INTERACT; to play"
+	,"tran_text": "按下 $BTN_INTERACT; 以玩"
 },{
 	 "i"		: 703
 	,"ids"		: "Idstring(@IDe3cbbc143f3e34b0@)"
@@ -4347,6 +4360,7 @@
 	,"ids"		: "Idstring(@ID94431458350f848e@)"
 	,"StringID"	: "hud_int_press_pay_respects"
 	,"orig_text": "Press $BTN_INTERACT; to pay respects"
+	,"tran_text": "按下 $BTN_INTERACT; 以給予尊重"
 },{
 	 "i"		: 728
 	,"ids"		: "Idstring(@ID81027b6510fa2281@)"
@@ -4460,6 +4474,7 @@
 	,"ids"		: "Idstring(@IDd3e2dbf4925a41fc@)"
 	,"StringID"	: "hud_heist_sah_6"
 	,"orig_text": "Turn the power back on so that people don't get suspicious of what is going on."
+	,"tran_text": "開回電源以免群眾懷疑。"
 },{
 	 "i"		: 747
 	,"ids"		: "Idstring(@IDb3b7777a71187f98@)"
@@ -4513,6 +4528,7 @@
 	,"ids"		: "Idstring(@IDf705026db96b50ee@)"
 	,"StringID"	: "hud_int_hold_turn_off_power"
 	,"orig_text": "Press $BTN_INTERACT; to turn off the power"
+	,"tran_text": "按下 $BTN_INTERACT; 以關掉電源"
 },{
 	 "i"		: 756
 	,"ids"		: "Idstring(@IDc2a45ba27c540e19@)"
@@ -4722,6 +4738,7 @@
 	,"ids"		: "Idstring(@ID4467a4ddb4e9fdf8@)"
 	,"StringID"	: "hud_heist_sah_7"
 	,"orig_text": "Get inside the auctioneer's office"
+	,"tran_text": "進入拍賣人辦公室。"
 },{
 	 "i"		: 791
 	,"ids"		: "Idstring(@ID2187997aeb89bb29@)"
@@ -5279,6 +5296,7 @@
 	,"ids"		: "Idstring(@ID7f1b2caeba5932d3@)"
 	,"StringID"	: "hud_heist_sah_13_hl"
 	,"orig_text": "Get through the barrier"
+	,"tran_text": "穿過屏障"
 },{
 	 "i"		: 884
 	,"ids"		: "Idstring(@ID4567b4f62d6735de@)"
@@ -5642,6 +5660,7 @@
 	,"ids"		: "Idstring(@ID058146d70a562ee0@)"
 	,"StringID"	: "hud_heist_sah_10"
 	,"orig_text": "Enter the vault code found on the laptop to unlock the vault."
+	,"tran_text": "輸入在筆記型電腦上發現的密碼以解鎖金庫。"
 },{
 	 "i"		: 945
 	,"ids"		: "Idstring(@IDb61036105443c87c@)"
@@ -6307,6 +6326,7 @@
 	,"ids"		: "Idstring(@IDc2141b05fbe9e97e@)"
 	,"StringID"	: "hud_int_hint_medallion"
 	,"orig_text": "Need the medallion"
+	,"tran_text": "需要獎章"
 },{
 	 "i"		: 1056
 	,"ids"		: "Idstring(@IDe9cb16908bbe5c50@)"
@@ -6580,6 +6600,7 @@
 	,"ids"		: "Idstring(@ID0c8ec02045a35872@)"
 	,"StringID"	: "hud_heist_sah_10_hl"
 	,"orig_text": "Enter the code"
+	,"tran_text": "輸入密碼"
 },{
 	 "i"		: 1102
 	,"ids"		: "Idstring(@ID5a5d9ec84e132e0e@)"
@@ -6963,6 +6984,7 @@
 	,"ids"		: "Idstring(@ID0ad9718e45fc08f6@)"
 	,"StringID"	: "hud_int_hold_to_place_device"
 	,"orig_text": "Hold $BTN_INTERACT; to place the device"
+	,"tran_text": "按住 $BTN_INTERACT; 以放置裝置"
 },{
 	 "i"		: 1166
 	,"ids"		: "Idstring(@ID15ded571e664aa3e@)"
@@ -8432,6 +8454,7 @@
 	,"ids"		: "Idstring(@ID426d67e42d851157@)"
 	,"StringID"	: "hud_heist_sah_17_hl"
 	,"orig_text": "Go to the vault"
+	,"tran_text": "去金庫"
 },{
 	 "i"		: 1411
 	,"ids"		: "Idstring(@IDdf17bb54071e38c1@)"
@@ -9169,11 +9192,13 @@
 	,"ids"		: "Idstring(@IDd68288fc2bfc5694@)"
 	,"StringID"	: "hud_heist_sah_4_hl"
 	,"orig_text": "Turn off the power"
+	,"tran_text": "關掉電源"
 },{
 	 "i"		: 1534
 	,"ids"		: "Idstring(@ID3424b7c5aa71b8a7@)"
 	,"StringID"	: "hud_int_hold_to_take_tablet"
 	,"orig_text": "Hold $BTN_INTERACT; to take the tablet"
+	,"tran_text": "按住 $BTN_INTERACT; 以拿取平板"
 },{
 	 "i"		: 1535
 	,"ids"		: "Idstring(@ID824f1684d7e899f6@)"
@@ -9749,6 +9774,7 @@
 	,"ids"		: "Idstring(@ID0cc95aa1fb2ebab2@)"
 	,"StringID"	: "hud_heist_sah_12_hl"
 	,"orig_text": "Collect the tool"
+	,"tran_text": "收集工具"
 },{
 	 "i"		: 1631
 	,"ids"		: "Idstring(@ID99bb7a5e6eac2df2@)"
@@ -9880,6 +9906,7 @@
 	,"ids"		: "Idstring(@ID6156b1dc12920d79@)"
 	,"StringID"	: "hud_skirmish_wave_start"
 	,"orig_text": "Wave $current; starts"
+	,"tran_text": "第 $current; 波開始"
 },{
 	 "i"		: 1653
 	,"ids"		: "Idstring(@ID56cfa190c2f014d0@)"
@@ -10311,6 +10338,7 @@
 	,"ids"		: "Idstring(@ID20aac293e9990418@)"
 	,"StringID"	: "hud_heist_sah_4"
 	,"orig_text": "Make the auctioneer leave the crowd by turning off the power."
+	,"tran_text": "關掉電源以令拍賣人離開人群。"
 },{
 	 "i"		: 1725
 	,"ids"		: "Idstring(@IDa0bf70fe8e915e05@)"
@@ -10328,6 +10356,7 @@
 	,"ids"		: "Idstring(@ID73d5175d2ffd58c8@)"
 	,"StringID"	: "hud_int_hold_remove_parts"
 	,"orig_text": "Hold $BTN_INTERACT; to move the parts"
+	,"tran_text": "按住 $BTN_INTERACT; 以移動部件"
 },{
 	 "i"		: 1728
 	,"ids"		: "Idstring(@ID64a7a90b58d57bcf@)"
@@ -10339,6 +10368,7 @@
 	,"ids"		: "Idstring(@ID7fa7eea8dbdcc4c3@)"
 	,"StringID"	: "hud_heist_sah_1_hl"
 	,"orig_text": "Enter the auction house"
+	,"tran_text": "進入拍賣會公館"
 },{
 	 "i"		: 1730
 	,"ids"		: "Idstring(@IDf900ccb38cbb1640@)"
@@ -10644,6 +10674,7 @@
 	,"ids"		: "Idstring(@IDebb9e40a179521a4@)"
 	,"StringID"	: "hud_heist_sah_16_hl"
 	,"orig_text": "Secure more or escape"
+	,"tran_text": "獲得更多或撤離"
 },{
 	 "i"		: 1781
 	,"ids"		: "Idstring(@IDbca8c5e9d0647f8c@)"
@@ -11753,6 +11784,7 @@
 	,"ids"		: "Idstring(@IDc456fc70a1a6ca16@)"
 	,"StringID"	: "hud_heist_sah_7_hl"
 	,"orig_text": "Access the office"
+	,"tran_text": "進入辦公室"
 },{
 	 "i"		: 1966
 	,"ids"		: "Idstring(@ID3933c44e5d84d5d6@)"
@@ -12070,6 +12102,7 @@
 	,"ids"		: "Idstring(@IDd797fe449398fd0f@)"
 	,"StringID"	: "hud_heist_sah_18_hl"
 	,"orig_text": "Enter the vault"
+	,"tran_text": "進入金庫"
 },{
 	 "i"		: 2019
 	,"ids"		: "Idstring(@ID63aac9504b41fa10@)"
@@ -12429,6 +12462,7 @@
 	,"ids"		: "Idstring(@ID611c61d0b6e05ceb@)"
 	,"StringID"	: "hud_action_taking_wrench"
 	,"orig_text": "Taking wrench"
+	,"tran_text": "拿取板手中"
 },{
 	 "i"		: 2079
 	,"ids"		: "Idstring(@ID74acb3bdc00bc50d@)"
@@ -12710,6 +12744,7 @@
 	,"ids"		: "Idstring(@IDbf5d2b6ea46c48b4@)"
 	,"StringID"	: "hud_heist_sah_19"
 	,"orig_text": "Hold out and wait for the helicopter."
+	,"tran_text": "撐下來並等待直昇機。"
 },{
 	 "i"		: 2126
 	,"ids"		: "Idstring(@ID1f09f4c1edce9019@)"
@@ -12841,6 +12876,7 @@
 	,"ids"		: "Idstring(@ID7d8500f6d4b2beec@)"
 	,"StringID"	: "hud_heist_sah_8_hl"
 	,"orig_text": "Drill the door to the office"
+	,"tran_text": "鑽開門以進入辦公室"
 },{
 	 "i"		: 2148
 	,"ids"		: "Idstring(@IDd29a67a86c421818@)"
@@ -13266,6 +13302,7 @@
 	,"ids"		: "Idstring(@IDbe03e90257e39269@)"
 	,"StringID"	: "hud_action_placing_device"
 	,"orig_text": "Placing device"
+	,"tran_text": "放置裝置中"
 },{
 	 "i"		: 2219
 	,"ids"		: "Idstring(@ID580622707d86dd32@)"
@@ -13949,6 +13986,7 @@
 	,"ids"		: "Idstring(@IDb4e385419ca11193@)"
 	,"StringID"	: "hud_heist_sah_1"
 	,"orig_text": "Try to enter the auction house without raising the alarm."
+	,"tran_text": "嘗試沒有警報響起下進入拍賣會公館。"
 },{
 	 "i"		: 2333
 	,"ids"		: "Idstring(@ID50a6581844d32fcb@)"
@@ -14590,6 +14628,7 @@
 	,"ids"		: "Idstring(@IDad0e9cb18db40eba@)"
 	,"StringID"	: "hud_skirmish_wave_end"
 	,"orig_text": "Wave $current; completed"
+	,"tran_text": "第 $current; 波完成"
 },{
 	 "i"		: 2440
 	,"ids"		: "Idstring(@ID8c96b102f27d5e06@)"
@@ -14607,6 +14646,7 @@
 	,"ids"		: "Idstring(@IDb55c771948e5b588@)"
 	,"StringID"	: "hud_heist_sah_12"
 	,"orig_text": "Find a tool that can get through the barrier inside the vault."
+	,"tran_text": "尋找穿過障礙物進入金庫的工具。"
 },{
 	 "i"		: 2443
 	,"ids"		: "Idstring(@ID21febe42afed0d23@)"
@@ -14882,6 +14922,7 @@
 	,"ids"		: "Idstring(@IDe7edea0fd557a47e@)"
 	,"StringID"	: "hud_heist_sah_8"
 	,"orig_text": "Use a drill to get inside the auctioneer's office."
+	,"tran_text": "使用鑽機以進入拍賣人的辦公室。"
 },{
 	 "i"		: 2489
 	,"ids"		: "Idstring(@IDdd21837c0d30a9b1@)"
@@ -14953,6 +14994,7 @@
 	,"ids"		: "Idstring(@ID6cfe1b80307093b1@)"
 	,"StringID"	: "hud_int_press_use_medallion"
 	,"orig_text": "Press $BTN_INTERACT; to use medallion"
+	,"tran_text": "按下 $BTN_INTERACT; 以使用獎章"
 },{
 	 "i"		: 2501
 	,"ids"		: "Idstring(@ID05eaca5caaf4088e@)"
@@ -15102,6 +15144,7 @@
 	,"ids"		: "Idstring(@ID519c3335e877b016@)"
 	,"StringID"	: "hud_heist_sah_2"
 	,"orig_text": "Hack the access points in order to open the doors to the storage room."
+	,"tran_text": "駭入存取點以打開去儲藏室的門。"
 },{
 	 "i"		: 2526
 	,"ids"		: "Idstring(@IDd0db6a7a6ae3912b@)"
@@ -15119,6 +15162,7 @@
 	,"ids"		: "Idstring(@IDbaa4c996f8257e6a@)"
 	,"StringID"	: "hud_action_trading_hostage_skm"
 	,"orig_text": "Trading hostage"
+	,"tran_text": "交換人質中"
 },{
 	 "i"		: 2529
 	,"ids"		: "Idstring(@IDeda536e644c9cc75@)"
@@ -15262,6 +15306,7 @@
 	,"ids"		: "Idstring(@ID1baaa890a36a8c2b@)"
 	,"StringID"	: "hud_skm_1_hl"
 	,"orig_text": "Defend the hostage"
+	,"tran_text": "保護人質"
 },{
 	 "i"		: 2553
 	,"ids"		: "Idstring(@ID35fa6ac313314fdd@)"
@@ -15507,6 +15552,7 @@
 	,"ids"		: "Idstring(@ID343d2605283d8f82@)"
 	,"StringID"	: "hud_int_talk_joy"
 	,"orig_text": "Press $BTN_INTERACT; to talk to Joy"
+	,"tran_text": "按下 $BTN_INTERACT; 跟 Joy 對話"
 },{
 	 "i"		: 2594
 	,"ids"		: "Idstring(@ID13968a1f42ecc96c@)"
@@ -15710,6 +15756,7 @@
 	,"ids"		: "Idstring(@ID6043eefc4f3db093@)"
 	,"StringID"	: "hud_heist_sah_9_hl"
 	,"orig_text": "Hack the computer"
+	,"tran_text": "駭入電腦"
 },{
 	 "i"		: 2628
 	,"ids"		: "Idstring(@IDbca0d78b1aac5ddf@)"
@@ -16279,6 +16326,7 @@
 	,"ids"		: "Idstring(@ID0bf9e8f3226c4e23@)"
 	,"StringID"	: "hud_action_remove_parts"
 	,"orig_text": "Moving the parts"
+	,"tran_text": "移動部件中"
 },{
 	 "i"		: 2723
 	,"ids"		: "Idstring(@IDb158032d45ace138@)"
@@ -16392,6 +16440,7 @@
 	,"ids"		: "Idstring(@ID201425384cbd0fe5@)"
 	,"StringID"	: "hud_heist_sah_18"
 	,"orig_text": "Get inside the vault."
+	,"tran_text": "進入金庫。"
 },{
 	 "i"		: 2742
 	,"ids"		: "Idstring(@IDfef73c7909fd5735@)"
@@ -16835,6 +16884,7 @@
 	,"ids"		: "Idstring(@IDa40845c0711413c7@)"
 	,"StringID"	: "hud_heist_sah_11"
 	,"orig_text": "The vault has a time lock, you are going to have to wait for it."
+	,"tran_text": "金庫有時間鎖，你們需要去等等。"
 },{
 	 "i"		: 2816
 	,"ids"		: "Idstring(@ID880ac343e3bed4d1@)"
@@ -19120,36 +19170,43 @@
 	,"ids"		: "Idstring(@ID5accdeffc16847b9@)"
 	,"StringID"	: "hud_heist_sah_11_hl"
 	,"orig_text": "Wait for the time lock"
+	,"tran_text": "等待時間鎖"
 },{
 	 "i"		: 3198
 	,"ids"		: "Idstring(@ID8fbad9420729cc82@)"
 	,"StringID"	: "hud_heist_sah_15"
 	,"orig_text": "Secure the item."
+	,"tran_text": "獲得物品。"
 },{
 	 "i"		: 3199
 	,"ids"		: "Idstring(@ID1dbb94e531983c0d@)"
 	,"StringID"	: "hud_heist_sah_16"
 	,"orig_text": "Secure more loot or escape."
+	,"tran_text": "獲得更多贓物或撤離。"
 },{
 	 "i"		: 3200
 	,"ids"		: "Idstring(@ID8d0e628122f7fffb@)"
 	,"StringID"	: "hud_heist_sah_3"
 	,"orig_text": "In order to prevent the codes to the vault from cycling you are going to have to place a device at the keypad to the vault."
+	,"tran_text": "為了避免金庫密碼一直轉變，你需要放個裝置在金庫的鍵盤上。"
 },{
 	 "i"		: 3201
 	,"ids"		: "Idstring(@ID70bad345784e1f92@)"
 	,"StringID"	: "hud_heist_sah_3_hl"
 	,"orig_text": "Place the device on the keypad"
+	,"tran_text": "放置裝置在鍵盤上"
 },{
 	 "i"		: 3202
 	,"ids"		: "Idstring(@ID719a573b50705eeb@)"
 	,"StringID"	: "hud_heist_sah_5"
 	,"orig_text": "Pick up the auctioneer's keycard."
+	,"tran_text": "拾起拍賣人的鎖匙卡。"
 },{
 	 "i"		: 3203
 	,"ids"		: "Idstring(@ID2d6e6e30c3b7dcf8@)"
 	,"StringID"	: "hud_heist_sah_5_hl"
 	,"orig_text": "Retrieve the keycard"
+	,"tran_text": "獲得鎖匙卡"
 },{
 	 "i"		: 3204
 	,"ids"		: "Idstring(@IDd07092335c35cfdc@)"
@@ -20595,6 +20652,7 @@
 	,"ids"		: "Idstring(@ID01cd9c076e4b29c5@)"
 	,"StringID"	: "hud_int_hold_take_wrench"
 	,"orig_text": "Hold $BTN_INTERACT; to take wrench"
+	,"tran_text": "按住 $BTN_INTERACT; 以拿取板手"
 },{
 	 "i"		: 3445
 	,"ids"		: "Idstring(@ID974f0701fd6d238b@)"
@@ -21398,26 +21456,31 @@
 	,"ids"		: "Idstring(@IDf87893b261237492@)"
 	,"StringID"	: "hud_skirmish"
 	,"orig_text": "Holdout"
+	,"tran_text": "頂天立地"
 },{
 	 "i"		: 3580
 	,"ids"		: "Idstring(@ID9decbcd5cceea8e0@)"
 	,"StringID"	: "hud_skirmish_ransom"
 	,"orig_text": "Current ransom:"
+	,"tran_text": "現時贖金："
 },{
 	 "i"		: 3581
 	,"ids"		: "Idstring(@IDd35979cb4e2f667a@)"
 	,"StringID"	: "hud_skm_1"
 	,"orig_text": "Keep the cops away from the hostage!"
+	,"tran_text": "不要讓警察接觸到人質！"
 },{
 	 "i"		: 3582
 	,"ids"		: "Idstring(@ID69175058b41dd494@)"
 	,"StringID"	: "hud_skm_2"
 	,"orig_text": "Trade the hostage for the current ransom or hold out for more!"
+	,"tran_text": "在現有贖金下交易人質或撐下去以賺多一點！"
 },{
 	 "i"		: 3583
 	,"ids"		: "Idstring(@IDbdbca616922813a0@)"
 	,"StringID"	: "hud_skm_2_hl"
 	,"orig_text": "Trade or hold out"
+	,"tran_text": "交易或繼續"
 },{
 	 "i"		: 3584
 	,"ids"		: "Idstring(@IDa3e19c353a5407de@)"
@@ -21789,6 +21852,7 @@
 	,"ids"		: "Idstring(@ID27124f9f08c64789@)"
 	,"StringID"	: "hud_weekly_skirmish"
 	,"orig_text": "Weekly Holdout"
+	,"tran_text": "每週頂天立地"
 },{
 	 "i"		: 3646
 	,"ids"		: "Idstring(@IDd0c4b9c91e9af43e@)"
@@ -22742,11 +22806,13 @@
 	,"ids"		: "Idstring(@ID39be238e63ad47f6@)"
 	,"StringID"	: "menu_asset_sah_cutter"
 	,"orig_text": "Glass Cutter"
+	,"tran_text": "玻璃切割器"
 },{
 	 "i"		: 3805
 	,"ids"		: "Idstring(@ID59d0ba224e02899f@)"
 	,"StringID"	: "menu_asset_sah_cutter_desc"
 	,"orig_text": "Extra glass cutter to cut through glass"
+	,"tran_text": "額外玻璃切割器以割開玻璃"
 },{
 	 "i"		: 3806
 	,"ids"		: "Idstring(@ID5b172e2a719619e5@)"
@@ -22762,6 +22828,7 @@
 	,"ids"		: "Idstring(@IDc08f2e7723424821@)"
 	,"StringID"	: "menu_jukebox_track_61"
 	,"orig_text": "Trick of the trade"
+	,"tran_text": "Trick of the trade"
 },{
 	 "i"		: 3809
 	,"ids"		: "Idstring(@ID19e8a06d4bd6be13@)"

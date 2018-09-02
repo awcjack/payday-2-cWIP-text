@@ -260,6 +260,7 @@
 	,"ids"		: "Idstring(@ID84ba7e08a18ca970@)"
 	,"StringID"	: "heist_skm_watchdogs_stage2_crimenet"
 	,"orig_text": "Locke wants you to take Mia Calienté hostage right before the cops move on her.$NL;$NL;» Protect the hostage$NL;» Hold out for as long as you can$NL;» Negotiate the ransom$NL;$NL;"
+	,"tran_text": "Locke 想你在條子抓去 Mia Calienté 前抓住她作為人質。$NL;$NL;» 保護人質$NL;» 盡你能力撐下去$NL;» 交涉贖金$NL;$NL;"
 },{
 	 "i"		: 45
 	,"ids"		: "Idstring(@ID65f13770154831db@)"
@@ -271,6 +272,7 @@
 	,"ids"		: "Idstring(@ID800badc3450703f7@)"
 	,"StringID"	: "heist_skm_red2"
 	,"orig_text": "First World Bank"
+	,"tran_text": "第一世界銀行 (First World Bank)"
 },{
 	 "i"		: 47
 	,"ids"		: "Idstring(@IDd1d629b75bd7c595@)"
@@ -322,6 +324,7 @@
 	,"ids"		: "Idstring(@ID6a936cf869851034@)"
 	,"StringID"	: "heist_skm_mus_crimenet"
 	,"orig_text": "Locke wants you to take Sofia Clemens hostage to keep the cops busy while he can arrange for museum artifacts to conveniently 'disappear'.$NL;$NL;» Protect the hostage$NL;» Hold out for as long as you can$NL;» Negotiate the ransom$NL;$NL;"
+	,"tran_text": "Locke 想你抓住 Sofia Clemens 作為人質以使條子有事忙，同時他就將博物館藝術品「消失」。$NL;$NL;» 保護人質$NL;» 盡你能力撐下去$NL;» 交涉贖金$NL;$NL;"
 },{
 	 "i"		: 56
 	,"ids"		: "Idstring(@IDda7a9ccf96b4f56d@)"
@@ -489,6 +492,7 @@
 	,"ids"		: "Idstring(@ID3b6f745386811c3e@)"
 	,"StringID"	: "heist_skm_mus_briefing"
 	,"orig_text": "At one time a few years ago, a good friend of Bain's worked with a dealer in ancient artifacts operating out of the McKendrick Museum, named Sofia Clemens, who is a highly respected figure in D.C. historical circles. We have recently learned that Ms.Clemens has been gathering a huge collection of artifacts with the intent of selling them to a Russian oligarch. The plan is to hit the museum and take her hostage. The kerels and society types in D.C. will likely pay through the nose to keep her safe, and while you're keeping them busy I can arrange for the artifacts she was moving to conveniently 'disappear'."
+	,"tran_text": "在很多年前， Bain 的好朋友在 McKendrick 博物館中協助偷走史前藝術品，她叫 Sofia Clemens ，她還是歷史界上數一數二的人，聽說她最近打算賣一堆藝術品給俄羅斯統治者，計劃是攻入博物館並抓她做人質，條子跟社會各界都會願意給錢讓她保命，當你們使條子在忙時，我就能順手把那些藝術品「消失」。"
 },{
 	 "i"		: 84
 	,"ids"		: "Idstring(@IDa2203ca85eb2797f@)"
@@ -614,6 +618,7 @@
 	,"ids"		: "Idstring(@ID15763fb7c2c45d23@)"
 	,"StringID"	: "heist_skm_random_h1"
 	,"orig_text": "Random Heist"
+	,"tran_text": "隨機劫案"
 },{
 	 "i"		: 105
 	,"ids"		: "Idstring(@IDf1f3d9228cbd8629@)"
@@ -735,6 +740,7 @@
 	,"ids"		: "Idstring(@ID1be062245a52ddc5@)"
 	,"StringID"	: "heist_des_hl"
 	,"orig_text": "Henry's Rock"
+	,"tran_text": "亨利峽谷"
 },{
 	 "i"		: 126
 	,"ids"		: "Idstring(@IDd360a266a1d74463@)"
@@ -780,6 +786,7 @@
 	,"ids"		: "Idstring(@ID6f490db8e138effb@)"
 	,"StringID"	: "heist_sah_briefing"
 	,"orig_text": "Ok, so we're going to Salem and steal the artifact from the fancy rich dwankie party, right before the auction starts, yeah? You're going in after dusk, and it's foggy and raining, so maybe try to do the whole thing quietly if you can. It's an old mansion, but the security systems are pretty solid, with many upgrades. Under the circumstances, the less attention we draw from the kerels, the better. But if you gotta go loud, then get it done chop chop."
+	,"tran_text": "好，我們要去塞勒姆的有錢白痴派對中偷走藝術品，就在拍賣會開始之前，好嗎？你在黃昏後進去，那邊又大霧又大雨，所以盡量安靜地做事。那是一座很舊的公館，但保安系統很堅固很新，在這情況下，我們越不被留意就越好，但如果你想硬闖進去，那就快刀斬亂麻。"
 },{
 	 "i"		: 134
 	,"ids"		: "Idstring(@ID6953a11d77805b92@)"
@@ -1037,6 +1044,7 @@
 	,"ids"		: "Idstring(@IDdfd36841d1f5657b@)"
 	,"StringID"	: "heist_des"
 	,"orig_text": "Henry's Rock"
+	,"tran_text": "亨利峽谷 (Henry's Rock)"
 },{
 	 "i"		: 177
 	,"ids"		: "Idstring(@IDf9c7606f9f64f705@)"
@@ -1156,6 +1164,7 @@
 	,"ids"		: "Idstring(@IDdad4cb3c828a1770@)"
 	,"StringID"	: "heist_sah_crimenet"
 	,"orig_text": "The Elephant has sent us a tip about an old mansion in Salem, where an auction is being held that contains an artifact we need for the device in the kitchen.$NL;$NL;» Get past security and enter the mansion$NL;» Find the code and access the vault$NL;» Secure the artifact and escape"
+	,"tran_text": "Elephant 跟我們說了在塞勒姆的古老公館中，裡面的拍賣會有我們廚房需要的藝術品。$NL;$NL;» 穿過保安進入公館$NL;» 找到密碼並進入金庫$NL;» 獲得藝術品並撤離"
 },{
 	 "i"		: 197
 	,"ids"		: "Idstring(@ID061d6829dbff1ae5@)"
@@ -1179,6 +1188,7 @@
 	,"ids"		: "Idstring(@ID70c1088290898bf3@)"
 	,"StringID"	: "heist_contact_skirmish"
 	,"orig_text": "Holdout"
+	,"tran_text": "頂天立地"
 },{
 	 "i"		: 201
 	,"ids"		: "Idstring(@ID1ec9b144276c9a57@)"
@@ -1196,6 +1206,7 @@
 	,"ids"		: "Idstring(@ID8f52afacb67dda20@)"
 	,"StringID"	: "heist_skm_red2_crimenet"
 	,"orig_text": "Locke wants you to take the representative from Frank Yaegar Safes hostage. His insider information is valuable and taking him hostage will force the bank to switch back to their old security system.$NL;$NL;» Protect the hostage$NL;» Hold out for as long as you can$NL;» Negotiate the ransom$NL;$NL;"
+	,"tran_text": "Locke 想你去抓住來自 Frank Yaegar Safes 的代表作為人質，他的想法很重要，抓住他的話能逼使銀行轉回舊保安系統。$NL;$NL;» 保護人質$NL;» 盡你能力撐下去$NL;» 交涉贖金$NL;$NL;"
 },{
 	 "i"		: 204
 	,"ids"		: "Idstring(@ID14049457027ccfa5@)"
@@ -1225,11 +1236,13 @@
 	,"ids"		: "Idstring(@ID1a93c818cb141933@)"
 	,"StringID"	: "heist_des_briefing"
 	,"orig_text": "Dear friends, this is going to be a tough one. The Kataru have stepped up their pursuit of Bain's dinges, and we've got to take away their toys, yeah? The warehouse we're going to hit is the most important Murky site there is, and they're working on some very strange projects. They only let me near the place once, and I didn't see much, so we can't know what to expect. I've pulled in every last favor with my remaining contacts at Murky, and have got us a way in, but we're going in blind. Once we do this, there will be no going back. We're essentially proclaiming open war on Murkywater, but we owe the bliksems for Bain. There's going to be a caliber of security we haven't seen before, so don't get NAAFI once you're in, yeah."
+	,"tran_text": "朋友，這是一個棘手的任務。 Kataru 很想要 Bain 的東西，所以我們要拿走他們的玩具，懂？我們即將襲擊的是Murky最重要的設施，他們正在處理一件非常奇怪的案子。他們只讓我接近那地方一次而且我也沒有看到很多，所以我們無法預期將會遇到甚麼。我已經用我最後所有剩下的方法聯絡在 Murky 的人了，然後找到一個能讓我們進去的方法，但是不知道去到哪裡。一但我們決定要做了，就沒有回頭路可以走了。我們等同於向Murkywater宣戰，但這是為了Bain的一擊。那裏將會有我們從未見過的火力，所以一旦你進去了就抱著必死的決心吧。"
 },{
 	 "i"		: 209
 	,"ids"		: "Idstring(@IDcc0cd30432551a12@)"
 	,"StringID"	: "heist_sah_hl"
 	,"orig_text": "Shacklethorne Auction"
+	,"tran_text": "沙克爾頓拍賣會"
 },{
 	 "i"		: 210
 	,"ids"		: "Idstring(@IDee943a527b95e9c6@)"
@@ -1283,6 +1296,7 @@
 	,"ids"		: "Idstring(@IDf107d909b8bd0f3f@)"
 	,"StringID"	: "heist_skm_random_briefing"
 	,"orig_text": "OK, friends. It's time for us to branch out a little and secure some more paths of revenue for a rainy day. The kerels in this town are well-known to shell out rather handsome payments during hostage negotiations and we're going to try and exploit that little fact. Now, they're not going to pay out the juicy sums right away, so you gotta hold out and be patient as long as possible while I try to squeeze them for more. And remember, I won't able to negotiate both a nice big score and your release, so don't get caught, yeah?"
+	,"tran_text": "好的，朋友，現在是時候在雨天中賺點外快，這城市的條子很著名的是願意付出大量金錢去交換人質，我們接下來就去驗證這說法。現在他們還不是給得很多，所以你要有耐心地盡你所能撐下去，同時我會嘗試令他們再給多點。對了，我沒可能同時說服他給很多錢我們時讓你們出來，所以別被抓住，知道了？"
 },{
 	 "i"		: 219
 	,"ids"		: "Idstring(@IDa9543f81fc794926@)"
@@ -1318,6 +1332,7 @@
 	,"ids"		: "Idstring(@ID8362a2051d925873@)"
 	,"StringID"	: "heist_skm_red2_h1"
 	,"orig_text": "First World Bank"
+	,"tran_text": "第一世界銀行"
 },{
 	 "i"		: 225
 	,"ids"		: "Idstring(@ID33e756416b09031b@)"
@@ -1969,6 +1984,7 @@
 	,"ids"		: "Idstring(@ID635adfab91e04c97@)"
 	,"StringID"	: "heist_des_crimenet"
 	,"orig_text": "The top-secret Murkywater facility at Henry's Rock contains a lot of nefarious projects. Murky are researching and experimenting on two gilded cases like the ones recovered from the Golden Grin Casino and the FBI evidence lockup. We're going to take them off their hands. $NL; $NL; » Break into the Henry's Rock facility$NL; » Search for and recover the two golden boxes$NL; » Disable any defenses to make your escape$NL;"
+	,"tran_text": "在亨利峽谷中最高機密的黑水設施中有很多邪惡的計劃。 Murky 正在調查和實驗著兩個鍍金的箱子就像我們在大金牙賭場找到的那種箱子，還有一個是來自 FBI 證物室。我們要在他們手中搶過來。$NL; $NL; » 闖入在亨利峽谷的設備$NL; » 找到並回收兩個金箱子$NL; » 關上防守設備以撤離$NL;"
 },{
 	 "i"		: 335
 	,"ids"		: "Idstring(@IDc2e7a6a02bed0700@)"
@@ -2178,7 +2194,7 @@
 	,"ids"		: "Idstring(@IDa4685b3d1b4ffa18@)"
 	,"StringID"	: "heist_mus"
 	,"orig_text": "The Diamond"
-	,"tran_text": "驚世鑽奇(The Diamond)"
+	,"tran_text": "驚世鑽奇 (The Diamond)"
 },{
 	 "i"		: 370
 	,"ids"		: "Idstring(@IDf139f8352538cf65@)"
@@ -2296,6 +2312,7 @@
 	,"ids"		: "Idstring(@ID825a73c454b95c6b@)"
 	,"StringID"	: "heist_sah"
 	,"orig_text": "Shacklethorne Auction"
+	,"tran_text": "沙克爾頓拍賣會 (Shacklethorne Auction)"
 },{
 	 "i"		: 390
 	,"ids"		: "Idstring(@IDc2fc324efb29b593@)"
@@ -2335,51 +2352,61 @@
 	,"ids"		: "Idstring(@ID5c98849c0fe36747@)"
 	,"StringID"	: "heist_skm_mus"
 	,"orig_text": "The Diamond"
+	,"tran_text": "驚世鑽奇 (The Diamond)"
 },{
 	 "i"		: 397
 	,"ids"		: "Idstring(@ID3f95f4441089ba6f@)"
 	,"StringID"	: "heist_skm_mus_h1"
 	,"orig_text": "The Diamond"
+	,"tran_text": "驚世鑽奇"
 },{
 	 "i"		: 398
 	,"ids"		: "Idstring(@ID94daae8d7b3854f1@)"
 	,"StringID"	: "heist_skm_red2_briefing"
 	,"orig_text": "Dallas got a tip that The First World Bank is trying to upgrade their security and are being visited by a representative from Frank Yaegar Safes. This guy has recently been consulting with several banks, security firms and other places recently to install a new wave of countermeasures to stop infiltration and hacking. This representative is a high-value target, with a lot of inside knowledge, so his company will likely pay a handsome reward to keep him safe, which is why we're going to grab him. "
+	,"tran_text": "Dallas 收到消息知道第一世界銀行準備升級保安設備，有一個代表來自 Frank Yaegar Safes 會去看看，最近他很常被不同的銀行、保安公司等地諮詢以探討最新對策以防止被攻入，那人是個重要人士，他的公司會願意給很多錢去確保他安全，所以我們要抓住他。"
 },{
 	 "i"		: 399
 	,"ids"		: "Idstring(@ID61ba3d29138aac10@)"
 	,"StringID"	: "heist_skm_run"
 	,"orig_text": "Heat Street"
+	,"tran_text": "熱火街頭 (Heat Street)"
 },{
 	 "i"		: 400
 	,"ids"		: "Idstring(@ID7c39819bbe3191ed@)"
 	,"StringID"	: "heist_skm_run_briefing"
 	,"orig_text": "The kerels recently interrogated a prisoner that claims to have seen the face of Bain and can identify him. While we know it isn't true, the kerels don't, and neither do our rivals, so we're going to use the situation to gain some cash. Somehow, the chop got loose while being transferred to witness protection and has been spotted by one of our contacts near the old factory storage yard where that dumkop Matt crashed his car while trying to get away from us. We're going to intercept and hold him for some nice, juicy ransom."
+	,"tran_text": "警察最近在審問一個自稱能認出 Bain 的犯人，我們知道是假的，但條子不知道，而且他們不是我們的對手，所以我們可以藉此來賺一把。不知為何，在轉運安全屋的過程中條子放鬆了，還被我們的客戶在舊工廠儲存區發現了，更在混蛋條子 Matt 逃走時翻車了，我們要走抓住他，並換來一點很好的贖金。"
 },{
 	 "i"		: 401
 	,"ids"		: "Idstring(@ID363c2f67a439e96c@)"
 	,"StringID"	: "heist_skm_run_crimenet"
 	,"orig_text": "Locke wants you to get the the old factory storage yard and hold the escaped prisoner hostage.$NL;$NL;» Protect the hostage$NL;» Hold out for as long as you can$NL;» Negotiate the ransom$NL;$NL;"
+	,"tran_text": "Locke 想你去舊工廠儲藏區去抓住逃走了的犯人作為人質。$NL;$NL;» 保護人質$NL;» 盡你能力撐下去$NL;» 交涉贖金$NL;$NL;"
 },{
 	 "i"		: 402
 	,"ids"		: "Idstring(@ID224bb1c662ea628d@)"
 	,"StringID"	: "heist_skm_run_h1"
 	,"orig_text": "Heat Street"
+	,"tran_text": "熱火街頭"
 },{
 	 "i"		: 403
 	,"ids"		: "Idstring(@ID0477d8be35c0814f@)"
 	,"StringID"	: "heist_skm_watchdogs_stage2"
 	,"orig_text": "Boat Load"
+	,"tran_text": "船隻運輸"
 },{
 	 "i"		: 404
 	,"ids"		: "Idstring(@IDa2cfb6f5672a1114@)"
 	,"StringID"	: "heist_skm_watchdogs_stage2_briefing"
 	,"orig_text": "Mia Calienté is a real piece of work, friends. For years she's been the brains behind a drug operation aimed at getting college-level students hooked on her merchandise. Not too long ago, she took over that warehouse at the docks and is now using it as her main distribution point. The FBI have been conducting surveillance on her and she is a key figure of their investigation. We're going to get in there, grab her and take her hostage, right before they move on her. Since they can't afford to lose her, they will pay for her release, so as not to have wasted months of work."
+	,"tran_text": "Mia Calienté 是真正的工作狂，朋友，這幾年來她轉成毒品工場背後的老闆一直想令大學生依賴她的貨品，不久之前，她的倉庫轉到港口並用來分散貨品， FBI 一直在監視她，而她是研究的重點，所以我們要在條子抓她之前過去抓她做人質，因為條子們不能失去她，他們會為了之前幾個月的工作而給贖金。"
 },{
 	 "i"		: 405
 	,"ids"		: "Idstring(@IDb641a1534d389e10@)"
 	,"StringID"	: "heist_skm_watchdogs_stage2_h1"
 	,"orig_text": "Boat Load"
+	,"tran_text": "船隻運輸"
 },{
 	 "i"		: 406
 	,"ids"		: "Idstring(@IDdd6918988bce2070@)"
