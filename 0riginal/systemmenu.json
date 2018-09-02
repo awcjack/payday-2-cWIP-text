@@ -73,8 +73,7 @@
 },{
 	 "i"		: 16
 	,"ids"		: "Idstring(@ID2623b770e5733d8a@)"
-	,"orig_text": " VIEW INVITE"
-	,"btn"		: "$CONTINUE; $BTN_JUMP; $BTN_ACCEPT; $BTN_A; $BTN_ATTACK; "
+	,"orig_text": "$BTN_ACCEPT; VIEW INVITE"
 },{
 	 "i"		: 17
 	,"ids"		: "Idstring(@ID8a6e64df08a3825b@)"
@@ -102,8 +101,7 @@
 },{
 	 "i"		: 22
 	,"ids"		: "Idstring(@IDf22642c71ad7ec6a@)"
-	,"orig_text": "Complete the Watchdog job on very hard or higher.\nThis assignment requires you to play from the lobby to the end of the heist."
-	,"btn"		: "$NL; "
+	,"orig_text": "Complete the Watchdog job on very hard or higher.$NL;This assignment requires you to play from the lobby to the end of the heist."
 },{
 	 "i"		: 23
 	,"ids"		: "Idstring(@ID8bbbc8416ecdc608@)"
@@ -112,8 +110,7 @@
 	 "i"		: 24
 	,"ids"		: "Idstring(@IDc5b186b9aaff508e@)"
 	,"StringID"	: "screen_autosaving_warning_PS3"
-	,"orig_text": "This game saves data automatically at certain points.\nPlease don't turn off your PlayStation®4 system when the following icon is displayed:"
-	,"btn"		: "$NL; "
+	,"orig_text": "This game saves data automatically at certain points.$NL;Please don't turn off your PlayStation®4 system when the following icon is displayed:"
 },{
 	 "i"		: 25
 	,"ids"		: "Idstring(@ID119cf09f04ffd191@)"
@@ -169,19 +166,16 @@
 },{
 	 "i"		: 37
 	,"ids"		: "Idstring(@ID8ebb73b307663558@)"
-	,"orig_text": "Complete the Reservoir Dogs heist on the very hard difficulty or higher.\nThis assignment requires you to play from the lobby to the end of the heist."
-	,"btn"		: "$NL; "
+	,"orig_text": "Complete the Reservoir Dogs heist on the very hard difficulty or higher.$NL;This assignment requires you to play from the lobby to the end of the heist."
 },{
 	 "i"		: 38
 	,"ids"		: "Idstring(@ID866996b265424cc4@)"
 	,"StringID"	: "dialog_blackmarket_buy_mask_slot"
-	,"orig_text": "Buying this will unlock one more mask slot.\n\nThis will cost you $money;."
-	,"btn"		: "$NL; "
+	,"orig_text": "Buying this will unlock one more mask slot.$NL;$NL;This will cost you $money;."
 },{
 	 "i"		: 39
 	,"ids"		: "Idstring(@IDd92c9653b050ef67@)"
-	,"orig_text": "Complete the Undercover heist on the very hard difficulty or higher.\nThis assignment requires you to play from the lobby to the end of the heist."
-	,"btn"		: "$NL; "
+	,"orig_text": "Complete the Undercover heist on the very hard difficulty or higher.$NL;This assignment requires you to play from the lobby to the end of the heist."
 },{
 	 "i"		: 40
 	,"ids"		: "Idstring(@IDd4c0d8ce0509791d@)"
@@ -217,8 +211,7 @@
 },{
 	 "i"		: 47
 	,"ids"		: "Idstring(@IDfecf97857971677d@)"
-	,"orig_text": "No storage device selected.\nIf you proceed without selecting a storage device, you will not be able to save the game.\n\nContinue without saving?"
-	,"btn"		: "$NL; "
+	,"orig_text": "No storage device selected.$NL;If you proceed without selecting a storage device, you will not be able to save the game.$NL;$NL;Continue without saving?"
 },{
 	 "i"		: 48
 	,"ids"		: "Idstring(@ID9ba29179715f2a76@)"
@@ -246,8 +239,7 @@
 	 "i"		: 53
 	,"ids"		: "Idstring(@ID9b3694a7e6cdfe7e@)"
 	,"StringID"	: "dialog_cs_claim_rewards_text"
-	,"orig_text": "Are you sure you want to claim your Crime Spree rewards?\n\nThis will end your current Crime Spree lobby, and you will have to start a new one to gain rewards again."
-	,"btn"		: "$NL; "
+	,"orig_text": "Are you sure you want to claim your Crime Spree rewards?$NL;$NL;This will end your current Crime Spree lobby, and you will have to start a new one to gain rewards again."
 },{
 	 "i"		: 54
 	,"ids"		: "Idstring(@IDc42e67386ad06a9d@)"
@@ -269,8 +261,7 @@
 	 "i"		: 58
 	,"ids"		: "Idstring(@IDace02be1dcf0d587@)"
 	,"StringID"	: "dialog_blackmarket_finalize_item"
-	,"orig_text": "$ITEM;\n You are about to finalize your customizations, this process is irreversible and will cost you $money;."
-	,"btn"		: "$NL; "
+	,"orig_text": "$ITEM;$NL; You are about to finalize your customizations, this process is irreversible and will cost you $money;."
 },{
 	 "i"		: 59
 	,"ids"		: "Idstring(@IDebfec02d7825a9b2@)"
@@ -298,8 +289,7 @@
 },{
 	 "i"		: 64
 	,"ids"		: "Idstring(@ID35319ec432846991@)"
-	,"orig_text": "Complete the Big Oil job on very hard or higher.\nThis assignment requires you to play from the lobby to the end of the heist."
-	,"btn"		: "$NL; "
+	,"orig_text": "Complete the Big Oil job on very hard or higher.$NL;This assignment requires you to play from the lobby to the end of the heist."
 },{
 	 "i"		: 65
 	,"ids"		: "Idstring(@ID458780e7fb35fcb0@)"
@@ -309,8 +299,7 @@
 	 "i"		: 66
 	,"ids"		: "Idstring(@IDce3245b6f573bf22@)"
 	,"StringID"	: "dialog_cant_continue_cs_text"
-	,"orig_text": "You can not continue your Crime Spree as you do not have enough Continental Coins. In order to continue from $level; you need $cost; Continental Coins."
-	,"btn"		: "$BTN_SPREE_TICKET; "
+	,"orig_text": "You can not continue your Crime Spree as you do not have enough Continental Coins. In order to continue from $level;$BTN_SPREE_TICKET; you need $cost; Continental Coins."
 },{
 	 "i"		: 67
 	,"ids"		: "Idstring(@IDe3fab6edb7907bec@)"
@@ -319,8 +308,7 @@
 },{
 	 "i"		: 68
 	,"ids"		: "Idstring(@ID02504bedcf8b5309@)"
-	,"orig_text": "Complete the Slaughterhouse heist on the very hard difficulty or higher.\nThis assignment requires you to play from the lobby to the end of the heist."
-	,"btn"		: "$NL; "
+	,"orig_text": "Complete the Slaughterhouse heist on the very hard difficulty or higher.$NL;This assignment requires you to play from the lobby to the end of the heist."
 },{
 	 "i"		: 69
 	,"ids"		: "Idstring(@ID81c5af99868e7667@)"
@@ -330,8 +318,7 @@
 	 "i"		: 70
 	,"ids"		: "Idstring(@IDf3daf9db4056fa2b@)"
 	,"StringID"	: "dialog_abort_mission_text"
-	,"orig_text": "Are you sure you would like to terminate the current contract?\n\nYou and your crew will be returned to the planning phase where a new contract can be selected."
-	,"btn"		: "$NL; "
+	,"orig_text": "Are you sure you would like to terminate the current contract?$NL;$NL;You and your crew will be returned to the planning phase where a new contract can be selected."
 },{
 	 "i"		: 71
 	,"ids"		: "Idstring(@ID41a6731d678c91a4@)"
@@ -346,8 +333,7 @@
 	 "i"		: 73
 	,"ids"		: "Idstring(@ID05381aa055d2829d@)"
 	,"StringID"	: "dialog_cs_crash_fail_text"
-	,"orig_text": "Your Crime Spree has failed due to an unexpected closure of the game.\nYou can still pay the Continental Coin cost to continue."
-	,"btn"		: "$NL; "
+	,"orig_text": "Your Crime Spree has failed due to an unexpected closure of the game.$NL;You can still pay the Continental Coin cost to continue."
 },{
 	 "i"		: 74
 	,"ids"		: "Idstring(@IDed665b7784357d53@)"
@@ -379,8 +365,7 @@
 	 "i"		: 80
 	,"ids"		: "Idstring(@ID252b1990f15bc4fc@)"
 	,"StringID"	: "dialog_are_you_sure_you_want_stop_cs"
-	,"orig_text": "Are you sure you want to stop your Crime Spree?\n\nThis will end your current Crime Spree, and no rewards will be given to you."
-	,"btn"		: "$NL; "
+	,"orig_text": "Are you sure you want to stop your Crime Spree?$NL;$NL;This will end your current Crime Spree, and no rewards will be given to you."
 },{
 	 "i"		: 81
 	,"ids"		: "Idstring(@ID2d2cc4fb87070fb7@)"
@@ -390,8 +375,7 @@
 	 "i"		: 82
 	,"ids"		: "Idstring(@ID801e6463e8685648@)"
 	,"StringID"	: "dialog_connect_controller_text_X360"
-	,"orig_text": "Please reconnect the Xbox One Wireless Controller and press ."
-	,"btn"		: "$CONTINUE; $BTN_JUMP; $BTN_ACCEPT; $BTN_A; $BTN_ATTACK; "
+	,"orig_text": "Please reconnect the Xbox One Wireless Controller and press $BTN_A;."
 },{
 	 "i"		: 83
 	,"ids"		: "Idstring(@ID116e79d6a55057d4@)"
@@ -409,8 +393,7 @@
 },{
 	 "i"		: 86
 	,"ids"		: "Idstring(@ID00b268a982cb119f@)"
-	,"orig_text": "Complete the Mallcrasher and Four Store heists on hard or higher.\nThis assignment requires you to play from the lobby to the end of the heist."
-	,"btn"		: "$NL; "
+	,"orig_text": "Complete the Mallcrasher and Four Store heists on hard or higher.$NL;This assignment requires you to play from the lobby to the end of the heist."
 },{
 	 "i"		: 87
 	,"ids"		: "Idstring(@ID764193484bde57da@)"
@@ -424,8 +407,7 @@
 },{
 	 "i"		: 89
 	,"ids"		: "Idstring(@IDf0b983464026f4b6@)"
-	,"orig_text": " BACK"
-	,"btn"		: "$BTN_BLOCK; $BTN_B; $BTN_CANCEL; "
+	,"orig_text": "$BTN_CANCEL; BACK"
 },{
 	 "i"		: 90
 	,"ids"		: "Idstring(@IDadf1dac23b488fe2@)"
@@ -444,8 +426,7 @@
 	 "i"		: 93
 	,"ids"		: "Idstring(@ID3f48e0948744105e@)"
 	,"StringID"	: "dialog_blackmarket_buy_item"
-	,"orig_text": "Do you really want to buy $item;?\n\nIt will cost you $money;.\n\n$num_in_inventory;"
-	,"btn"		: "$NL; "
+	,"orig_text": "Do you really want to buy $item;?$NL;$NL;It will cost you $money;.$NL;$NL;$num_in_inventory;"
 },{
 	 "i"		: 94
 	,"ids"		: "Idstring(@ID3b3371fcd6a8e596@)"
@@ -473,8 +454,7 @@
 	 "i"		: 99
 	,"ids"		: "Idstring(@ID0f50a84e254ecb32@)"
 	,"StringID"	: "dialog_new_unlock_weapon_mods"
-	,"orig_text": "You just got your first weapon modification. You can access the weapon modification screen by selecting a bought weapon and choosing MODIFY WEAPON from the menu.\nFollow the exclamation marks on your bought weapons to find your latest drops."
-	,"btn"		: "$NL; "
+	,"orig_text": "You just got your first weapon modification. You can access the weapon modification screen by selecting a bought weapon and choosing MODIFY WEAPON from the menu.$NL;Follow the exclamation marks on your bought weapons to find your latest drops."
 },{
 	 "i"		: 100
 	,"ids"		: "Idstring(@ID0d74d92dfc93dd2a@)"
@@ -484,8 +464,7 @@
 	 "i"		: 101
 	,"ids"		: "Idstring(@ID92ff7206f7e0126e@)"
 	,"StringID"	: "dialog_unlock_skill_switch"
-	,"orig_text": "You are about to unlock a new skill set.\n\n$cost_text;"
-	,"btn"		: "$NL; "
+	,"orig_text": "You are about to unlock a new skill set.$NL;$NL;$cost_text;"
 },{
 	 "i"		: 102
 	,"ids"		: "Idstring(@IDbea985edfb6ebfa6@)"
@@ -495,7 +474,7 @@
 	 "i"		: 103
 	,"ids"		: "Idstring(@IDb705ea9f44b8dc3e@)"
 	,"StringID"	: "dialog_game_permission_changed"
-	,"orig_text": "The game settings has changed, you no longer have permission to join"
+	,"orig_text": "The game settings have changed, you no longer have permission to join"
 },{
 	 "i"		: 104
 	,"ids"		: "Idstring(@ID680742c9360f18da@)"
@@ -509,8 +488,7 @@
 	 "i"		: 106
 	,"ids"		: "Idstring(@ID77c0ca9ab42ebbf6@)"
 	,"StringID"	: "dialog_on_server_left_message_cs"
-	,"orig_text": "$message;\nYour Crime Spree is still active, but your rank has not changed.\n\nYou will now be returned to the main menu."
-	,"btn"		: "$NL; "
+	,"orig_text": "$message;$NL;Your Crime Spree is still active, but your rank has not changed.$NL;$NL;You will now be returned to the main menu."
 },{
 	 "i"		: 107
 	,"ids"		: "Idstring(@ID7094e0c87b461a07@)"
@@ -520,8 +498,7 @@
 	 "i"		: 108
 	,"ids"		: "Idstring(@ID82f74a6fc464b723@)"
 	,"StringID"	: "dialog_new_unlock_textures"
-	,"orig_text": "You just got your first pattern for mask customization.\nTo customize a mask you will need a material, pattern and a pair of colors."
-	,"btn"		: "$NL; "
+	,"orig_text": "You just got your first pattern for mask customization.$NL;To customize a mask you will need a material, pattern and a pair of colors."
 },{
 	 "i"		: 109
 	,"ids"		: "Idstring(@IDa05dfd0b2bdbad7f@)"
@@ -547,8 +524,7 @@
 },{
 	 "i"		: 114
 	,"ids"		: "Idstring(@IDe5fb68591b02d9b6@)"
-	,"orig_text": "Complete the Meltdown heist on hard or higher.\nThis assignment requires you to play from the lobby to the end of the heist."
-	,"btn"		: "$NL; "
+	,"orig_text": "Complete the Meltdown heist on hard or higher.$NL;This assignment requires you to play from the lobby to the end of the heist."
 },{
 	 "i"		: 115
 	,"ids"		: "Idstring(@ID40a56bdd21fd8c6f@)"
@@ -570,8 +546,7 @@
 },{
 	 "i"		: 119
 	,"ids"		: "Idstring(@IDbf53992fc9f927ac@)"
-	,"orig_text": "Complete the Beneath The Mountain heist on the very hard difficulty or higher.\nThis assignment requires you to play from the lobby to the end of the heist."
-	,"btn"		: "$NL; "
+	,"orig_text": "Complete the Beneath The Mountain heist on the very hard difficulty or higher.$NL;This assignment requires you to play from the lobby to the end of the heist."
 },{
 	 "i"		: 120
 	,"ids"		: "Idstring(@ID7f4cc0715a33d5e4@)"
@@ -603,8 +578,7 @@
 },{
 	 "i"		: 126
 	,"ids"		: "Idstring(@IDb87c249b9ab0627d@)"
-	,"orig_text": "Complete the First World Bank heist on the very hard difficulty or higher.\nThis assignment requires you to play from the lobby to the end of the heist."
-	,"btn"		: "$NL; "
+	,"orig_text": "Complete the First World Bank heist on the very hard difficulty or higher.$NL;This assignment requires you to play from the lobby to the end of the heist."
 },{
 	 "i"		: 127
 	,"ids"		: "Idstring(@ID3df46d295237a34e@)"
@@ -613,8 +587,7 @@
 },{
 	 "i"		: 128
 	,"ids"		: "Idstring(@ID585910207f103ab3@)"
-	,"orig_text": "Complete the Go Bank and Diamond Store heists.\nThis assignment requires you to play from the lobby to the end of the heist."
-	,"btn"		: "$NL; "
+	,"orig_text": "Complete the Go Bank and Diamond Store heists.$NL;This assignment requires you to play from the lobby to the end of the heist."
 },{
 	 "i"		: 129
 	,"ids"		: "Idstring(@ID25ec7f75e2071ada@)"
@@ -624,13 +597,11 @@
 	 "i"		: 130
 	,"ids"		: "Idstring(@IDc27303d41a068d01@)"
 	,"StringID"	: "dialog_are_you_sure_you_want_stop_cs_refund"
-	,"orig_text": "Are you sure you want to stop your Crime Spree?\n\nThis will end your current spree, and no rewards will be given to you. Your initial investment of $coins; Continental Coins will be returned to you."
-	,"btn"		: "$NL; "
+	,"orig_text": "Are you sure you want to stop your Crime Spree?$NL;$NL;This will end your current spree, and no rewards will be given to you. Your initial investment of $coins; Continental Coins will be returned to you."
 },{
 	 "i"		: 131
 	,"ids"		: "Idstring(@IDd5c873b91376814a@)"
-	,"orig_text": "Complete the Rats job in Very hard or higher.\nThis assignment requires you to play from the lobby to the end of the heist."
-	,"btn"		: "$NL; "
+	,"orig_text": "Complete the Rats job in Very hard or higher.$NL;This assignment requires you to play from the lobby to the end of the heist."
 },{
 	 "i"		: 132
 	,"ids"		: "Idstring(@IDe711e3ff6c958997@)"
@@ -683,8 +654,7 @@
 	 "i"		: 142
 	,"ids"		: "Idstring(@ID6b1aa5125a63b4b8@)"
 	,"StringID"	: "dialog_skilltree_reseted"
-	,"orig_text": "Changes have been made to the skill tree.\n\nAll your skills have been reset and your skill points as well as your cash has been refunded."
-	,"btn"		: "$NL; "
+	,"orig_text": "Changes have been made to the skill tree.$NL;$NL;All your skills have been reset and your skill points as well as your cash has been refunded."
 },{
 	 "i"		: 143
 	,"ids"		: "Idstring(@IDa098fbeda9e24957@)"
@@ -706,14 +676,12 @@
 	 "i"		: 147
 	,"ids"		: "Idstring(@ID48c0d7e69ed28708@)"
 	,"StringID"	: "dialog_new_unlock_colors"
-	,"orig_text": "You just got your first pair of colors for mask customization.\nTo customize a mask you will need a material, pattern and a pair of colors."
-	,"btn"		: "$NL; "
+	,"orig_text": "You just got your first pair of colors for mask customization.$NL;To customize a mask you will need a material, pattern and a pair of colors."
 },{
 	 "i"		: 148
 	,"ids"		: "Idstring(@ID1b6407afe1c21b54@)"
 	,"StringID"	: "dialog_the_host_has_left_the_game_cs"
-	,"orig_text": "The host has left the game. Your Crime Spree is still active, but your level has not changed.\n\nYou will now be returned to the main menu."
-	,"btn"		: "$NL; "
+	,"orig_text": "The host has left the game. Your Crime Spree is still active, but your level has not changed.$NL;$NL;You will now be returned to the main menu."
 },{
 	 "i"		: 149
 	,"ids"		: "Idstring(@IDbb26e9492a9f12a7@)"
@@ -753,8 +721,7 @@
 },{
 	 "i"		: 157
 	,"ids"		: "Idstring(@ID1abef1248ad3f974@)"
-	,"orig_text": "Complete the Alaskan Deal heist on the very hard difficulty or higher.\nThis assignment requires you to play from the lobby to the end of the heist."
-	,"btn"		: "$NL; "
+	,"orig_text": "Complete the Alaskan Deal heist on the very hard difficulty or higher.$NL;This assignment requires you to play from the lobby to the end of the heist."
 },{
 	 "i"		: 158
 	,"ids"		: "Idstring(@ID37bbdc4b4784cb36@)"
@@ -764,14 +731,12 @@
 	 "i"		: 159
 	,"ids"		: "Idstring(@IDe2bef4cae8b1fce5@)"
 	,"StringID"	: "dialog_respec_skilltree"
-	,"orig_text": "You are about to respec this skill tree.\n\nDoing a respec resets all skill points in the $tree; skill tree."
-	,"btn"		: "$NL; "
+	,"orig_text": "You are about to respec this skill tree.$NL;$NL;Doing a respec resets all skill points in the $tree; skill tree."
 },{
 	 "i"		: 160
 	,"ids"		: "Idstring(@IDb9c85e18759663df@)"
 	,"StringID"	: "dialog_are_you_sure_you_want_to_leave_game_crime_spree"
-	,"orig_text": "Are you sure you want to leave current game?\n\nThis will cause your current Crime Spree to fail, and you must pay to continue, or claim your rewards from a Crime Spree lobby."
-	,"btn"		: "$NL; "
+	,"orig_text": "Are you sure you want to leave current game?$NL;$NL;This will cause your current Crime Spree to fail, and you must pay to continue, or claim your rewards from a Crime Spree lobby."
 },{
 	 "i"		: 161
 	,"ids"		: "Idstring(@ID7a1de103c7360ccf@)"
@@ -785,13 +750,11 @@
 },{
 	 "i"		: 163
 	,"ids"		: "Idstring(@ID060a89ae41c94ac2@)"
-	,"orig_text": "Complete the Scarface heist on very hard or higher.\nThis assignment requires you to play from the lobby to the end of the heist."
-	,"btn"		: "$NL; "
+	,"orig_text": "Complete the Scarface heist on very hard or higher.$NL;This assignment requires you to play from the lobby to the end of the heist."
 },{
 	 "i"		: 164
 	,"ids"		: "Idstring(@ID0a22e8f3f83f2ae5@)"
-	,"orig_text": "Complete the Golden Grin Casino heist on very hard or higher.\nThis assignment requires you to play from the lobby to the end of the heist."
-	,"btn"		: "$NL; "
+	,"orig_text": "Complete the Golden Grin Casino heist on very hard or higher.$NL;This assignment requires you to play from the lobby to the end of the heist."
 },{
 	 "i"		: 165
 	,"ids"		: "Idstring(@ID911e239e450481ec@)"
@@ -810,13 +773,11 @@
 },{
 	 "i"		: 168
 	,"ids"		: "Idstring(@ID4eb87f6f86513dc4@)"
-	,"orig_text": "Complete the Heat Street heist on the very hard difficulty or higher.\nThis assignment requires you to play from the lobby to the end of the heist."
-	,"btn"		: "$NL; "
+	,"orig_text": "Complete the Heat Street heist on the very hard difficulty or higher.$NL;This assignment requires you to play from the lobby to the end of the heist."
 },{
 	 "i"		: 169
 	,"ids"		: "Idstring(@ID1c77775b14ec39ac@)"
-	,"orig_text": "Complete the Yacht heist on the very hard difficulty or higher.\nThis assignment requires you to play from the lobby to the end of the heist."
-	,"btn"		: "$NL; "
+	,"orig_text": "Complete the Yacht heist on the very hard difficulty or higher.$NL;This assignment requires you to play from the lobby to the end of the heist."
 },{
 	 "i"		: 170
 	,"ids"		: "Idstring(@IDdda7b108cc317657@)"
@@ -854,8 +815,7 @@
 	 "i"		: 177
 	,"ids"		: "Idstring(@IDb4cc8e5807494fa4@)"
 	,"StringID"	: "screen_autosaving_warning_WIN32"
-	,"orig_text": "This game saves data automatically at certain points.\nPlease don't turn off the game when it is saving."
-	,"btn"		: "$NL; "
+	,"orig_text": "This game saves data automatically at certain points.$NL;Please don't turn off the game when it is saving."
 },{
 	 "i"		: 178
 	,"ids"		: "Idstring(@IDcd27b3e1dd986a04@)"
@@ -869,8 +829,7 @@
 	 "i"		: 180
 	,"ids"		: "Idstring(@ID9ad65d86d97c95f5@)"
 	,"StringID"	: "dialog_blackmarket_buy_weapon_slot"
-	,"orig_text": "Buying this will unlock one more weapon slot.\n\nThis will cost you $money;."
-	,"btn"		: "$NL; "
+	,"orig_text": "Buying this will unlock one more weapon slot.$NL;$NL;This will cost you $money;."
 },{
 	 "i"		: 181
 	,"ids"		: "Idstring(@IDf1f99fe35b050acd@)"
@@ -878,8 +837,7 @@
 },{
 	 "i"		: 182
 	,"ids"		: "Idstring(@ID628d5984498de1b7@)"
-	,"orig_text": "Complete the Hoxton Revenge heist on very hard or higher.\nThis assignment requires you to play from the lobby to the end of the heist."
-	,"btn"		: "$NL; "
+	,"orig_text": "Complete the Hoxton Revenge heist on very hard or higher.$NL;This assignment requires you to play from the lobby to the end of the heist."
 },{
 	 "i"		: 183
 	,"ids"		: "Idstring(@IDf5b9d48132a54fc1@)"
@@ -922,14 +880,12 @@
 	 "i"		: 191
 	,"ids"		: "Idstring(@IDa0a359d5f84df251@)"
 	,"StringID"	: "dialog_ask_load_progress_backup_low_lvl"
-	,"orig_text": "Your local backup save is more recent than the last Steam save.\n\nPress YES if you want to load your local backup save."
-	,"btn"		: "$NL; "
+	,"orig_text": "Your local backup save is more recent than the last Steam save.$NL;$NL;Press YES if you want to load your local backup save."
 },{
 	 "i"		: 192
 	,"ids"		: "Idstring(@ID2c1c8b2543d2af39@)"
 	,"StringID"	: "dialog_new_unlock_materials"
-	,"orig_text": "You just got your first material for mask customization.\nTo customize a mask you will need a material, pattern and a pair of colors."
-	,"btn"		: "$NL; "
+	,"orig_text": "You just got your first material for mask customization.$NL;To customize a mask you will need a material, pattern and a pair of colors."
 },{
 	 "i"		: 193
 	,"ids"		: "Idstring(@ID66aae3c797c430d0@)"
@@ -948,8 +904,7 @@
 	 "i"		: 196
 	,"ids"		: "Idstring(@IDef85ae00fa705012@)"
 	,"StringID"	: "dialog_allocate_skillpoint"
-	,"orig_text": "This will unlock the $skill; skill.\n\nIt will cost $cost; and $points; out of $remaining_points; points."
-	,"btn"		: "$NL; "
+	,"orig_text": "This will unlock the $skill; skill.$NL;$NL;It will cost $cost; and $points; out of $remaining_points; points."
 },{
 	 "i"		: 197
 	,"ids"		: "Idstring(@ID8db80ab966e82a32@)"
@@ -972,8 +927,7 @@
 },{
 	 "i"		: 201
 	,"ids"		: "Idstring(@IDac092e67f98b8620@)"
-	,"orig_text": "Complete the Henry's Rock heist on the very hard difficulty or higher.\nThis assignment requires you to play from the lobby to the end of the heist."
-	,"btn"		: "$NL; "
+	,"orig_text": "Complete the Henry's Rock heist on the very hard difficulty or higher.$NL;This assignment requires you to play from the lobby to the end of the heist."
 },{
 	 "i"		: 202
 	,"ids"		: "Idstring(@ID2f70362a6d2b3dea@)"
@@ -986,14 +940,12 @@
 },{
 	 "i"		: 204
 	,"ids"		: "Idstring(@ID3050aae7050b9f47@)"
-	,"orig_text": "Complete either the Goat Simulator heist or the Santa's Workshop heist on the very hard difficulty or higher.\nThis assignment requires you to play from the lobby to the end of the heist."
-	,"btn"		: "$NL; "
+	,"orig_text": "Complete either the Goat Simulator heist or the Santa's Workshop heist on the very hard difficulty or higher.$NL;This assignment requires you to play from the lobby to the end of the heist."
 },{
 	 "i"		: 205
 	,"ids"		: "Idstring(@ID7b73bb7ed622ff22@)"
 	,"StringID"	: "dialog_unlock_infamyitem"
-	,"orig_text": "You are about to unlock $item; item.\n\nIt will cost $points; out of $remaining_points; points."
-	,"btn"		: "$NL; "
+	,"orig_text": "You are about to unlock $item; item.$NL;$NL;It will cost $points; out of $remaining_points; points."
 },{
 	 "i"		: 206
 	,"ids"		: "Idstring(@ID3aeb96ee28cd0347@)"
@@ -1012,8 +964,7 @@
 	 "i"		: 209
 	,"ids"		: "Idstring(@ID62290d7a58ddc4b8@)"
 	,"StringID"	: "dialog_are_you_sure_you_want_leave_cs"
-	,"orig_text": "Are you sure you want to leave this lobby?\n\nYour Crime Spree will be suspended until you continue it."
-	,"btn"		: "$NL; "
+	,"orig_text": "Are you sure you want to leave this lobby?$NL;$NL;Your Crime Spree will be suspended until you continue it."
 },{
 	 "i"		: 210
 	,"ids"		: "Idstring(@ID79257e8210a471cc@)"
@@ -1055,13 +1006,11 @@
 },{
 	 "i"		: 218
 	,"ids"		: "Idstring(@IDa79a4a695c4f4a0d@)"
-	,"orig_text": "Complete the Big Bank heist on very hard or higher.\nThis assignment requires you to play from the lobby to the end of the heist."
-	,"btn"		: "$NL; "
+	,"orig_text": "Complete the Big Bank heist on very hard or higher.$NL;This assignment requires you to play from the lobby to the end of the heist."
 },{
 	 "i"		: 219
 	,"ids"		: "Idstring(@ID302ff6cafe1f7e60@)"
-	,"orig_text": "Complete the Aftershock heist on hard or higher.\nThis assignment requires you to play from the lobby to the end of the heist."
-	,"btn"		: "$NL; "
+	,"orig_text": "Complete the Aftershock heist on hard or higher.$NL;This assignment requires you to play from the lobby to the end of the heist."
 },{
 	 "i"		: 220
 	,"ids"		: "Idstring(@ID030207f37115bbc2@)"
@@ -1098,8 +1047,7 @@
 },{
 	 "i"		: 227
 	,"ids"		: "Idstring(@ID5743dd4ed5b78f92@)"
-	,"orig_text": "Complete the Firestarter job on very hard or higher.\nThis assignment requires you to play from the lobby to the end of the heist."
-	,"btn"		: "$NL; "
+	,"orig_text": "Complete the Firestarter job on very hard or higher.$NL;This assignment requires you to play from the lobby to the end of the heist."
 },{
 	 "i"		: 228
 	,"ids"		: "Idstring(@ID333fab910445e738@)"
@@ -1164,8 +1112,7 @@
 	 "i"		: 241
 	,"ids"		: "Idstring(@ID545629eab8214ca5@)"
 	,"StringID"	: "dialog_skip_signin_warning_X360"
-	,"orig_text": "Without signing in your progress will not be saved.\n\nContinue without saving?"
-	,"btn"		: "$NL; "
+	,"orig_text": "Without signing in your progress will not be saved.$NL;$NL;Continue without saving?"
 },{
 	 "i"		: 242
 	,"ids"		: "Idstring(@IDdd61eca721045da0@)"
@@ -1193,8 +1140,7 @@
 	 "i"		: 247
 	,"ids"		: "Idstring(@IDcb914488186a8e44@)"
 	,"StringID"	: "dialog_continue_cs_text"
-	,"orig_text": "Do you want to continue your Crime Spree?\nThis will allow you to continue your Crime Spree from $level; to gain Crime Spree Ranks and accumulate greater rewards.\n\nThis will cost you $cost; Continental Coins."
-	,"btn"		: "$BTN_SPREE_TICKET; $NL; "
+	,"orig_text": "Do you want to continue your Crime Spree?$NL;This will allow you to continue your Crime Spree from $level;$BTN_SPREE_TICKET; to gain Crime Spree Ranks and accumulate greater rewards.$NL;$NL;This will cost you $cost; Continental Coins."
 },{
 	 "i"		: 248
 	,"ids"		: "Idstring(@IDa790a8d5fb33e26e@)"
@@ -1209,8 +1155,7 @@
 	 "i"		: 250
 	,"ids"		: "Idstring(@ID1f851c99db5751a8@)"
 	,"StringID"	: "screen_autosaving_warning_X360"
-	,"orig_text": "This game saves data automatically at certain points.\nPlease don't turn off your Xbox One when the following icon is displayed:"
-	,"btn"		: "$NL; "
+	,"orig_text": "This game saves data automatically at certain points.$NL;Please don't turn off your Xbox One when the following icon is displayed:"
 },{
 	 "i"		: 251
 	,"ids"		: "Idstring(@IDb3be504044d047ce@)"
@@ -1227,8 +1172,7 @@
 },{
 	 "i"		: 254
 	,"ids"		: "Idstring(@ID84608b29211d655a@)"
-	,"orig_text": "Complete the Brooklyn 10-10 heist on the very hard difficulty or higher.\nThis assignment requires you to play from the lobby to the end of the heist."
-	,"btn"		: "$NL; "
+	,"orig_text": "Complete the Brooklyn 10-10 heist on the very hard difficulty or higher.$NL;This assignment requires you to play from the lobby to the end of the heist."
 },{
 	 "i"		: 255
 	,"ids"		: "Idstring(@ID1ddbe427a77fb505@)"
@@ -1237,8 +1181,7 @@
 },{
 	 "i"		: 256
 	,"ids"		: "Idstring(@IDac6ed2ca428f560e@)"
-	,"orig_text": "Complete the Murky Station heist on the very hard difficulty or higher.\nThis assignment requires you to play from the lobby to the end of the heist."
-	,"btn"		: "$NL; "
+	,"orig_text": "Complete the Murky Station heist on the very hard difficulty or higher.$NL;This assignment requires you to play from the lobby to the end of the heist."
 },{
 	 "i"		: 257
 	,"ids"		: "Idstring(@IDb03531383d9ab27b@)"
@@ -1355,8 +1298,7 @@
 },{
 	 "i"		: 281
 	,"ids"		: "Idstring(@IDbceda1db1fc92ef1@)"
-	,"orig_text": "Complete The Diamond heist on very hard or higher.\nThis assignment requires you to play from the lobby to the end of the heist."
-	,"btn"		: "$NL; "
+	,"orig_text": "Complete The Diamond heist on very hard or higher.$NL;This assignment requires you to play from the lobby to the end of the heist."
 },{
 	 "i"		: 282
 	,"ids"		: "Idstring(@ID6fc833abb8b78895@)"
@@ -1378,8 +1320,7 @@
 },{
 	 "i"		: 286
 	,"ids"		: "Idstring(@IDad55e2244e16433c@)"
-	,"orig_text": "Complete the Panic Room heist on the very hard difficulty or higher.\nThis assignment requires you to play from the lobby to the end of the heist."
-	,"btn"		: "$NL; "
+	,"orig_text": "Complete the Panic Room heist on the very hard difficulty or higher.$NL;This assignment requires you to play from the lobby to the end of the heist."
 },{
 	 "i"		: 287
 	,"ids"		: "Idstring(@ID6406ae1ef7e5a757@)"
@@ -1396,8 +1337,7 @@
 },{
 	 "i"		: 290
 	,"ids"		: "Idstring(@IDf9a95f51cad74aa0@)"
-	,"orig_text": "Complete either The Bomb: Dockyard or The Bomb: Forest on very hard or higher.\nThis assignment requires you to play from the lobby to the end of the heist."
-	,"btn"		: "$NL; "
+	,"orig_text": "Complete either The Bomb: Dockyard or The Bomb: Forest on very hard or higher.$NL;This assignment requires you to play from the lobby to the end of the heist."
 },{
 	 "i"		: 291
 	,"ids"		: "Idstring(@ID1e9e3603caaa01c8@)"
@@ -1424,8 +1364,7 @@
 },{
 	 "i"		: 296
 	,"ids"		: "Idstring(@IDf00b4d013e5e41e7@)"
-	,"orig_text": "Complete the Brooklyn Bank heist on the very hard difficulty or higher.\nThis assignment requires you to play from the lobby to the end of the heist."
-	,"btn"		: "$NL; "
+	,"orig_text": "Complete the Brooklyn Bank heist on the very hard difficulty or higher.$NL;This assignment requires you to play from the lobby to the end of the heist."
 },{
 	 "i"		: 297
 	,"ids"		: "Idstring(@IDc78fd231eefc4910@)"
@@ -1438,8 +1377,7 @@
 },{
 	 "i"		: 299
 	,"ids"		: "Idstring(@ID95edafc4cffba5d7@)"
-	,"orig_text": "Complete the Diamond Heist heist on the very hard difficulty or higher.\nThis assignment requires you to play from the lobby to the end of the heist."
-	,"btn"		: "$NL; "
+	,"orig_text": "Complete the Diamond Heist heist on the very hard difficulty or higher.$NL;This assignment requires you to play from the lobby to the end of the heist."
 },{
 	 "i"		: 300
 	,"ids"		: "Idstring(@IDd8fc2b792adeba2a@)"
@@ -1448,8 +1386,7 @@
 },{
 	 "i"		: 301
 	,"ids"		: "Idstring(@ID4331a75d388cfde8@)"
-	,"orig_text": "Complete the Hotline Miami heist on very hard or higher.\nThis assignment requires you to play from the lobby to the end of the heist."
-	,"btn"		: "$NL; "
+	,"orig_text": "Complete the Hotline Miami heist on very hard or higher.$NL;This assignment requires you to play from the lobby to the end of the heist."
 },{
 	 "i"		: 302
 	,"ids"		: "Idstring(@IDdea45b1a08bbcfe0@)"
@@ -1478,8 +1415,7 @@
 	 "i"		: 307
 	,"ids"		: "Idstring(@ID9f3c1a4b4b2d3b3e@)"
 	,"StringID"	: "dialog_gage_assignment_completed"
-	,"orig_text": "From: Gage [gage@///REDACTED///]\nTo: $player;\nDate: $date; $time;\nSubject: GAGE COURIER ASSIGNMENTS\n\nGOOD JOB!\n\nWell done, $player;. Thanks for collecting the packages. It's time to get your reward. Go to your inventory and you will find the content of the following packages:\n$completed;\n\n- Gage"
-	,"btn"		: "$NL; "
+	,"orig_text": "From: Gage [gage@///REDACTED///]$NL;To: $player;$NL;Date: $date; $time;$NL;Subject: GAGE COURIER ASSIGNMENTS$NL;$NL;GOOD JOB!$NL;$NL;Well done, $player;. Thanks for collecting the packages. It's time to get your reward. Go to your inventory and you will find the content of the following packages:$NL;$completed;$NL;$NL;- Gage"
 },{
 	 "i"		: 308
 	,"ids"		: "Idstring(@ID12a75cf10dede0e6@)"
@@ -1504,19 +1440,16 @@
 	 "i"		: 312
 	,"ids"		: "Idstring(@ID45eb17091441ceec@)"
 	,"StringID"	: "dialog_challenge_warn_choose_reward"
-	,"orig_text": "Is this the reward you want?\n$reward;"
-	,"btn"		: "$NL; "
+	,"orig_text": "Is this the reward you want?$NL;$reward;"
 },{
 	 "i"		: 313
 	,"ids"		: "Idstring(@ID1207dcecfde34739@)"
 	,"StringID"	: "dialog_infamytree_reseted"
-	,"orig_text": "Changes have been made to the infamy tree.\n\nAll your infamy items have been reset and your infamy points have been refunded."
-	,"btn"		: "$NL; "
+	,"orig_text": "Changes have been made to the infamy tree.$NL;$NL;All your infamy items have been reset and your infamy points have been refunded."
 },{
 	 "i"		: 314
 	,"ids"		: "Idstring(@ID528729463e6a9621@)"
-	,"orig_text": ""
-	,"btn"		: "$BTN_START; $BTN_RESET_ALL_SKILLS; "
+	,"orig_text": "$BTN_START;"
 },{
 	 "i"		: 315
 	,"ids"		: "Idstring(@ID77097a432d86771c@)"
@@ -1538,8 +1471,7 @@
 },{
 	 "i"		: 319
 	,"ids"		: "Idstring(@IDfd8280b7e827f400@)"
-	,"orig_text": "This game automatically saves data at certain points.\nDo not turn off the Nintendo Switch™ when this icon is shown:"
-	,"btn"		: "$NL; "
+	,"orig_text": "This game automatically saves data at certain points.$NL;Do not turn off the Nintendo Switch™ when this icon is shown:"
 },{
 	 "i"		: 320
 	,"ids"		: "Idstring(@ID28b144a0be27ae6c@)"
@@ -1641,8 +1573,7 @@
 	 "i"		: 340
 	,"ids"		: "Idstring(@ID6651de972f808567@)"
 	,"StringID"	: "dialog_signin_change_X360"
-	,"orig_text": "A sign-in change occurred.\nYou have been returned to the Title screen."
-	,"btn"		: "$NL; "
+	,"orig_text": "A sign-in change occurred.$NL;You have been returned to the Title screen."
 },{
 	 "i"		: 341
 	,"ids"		: "Idstring(@ID2e07a6e72079e9bd@)"
@@ -1671,8 +1602,7 @@
 },{
 	 "i"		: 346
 	,"ids"		: "Idstring(@ID7fe2ce019a8341d1@)"
-	,"orig_text": "A sign-in change occurred.\nYou have been returned to the Title screen."
-	,"btn"		: "$NL; "
+	,"orig_text": "A sign-in change occurred.$NL;You have been returned to the Title screen."
 },{
 	 "i"		: 347
 	,"ids"		: "Idstring(@IDe520ef16710d7e7e@)"
@@ -1682,13 +1612,11 @@
 	 "i"		: 348
 	,"ids"		: "Idstring(@IDbc5710c8c8904036@)"
 	,"StringID"	: "dialog_blackmarket_assemble_item"
-	,"orig_text": "Do you really want to put together $item; mask and place it into your inventory?\n\n$num_in_inventory;"
-	,"btn"		: "$NL; "
+	,"orig_text": "Do you really want to put together $item; mask and place it into your inventory?$NL;$NL;$num_in_inventory;"
 },{
 	 "i"		: 349
 	,"ids"		: "Idstring(@ID8b2a99d6b4ee3123@)"
-	,"orig_text": "Complete the Framing Frame job on very hard or higher.\nThis assignment requires you to play from the lobby to the end of the heist."
-	,"btn"		: "$NL; "
+	,"orig_text": "Complete the Framing Frame job on very hard or higher.$NL;This assignment requires you to play from the lobby to the end of the heist."
 },{
 	 "i"		: 350
 	,"ids"		: "Idstring(@ID0a9f8dd9f2bf0b86@)"
@@ -1698,8 +1626,7 @@
 	 "i"		: 351
 	,"ids"		: "Idstring(@ID363c86ac6f9282c8@)"
 	,"StringID"	: "dialog_skip_storage_warning_X360"
-	,"orig_text": "No storage device selected.\nIf you proceed without selecting a storage device, you will not be able to save the game.\n\nContinue without saving?"
-	,"btn"		: "$NL; "
+	,"orig_text": "No storage device selected.$NL;If you proceed without selecting a storage device, you will not be able to save the game.$NL;$NL;Continue without saving?"
 },{
 	 "i"		: 352
 	,"ids"		: "Idstring(@ID1f3917de8c18907e@)"
@@ -1728,8 +1655,7 @@
 	 "i"		: 357
 	,"ids"		: "Idstring(@ID9656461121971cb3@)"
 	,"StringID"	: "dialog_demo_info_text"
-	,"orig_text": "Thanks for installing our demo!\n\nIn this demo of PAYDAY 2, you can level up with your character to level 10. Please note that your save file for the demo can not be brought over to the full game.\n\nWe in the OVERKILL crew hope you enjoy this demo. If you like what you see, you can buy PAYDAY 2 where you may gain may more levels through our Infamy system. The full game also includes more content like more heists, weapons, weapon modifications, masks and more.\n\n- The OVERKILL crew"
-	,"btn"		: "$NL; "
+	,"orig_text": "Thanks for installing our demo!$NL;$NL;In this demo of PAYDAY 2, you can level up with your character to level 10. Please note that your save file for the demo can not be brought over to the full game.$NL;$NL;We in the OVERKILL crew hope you enjoy this demo. If you like what you see, you can buy PAYDAY 2 where you may gain may more levels through our Infamy system. The full game also includes more content like more heists, weapons, weapon modifications, masks and more.$NL;$NL;- The OVERKILL crew"
 },{
 	 "i"		: 358
 	,"ids"		: "Idstring(@ID290a32e622b3cc42@)"
@@ -1774,8 +1700,7 @@
 	 "i"		: 366
 	,"ids"		: "Idstring(@ID33a1151b167ad3b3@)"
 	,"StringID"	: "dialog_mission_asset_buy"
-	,"orig_text": "$asset_desc;\n\nCost: $cost;."
-	,"btn"		: "$NL; "
+	,"orig_text": "$asset_desc;$NL;$NL;Cost: $cost;."
 },{
 	 "i"		: 367
 	,"ids"		: "Idstring(@ID00a77df9b56eda51@)"
@@ -1827,14 +1752,12 @@
 },{
 	 "i"		: 377
 	,"ids"		: "Idstring(@ID37cbc9868d518d27@)"
-	,"orig_text": "Without signing in your progress will not be saved.\n\nContinue without saving?"
-	,"btn"		: "$NL; "
+	,"orig_text": "Without signing in your progress will not be saved.$NL;$NL;Continue without saving?"
 },{
 	 "i"		: 378
 	,"ids"		: "Idstring(@ID56d3f9dd044b1fe1@)"
 	,"StringID"	: "dialog_unlock_skilltree"
-	,"orig_text": "You are about to start $skill; skill tree.\n\nIt will cost $cost; and $points; out of $remaining_points; points."
-	,"btn"		: "$NL; "
+	,"orig_text": "You are about to start $skill; skill tree.$NL;$NL;It will cost $cost; and $points; out of $remaining_points; points."
 },{
 	 "i"		: 379
 	,"ids"		: "Idstring(@IDdf81b667505df33f@)"
@@ -1880,8 +1803,7 @@
 },{
 	 "i"		: 388
 	,"ids"		: "Idstring(@ID345df24c3af0c242@)"
-	,"orig_text": "Complete the Nightclub and Stealing Xmas heists on hard or higher.\nThis assignment requires you to play from the lobby to the end of the heist."
-	,"btn"		: "$NL; "
+	,"orig_text": "Complete the Nightclub and Stealing Xmas heists on hard or higher.$NL;This assignment requires you to play from the lobby to the end of the heist."
 },{
 	 "i"		: 389
 	,"ids"		: "Idstring(@IDe69763363942385f@)"
@@ -1893,8 +1815,7 @@
 },{
 	 "i"		: 391
 	,"ids"		: "Idstring(@IDee13ea478845c7c5@)"
-	,"orig_text": "Complete the Election Day job on very hard or higher.\nThis assignment requires you to play from the lobby to the end of the heist."
-	,"btn"		: "$NL; "
+	,"orig_text": "Complete the Election Day job on very hard or higher.$NL;This assignment requires you to play from the lobby to the end of the heist."
 },{
 	 "i"		: 392
 	,"ids"		: "Idstring(@ID0e1ab4e67fa151ca@)"
@@ -1910,8 +1831,7 @@
 },{
 	 "i"		: 395
 	,"ids"		: "Idstring(@ID04985d46b61a1119@)"
-	,"orig_text": "Complete the Hoxton Breakout job in Very Hard or higher.\nThis assignment requires you to play from the lobby to the end of the heist."
-	,"btn"		: "$NL; "
+	,"orig_text": "Complete the Hoxton Breakout job in Very Hard or higher.$NL;This assignment requires you to play from the lobby to the end of the heist."
 },{
 	 "i"		: 396
 	,"ids"		: "Idstring(@ID59228675f11dd568@)"
@@ -1931,8 +1851,7 @@
 },{
 	 "i"		: 400
 	,"ids"		: "Idstring(@ID476f7007315916a3@)"
-	,"orig_text": "Complete either the Alesso heist or the Counterfeit heist on the very hard difficulty or higher.\nThis assignment requires you to play from the lobby to the end of the heist."
-	,"btn"		: "$NL; "
+	,"orig_text": "Complete either the Alesso heist or the Counterfeit heist on the very hard difficulty or higher.$NL;This assignment requires you to play from the lobby to the end of the heist."
 },{
 	 "i"		: 401
 	,"ids"		: "Idstring(@ID44ec799ea9248c82@)"
@@ -1945,8 +1864,7 @@
 },{
 	 "i"		: 403
 	,"ids"		: "Idstring(@ID6ba5ecc4febc03a1@)"
-	,"orig_text": "Complete the Boiling Point heist on the very hard difficulty or higher.\nThis assignment requires you to play from the lobby to the end of the heist."
-	,"btn"		: "$NL; "
+	,"orig_text": "Complete the Boiling Point heist on the very hard difficulty or higher.$NL;This assignment requires you to play from the lobby to the end of the heist."
 },{
 	 "i"		: 404
 	,"ids"		: "Idstring(@ID353075d7a4fd431c@)"
@@ -1958,13 +1876,11 @@
 },{
 	 "i"		: 406
 	,"ids"		: "Idstring(@ID55c708d3e9cdb7d8@)"
-	,"orig_text": "Complete the Car Shop heist on the very hard difficulty or higher.\nThis assignment requires you to play from the lobby to the end of the heist."
-	,"btn"		: "$NL; "
+	,"orig_text": "Complete the Car Shop heist on the very hard difficulty or higher.$NL;This assignment requires you to play from the lobby to the end of the heist."
 },{
 	 "i"		: 407
 	,"ids"		: "Idstring(@IDfa8709891343c7eb@)"
-	,"orig_text": "Complete the Biker heist on the very hard difficulty or higher.\nThis assignment requires you to play from the lobby to the end of the heist."
-	,"btn"		: "$NL; "
+	,"orig_text": "Complete the Biker heist on the very hard difficulty or higher.$NL;This assignment requires you to play from the lobby to the end of the heist."
 },{
 	 "i"		: 408
 	,"ids"		: "Idstring(@IDd74b5123f3895832@)"
@@ -1988,8 +1904,7 @@
 },{
 	 "i"		: 413
 	,"ids"		: "Idstring(@ID9c727d6000432208@)"
-	,"orig_text": "Complete the Jewelry Store heist and any of the Bank Heists.\nThis assignment requires you to play from the lobby to the end of the heist."
-	,"btn"		: "$NL; "
+	,"orig_text": "Complete the Jewelry Store heist and any of the Bank Heists.$NL;This assignment requires you to play from the lobby to the end of the heist."
 },{
 	 "i"		: 414
 	,"ids"		: "Idstring(@ID41661f909caf4bb0@)"
@@ -2001,8 +1916,7 @@
 },{
 	 "i"		: 416
 	,"ids"		: "Idstring(@ID52d2ce430a29bccd@)"
-	,"orig_text": "Complete the Birth of Sky heist on the very hard difficulty or higher.\nThis assignment requires you to play from the lobby to the end of the heist."
-	,"btn"		: "$NL; "
+	,"orig_text": "Complete the Birth of Sky heist on the very hard difficulty or higher.$NL;This assignment requires you to play from the lobby to the end of the heist."
 },{
 	 "i"		: 417
 	,"ids"		: "Idstring(@ID0ad7ac4716d78cfc@)"
@@ -2018,8 +1932,7 @@
 },{
 	 "i"		: 420
 	,"ids"		: "Idstring(@IDbbd7197f30c0e4fc@)"
-	,"orig_text": "Complete the Green Bridge heist on the very hard difficulty or higher.\nThis assignment requires you to play from the lobby to the end of the heist."
-	,"btn"		: "$NL; "
+	,"orig_text": "Complete the Green Bridge heist on the very hard difficulty or higher.$NL;This assignment requires you to play from the lobby to the end of the heist."
 },{
 	 "i"		: 421
 	,"ids"		: "Idstring(@IDcb113c8f21edbb4f@)"
@@ -2047,8 +1960,7 @@
 },{
 	 "i"		: 427
 	,"ids"		: "Idstring(@IDf3b94aceb6393c0d@)"
-	,"orig_text": "Complete the Breakin' Feds heist on the very hard difficulty or higher.\nThis assignment requires you to play from the lobby to the end of the heist."
-	,"btn"		: "$NL; "
+	,"orig_text": "Complete the Breakin' Feds heist on the very hard difficulty or higher.$NL;This assignment requires you to play from the lobby to the end of the heist."
 },{
 	 "i"		: 428
 	,"ids"		: "Idstring(@ID66559fb94612d2f8@)"
@@ -2056,8 +1968,7 @@
 },{
 	 "i"		: 429
 	,"ids"		: "Idstring(@IDf7abbca640b5805f@)"
-	,"orig_text": "Secure four bags in the Shadow Raid heist. This can be done in multiple playthroughs.\nThis assignment requires you to play from the lobby to the end of the heist."
-	,"btn"		: "$NL; "
+	,"orig_text": "Secure four bags in the Shadow Raid heist. This can be done in multiple playthroughs.$NL;This assignment requires you to play from the lobby to the end of the heist."
 },{
 	 "i"		: 430
 	,"ids"		: "Idstring(@IDd89875aec8c4203a@)"
@@ -2069,8 +1980,7 @@
 },{
 	 "i"		: 432
 	,"ids"		: "Idstring(@ID3dde8eb7c3feaebf@)"
-	,"orig_text": "Complete at least three Transport heists.\nComplete the Transport: Train heist and steal the turret prototype.\nThis assignment requires you to play from the lobby to the end of the heist."
-	,"btn"		: "$NL; "
+	,"orig_text": "Complete at least three Transport heists.$NL;Complete the Transport: Train heist and steal the turret prototype.$NL;This assignment requires you to play from the lobby to the end of the heist."
 },{
 	 "i"		: 433
 	,"ids"		: "Idstring(@ID105ad4284504bc4b@)"
@@ -2082,8 +1992,7 @@
 },{
 	 "i"		: 435
 	,"ids"		: "Idstring(@ID1db97e708dbe0376@)"
-	,"orig_text": "Complete the White Xmas and Ukrainian Job heists in hard or higher.\nThis assignment requires you to play from the lobby to the end of the heist."
-	,"btn"		: "$NL; "
+	,"orig_text": "Complete the White Xmas and Ukrainian Job heists in hard or higher.$NL;This assignment requires you to play from the lobby to the end of the heist."
 },{
 	 "i"		: 436
 	,"ids"		: "Idstring(@ID59d25f6cba127a75@)"
