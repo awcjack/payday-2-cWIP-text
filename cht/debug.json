@@ -1284,7 +1284,7 @@
 	,"ids"		: "Idstring(@ID3e421336906c2d42@)"
 	,"StringID"	: "debug_interact_equipment_saw"
 	,"orig_text": "Get the Saw"
-	,"tran_text": "拿取電鋸"
+	,"tran_text": "你需要電鋸"
 },{
 	 "i"		: 216
 	,"ids"		: "Idstring(@IDaef659c81e0952f1@)"
